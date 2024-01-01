@@ -26,7 +26,7 @@ const Navbar = () => {
           {links.map((i, j, k) => (
             <Link
               key={i}
-              href={i}
+              href={`/${i}`}
               style={{ color: pathname.includes(i) && "#dc2626" }}
               className={`hover:text-red-600 cursor-pointer h-full flex items-center justify-center ${
                 j === 0
@@ -52,9 +52,9 @@ const Navbar = () => {
           {links.map((i) => (
             <Link
               key={i}
-              href={i}
+              href={`/${i}`}
               onClick={() => setOpenMenu(false)}
-              className="px-5 py-2.5 hover:bg-slate-100 hover:text-red-600 border-t"
+              className="px-5 py-2.5 hover:bg-slate-100 hover:text-red-600 border-t block"
             >
               {i}
             </Link>
