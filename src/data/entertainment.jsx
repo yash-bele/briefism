@@ -141,8 +141,8 @@ export const entertainment = [
         deeds and the payment of Rs 50.65 lakh in stamp duty.
         <br />
         <br />
-        John's most recent film appearance was in Pathaan, starring Shah Rukh
-        Khan. In the movie, he portrayed an antagonist. John is working on
+        John&apos;s most recent film appearance was in Pathaan, starring Shah
+        Rukh Khan. In the movie, he portrayed an antagonist. John is working on
         several projects at the moment, such as Vedaa, Tariq, Tehran, and The
         Diplomat.
       </>
@@ -225,7 +225,7 @@ export const entertainment = [
         Rahul Sadasivan, who rose to fame with his first feature Bhoothakaalam,
         is a full-fledged horror movie with a strong historical setting in
         Kerala&apos;s dark ages. The movie&apos;s chilling premise is further
-        highlighted by its tagline, "the age of madness."
+        highlighted by its tagline, &quot;the age of madness.&quot;
         <br />
         <br />
         With the release of the most recent poster, Mammootty wished all of his
@@ -236,8 +236,8 @@ export const entertainment = [
         Bharathan, and Amalda Liz.
         <br />
         <br />
-        "I am thrilled to be living the dream of directing the iconic
-        Mammookka," Rahul declared at the beginning of the movie&apos;s
+        &quot;I am thrilled to be living the dream of directing the iconic
+        Mammookka,&quot; Rahul declared at the beginning of the movie&apos;s
         production, which wrapped up in October. Bramayugam is a deeply felt
         tale that takes place in Kerala&apos;s dark ages, and I&apos;m happy
         that the producers are pushing the envelope to create an immersive
