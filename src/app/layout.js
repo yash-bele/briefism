@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 
 export const metadata = {
   title:
-    "News, Breaking, Entertainment, Health, Lifestyle, Technology - Briefism",
+    "Latest News, Breaking News, Entertainment, Health, Lifestyle & Technology News - Briefism",
   description:
     "Stay informed with Briefism - Your go-to source for concise and insightful news briefs. Explore breaking stories, in-depth analyses, and stay updated on global events, technology, lifestyle, and more. Get the latest news in a nutshell, delivered with clarity and brevity. Your daily briefing starts here.",
 };
