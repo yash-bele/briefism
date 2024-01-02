@@ -20,9 +20,9 @@ export const health = [
           <span>
             Ageing is characterized by a gradual loss of homeostasis, diminished
             function, cognitive decline, and an increased risk of dying from
-            infectious, metabolic, neoplastic, and chronic illnesses. There's
-            more to ageing gracefully than just looking younger. Our gut
-            microbiota is a key player in this context.
+            infectious, metabolic, neoplastic, and chronic illnesses.
+            There&apos;s more to ageing gracefully than just looking younger.
+            Our gut microbiota is a key player in this context.
           </span>
         </div>
         <br />
@@ -36,13 +36,14 @@ export const health = [
             is composed of a diverse range of microorganisms such as bacteria,
             viruses, and fungi. It has a major impact on our immune system in
             addition to aiding in digestion and nutritional absorption. Our gut
-            microbiota's makeup can change with age and is constantly evolving.
-            Numerous factors, including food habits, drug use, and lifestyle
-            decisions, can have an impact on these changes. Disproportion of
-            beneficial to harmful microorganisms can lead to dysbiosis, a
-            condition caused by an imbalance in the gut microbiota. In reality,
-            unhealthful aging contributes to the continued growth of infections
-            including Fusobacteria, Streptococcus, Eggerthella, and others.
+            microbiota&apos;s makeup can change with age and is constantly
+            evolving. Numerous factors, including food habits, drug use, and
+            lifestyle decisions, can have an impact on these changes.
+            Disproportion of beneficial to harmful microorganisms can lead to
+            dysbiosis, a condition caused by an imbalance in the gut microbiota.
+            In reality, unhealthful aging contributes to the continued growth of
+            infections including Fusobacteria, Streptococcus, Eggerthella, and
+            others.
           </span>
         </div>
         <br />
@@ -50,9 +51,9 @@ export const health = [
         <div className="space-y-2 flex flex-col">
           <span className="text-xl">The Key Insight</span>
           <span>
-            As we grow older, it's important to manage body swelling, or
-            "inflammaging." Our stomach bacteria, along with genes, plays a
-            role. We can care for our stomach bacteria by changing our
+            As we grow older, it&apos;s important to manage body swelling, or
+            &quot;inflammaging.&quot; Our stomach bacteria, along with genes,
+            plays a role. We can care for our stomach bacteria by changing our
             lifestyle, understanding it better, and making healthy food choices.
             This may lower the risk of age-related diseases and support a
             healthier old age.
@@ -76,8 +77,8 @@ export const health = [
       <>
         The government, through the Sickle Cell Anemia Elimination Mission, has
         checked more than 10 million people for the disease, according to the
-        Union Health Ministry's official statement. The mission aims to screen
-        70 million people within three years.
+        Union Health Ministry&apos;s official statement. The mission aims to
+        screen 70 million people within three years.
         <br />
         <br />
         <div className="space-y-2 flex flex-col">
@@ -119,12 +120,12 @@ export const health = [
           <span>
             SCD also leads to anemia and reduces the ability to carry oxygen in
             the body. Symptoms include ongoing pain, anemia, vulnerability to
-            infections, and harm to organs. Although there's no cure, treatments
-            like blood transfusions and medication can help manage symptoms. In
-            some cases, bone marrow or stem cell transplants may be considered.
-            Early detection, regular medical care, and a healthy lifestyle can
-            significantly improve the life quality of those with sickle cell
-            disease.
+            infections, and harm to organs. Although there&apos;s no cure,
+            treatments like blood transfusions and medication can help manage
+            symptoms. In some cases, bone marrow or stem cell transplants may be
+            considered. Early detection, regular medical care, and a healthy
+            lifestyle can significantly improve the life quality of those with
+            sickle cell disease.
           </span>
         </div>
       </>
@@ -159,12 +160,12 @@ export const health = [
         vitamin E is crucial. Almonds and sunflower seeds, among other nuts and
         seeds, are excellent sources of vitamin E and can help ward off
         age-related vision issues. In order to maintain the health of your body
-        and eyes, don't forget to drink adequate water. Take breaks and observe
-        the 20-20-20 rule, which states that you should look at something 20
-        feet away for 20 seconds every 20 minutes, if you spend a lot of time
-        staring at screens. This may lessen eye fatigue. In order to shield your
-        eyes from the sun's damaging rays, which can result in conditions like
-        cataracts, remember to wear sunglasses outside.
+        and eyes, don&apos;t forget to drink adequate water. Take breaks and
+        observe the 20-20-20 rule, which states that you should look at
+        something 20 feet away for 20 seconds every 20 minutes, if you spend a
+        lot of time staring at screens. This may lessen eye fatigue. In order to
+        shield your eyes from the sun&apos;s damaging rays, which can result in
+        conditions like cataracts, remember to wear sunglasses outside.
         <br />
         <br />
         Maintain good habits and eat a variety of nutrient-dense foods to keep
@@ -184,9 +185,9 @@ export const health = [
         minutes, take a 20-second break to look at something 20 feet away. This
         lessens the strain on the eyes. Additionally, schedule routine eye exams
         to detect any issues early. To keep your blood pressure and blood sugar
-        under control, heed your doctor's advice if you have high blood pressure
-        or diabetes. Neglecting these preventative steps may have detrimental
-        effects on your eyes.
+        under control, heed your doctor&apos;s advice if you have high blood
+        pressure or diabetes. Neglecting these preventative steps may have
+        detrimental effects on your eyes.
         <br />
         <br />
         Eat well, stay hydrated, and engage in healthy activities to maintain

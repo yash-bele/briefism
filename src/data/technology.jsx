@@ -19,10 +19,11 @@ export const technology = [
         processing unit and offered in both Intel and ARM variants.
         <br />
         <br />
-        According to a report by Windows Central's Zac Bowden that cites
+        According to a report by Windows Central&apos;s Zac Bowden that cites
         anonymous sources, the Surface Pro 10 and Surface Laptop 6 will be
-        powered by Qualcomm's newest Snapdragon X chips, while the Intel-powered
-        models will be powered by the company's 14th generation processors.
+        powered by Qualcomm&apos;s newest Snapdragon X chips, while the
+        Intel-powered models will be powered by the company&apos;s 14th
+        generation processors.
         <br />
         <br />
         Thanks to the new NPU chips, these upcoming PCs will be able to run the
@@ -36,14 +37,14 @@ export const technology = [
         have a 13.8-inch screen rather than a 13.5-inch screen and a rounded
         display with thinner bezels, similar to the Surface Pro 10. There might
         also be a touchpad with haptic feedback and a dedicated button for
-        Microsoft Copilot, the business's AI-powered chatbot.
+        Microsoft Copilot, the business&apos;s AI-powered chatbot.
         <br />
         <br />
         There may be two USB-C ports, a Surface Connect port for charging, and a
-        USB-A port for connectivity on the Surface Laptop 6. It's possible that
-        the Surface Pro 10 will be released in the spring of 2024 and cost the
-        same as its predecessor. Microsoft also intends to release an updated
-        Surface Pro and a Surface Laptop Studio in 2025.
+        USB-A port for connectivity on the Surface Laptop 6. It&apos;s possible
+        that the Surface Pro 10 will be released in the spring of 2024 and cost
+        the same as its predecessor. Microsoft also intends to release an
+        updated Surface Pro and a Surface Laptop Studio in 2025.
       </>
     ),
   },
@@ -67,21 +68,21 @@ export const technology = [
         <br />
         <br />
         The Verge, however, has reported that WhatsApp has already rolled out
-        the updates to users on the app's beta version. This implies that
+        the updates to users on the app&apos;s beta version. This implies that
         regardless of whether a user is using the free or paid plan, WhatsApp
         backup—which includes chat history, photos, and videos—will now be
         counted against their GDrive storage. The messaging app owned by Meta
         further stated that all Android users of WhatsApp will be affected by
         the change in the first half of 2024 and that they will be informed
-        thirty days in advance. The alert will appear as a banner in the app's
-        "Chat" settings under "Chat Backup."
+        thirty days in advance. The alert will appear as a banner in the
+        app&apos;s &quot;Chat&quot; settings under &quot;Chat Backup.&quot;
         <br />
         <br />
         If you wish to transfer all of your app-related data to a new device but
-        don't want to backup your WhatsApp chat on GDrive, you can use the
-        built-in WhatsApp Chat Transfer tool. This tool doesn't need an active
-        internet connection to function, but it does require both phones to be
-        connected to the same Wi-Fi.
+        don&apos;t want to backup your WhatsApp chat on GDrive, you can use the
+        built-in WhatsApp Chat Transfer tool. This tool doesn&apos;t need an
+        active internet connection to function, but it does require both phones
+        to be connected to the same Wi-Fi.
         <br />
         <br />
         The app has an option that lets you back up just text messages without
@@ -108,15 +109,15 @@ export const technology = [
       <>
         Here we are in 2024. Instead of texting or sending pictures, consider
         sending stickers as a WhatsApp wish to your friends, family, and
-        coworkers. Along with advice on how to make the most of WhatsApp's New
-        Year-themed sticker messages, here are some of the best "Happy New Year
-        2024" stickers that are worth sharing.
+        coworkers. Along with advice on how to make the most of WhatsApp&apos;s
+        New Year-themed sticker messages, here are some of the best &quot;Happy
+        New Year 2024&quot; stickers that are worth sharing.
         <br />
         <br />
         Meta has launched a collection of over 17 animated stickers on WhatsApp
-        featuring a unique New Year's 2024 theme. BUCK created the sticker set
-        with the idea of "ringing in 2024 with your favorite people near and
-        far."
+        featuring a unique New Year&apos;s 2024 theme. BUCK created the sticker
+        set with the idea of &quot;ringing in 2024 with your favorite people
+        near and far.&quot;
         <br />
         <br />
         To obtain the sticker pack for WhatsApp at no cost, click the emoji icon
@@ -125,14 +126,15 @@ export const technology = [
         a sticker out of a customized picture.
         <br />
         <br />
-        You can use WhatsApp Web to upload your favorite photo with a New Year's
-        theme and utilize it to make a bespoke sticker. Once created, the
-        sticker can be viewed on tablets, smartphones, and the WhatsApp website.
+        You can use WhatsApp Web to upload your favorite photo with a New
+        Year&apos;s theme and utilize it to make a bespoke sticker. Once
+        created, the sticker can be viewed on tablets, smartphones, and the
+        WhatsApp website.
         <br />
         <br />
-        To enhance your WhatsApp "Happy New Year 2024" wishes, think about using
-        third-party sticker apps like Sticker.ly, which offer an abundance of
-        New Year-themed sticker packs.
+        To enhance your WhatsApp &quot;Happy New Year 2024&quot; wishes, think
+        about using third-party sticker apps like Sticker.ly, which offer an
+        abundance of New Year-themed sticker packs.
       </>
     ),
   },
@@ -150,12 +152,12 @@ export const technology = [
       <>
         Google announced in 2020 that it would discontinue support for the
         Assistant Driving Mode on Maps. When using this feature, users may see a
-        "Dashboard" on their home screen with media recommendations, audio
-        settings, and shortcuts for calling and texting. Android Auto was
+        &quot;Dashboard&quot; on their home screen with media recommendations,
+        audio settings, and shortcuts for calling and texting. Android Auto was
         designed to replace it on phone screens. Most clients, however, thought
         it was a downturn. As a result, Google Maps for Android now includes an
-        enhanced UI called "Driving Mode." However, it is expected that this
-        feature will be removed by 2024.
+        enhanced UI called &quot;Driving Mode.&quot; However, it is expected
+        that this feature will be removed by 2024.
         <br />
         <br />
         Google Maps will be discontinued in February 2024, according to code
@@ -163,21 +165,21 @@ export const technology = [
         14.52), as reported by 9to5Google.
         <br />
         <br />
-        Unlike the "Assistant Driving Mode Dashboard" option, Google Maps'
-        Driving Mode is accessible after you begin driving navigation. It's easy
-        to access thanks to the Assistant, Google Maps, and a launcher for
-        compatible music, podcasts, audiobooks, and other streaming apps. It
-        appears as a black bar at the bottom of the screen on the phone. An
-        enhanced media user interface (UI) with large touch targets is displayed
-        in this mode.
+        Unlike the &quot;Assistant Driving Mode Dashboard&quot; option, Google
+        Maps&apos; Driving Mode is accessible after you begin driving
+        navigation. It&apos;s easy to access thanks to the Assistant, Google
+        Maps, and a launcher for compatible music, podcasts, audiobooks, and
+        other streaming apps. It appears as a black bar at the bottom of the
+        screen on the phone. An enhanced media user interface (UI) with large
+        touch targets is displayed in this mode.
         <br />
         <br />
-        Speaking of it's impact on users - Google announced in 2022 that it
+        Speaking of it&apos;s impact on users - Google announced in 2022 that it
         would be focusing on Maps Driving Mode. The company discovered that most
         users preferred this method over the Dashboard. Instead, Google may
-        recommend that users use "Hey Google, launch driving mode" to access the
-        Google Maps navigation mode. In June, this feature was updated to allow
-        Assistant to enable faster voice input.
+        recommend that users use &quot;Hey Google, launch driving mode&quot; to
+        access the Google Maps navigation mode. In June, this feature was
+        updated to allow Assistant to enable faster voice input.
       </>
     ),
   },
@@ -209,7 +211,7 @@ export const technology = [
         2002.
         <br />
         <br />
-        For those who don't know, The national organization in charge of
+        For those who don&apos;t know, The national organization in charge of
         gathering, examining, and distributing information about questionable
         financial transactions to law enforcement authorities and their
         international counterparts is the Financial Intelligence Unit-India.
