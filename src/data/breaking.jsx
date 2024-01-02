@@ -14,7 +14,7 @@ export const breaking = [
           A series of strong earthquakes struck Japan on Monday, causing tsunami
           waves to rise as high as five feet. Local media reported that in
           response, authorities sent out evacuation advisories and tsunami
-          warnings to people living along the nation's northwest coast.
+          warnings to people living along the nation&apos;s northwest coast.
         </p>
         <p>
           The earthquake affected Ishikawa and its surrounding prefectures,
@@ -32,11 +32,11 @@ export const breaking = [
           4.6 magnitude earthquake.
         </p>
         <p>
-          People facing a tsunami of more than one meter in height were "highly
-          likely to be unable to stand, with the possibility of death,"
-          according to a warning issued by the Japan Meteorological Agency
-          (JMA), as reported by The Japan Times. The Japan Meteorological Agency
-          (JMA) issued tsunami warnings along the western coasts of the
+          People facing a tsunami of more than one meter in height were
+          &quot;highly likely to be unable to stand, with the possibility of
+          death&quot;, according to a warning issued by the Japan Meteorological
+          Agency (JMA), as reported by The Japan Times. The Japan Meteorological
+          Agency (JMA) issued tsunami warnings along the western coasts of the
           prefectures of Ishikawa, Niigata, and Toyama, according to Reuters.
           According to NHK, waves in other prefectures such as Niigata and
           Toyama reached three meters in height.
@@ -59,13 +59,14 @@ export const breaking = [
     image:
       "/jan-03-2024/india-has-identified-a-total-of-196-cases-of-the-jn-1-coronavirus-variant-with-kerala-leading-the-count-at-83-cases.webp",
     title: `India has identified a total of 196 cases of the JN.1 coronavirus variant, with Kerala leading the count at 83 cases`,
-    preArticle: `According to INSACOG's data updated on Monday, 196 cases of COVID-19 sub-variant JN.1 have been found in the country to date, with Odisha entering the list of states that have detected the variant's presence.`,
+    preArticle: `According to INSACOG&apos;s data updated on Monday, 196 cases of COVID-19 sub-variant JN.1 have been found in the country to date, with Odisha entering the list of states that have detected the variant's presence.`,
     article: (
       <>
         <p>
-          According to INSACOG's data updated on Monday, 196 cases of COVID-19
-          sub-variant JN.1 have been found in the country to date, with Odisha
-          entering the list of states that have detected the variant's presence.
+          According to INSACOG&apos;s data updated on Monday, 196 cases of
+          COVID-19 sub-variant JN.1 have been found in the country to date, with
+          Odisha entering the list of states that have detected the
+          variant&apos;s presence.
         </p>
         <p>
           The JN.1 sub-variant of the virus has been found in ten states and
@@ -80,15 +81,15 @@ export const breaking = [
           cases that were reported nationwide in December; the remaining 17
           cases had this detection in November. Despite its fast spreading
           nature, the World Health Organization (WHO) has designated JN.1 as a
-          distinct "variant of interest" and stated that it presents a "low"
-          danger to global public health.
+          distinct &quot;variant of interest&quot; and stated that it presents a
+          &quot;low&quot; danger to global public health.
         </p>
         <p>
           The international body stated that the JN.1 sub-variant of the
           coronavirus was previously categorized as a variation of interest
           (VOI) as a component of the parent lineage that is categorized as a
           VOI, the BA.2.86 sub-lineages. Nonetheless, JN.1 cases have been
-          recorded from several nations in recent weeks, and the virus's
+          recorded from several nations in recent weeks, and the virus&apos;s
           incidence has risen sharply worldwide.
         </p>
         <p>
@@ -120,16 +121,16 @@ export const breaking = [
         <p>
           A key member of the Lawrence Bishnoi gang, Brar had claimed
           responsibility for the murder of Moosewala, who was killed in a hail
-          of bullets in Punjab’s Mansa district on May 29, 2022. A native of
-          Faridkot in Punjab, Brar, whose real name is Satinderjit Singh, went
-          to Canada on a student visa in 2017.
+          of bullets in Punjab&apos;s Mansa district on May 29, 2022. A native
+          of Faridkot in Punjab, Brar, whose real name is Satinderjit Singh,
+          went to Canada on a student visa in 2017.
         </p>
         <p>
-          While claiming responsibility for Mooosewala’s murder, Brar had said
-          in a Facebook post, “Sachin Bishnoi Dhattaranwali, Lawrence Bishnoi,
-          and I are behind the killing of Sidhu Moosewala.” The gangster had
-          claimed that he killed Moosewala to avenge the death of Youth Akali
-          Dal leader Vicky Middukhera.
+          While claiming responsibility for Mooosewala&apos;s murder, Brar had
+          said in a Facebook post, “Sachin Bishnoi Dhattaranwali, Lawrence
+          Bishnoi, and I are behind the killing of Sidhu Moosewala.” The
+          gangster had claimed that he killed Moosewala to avenge the death of
+          Youth Akali Dal leader Vicky Middukhera.
         </p>
         <p>
           Brar had also claimed responsibility for the murder of Dera follower
@@ -161,13 +162,13 @@ export const breaking = [
         </p>
         <p>
           The second satellite-based mission in the world devoted to measuring
-          X-ray polarimetry is known as XPoSat. India's first mission to analyze
-          the polarization of X-rays emitted from bright celestial sources in
-          the medium frequency band is called X-ray Polarimeter Satellite
-          (XPoSat). Indian X-ray Polarimeter (POLIX) and X-ray Spectroscopy and
-          Timing (XSPECT) are the two payloads that make up XPoSat. The Raman
-          Research Institute and the UR Rao Satellite Centre, both in Bengaluru,
-          are the organizations that constructed them.
+          X-ray polarimetry is known as XPoSat. India&apos;s first mission to
+          analyze the polarization of X-rays emitted from bright celestial
+          sources in the medium frequency band is called X-ray Polarimeter
+          Satellite (XPoSat). Indian X-ray Polarimeter (POLIX) and X-ray
+          Spectroscopy and Timing (XSPECT) are the two payloads that make up
+          XPoSat. The Raman Research Institute and the UR Rao Satellite Centre,
+          both in Bengaluru, are the organizations that constructed them.
         </p>
         <p>
           Low earth orbit (about 650 km, with a low inclination of about 6
@@ -178,8 +179,8 @@ export const breaking = [
           observe sources that produce polarized X-rays. The observations will
           take place, for example, during the eclipse period, when the
           magnetars, also known as neutron stars, are passing through the
-          Earth's shadow. These stars are extremely magnetic and exhibit a wide
-          range of X-ray activity.
+          Earth&apos;s shadow. These stars are extremely magnetic and exhibit a
+          wide range of X-ray activity.
         </p>
       </>
     ),
@@ -190,7 +191,7 @@ export const breaking = [
     timestamp: "Jan 03, 2024",
     image:
       "/jan-03-2024/ai-could-artificial-superpowers-to-life-by-2024-here's-how.webp",
-    title: `AI could artificial superpowers to life by 2024. Here's how`,
+    title: `AI could artificial superpowers to life by 2024. Here's how`,
     preArticle: `We should anticipate an even greater level of artificial intelligence being incorporated into our daily lives. It might end up in everything, including laptops and cellphones, and be used to personalize webpages and devices to each user's specifications.`,
     article: (
       <>
@@ -198,7 +199,7 @@ export const breaking = [
           We should anticipate an even greater level of artificial intelligence
           being incorporated into our daily lives. It might end up in
           everything, including laptops and cellphones, and be used to
-          personalize webpages and devices to each user's specifications.
+          personalize webpages and devices to each user&apos;s specifications.
         </p>
         <p>
           Visualize artificial intelligence (AI) as a being that exists solely
@@ -236,28 +237,29 @@ export const breaking = [
           paying men ₹ 13 lakh to get women who were infertile pregnant.
         </p>
         <p>
-          According to the police, the ring was operated under the name "All
-          India Pregnant Job Service".
+          According to the police, the ring was operated under the name
+          &quot;All India Pregnant Job Service&quot;.
         </p>
         <p>
           The arrests took place in Nawada, Bihar. According to the police, the
           accused would reach out to men on social media and WhatsApp, offering
           them the chance to make thousands of rupees in exchange for their
-          "service". A ₹ 799 registration fee was required of the interested
-          men. The group gave them some pictures after they registered and asked
-          them to select the woman they wanted to get pregnant. Afterwards, a
-          security deposit of ₹ 5 to ₹ 20,000 was requested of them, depending
-          on how "attractive the woman was."
+          &quot;service&quot;. A ₹ 799 registration fee was required of the
+          interested men. The group gave them some pictures after they
+          registered and asked them to select the woman they wanted to get
+          pregnant. Afterwards, a security deposit of ₹ 5 to ₹ 20,000 was
+          requested of them, depending on how &quot;attractive the woman
+          was.&quot;
         </p>
         <p>
-          "The men were informed that should the woman become pregnant, they
-          would receive ₹ 13 lakh. Superintendent of Police in Nawada Kalyan
-          Anand stated, "They were promised a consolation price of ₹ 5 lakh even
-          if they failed to impregnate the woman." Following a raid in Nawada by
-          a Bihar police Special Investigation Team (SIT), the arrests were
-          made. Officials stated that police have located cell phones and a
-          printer on the premises and that they are still looking for the other
-          suspects, including the mastermind.
+          &quot;The men were informed that should the woman become pregnant,
+          they would receive ₹ 13 lakh. Superintendent of Police in Nawada
+          Kalyan Anand stated, &quot;They were promised a consolation price of ₹
+          5 lakh even if they failed to impregnate the woman.&quot; Following a
+          raid in Nawada by a Bihar police Special Investigation Team (SIT), the
+          arrests were made. Officials stated that police have located cell
+          phones and a printer on the premises and that they are still looking
+          for the other suspects, including the mastermind.
         </p>
       </>
     ),
@@ -273,26 +275,26 @@ export const breaking = [
     article: (
       <>
         <p>
-          The districts magistrate issued an order that stated, "The curfew
+          The districts magistrate issued an order that stated, &quot;The curfew
           relaxation order dated December 31 stands cancelled and full curfew is
           imposed in all areas of Imphal West district with immediate effect due
           to developing law and order condition in the district and to prevent
           any untoward incidents and loss of life and property, and further as a
-          precautionary measure."
+          precautionary measure.&quot;
         </p>
         <p>
           Curfews were also reinstated in the districts of Thoubal, Imphal East,
           Kakching, and Bishnupur.
         </p>
         <p>
-          Chief Minister N Biren Singh promised that the perpetrators would be
-          found in a video statement, despite the lack of information
+          Chief Minister N Biren Singh promised that &quot;the perpetrators
+          would be found in a video statement, despite the lack of information
           surrounding the incident. We take this incident very seriously. The
           Manipur police are working hard to find the offenders. I beg everyone,
           especially those in Lilong, to abstain from using any kind of
           violence. I promise that we will enforce the law and take tough
-          measures against the offenders. Kindly assist the authorities," he
-          said.
+          measures against the offenders. Kindly assist the authorities,&quot;
+          he said.
         </p>
         <p>
           According to officials cited by PTI, the as-yet-unidentified gunmen
@@ -308,9 +310,9 @@ export const breaking = [
           More than 180 people have been killed and several hundred injured
           since ethnic violence between the Meitei and Kuki-Zomi communities
           broke out in Manipur on May 3. Meiteis account for about 53 per cent
-          of Manipur’s population and live mostly in the Imphal Valley. Tribals
-          — Nagas and Kukis — constitute little over 40 per cent and reside in
-          the hill districts.
+          of Manipur&apos;s population and live mostly in the Imphal Valley.
+          Tribals — Nagas and Kukis — constitute little over 40 per cent and
+          reside in the hill districts.
         </p>
       </>
     ),
