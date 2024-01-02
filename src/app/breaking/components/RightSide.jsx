@@ -39,7 +39,7 @@ const RightSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/entertainment/${i.id}`}>
-                <h3 className="text-sm break-all">{i.title}</h3>
+                <h3 className="text-sm break-all">{`${i.title}`}</h3>
               </Link>
             </div>
           </article>
@@ -75,7 +75,7 @@ const RightSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/health/${i.id}`}>
-                <h3 className="text-sm break-all">{i.title}</h3>
+                <h3 className="text-sm break-all">{`${i.title}`}</h3>
               </Link>
             </div>
           </article>
@@ -111,7 +111,7 @@ const RightSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/lifestyle/${i.id}`}>
-                <h3 className="text-sm break-all">{i.title}</h3>
+                <h3 className="text-sm break-all">{`${i.title}`}</h3>
               </Link>
             </div>
           </article>
@@ -147,7 +147,7 @@ const RightSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/technology/${i.id}`}>
-                <h3 className="text-sm break-all">{i.title}</h3>
+                <h3 className="text-sm break-all">{`${i.title}`}</h3>
               </Link>
             </div>
           </article>

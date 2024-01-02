@@ -31,7 +31,7 @@ const Id = ({ params }) => {
           >
             breaking
           </Link>{" "}
-          / <span className="text-slate-600">{datum.title}</span>
+          / <span className="text-slate-600">{`${datum.title}`}</span>
         </div>
         {/* Main */}
         <article>
@@ -49,7 +49,7 @@ const Id = ({ params }) => {
               className="object-cover object-center"
             />
           </div>
-          <div className="space-y-5 text-sm">{datum.article}</div>
+          <div className="space-y-5 text-sm">{`${datum.article}`}</div>
         </article>
       </section>
       <RightSide />

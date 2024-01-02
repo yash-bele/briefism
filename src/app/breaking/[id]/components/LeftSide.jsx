@@ -24,7 +24,7 @@ const LeftSide = () => {
                   <span className="text-xs">{i.timestamp}</span>
                 </div>
                 <Link href={`/breaking/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
+                  <h3 className="text-sm break-all">{`${i.title}`}</h3>
                 </Link>
               </div>
             </article>
@@ -50,7 +50,7 @@ const LeftSide = () => {
                   <span className="text-xs">{i.timestamp}</span>
                 </div>
                 <Link href={`/entertainment/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
+                  <h3 className="text-sm break-all">{`${i.title}`}</h3>
                 </Link>
               </div>
             </article>
@@ -76,7 +76,7 @@ const LeftSide = () => {
                   <span className="text-xs">{i.timestamp}</span>
                 </div>
                 <Link href={`/health/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
+                  <h3 className="text-sm break-all">{`${i.title}`}</h3>
                 </Link>
               </div>
             </article>
