@@ -18,7 +18,8 @@ const BreakingNewsSlider = () => {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      handleNext();
+      if (currIndex === data.breaking.length - 1) return setCurrIndex(0);
+      setCurrIndex((prev) => prev + 1);
     }, 5000);
     return () => clearInterval(interval);
   }, [currIndex]);
