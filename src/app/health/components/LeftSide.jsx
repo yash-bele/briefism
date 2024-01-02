@@ -6,8 +6,8 @@ import ReactPaginate from "react-paginate";
 import { IoIosTimer } from "react-icons/io";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import { health } from "@/data/health";
-import { healthHistory } from "@/history/health";
-const concatData = [...health, ...healthHistory];
+// import { healthHistory } from "@/history/health";
+const concatData = [...health];
 
 const LeftSide = () => {
   const [page, setPage] = useState(1);
@@ -53,7 +53,7 @@ const LeftSide = () => {
               <Link href={`/health/${i.id}`}>
                 <h3 className="mb-0.5 break-all">{i.title}</h3>
                 <p className="text-sm text-slate-500 break-all">
-                  {i.preArticle}
+                  {i.preArticle.substring(0, 200)}...
                 </p>
               </Link>
             </div>

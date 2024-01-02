@@ -5,11 +5,11 @@ import { useState } from "react";
 import { CgMenuLeftAlt, CgClose } from "react-icons/cg";
 const links = [
   "breaking",
-  "business",
+  // "business",
   "entertainment",
   "health",
   "lifestyle",
-  "sports",
+  // "sports",
   "technology",
 ];
 
@@ -18,11 +18,11 @@ const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
   return (
     <nav className="shadow fixed w-full z-50 top-0 bg-white">
-      <section className="relative h-12 max-w-7xl flex items-center justify-between mx-auto px-5 lg:px-0 capitalize">
+      <section className="relative h-12 max-w-7xl flex items-center justify-between mx-auto px-5 lg:px-0">
         <Link href="/" className="text-xl">
           Briefism
         </Link>
-        <ul className="hidden md:flex items-center h-full text-sm">
+        <ul className="hidden sm:flex items-center h-full text-sm capitalize">
           {links.map((i, j, k) => (
             <Link
               key={i}
@@ -42,13 +42,13 @@ const Navbar = () => {
         </ul>
         <button
           onClick={() => setOpenMenu(!openMenu)}
-          className="absolute right-5 block md:hidden text-2xl cursor-pointer text-slate-400"
+          className="absolute right-5 block sm:hidden text-2xl cursor-pointer text-slate-400"
         >
           {openMenu ? <CgClose className="" /> : <CgMenuLeftAlt className="" />}
         </button>
       </section>
       {openMenu && (
-        <ul className="text-sm">
+        <ul className="text-sm capitalize">
           {links.map((i) => (
             <Link
               key={i}

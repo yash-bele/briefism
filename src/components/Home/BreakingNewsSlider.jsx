@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import { data } from "@/data";
+import Link from "next/link";
 
 const BreakingNewsSlider = () => {
   const [currIndex, setCurrIndex] = useState(0);
@@ -26,10 +27,12 @@ const BreakingNewsSlider = () => {
     <main className="flex items-center justify-between text-slate-500">
       <section className="flex items-center">
         <span className="bg-red-50 border border-dashed border-red-300 text-red-500 px-3 py-1.5 rounded-lg whitespace-nowrap">
-          Breaking news
+          Breaking Briefs
         </span>
-        <span className="text-sm ml-2.5 cursor-pointer">
-          {data.breaking[currIndex].title}
+        <span className="text-sm ml-2.5">
+          <Link href={`/breaking/${data.breaking[currIndex].id}`}>
+            {data.breaking[currIndex].title}
+          </Link>
         </span>
       </section>
       <section className="space-x-2.5 flex items-center">

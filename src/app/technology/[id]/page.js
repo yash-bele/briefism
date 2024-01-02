@@ -27,8 +27,11 @@ const Id = ({ params }) => {
         </div>
         {/* Main */}
         <article>
-          <h1 className="text-2xl text-slate-600">{datum.title}</h1>
-          <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden mt-1.5 mb-3">
+          <h1 className="text-2xl text-slate-600">
+            {datum.title}{" "}
+            <time className="text-sm">{`(${datum.timestamp})`}</time>
+          </h1>
+          <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden mt-2.5 mb-5">
             <Image
               priority
               src={datum.image}
@@ -38,7 +41,7 @@ const Id = ({ params }) => {
               className="object-cover object-center"
             />
           </div>
-          <div className="space-y-3 text-sm">{datum.article}</div>
+          <div className="space-y-5 text-sm">{datum.article}</div>
         </article>
       </section>
       <RightSide />

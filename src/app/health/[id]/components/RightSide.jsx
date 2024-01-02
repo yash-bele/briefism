@@ -7,7 +7,7 @@ const RightSide = () => {
     <aside className="pl-5 ml-5 border-l border-dashed border-red-300 space-y-10 hidden md:block">
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          lifestyle
+          <Link href="/lifestyle">lifestyle</Link>
         </h2>
         <div className="space-y-2.5">
           {data.lifestyle.slice(0, 3).map((i, j) => (
@@ -33,33 +33,7 @@ const RightSide = () => {
       </section>
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          sports
-        </h2>
-        <div className="space-y-2.5">
-          {data.sports.slice(0, 3).map((i, j) => (
-            <article
-              key={i.id}
-              style={{ paddingTop: j === 0 && 0 }}
-              className={`flex items-center border-t border-slate-400 border-dashed pt-2.5 ${
-                j === 0 && "border-none"
-              }`}
-            >
-              <div className="w-full">
-                <div className="flex items-center space-x-1 font-normal text-slate-400 mb-0.5">
-                  <IoIosTimer />
-                  <span className="text-xs">{i.timestamp}</span>
-                </div>
-                <Link href={`/sports/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
-                </Link>
-              </div>
-            </article>
-          ))}
-        </div>
-      </section>
-      <section>
-        <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          technology
+          <Link href="/technology">technology</Link>
         </h2>
         <div className="space-y-2.5">
           {data.technology.slice(0, 3).map((i, j) => (

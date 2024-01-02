@@ -5,14 +5,12 @@ import { IoIosTimer } from "react-icons/io";
 const Technology = ({ technology }) => {
   return (
     <section>
-      <Link href="/technology">
-        <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          technology
-        </h2>
-      </Link>
+      <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
+        <Link href="/technology">technology</Link>
+      </h2>
       <div className="flex flex-col-reverse lg:grid grid-cols-2 gap-2.5 lg:gap-5">
-        <section className="flex flex-col sm:grid grid-rows-5 gap-2.5">
-          {technology.slice(0, 5).map((i, j) => (
+        <section className="flex flex-col sm:grid grid-rows-3 gap-2.5">
+          {technology.slice(1, 4).map((i, j) => (
             <article
               key={i.id}
               className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${
@@ -38,14 +36,16 @@ const Technology = ({ technology }) => {
                   <span className="text-xs">{i.timestamp}</span>
                 </div>
                 <Link href={`/technology/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
+                  <h3 className="text-sm break-all">
+                    {i.title.substring(0, 70)}...
+                  </h3>
                 </Link>
               </div>
             </article>
           ))}
         </section>
-        <section className="grid grid-rows-5 gap-2.5 h-96 lg:h-auto">
-          {technology.slice(5, 7).map((i, j) => (
+        <section className="grid grid-rows-3 gap-2.5 h-[calc(384px/2)] lg:h-auto">
+          {technology.slice(0, 1).map((i, j) => (
             <Link
               key={i.id}
               href={`/technology/${i.id}`}
@@ -59,7 +59,7 @@ const Technology = ({ technology }) => {
                 alt={i.id}
                 fill
                 sizes="auto"
-                className="absolute w-full h-full block object-cover object-center group-hover:scale-110 duration-500"
+                className="object-cover object-center group-hover:scale-110 duration-500"
               />
               <div className="absolute bottom-0 w-full h-3/4 bg-gradient-to-b from-transparent to-black/50 flex items-end p-2.5">
                 <div>

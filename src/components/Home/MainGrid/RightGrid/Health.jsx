@@ -5,11 +5,9 @@ import { IoIosTimer } from "react-icons/io";
 const Health = ({ health }) => {
   return (
     <section className="space-y-2.5">
-      <Link href="/health">
-        <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          health
-        </h2>
-      </Link>
+      <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
+        <Link href="/health">health</Link>
+      </h2>
       {health.slice(0, 3).map((i, j) => (
         <article key={i.id} className="flex items-center h-20 space-x-2.5">
           <Link
@@ -31,7 +29,9 @@ const Health = ({ health }) => {
               <span className="text-xs">{i.timestamp}</span>
             </div>
             <Link href={`/health/${i.id}`}>
-              <h3 className="text-sm break-all">{i.title}</h3>
+              <h3 className="text-sm break-all">
+                {i.title.substring(0, 70)}...
+              </h3>
             </Link>
           </div>
         </article>
