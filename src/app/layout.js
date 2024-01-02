@@ -4,7 +4,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Briefism",
+  title:
+    "News, Breaking, Entertainment, Health, Lifestyle, Technology - Briefism",
   description:
     "Stay informed with Briefism - Your go-to source for concise and insightful news briefs. Explore breaking stories, in-depth analyses, and stay updated on global events, technology, lifestyle, and more. Get the latest news in a nutshell, delivered with clarity and brevity. Your daily briefing starts here.",
 };
