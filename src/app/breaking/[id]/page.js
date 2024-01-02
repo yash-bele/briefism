@@ -49,7 +49,7 @@ const Id = ({ params }) => {
               className="object-cover object-center"
             />
           </div>
-          <div className="space-y-5 text-sm">{`${datum.article}`}</div>
+          <div className="space-y-5 text-sm">{datum.article}</div>
         </article>
       </section>
       <RightSide />
