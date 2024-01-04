@@ -129,8 +129,9 @@ export const breaking = [
     article: (
       <>
         Japanese investigators on Wednesday probed a near-catastrophic collision
-        at Tokyo's Haneda Airport between a coast guard plane and a passenger
-        jet that airline executives have said was given permission to land.
+        at Tokyo&apos;s Haneda Airport between a coast guard plane and a
+        passenger jet that airline executives have said was given permission to
+        land.
         <br />
         <br />
         Five people on the coast guard aircraft died, but all 379 passengers and
@@ -138,8 +139,8 @@ export const breaking = [
         Airlines Airbus was engulfed in flames late Tuesday. The burned-out husk
         of the airliner, still sitting on the tarmac Wednesday, bore witness to
         just how narrow their escape had been. The captain of the coast guard
-        plane -- which had been carrying aid to the New Year's Day earthquake
-        zone -- was its lone survivor but suffered serious injuries.
+        plane -- which had been carrying aid to the New Year&apos;s Day
+        earthquake zone -- was its lone survivor but suffered serious injuries.
         <br />
         <br />
         Footage on Tuesday showed a ball of fire erupting and thick black smoke
@@ -156,27 +157,28 @@ export const breaking = [
         incident happened in a country that had not seen a serious commercial
         aviation accident for decades. Asked at a briefing late Tuesday night
         whether the Japan Airlines flight had secured landing permission from
-        air traffic control, officials at the major carrier said: "Our
-        understanding is that it was given." But JAL and the land ministry
+        air traffic control, officials at the major carrier said: &quot;Our
+        understanding is that it was given.&quot; But JAL and the land ministry
         declined to comment directly on exchanges between flight controllers and
         the two planes, citing the ongoing investigation. In a recording from
-        Haneda's control tower apparently taken in the moments before the
+        Haneda&apos;s control tower apparently taken in the moments before the
         collision, available on a site that broadcasts live air traffic signals,
-        a voice can be heard advising JAL's flight to "continue approach".
+        a voice can be heard advising JAL&apos;s flight to &quot;continue
+        approach&quot;.
         <br />
         <br />
         Some domestic flights were operating on Wednesday morning from Haneda,
-        one of the world's busiest airports, but dozens were cancelled. France's
-        Airbus, which manufactured the JAL plane, said it would send a team of
-        specialists to help Japanese authorities investigate. The passenger
-        plane had arrived from New Chitose Airport serving Sapporo on the
-        northern island of Hokkaido. Those on board included eight children.
+        one of the world&apos;s busiest airports, but dozens were cancelled.
+        France&apos;s Airbus, which manufactured the JAL plane, said it would
+        send a team of specialists to help Japanese authorities investigate. The
+        passenger plane had arrived from New Chitose Airport serving Sapporo on
+        the northern island of Hokkaido. Those on board included eight children.
         <br />
         <br />
         The coast guard plane had been preparing to fly to Ishikawa prefecture
-        to deliver supplies after the devastating New Year's Day earthquake that
-        killed at least 62 people. Prime Minister Fumio Kishida praised the dead
-        crew members on their way to help the victims of the quake.
+        to deliver supplies after the devastating New Year&apos;s Day earthquake
+        that killed at least 62 people. Prime Minister Fumio Kishida praised the
+        dead crew members on their way to help the victims of the quake.
       </>
     ),
   },
