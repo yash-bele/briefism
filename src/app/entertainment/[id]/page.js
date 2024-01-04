@@ -1,11 +1,21 @@
 import Link from "next/link";
 import Image from "next/image";
-import { entertainment } from "@/data/entertainment";
 import LeftSide from "./components/LeftSide";
 import RightSide from "./components/RightSide";
+import { entertainment } from "@/data/entertainment";
+import { entertainmentHistory } from "@/history/entertainment";
+const concatData = [...entertainment, ...entertainmentHistory];
+
+export async function generateMetadata({ params }) {
+  const datum = concatData.find((i) => i.id === params.id);
+  return {
+    title: `${datum.title} - Briefism`,
+    description: datum.preArticle,
+  };
+}
 
 const Id = ({ params }) => {
-  const datum = entertainment.find((i) => i.id === params.id);
+  const datum = concatData.find((i) => i.id === params.id);
   return (
     <main className="grid md:grid-cols-2 lg:grid-cols-4 mb-10 mx-auto">
       <LeftSide />

@@ -10,7 +10,7 @@ const LeftSide = () => {
           <Link href="/breaking">breaking</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.breaking.slice(0, 3).map((i, j) => (
+          {data.breaking.slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -36,7 +36,7 @@ const LeftSide = () => {
           <Link href="/entertainment">entertainment</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.entertainment.slice(0, 3).map((i, j) => (
+          {data.entertainment.slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -62,7 +62,7 @@ const LeftSide = () => {
           <Link href="/health">health</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.health.slice(0, 3).map((i, j) => (
+          {data.health.slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}

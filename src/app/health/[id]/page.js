@@ -1,11 +1,21 @@
 import Image from "next/image";
 import Link from "next/link";
-import { health } from "@/data/health";
 import LeftSide from "./components/LeftSide";
 import RightSide from "./components/RightSide";
+import { health } from "@/data/health";
+import { healthHistory } from "@/history/health";
+const concatData = [...health, ...healthHistory];
+
+export async function generateMetadata({ params }) {
+  const datum = concatData.find((i) => i.id === params.id);
+  return {
+    title: `${datum.title} - Briefism`,
+    description: datum.preArticle,
+  };
+}
 
 const Id = ({ params }) => {
-  const datum = health.find((i) => i.id === params.id);
+  const datum = concatData.find((i) => i.id === params.id);
   return (
     <main className="grid md:grid-cols-2 lg:grid-cols-4 mb-10 mx-auto">
       <LeftSide />

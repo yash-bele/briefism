@@ -6,8 +6,8 @@ import ReactPaginate from "react-paginate";
 import { IoIosTimer } from "react-icons/io";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import { breaking } from "@/data/breaking";
-// import { breakingHistory } from "@/history/breaking";
-const concatData = [...breaking];
+import { breakingHistory } from "@/history/breaking";
+const concatData = [...breaking, ...breakingHistory];
 
 const LeftSide = () => {
   const [page, setPage] = useState(1);
@@ -51,9 +51,9 @@ const LeftSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/breaking/${i.id}`}>
-                <h3 className="mb-0.5 break-all">{`${i.title}`}</h3>
+                <h3 className="mb-0.5 break-all">{i.title}</h3>
                 <p className="text-sm text-slate-500 break-all">
-                  {`${i.preArticle.substring(0, 200)}...`}
+                  {i.preArticle.substring(0, 200)}...
                 </p>
               </Link>
             </div>

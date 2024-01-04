@@ -1,11 +1,13 @@
 import Image from "next/image";
 import Link from "next/link";
-import { breaking } from "@/data/breaking";
 import LeftSide from "./components/LeftSide";
 import RightSide from "./components/RightSide";
+import { breaking } from "@/data/breaking";
+import { breakingHistory } from "@/history/breaking";
+const concatData = [...breaking, ...breakingHistory];
 
 export async function generateMetadata({ params }) {
-  const datum = breaking.find((i) => i.id === params.id);
+  const datum = concatData.find((i) => i.id === params.id);
   return {
     title: `${datum.title} - Briefism`,
     description: datum.preArticle,
@@ -13,7 +15,7 @@ export async function generateMetadata({ params }) {
 }
 
 const Id = ({ params }) => {
-  const datum = breaking.find((i) => i.id === params.id);
+  const datum = concatData.find((i) => i.id === params.id);
   return (
     <main className="grid md:grid-cols-2 lg:grid-cols-4 mb-10 mx-auto">
       <LeftSide id={datum.id} />
@@ -49,7 +51,7 @@ const Id = ({ params }) => {
               className="object-cover object-center"
             />
           </div>
-          <div className="space-y-5 text-sm">{datum.article}</div>
+          <div className="text-sm">{datum.article}</div>
         </article>
       </section>
       <RightSide />

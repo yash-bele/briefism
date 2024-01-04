@@ -1,18 +1,18 @@
 export const health = [
-  // this-week
+  // week-jan-02-2024
   // 1
   {
     id: "desire-to-embrace-aging-with-grace-uncover-the-secret-essential-for-a-graceful-journey",
     timestamp: "This week",
     image:
-      "/this-week/desire-to-embrace-aging-with-grace-uncover-the-secret-essential-for-a-graceful-journey.png",
+      "/week-jan-02-2024/health/desire-to-embrace-aging-with-grace-uncover-the-secret-essential-for-a-graceful-journey.png",
     title: `Desire to embrace aging with grace? Uncover the secret essential for a graceful journey`,
     preArticle: `Ageing is characterized by a gradual loss of homeostasis, diminished
         function, cognitive decline, and an increased risk of dying from
         infectious, metabolic, neoplastic, and chronic illnesses.`,
     article: (
       <>
-        <div className="space-y-2 flex flex-col">
+        <div className="flex flex-col">
           <span className="text-xl">
             Maintaining gut health has the potential to reverse the aging
             process
@@ -26,8 +26,7 @@ export const health = [
           </span>
         </div>
         <br />
-        <br />
-        <div className="space-y-2 flex flex-col">
+        <div className="flex flex-col">
           <span className="text-xl">
             The microbiota of the gut and the process of aging
           </span>
@@ -47,8 +46,7 @@ export const health = [
           </span>
         </div>
         <br />
-        <br />
-        <div className="space-y-2 flex flex-col">
+        <div className="flex flex-col">
           <span className="text-xl">The Key Insight</span>
           <span>
             As we grow older, it&apos;s important to manage body swelling, or
@@ -67,7 +65,7 @@ export const health = [
     id: "the-health-ministry-has-checked-more-than-10-million-people-as-part-of-the-mission-to-eliminate-sickle-cell-anemia-in-the-country",
     timestamp: "This week",
     image:
-      "/this-week/the-health-ministry-has-checked-more-than-10-million-people-as-part-of-the-mission-to-eliminate-sickle-cell-anemia-in-the-country.webp",
+      "/week-jan-02-2024/health/the-health-ministry-has-checked-more-than-10-million-people-as-part-of-the-mission-to-eliminate-sickle-cell-anemia-in-the-country.webp",
     title: `The Health Ministry has checked more than 10 million people as part of the mission to eliminate sickle cell anemia in the country`,
     preArticle: `The government, through the Sickle Cell Anemia Elimination Mission, has
         checked more than 10 million people for the disease, according to the
@@ -105,7 +103,6 @@ export const health = [
           </span>
         </div>
         <br />
-        <br />
         <div className="space-y-2 flex flex-col">
           <span className="text-xl block">Sickle cell disease (SCD)</span>
           <span>
@@ -135,7 +132,8 @@ export const health = [
   {
     id: "foods-and-habits-to-improve-your-eye-health-in-2024",
     timestamp: "This week",
-    image: "/this-week/foods-and-habits-to-improve-your-eye-health-in-2024.jpg",
+    image:
+      "/week-jan-02-2024/health/foods-and-habits-to-improve-your-eye-health-in-2024.jpg",
     title: `Foods and habits to improve your eye health in 2024`,
     preArticle: `To keep your eyes healthy, health experts suggest eating specific foods
         and doing healthy things to take care of your eyes and your overall

@@ -3,13 +3,11 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { CgMenuLeftAlt, CgClose } from "react-icons/cg";
-const links = [
+export const navLinks = [
   "breaking",
-  // "business",
   "entertainment",
   "health",
   "lifestyle",
-  // "sports",
   "technology",
 ];
 
@@ -23,7 +21,7 @@ const Navbar = () => {
           Briefism
         </Link>
         <ul className="hidden sm:flex items-center h-full text-sm capitalize">
-          {links.map((i, j, k) => (
+          {navLinks.map((i, j, k) => (
             <Link
               key={i}
               href={`/${i}`}
@@ -49,7 +47,7 @@ const Navbar = () => {
       </section>
       {openMenu && (
         <ul className="text-sm capitalize">
-          {links.map((i) => (
+          {navLinks.map((i) => (
             <Link
               key={i}
               href={`/${i}`}

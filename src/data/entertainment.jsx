@@ -1,11 +1,11 @@
 export const entertainment = [
-  // jan-03-2024
+  // week-jan-02-2024
   // 1
   {
     id: "mohanlal-releases-a-brand-new-barroz-poster-to-kick-off-2024-on-a-high-note",
-    timestamp: "Jan 03, 2024",
+    timestamp: "This week",
     image:
-      "/jan-03-2024/mohanlal-releases-a-brand-new-barroz-poster-to-kick-off-2024-on-a-high-note.jpg",
+      "/week-jan-02-2024/entertainment/mohanlal-releases-a-brand-new-barroz-poster-to-kick-off-2024-on-a-high-note.jpg",
     title: `Mohanlal releases a brand-new Barroz poster to kick off 2024 on a high note`,
     preArticle: `Barroz, directed by and starring Mohanlal, is made in 3D, and it is the next big venture of the Malayalam star after Malaikottai Vaaliban.`,
     article: (
@@ -46,9 +46,9 @@ export const entertainment = [
   // 2
   {
     id: "mannara-chopra-is-the-one-behind-munawar-faruqui-claims-rinku-dhawan-the-bigg-boss-17-evicted-contestant",
-    timestamp: "Jan 03, 2024",
+    timestamp: "This week",
     image:
-      "/jan-03-2024/mannara-chopra-is-the-one-behind-munawar-faruqui-claims-rinku-dhawan-the-bigg-boss-17-evicted-contestant.webp",
+      "/week-jan-02-2024/entertainment/mannara-chopra-is-the-one-behind-munawar-faruqui-claims-rinku-dhawan-the-bigg-boss-17-evicted-contestant.webp",
     title: `"Mannara Chopra is the one behind Munawar Faruqui," claims Rinku Dhawan, the Bigg Boss 17 evicted contestant`,
     preArticle: `Rinku Dhawan and Neil Bhatt, two competitors, left the Bigg Boss 17
         house last night. Both of them, especially Rinku, who aimed to be
@@ -98,10 +98,10 @@ export const entertainment = [
   },
   // 3
   {
-    id: "john-abraham-purchases-a-bungalow-in-mumbai's-khar-neighborhood-for-rs-70-crore",
-    timestamp: "Jan 03, 2024",
+    id: "john-abraham-purchases-a-bungalow-in-mumbais-khar-neighborhood-for-rs-70-crore",
+    timestamp: "This week",
     image:
-      "/jan-03-2024/john-abraham-purchases-a-bungalow-in-mumbai's-khar-neighborhood-for-rs-70-crore.jpeg",
+      "/week-jan-02-2024/entertainment/john-abraham-purchases-a-bungalow-in-mumbais-khar-neighborhood-for-rs-70-crore.jpeg",
     title: `John Abraham purchases a bungalow in Mumbai's Khar neighborhood for Rs 70.83 crore`,
     preArticle: `Bollywood star John Abraham recently bought an opulent bungalow in Mumbai's sought-after Khar neighborhood. With a price tag of Rs 70.83 crore, the property is large, measuring 5,416 square feet. The actor also purchased the 7,722 square foot plot of land that the bungalow is located on.`,
     article: (
@@ -151,9 +151,9 @@ export const entertainment = [
   // 4
   {
     id: "ibrahim-ali-khan-ducks-the-photographers-when-he-celebrates-the-new-year-with-his-rumored-girlfriend-palak-tiwari",
-    timestamp: "Jan 03, 2024",
+    timestamp: "This week",
     image:
-      "/jan-03-2024/ibrahim-ali-khan-ducks-the-photographers-when-he-celebrates-the-new-year-with-his-rumored-girlfriend-palak-tiwari.webp",
+      "/week-jan-02-2024/entertainment/ibrahim-ali-khan-ducks-the-photographers-when-he-celebrates-the-new-year-with-his-rumored-girlfriend-palak-tiwari.webp",
     title: `Ibrahim Ali Khan ducks the photographers when he celebrates the New Year with his rumored girlfriend Palak Tiwari`,
     preArticle: `Numerous sightings of Palak Tiwari and Ibrahim Ali Khan together have sparked rumors that they have been dating since 2022.`,
     article: (
@@ -190,10 +190,10 @@ export const entertainment = [
   },
   // 5
   {
-    id: "fans-received-mammootty's-never-before-seen-avatar-in-the-horror-film-bramayugam-as-a-new-year's-gift",
-    timestamp: "Jan 03, 2024",
+    id: "fans-received-mammoottys-never-before-seen-avatar-in-the-horror-film-bramayugam-as-a-new-years-gift",
+    timestamp: "This week",
     image:
-      "/jan-03-2024/fans-received-mammootty's-never-before-seen-avatar-in-the-horror-film-bramayugam-as-a-new-year's-gift.jpeg",
+      "/week-jan-02-2024/entertainment/fans-received-mammoottys-never-before-seen-avatar-in-the-horror-film-bramayugam-as-a-new-years-gift.jpeg",
     title: `Fans received Mammootty's never-before-seen avatar in the horror film Bramayugam as a new year's gift`,
     preArticle: `The excitement for Mammootty's upcoming film Bramayugam has increased as
         he has unveiled a new poster that features him in an avatar that has

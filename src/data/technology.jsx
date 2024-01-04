@@ -1,11 +1,11 @@
 export const technology = [
-  // this-week
+  // week-jan-02-2024
   // 1
   {
-    id: "microsoft's-next-surface-lineup-will-feature-a-next-generation-npu",
+    id: "microsofts-next-surface-lineup-will-feature-a-next-generation-npu",
     timestamp: "This week",
     image:
-      "/this-week/microsoft's-next-surface-lineup-will-feature-a-next-generation-npu.avif",
+      "/week-jan-02-2024/technology/microsofts-next-surface-lineup-will-feature-a-next-generation-npu.avif",
     title: `Microsoft's next Surface lineup will feature a next-generation NPU`,
     preArticle: `Microsoft is preparing to add more AI-powered features to its next
         Surface PC lineup. The upcoming computers, known by the code name
@@ -53,7 +53,7 @@ export const technology = [
     id: "in-2024-the-number-of-whatsapp-chat-backups-will-be-added-to-gdrive-storage-space",
     timestamp: "This week",
     image:
-      "/this-week/in-2024-the-number-of-whatsapp-chat-backups-will-be-added-to-gdrive-storage-space.webp",
+      "/week-jan-02-2024/technology/in-2024-the-number-of-whatsapp-chat-backups-will-be-added-to-gdrive-storage-space.webp",
     title: `In 2024, the number of WhatsApp chat backups will be added to GDrive storage space`,
     preArticle: `Soon, the backups of your WhatsApp conversations will begin to use up
         storage space on your GDrive. Last month, the business revised its terms
@@ -100,7 +100,7 @@ export const technology = [
     id: "how-to-send-stickers-that-read-happy-new-year-2024-using-whatsapp",
     timestamp: "This week",
     image:
-      "/this-week/how-to-send-stickers-that-read-happy-new-year-2024-using-whatsapp.webp",
+      "/week-jan-02-2024/technology/how-to-send-stickers-that-read-happy-new-year-2024-using-whatsapp.webp",
     title: `How to send stickers that read "Happy New Year 2024" using WhatsApp`,
     preArticle: `Here we are in 2024. Instead of texting or sending pictures, consider
         sending stickers as a WhatsApp wish to your friends, family, and
@@ -142,7 +142,8 @@ export const technology = [
   {
     id: "google-may-kill-the-android-maps-feature-in-2024",
     timestamp: "This week",
-    image: "/this-week/google-may-kill-the-android-maps-feature-in-2024.webp",
+    image:
+      "/week-jan-02-2024/technology/google-may-kill-the-android-maps-feature-in-2024.webp",
     title: `Google may "kill" the Android Maps feature in 2024`,
     preArticle: `Google announced in 2020 that it would discontinue support for the
         Assistant Driving Mode on Maps. When using this feature, users may see a
@@ -188,7 +189,7 @@ export const technology = [
     id: "government-sends-notice-to-binance-and-eight-others-blocked-urls",
     timestamp: "This week",
     image:
-      "/this-week/government-sends-notice-to-binance-and-eight-others-blocked-urls.jpg",
+      "/week-jan-02-2024/technology/government-sends-notice-to-binance-and-eight-others-blocked-urls.jpg",
     title: `Government sends notice to Binance and eight others; blocked URLs`,
     preArticle: `Nine offshore providers of virtual digital assets have received
         compliance show-cause notices from Financial Intelligence Unit-India,

@@ -1,8 +1,8 @@
 "use client";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import { data } from "@/data";
-import Link from "next/link";
 
 const BreakingNewsSlider = () => {
   const [currIndex, setCurrIndex] = useState(0);

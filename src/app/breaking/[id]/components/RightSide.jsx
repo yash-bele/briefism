@@ -10,7 +10,7 @@ const RightSide = () => {
           <Link href="/lifestyle">lifestyle</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.lifestyle.slice(0, 3).map((i, j) => (
+          {data.lifestyle.slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -36,7 +36,7 @@ const RightSide = () => {
           <Link href="/technology">technology</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.technology.slice(0, 3).map((i, j) => (
+          {data.technology.slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}

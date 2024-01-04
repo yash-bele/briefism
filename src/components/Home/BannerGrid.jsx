@@ -32,11 +32,11 @@ const BannerGrid = () => {
                   j === 0 ? "text-sm sm:text-base" : "text-sm"
                 }`}
               >
-                {i.title}
+                {j === 0 ? i.title : `${i.title.substring(0, 100)}...`}
               </h3>
               {j === 0 && (
                 <p className="text-sm text-slate-300 mt-0.5 hidden sm:block">
-                  {i.preArticle}
+                  {i.preArticle.substring(0, 250)}...
                 </p>
               )}
             </div>

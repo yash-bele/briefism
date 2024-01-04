@@ -6,8 +6,8 @@ import ReactPaginate from "react-paginate";
 import { IoIosTimer } from "react-icons/io";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import { entertainment } from "@/data/entertainment";
-// import { entertainmentHistory } from "@/history/entertainment";
-const concatData = [...entertainment];
+import { entertainmentHistory } from "@/history/entertainment";
+const concatData = [...entertainment, ...entertainmentHistory];
 
 const LeftSide = () => {
   const [page, setPage] = useState(1);

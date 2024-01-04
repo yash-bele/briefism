@@ -4,7 +4,7 @@ import { health } from "./health";
 import { lifestyle } from "./lifestyle";
 import { technology } from "./technology";
 
-export const data = {
+export const history = {
   breaking,
   entertainment,
   health,
