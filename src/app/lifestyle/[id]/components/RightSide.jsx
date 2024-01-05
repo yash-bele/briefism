@@ -1,6 +1,15 @@
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
 import { data } from "@/data";
+import { history } from "@/history";
+const { breaking, entertainment, health, lifestyle, technology } = data;
+const {
+  breakingHistory,
+  entertainmentHistory,
+  healthHistory,
+  lifestyleHistory,
+  technologyHistory,
+} = history;
 
 const RightSide = () => {
   return (
@@ -10,7 +19,7 @@ const RightSide = () => {
           <Link href="/lifestyle">lifestyle</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.lifestyle.slice(0, 5).map((i, j) => (
+          {[...lifestyle, ...lifestyleHistory].slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -24,7 +33,7 @@ const RightSide = () => {
                   <span className="text-xs">{i.timestamp}</span>
                 </div>
                 <Link href={`/lifestyle/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
+                  <h3 className="text-sm break-all">{`${i.title}`}</h3>
                 </Link>
               </div>
             </article>
@@ -36,7 +45,7 @@ const RightSide = () => {
           <Link href="/technology">technology</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.technology.slice(0, 5).map((i, j) => (
+          {[...technology, ...technologyHistory].slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -50,7 +59,7 @@ const RightSide = () => {
                   <span className="text-xs">{i.timestamp}</span>
                 </div>
                 <Link href={`/technology/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
+                  <h3 className="text-sm break-all">{`${i.title}`}</h3>
                 </Link>
               </div>
             </article>

@@ -1,10 +1,16 @@
 import Link from "next/link";
 import Image from "next/image";
 import { IoIosTimer } from "react-icons/io";
-import { technology } from "@/data/technology";
-import { breaking } from "@/data/breaking";
-import { entertainment } from "@/data/entertainment";
-import { health } from "@/data/health";
+import { data } from "@/data";
+import { history } from "@/history";
+const { breaking, entertainment, health, lifestyle, technology } = data;
+const {
+  breakingHistory,
+  entertainmentHistory,
+  healthHistory,
+  lifestyleHistory,
+  technologyHistory,
+} = history;
 
 const RightSide = () => {
   return (
@@ -13,7 +19,7 @@ const RightSide = () => {
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
           <Link href="/technology">technology</Link>
         </h2>
-        {technology.slice(0, 3).map((i, j) => (
+        {[...technology, ...technologyHistory].slice(0, 3).map((i, j) => (
           <article
             key={i.id}
             className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${
@@ -51,7 +57,7 @@ const RightSide = () => {
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
           <Link href="/breaking">breaking</Link>
         </h2>
-        {breaking.slice(0, 3).map((i, j) => (
+        {[...breaking, ...breakingHistory].slice(0, 3).map((i, j) => (
           <article
             key={i.id}
             className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${
@@ -89,7 +95,7 @@ const RightSide = () => {
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
           <Link href="/entertainment">entertainment</Link>
         </h2>
-        {entertainment.slice(0, 3).map((i, j) => (
+        {[...entertainment, ...entertainmentHistory].slice(0, 3).map((i, j) => (
           <article
             key={i.id}
             className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${
@@ -127,7 +133,7 @@ const RightSide = () => {
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
           <Link href="/health">health</Link>
         </h2>
-        {health.slice(0, 3).map((i, j) => (
+        {[...health, ...healthHistory].slice(0, 3).map((i, j) => (
           <article
             key={i.id}
             className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${

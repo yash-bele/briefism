@@ -2,7 +2,7 @@ import LeftSide from "./components/LeftSide";
 import RightSide from "./components/RightSide";
 
 export const metadata = {
-  title: "Technology - Briefism",
+  title: "Technology | Briefism",
 };
 
 const Category = () => {

@@ -1,6 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
+import { breaking } from "@/data/breaking";
+import { breakingHistory } from "@/history/breaking";
+const concatData = [...breaking, breakingHistory];
 
 const Breaking = ({ breaking }) => {
   return (
@@ -10,7 +13,7 @@ const Breaking = ({ breaking }) => {
       </h2>
       <div className="flex flex-col-reverse lg:grid grid-cols-2 gap-2.5 lg:gap-5">
         <section className="flex flex-col sm:grid grid-rows-3 gap-2.5">
-          {breaking.slice(1, 4).map((i, j) => (
+          {concatData.slice(1, 4).map((i, j) => (
             <article
               key={i.id}
               className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${
@@ -45,7 +48,7 @@ const Breaking = ({ breaking }) => {
           ))}
         </section>
         <section className="grid grid-rows-3 gap-2.5 h-[calc(384px/2)] lg:h-auto">
-          {breaking.slice(0, 1).map((i, j) => (
+          {concatData.slice(0, 1).map((i, j) => (
             <Link
               key={i.id}
               href={`/breaking/${i.id}`}

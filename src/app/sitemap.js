@@ -1,14 +1,14 @@
-import { breaking } from "@/data/breaking";
-import { breakingHistory } from "@/history/breaking";
-import { entertainment } from "@/data/entertainment";
-import { entertainmentHistory } from "@/history/entertainment";
-import { health } from "@/data/health";
-import { healthHistory } from "@/history/health";
-import { lifestyle } from "@/data/lifestyle";
-import { lifestyleHistory } from "@/history/lifestyle";
-import { technology } from "@/data/technology";
-import { technologyHistory } from "@/history/technology";
-export const navLinks = [
+import { data } from "@/data";
+import { history } from "@/history";
+const { breaking, entertainment, health, lifestyle, technology } = data;
+const {
+  breakingHistory,
+  entertainmentHistory,
+  healthHistory,
+  lifestyleHistory,
+  technologyHistory,
+} = history;
+const navLinks = [
   "breaking",
   "entertainment",
   "health",

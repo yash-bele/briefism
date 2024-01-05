@@ -5,10 +5,10 @@ import { data } from "@/data";
 const BannerGrid = () => {
   return (
     <section className="h-[calc(2*384px)] lg:h-96 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 grid-rows-5 sm:grid-rows-4 lg:grid-rows-2 gap-2.5 rounded-xl overflow-hidden">
-      {data.breaking.slice(0, 5).map((i, j) => (
+      {data.breaking.map((i, j) => (
         <Link
           key={i.id}
-          href={`breaking/${i.id}`}
+          href={`/breaking/${i.id}`}
           className={`relative group w-full h-full rounded-lg overflow-hidden ${
             j === 0 && "sm:col-span-2 sm:row-span-2"
           }`}
@@ -36,7 +36,7 @@ const BannerGrid = () => {
               </h3>
               {j === 0 && (
                 <p className="text-sm text-slate-300 mt-0.5 hidden sm:block">
-                  {i.preArticle.substring(0, 250)}...
+                  {i.preArticle.substring(0, 175)}...
                 </p>
               )}
             </div>

@@ -1,13 +1,13 @@
-import { breaking } from "./breaking";
-import { entertainment } from "./entertainment";
-import { health } from "./health";
-import { lifestyle } from "./lifestyle";
-import { technology } from "./technology";
+import { breakingHistory } from "./breaking";
+import { entertainmentHistory } from "./entertainment";
+import { healthHistory } from "./health";
+import { lifestyleHistory } from "./lifestyle";
+import { technologyHistory } from "./technology";
 
 export const history = {
-  breaking,
-  entertainment,
-  health,
-  lifestyle,
-  technology,
+  breakingHistory,
+  entertainmentHistory,
+  healthHistory,
+  lifestyleHistory,
+  technologyHistory,
 };

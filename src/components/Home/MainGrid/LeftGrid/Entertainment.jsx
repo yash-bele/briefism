@@ -1,6 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
+import { entertainment } from "@/data/entertainment";
+import { entertainmentHistory } from "@/history/entertainment";
+const concatData = [...entertainment, ...entertainmentHistory];
 
 const Entertainment = ({ entertainment }) => {
   return (
@@ -10,7 +13,7 @@ const Entertainment = ({ entertainment }) => {
       </h2>
       <div className="flex flex-col lg:grid grid-cols-2 gap-2.5 lg:gap-5">
         <section className="grid grid-rows-3 gap-2.5 h-[calc(384px/2)] lg:h-auto">
-          {entertainment.slice(0, 1).map((i, j) => (
+          {concatData.slice(0, 1).map((i, j) => (
             <Link
               key={i.id}
               href={`/entertainment/${i.id}`}
@@ -39,7 +42,7 @@ const Entertainment = ({ entertainment }) => {
           ))}
         </section>
         <section className="flex flex-col sm:grid grid-rows-3 gap-2.5">
-          {entertainment.slice(1, 4).map((i, j) => (
+          {concatData.slice(1, 4).map((i, j) => (
             <article
               key={i.id}
               className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${

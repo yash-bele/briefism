@@ -1,6 +1,15 @@
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
 import { data } from "@/data";
+import { history } from "@/history";
+const { breaking, entertainment, health, lifestyle, technology } = data;
+const {
+  breakingHistory,
+  entertainmentHistory,
+  healthHistory,
+  lifestyleHistory,
+  technologyHistory,
+} = history;
 
 const LeftSide = () => {
   return (
@@ -10,7 +19,7 @@ const LeftSide = () => {
           <Link href="/breaking">breaking</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.breaking.slice(0, 5).map((i, j) => (
+          {[...breaking, ...breakingHistory].slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -24,7 +33,7 @@ const LeftSide = () => {
                   <span className="text-xs">{i.timestamp}</span>
                 </div>
                 <Link href={`/breaking/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
+                  <h3 className="text-sm break-all">{`${i.title}`}</h3>
                 </Link>
               </div>
             </article>
@@ -36,25 +45,27 @@ const LeftSide = () => {
           <Link href="/entertainment">entertainment</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.entertainment.slice(0, 5).map((i, j) => (
-            <article
-              key={i.id}
-              style={{ paddingTop: j === 0 && 0 }}
-              className={`flex items-center border-t border-slate-400 border-dashed pt-2.5 ${
-                j === 0 && "border-none"
-              }`}
-            >
-              <div className="w-full">
-                <div className="flex items-center space-x-1 font-normal text-slate-400 mb-0.5">
-                  <IoIosTimer />
-                  <span className="text-xs">{i.timestamp}</span>
+          {[...entertainment, ...entertainmentHistory]
+            .slice(0, 5)
+            .map((i, j) => (
+              <article
+                key={i.id}
+                style={{ paddingTop: j === 0 && 0 }}
+                className={`flex items-center border-t border-slate-400 border-dashed pt-2.5 ${
+                  j === 0 && "border-none"
+                }`}
+              >
+                <div className="w-full">
+                  <div className="flex items-center space-x-1 font-normal text-slate-400 mb-0.5">
+                    <IoIosTimer />
+                    <span className="text-xs">{i.timestamp}</span>
+                  </div>
+                  <Link href={`/entertainment/${i.id}`}>
+                    <h3 className="text-sm break-all">{`${i.title}`}</h3>
+                  </Link>
                 </div>
-                <Link href={`/entertainment/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
-                </Link>
-              </div>
-            </article>
-          ))}
+              </article>
+            ))}
         </div>
       </section>
       <section>
@@ -62,7 +73,7 @@ const LeftSide = () => {
           <Link href="/health">health</Link>
         </h2>
         <div className="space-y-2.5">
-          {data.health.slice(0, 5).map((i, j) => (
+          {[...health, ...healthHistory].slice(0, 5).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -76,7 +87,7 @@ const LeftSide = () => {
                   <span className="text-xs">{i.timestamp}</span>
                 </div>
                 <Link href={`/health/${i.id}`}>
-                  <h3 className="text-sm break-all">{i.title}</h3>
+                  <h3 className="text-sm break-all">{`${i.title}`}</h3>
                 </Link>
               </div>
             </article>

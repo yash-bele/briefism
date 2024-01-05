@@ -9,7 +9,7 @@ const concatData = [...technology, ...technologyHistory];
 export async function generateMetadata({ params }) {
   const datum = concatData.find((i) => i.id === params.id);
   return {
-    title: `${datum.title} - Briefism`,
+    title: `${datum.title} | Briefism`,
     description: datum.preArticle,
   };
 }
@@ -37,7 +37,7 @@ const Id = ({ params }) => {
         </div>
         {/* Main */}
         <article>
-          <h1 className="text-2xl text-slate-600">
+          <h1 className="text-xl sm:text-2xl text-slate-600">
             {datum.title}{" "}
             <time className="text-sm">{`(${datum.timestamp})`}</time>
           </h1>
