@@ -53,9 +53,9 @@ export const breaking = [
         and users.
         <br />
         <br />
-        An officer stated, &quot;We haven't received an official complaint from
-        the firm yet. We have received complaints about Telegram channels and
-        phony cryptocurrency platforms. We filed FIRs and will look into the
+        An officer stated, &quot;We haven&apos;t received an official complaint
+        from the firm yet. We have received complaints about Telegram channels
+        and phony cryptocurrency platforms. We filed FIRs and will look into the
         situation. Many cryptocurrency portals and platforms defraud people who
         invest in Bitcoin. People take advantage of the lack of regulations
         surrounding cryptocurrencies and defraud investors.&quot;
