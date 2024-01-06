@@ -15,14 +15,15 @@ export const entertainment = [
       <div className="space-y-5">
         <p>
           Rumors of a new album were refuted by Britney Spears, who declared
-          that she would "never return to the music industry." Spears mentioned
-          in her Instagram post on Wednesday that she is still writing songs,
-          but it is just for other people.
+          that she would &quot;never return to the music industry.&quot; Spears
+          mentioned in her Instagram post on Wednesday that she is still writing
+          songs, but it is just for other people.
         </p>
         <p>
-          "When I write, I write for fun or I write for other people !!!" she
-          wrote. "I've written over 20 songs for other people the past two years
-          !!! I'm a ghostwriter and I honestly enjoy it that way !!!"
+          &quot;When I write, I write for fun or I write for other people
+          !!!&quot; she wrote. &quot;I&apos;ve written over 20 songs for other
+          people the past two years !!! I&apos;m a ghostwriter and I honestly
+          enjoy it that way !!!&quot;
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
@@ -35,9 +36,9 @@ export const entertainment = [
           />
         </div>
         <p>
-          Her scathing Instagram post, "I'm turning to random people to do a new
-          album," was accompanied by a picture of a Guido Reni painting
-          depicting Salome clutching John the Baptist's head.
+          Her scathing Instagram post, &quot;I&apos;m turning to random people
+          to do a new album,&quot; was accompanied by a picture of a Guido Reni
+          painting depicting Salome clutching John the Baptist&apos;s head.
         </p>
         <p>
           Spears has previously stated that she will no longer be releasing her
@@ -53,17 +54,17 @@ export const entertainment = [
           family.
         </p>
         <p>
-          However, in 2022, she dropped the single "Hold Me Closer," a joint
-          effort with Elton John, which peaked at No. 6 and remained on the
-          Billboard Hot 100 chart for 20 weeks. The single "Mind Your Business,"
-          which featured will.i.am, was not included in the Hot 100 and received
-          negative reviews. 2016's "Glory" was Spears' most recent full-length
-          album.
+          However, in 2022, she dropped the single &quot;Hold Me Closer,&quot; a
+          joint effort with Elton John, which peaked at No. 6 and remained on
+          the Billboard Hot 100 chart for 20 weeks. The single &quot;Mind Your
+          Business,&quot; which featured will.i.am, was not included in the Hot
+          100 and received negative reviews. 2016&apos;s &quot;Glory&quot; was
+          Spears&apos; most recent full-length album.
         </p>
         <p>
-          Spears said in the Wednesday post that it was "far from the truth"
-          that her best-selling memoir from 2023, "The Woman In Me," was
-          published without her consent.
+          Spears said in the Wednesday post that it was &quot;far from the
+          truth&quot; that her best-selling memoir from 2023, &quot;The Woman In
+          Me,&quot; was published without her consent.
         </p>
       </div>
     ),
@@ -79,10 +80,11 @@ export const entertainment = [
         police drama.`,
     article: (
       <>
-        Recently, Ranbir Kapoor's appearance in an advertisement while wearing a
-        police uniform raised rumors that he might be starring in a Rohit Shetty
-        police drama. Fans are buzzing about this advertisement and are
-        wondering if the actor from "Brahmastra" will join the police world.
+        Recently, Ranbir Kapoor&apos;s appearance in an advertisement while
+        wearing a police uniform raised rumors that he might be starring in a
+        Rohit Shetty police drama. Fans are buzzing about this advertisement and
+        are wondering if the actor from &quot;Brahmastra&quot; will join the
+        police world.
         <br />
         <br />
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">

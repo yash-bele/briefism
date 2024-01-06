@@ -26,7 +26,7 @@ export const health = [
           the founder and director of the Ujala Cygnus Group of Hospitals.
         </p>
         <div className="space-y-1">
-          <span className="text-xl">Oats' Health Benefits</span>
+          <span className="text-xl">Oats&apos; Health Benefits</span>
           <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
             <li>
               Heart health: Beta-glucans, a soluble fiber type found in oats,
@@ -44,8 +44,8 @@ export const health = [
               encourages fullness, which helps with weight management.
             </li>
             <li>
-              Weight management: Oats' high fiber content, which helps regulate
-              appetite, can aid in weight loss and management.
+              Weight management: Oats&apos; high fiber content, which helps
+              regulate appetite, can aid in weight loss and management.
             </li>
             <li>
               Absorption of nutrients: Oats are a good source of vitamins,
@@ -59,7 +59,7 @@ export const health = [
           </ul>
         </div>
         <div className="space-y-1">
-          <span className="text-xl">Oats' nutritional profile:</span>
+          <span className="text-xl">Oats&apos; nutritional profile:</span>
           <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
             <li>Fat: 6.9 grams</li>
             <li>Protein: 16.89 grams</li>
