@@ -51,7 +51,8 @@ const Id = ({ params }) => {
               className="object-cover object-center"
             />
           </div>
-          <div className="text-sm">{datum.article}</div>
+          <article className="text-sm">{datum.article}</article>
+          <div className="list-outside list-disc marker:text-slate-400 ml-4" />
         </article>
       </section>
       <RightSide />
