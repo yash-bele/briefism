@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { MdKeyboardArrowDown } from "react-icons/md";
 
 const Footer = () => {
@@ -17,11 +18,8 @@ const Footer = () => {
           <div>
             <span>Quicklink</span>
             <ul className="text-slate-400 border-l md:border-l-0 border-l-slate-400 pl-3 md:pl-0 overflow-hidden duration-200 mt-1.5">
-              <li
-                // onClick={() => navigate("/about-us")}
-                className="duration-200 cursor-pointer hover:text-white border-b border-b-transparent hover:border-b-red-400 w-fit"
-              >
-                About us
+              <li className="duration-200 cursor-pointer hover:text-white border-b border-b-transparent hover:border-b-red-400 w-fit">
+                <Link href="/about-us">About us</Link>
               </li>
             </ul>
           </div>
@@ -34,24 +32,18 @@ const Footer = () => {
         </section>
         <section className="text-slate-400 space-y-1 md:space-y-0 text-sm md:flex items-center md:divide-x">
           <p className="md:pr-3">© 2024 Briefism. All rights reserved</p>
-          <p
-            // onClick={() => navigate("/reserved-rights/terms-&-conditions")}
-            className="border-b border-b-transparent hover:border-b-red-500 duration-200 w-fit cursor-pointer hover:text-white md:px-3"
+          <Link
+            href="/terms-and-conditions"
+            className="block border-b border-b-transparent hover:border-b-red-500 duration-200 w-fit cursor-pointer hover:text-white md:px-3"
           >
-            Terms of Use
-          </p>
-          <p
-            // onClick={() => navigate("/reserved-rights/key-risks")}
-            className="border-b border-b-transparent hover:border-b-red-500 duration-200 w-fit cursor-pointer hover:text-white md:px-3"
-          >
-            Key Risks
-          </p>
-          <p
-            // onClick={() => navigate("/reserved-rights/privacy-policy")}
-            className="border-b border-b-transparent hover:border-b-red-500 duration-200 w-fit cursor-pointer hover:text-white md:pl-3"
+            Terms & Conditions
+          </Link>
+          <Link
+            href="/privacy-policy"
+            className="block border-b border-b-transparent hover:border-b-red-500 duration-200 w-fit cursor-pointer hover:text-white md:pl-3"
           >
             Privacy Policy
-          </p>
+          </Link>
         </section>
         <div className="h-px bg-slate-700"></div>
         <p className="text-slate-400 text-xs leading-normal">

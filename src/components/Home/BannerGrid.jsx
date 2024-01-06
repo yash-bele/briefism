@@ -1,11 +1,12 @@
 import Link from "next/link";
 import Image from "next/image";
-import { data } from "@/data";
+import { breaking } from "@/data/breaking";
+import { breakingHistory } from "@/history/breaking";
 
 const BannerGrid = () => {
   return (
     <section className="h-[calc(2*384px)] lg:h-96 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 grid-rows-5 sm:grid-rows-4 lg:grid-rows-2 gap-2.5 rounded-xl overflow-hidden">
-      {data.breaking.map((i, j) => (
+      {[...breaking, ...breakingHistory].map((i, j) => (
         <Link
           key={i.id}
           href={`/breaking/${i.id}`}

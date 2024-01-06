@@ -51,7 +51,7 @@ const Id = ({ params }) => {
               className="object-cover object-center"
             />
           </div>
-          <div className="text-sm">{datum.article}</div>
+          <article className="text-sm">{datum.article}</article>
         </article>
       </section>
       <RightSide />

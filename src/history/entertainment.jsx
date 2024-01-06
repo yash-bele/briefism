@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export const entertainmentHistory = [
   // week-jan-02-2024
   // 1

@@ -3,15 +3,14 @@ import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
 import { lifestyle } from "@/data/lifestyle";
 import { lifestyleHistory } from "@/history/lifestyle";
-const concatData = [...lifestyle, ...lifestyleHistory];
 
-const Lifestyle = ({ lifestyle }) => {
+const Lifestyle = () => {
   return (
     <section className="space-y-2.5">
       <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
         <Link href="/lifestyle">lifestyle</Link>
       </h2>
-      {concatData.slice(0, 3).map((i, j) => (
+      {[...lifestyle, ...lifestyleHistory].slice(0, 3).map((i, j) => (
         <article key={i.id} className="flex items-center h-20 space-x-2.5">
           <Link
             href={`/lifestyle/${i.id}`}

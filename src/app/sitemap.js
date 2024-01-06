@@ -1,5 +1,14 @@
 import { data } from "@/data";
 import { history } from "@/history";
+const baseUrl = "https://www.briefism.com";
+const footerLinks = ["about-us", "privacy-policy", "terms-and-conditions"];
+const navLinks = [
+  "breaking",
+  "entertainment",
+  "health",
+  "lifestyle",
+  "technology",
+];
 const { breaking, entertainment, health, lifestyle, technology } = data;
 const {
   breakingHistory,
@@ -8,42 +17,39 @@ const {
   lifestyleHistory,
   technologyHistory,
 } = history;
-const navLinks = [
-  "breaking",
-  "entertainment",
-  "health",
-  "lifestyle",
-  "technology",
-];
 
 export default function sitemap() {
   return [
     {
-      url: `https://www.briefism.com`,
+      url: baseUrl,
     },
 
+    ...footerLinks.map((i) => ({
+      url: `${baseUrl}/${i}`,
+    })),
+
     ...navLinks.map((i) => ({
-      url: `https://www.briefism.com/${i}`,
+      url: `${baseUrl}/${i}`,
     })),
 
     ...[...breaking, ...breakingHistory].map((i) => ({
-      url: `https://www.briefism.com/breaking/${i.id}`,
+      url: `${baseUrl}/breaking/${i.id}`,
     })),
 
     ...[...entertainment, ...entertainmentHistory].map((i) => ({
-      url: `https://www.briefism.com/entertainment/${i.id}`,
+      url: `${baseUrl}/entertainment/${i.id}`,
     })),
 
     ...[...health, ...healthHistory].map((i) => ({
-      url: `https://www.briefism.com/health/${i.id}`,
+      url: `${baseUrl}/health/${i.id}`,
     })),
 
     ...[...lifestyle, ...lifestyleHistory].map((i) => ({
-      url: `https://www.briefism.com/lifestyle/${i.id}`,
+      url: `${baseUrl}/lifestyle/${i.id}`,
     })),
 
     ...[...technology, ...technologyHistory].map((i) => ({
-      url: `https://www.briefism.com/technology/${i.id}`,
+      url: `${baseUrl}/technology/${i.id}`,
     })),
   ];
 }

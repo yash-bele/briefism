@@ -1,447 +1,224 @@
 export const breaking = [
-  // jan-05-2024
+  // jan-06-2024
   // 1
   {
-    id: "crypto-firm-warns-that-fake-companies-fraudulently-using-its-name-to-scam-people-police-are-investigating-the-situation",
-    timestamp: "Jan 05, 2024",
+    id: "us-claims-russia-employed-north-korean-missiles-in-attacks-on-ukraine",
+    timestamp: "Jan 06, 2024",
     image:
-      "/jan-05-2024/crypto-firm-warns-that-fake-companies-fraudulently-using-its-name-to-scam-people-police-are-investigating-the-situation.jpg",
-    title: `Crypto firm warns that fake companies fraudulently using its name to scam people; Police are investigating the situation`,
-    preArticle: `Dozens of "fake" websites and mobile applications that purport to
-        defraud people out of their cryptocurrency investments are the subject
-        of an investigation by the Delhi Police. Although no one has
-        been taken into custody as of yet, police stated that they have combined
-        numerous complaints from the Special Cell, cyber cells, and the National
-        Cybercrime Reporting Portal.`,
+      "/jan-06-2024/us-claims-russia-employed-north-korean-missiles-in-attacks-on-ukraine.jpeg",
+    title: `US Claims Russia Employed North Korean Missiles in Attacks on Ukraine`,
+    preArticle: `In a significant show of support for Moscow, North Korea has given
+        Russia ballistic missiles and missile launchers that were utilized in
+        recent attacks on Ukraine, the White House announced on Thursday.`,
     article: (
       <>
-        Dozens of &quot;fake&quot; websites and mobile applications that purport
-        to defraud people out of their cryptocurrency investments are the
-        subject of an investigation by the Delhi Police. Although no one has
-        been taken into custody as of yet, police stated that they have combined
-        numerous complaints from the Special Cell, cyber cells, and the National
-        Cybercrime Reporting Portal.
+        In a significant show of support for Moscow, North Korea has given
+        Russia ballistic missiles and missile launchers that were utilized in
+        recent attacks on Ukraine, the White House announced on Thursday.
         <br />
         <br />
-        Police said on Tuesday that they had filed a formal complaint against a
-        cryptocurrency investment company. The platform CoinDCX is mentioned in
-        the last-month-registered FIR.
+        Russia is reportedly in need of missiles from its ally Iran because,
+        almost two years after President Vladimir Putin&apos;s invasion of
+        Ukraine, it is out of supplies. According to National Security Council
+        spokesman John Kirby, Russia launched two strikes on Ukraine in the last
+        week using missiles supplied by Pyongyang that have a range of about 900
+        kilometers.
         <br />
         <br />
-        However, CoinDCX stated that the current situation involved
-        &quot;fraudulent websites/URLs&quot; impersonating the CoinDCX exchange.
+        During a briefing at the White House, Kirby informed reporters,
+        &quot;Our information indicates that the Democratic People&apos;s
+        Republic of Korea recently provided Russia with ballistic missile
+        launchers and several ballistic missiles.&quot; &quot;This is a major
+        and worrisome increase in the DPRK&apos;s backing of Russia.&quot;
         <br />
         <br />
-        When a 24-year-old Chattarpur engineer tried to withdraw the nearly Rs
-        14 lakh he had invested using the app last month, he was prompted to
-        transfer an additional Rs 4.65 lakh, from which tax would be withheld.
-        Additional complainants claimed they were &quot;forced&quot; to pay more
-        in order to receive a refund.
+        The event demonstrated how urgently the US Congress must approve a
+        package of crucial military aid for Ukraine, or else the supply of
+        assistance will quickly run out, Kirby continued. He declared that
+        Ukraine&apos;s air defenses were &quot;absolutely&quot; a priority,
+        given that the country has recently been the target of numerous aerial
+        attacks by Russia. Congress must convene immediately and act to give the
+        Ukrainian people the tools they need to defend themselves.
         <br />
         <br />
-        According to the company, the incident was the result of a phony website
-        scam and had nothing to do with the CoinDCX app or website.
-        &quot;It&apos;s important to note that a number of fraudulent websites
-        and URLs are posing as financial apps in an attempt to trick users—a
-        problem that many fintech companies and financial applications,
-        including cryptocurrency apps, must deal with. We have quickly notified
-        CERT of these threats. A company spokesperson stated, &quot;Our
-        compliance team met with representatives from MeiTY and I4C, gave them
-        the list of misleading websites, and we are asking for their help in
-        taking them down. The company went on to say that over 100 phony
-        profiles had been made using its name in an attempt to trick investors
-        and users.
-        <br />
-        <br />
-        An officer stated, &quot;We haven&apos;t received an official complaint
-        from the firm yet. We have received complaints about Telegram channels
-        and phony cryptocurrency platforms. We filed FIRs and will look into the
-        situation. Many cryptocurrency portals and platforms defraud people who
-        invest in Bitcoin. People take advantage of the lack of regulations
-        surrounding cryptocurrencies and defraud investors.&quot;
+        <div className="flex flex-col space-y-2">
+          <span className="text-xl">Escalating Attacks</span>
+          <span>
+            As it constitutes a violation of UN sanctions against North Korea,
+            the US and its allies will now bring up the issue at the UN Security
+            Council, according to Kirby. The use of North Korean missiles by
+            Russia has drawn strong condemnation from Britain.
+          </span>
+          <span>
+            &quot;Russia is pursuing its misguided and cynical military
+            objectives in Ukraine by looking to North Korea for its armaments.
+            This is an indication of its desperation and a symptom of its
+            isolation on the international scene&quot;, according to a Foreign
+            Office statement. It further stated that North Korea would pay a
+            &quot;high price&quot; for breaking UN sanctions.
+          </span>
+          <span>
+            According to Kirby, negotiations are ongoing to acquire close-range
+            ballistic missiles, but no deal has been reached. Russia also plans
+            to buy missiles from its ally Iran.
+          </span>
+          <span>
+            Although it was the first time the US had acknowledged the use of
+            such weapons, the US said in October that North Korea had shipped
+            more than 1,000 containers filled with armaments and military
+            hardware to Russia. After meeting with Putin in September in the far
+            east of Russia, North Korean leader Kim Jong Un alarmed Kyiv&apos;s
+            allies by raising the prospect of an arms deal.
+          </span>
+          <span>
+            Following an unprecedented attack on the Russian city of Belgorod
+            over the weekend, Putin, who began his invasion of Ukraine in
+            February 2022, pledged to step up his sanctions against the country.
+            According to Kyiv, the most recent attacks highlight the necessity
+            for Western allies to expedite the delivery of long-range missiles,
+            combat drones, and air defense systems.
+          </span>
+          <span>
+            In his New Year&apos;s speech last week, Ukrainian President
+            Volodymyr Zelensky threatened to exact &quot;wrath&quot; on Russian
+            forces in 2024, a warning that Kyiv has increased domestic
+            production.
+          </span>
+        </div>
       </>
     ),
   },
   // 2
   {
-    id: "noida-mall-rape-case-police-invoke-gangster-act-against-scrap-dealer-seize-properties-valued-at-rs-100-crore",
-    timestamp: "Jan 05, 2024",
+    id: "meet-willis-gibson-the-13-year-old-american-teenager-who-achieved-a-historic-gaming-victory-in-tetris",
+    timestamp: "Jan 06, 2024",
     image:
-      "/jan-05-2024/noida-mall-rape-case-police-invoke-gangster-act-against-scrap-dealer-seize-properties-valued-at-rs-100-crore.jpg",
-    title: `Noida mall rape case: Police invoke Gangster Act against scrap dealer; seize properties valued at Rs 100 crore`,
-    preArticle: `The accused, 45-year-old scrap dealer Ravi Nagar, also known as Ravi
-        Kana, and his gang, are being targeted by Gautam Buddha Nagar Police,
-        following a complaint filed by a 25-year-old woman claiming she was
-        gangraped in the Gardens Galleria Mall parking lot in June of last year.`,
+      "/jan-06-2024/meet-willis-gibson-the-13-year-old-american-teenager-who-achieved-a-historic-gaming-victory-in-tetris.webp",
+    title: `Meet Willis Gibson, the 13-year-old American teenager who achieved a historic gaming victory in Tetris`,
+    preArticle: `In a historic accomplishment, 13-year-old Willis Gibson, popularly known
+        as "blue scuti," has become the first person to reach the
+        elusive "kill screen" in the Tetris game for Nintendo.`,
     article: (
       <>
-        The accused, 45-year-old scrap dealer Ravi Nagar, also known as Ravi
-        Kana, and his gang, are being targeted by Gautam Buddha Nagar Police,
-        following a complaint filed by a 25-year-old woman claiming she was
-        gangraped in the Gardens Galleria Mall parking lot in June of last year.
-        Teams have been assembled to apprehend Kana, but on Wednesday, the
-        Greater Noida police sealed his properties, which are valued at Rs 100
-        crore.
+        In a historic accomplishment, 13-year-old Willis Gibson, popularly known
+        as &quot;blue scuti,&quot; has become the first person to reach the
+        elusive &quot;kill screen&quot; in the Tetris game for Nintendo. Prior
+        to this, it was believed that artificial intelligence could only
+        accomplish this feat. Willis captured the intense moment when he pushed
+        the iconic computer game to its limits in an engrossing over 40-minute
+        video that was posted to YouTube this week, documenting his incredible
+        feat.
         <br />
         <br />
-        The woman claimed she was threatened by the accused and was unable to
-        file the complaint until December 30. The men used the guise of a job to
-        entice her. She went to the police when they began using the
-        incident&apos;s videos as blackmail. Kana was one of five men named in a
-        gangrape lawsuit. There are three men in custody: Rajkumar Nagar, Azad
-        Nagar, and Vikas.
+        Willis&apos; video&apos;s poignant finale contrasts sharply with the
+        preceding thirty-five minutes of intense gameplay. Despite his fast
+        finger movements on the controller, the competitive gamer from Oklahoma
+        handled the falling blocks with poise. The Tetris community, comprising
+        players from both online and live tournaments, praised this historic
+        achievement, describing it as something that many had previously thought
+        was impossible.
         <br />
         <br />
-        Following this incident, police began investigating Kana&apos;s other
-        endeavors. The UP Gangsters and Anti-Social Activities (Prevention) Act,
-        1986 has been used to charge Kana, his gang members, and his wife, per
-        the directives of Gautam Buddha Nagar Police Commissioner Laxmi Singh.
-        Anil was the man who was arrested in this instance.
+        Vince Clemente, President of the Classic Tetris World Championship, said
+        of Willis&apos; accomplishment, &quot;It&apos;s never been done by a
+        human before.&quot; It is essentially something that, until a few years
+        ago, everyone believed to be impossible.&quot; A Soviet software
+        engineer created the game Tetris, which requires players to rotate and
+        manipulate falling blocks to form solid lines inside of boxes. Players
+        have tested the game&apos;s boundaries over time, finding ways to
+        advance past what was initially thought to be the game&apos;s endpoint.
         <br />
         <br />
-        A combined team from the Beta 2 and Ecotech 1 police stations raided
-        factories connected to Kana on Tuesday, according to DCP (Greater Noida)
-        Saad Miya Khan. Raids at Shri Krishna Steels and Prime Processing Tools
-        Private Limited resulted in the sealing of 20 empty trucks, 10 computers
-        with printers, 3 motorcycles, 2 tractors, and 2 trucks loaded with
-        scrap. The sealed scrap material and additional items are valued at
-        approximately Rs 100 crore. Khan stated, &quot;The other accused in the
-        case will be arrested shortly.
+        <span className="text-xl">Cracking the code</span>
+        <br />
+        Because the blocks fell so quickly in Level 29, many people thought it
+        was the last challenge in the game. But new developments in gameplay
+        have made it possible for players to go beyond this point. When Willis
+        got to Level 157 on December 21, he dropped a piece that set off a
+        glitch that made the game freeze and a single line of blocks disappear.
+        For the first time, a player who wasn&apos;t a computer made it to the
+        elusive &quot;kill screen.&quot;
         <br />
         <br />
-        Kana used to work illegally as a scrap dealer for Anil Dujana, a
-        notorious gangster. However, weeks prior to Dujana&apos;s death in an
-        altercation with UP Police in May of last year, the two had a falling
-        out.
+        <span className="text-xl">
+          What is the &quot;kill screen&quot; in Tetris?
+        </span>
+        <br />
+        In Tetris, the &quot;kill screen&quot; refers to a stage where an error
+        occurs that stops the game from moving forward. On the Nintendo version,
+        Willis Gibson became the first person to reach this milestone.
         <br />
         <br />
-        It should be noted that following the shooting death of his brother
-        Harendra Pradhan in Greater Noida in February 2015, Kana was placed
-        under police protection. &quot;On July 25, 2023, his security was
-        removed following an investigation,&quot; stated Ashok Kumar, ADCP
-        (Greater Noida).
+        <span className="text-xl">
+          Why does Willis&apos; accomplishment matter?
+        </span>
         <br />
-        <br />
-        According to officials, Kana&apos;s gang would obstruct trucks that were
-        en route to construction sites and, working with the drivers, unload
-        rebar at a predetermined spot. &quot;They gained unjustified financial
-        advantages by offering traders rebar at market value. Additionally, by
-        threatening business owners, they would secure contracts for scrap
-        material at the desired rate, according to a senior police officer.
+        The accomplishment of Willis Gibson is noteworthy because he achieved a
+        level in Tetris that was previously believed to be exclusive to
+        artificial intelligence, setting new records.
       </>
     ),
   },
   // 3
   {
-    id: "unraveling-the-details-of-model-divya-pahujas-murder-in-gurugram",
-    timestamp: "Jan 05, 2024",
+    id: "houthi-drone-vessel-explodes-in-the-red-sea-following-us-alert",
+    timestamp: "Jan 06, 2024",
     image:
-      "/jan-05-2024/unraveling-the-details-of-model-divya-pahujas-murder-in-gurugram.webp",
-    title: `Unraveling the Details of Model Divya Pahuja's Murder in Gurugram`,
-    preArticle: `After being detained for almost seven years in relation to a gangster's
-        murder case, Divya Pahuja was free on bond.`,
+      "/jan-06-2024/houthi-drone-vessel-explodes-in-the-red-sea-following-us-alert.avif",
+    title: `Houthi Drone Vessel Explodes in the Red Sea Following US Alert`,
+    preArticle: `The U.S. Navy said that although a Houthi drone boat loaded with
+        explosives exploded in the Red Sea on Thursday, it did not result in any
+        damage or casualties. The Yemen-based group has been attacking despite
+        calls from other countries to cease.`,
     article: (
       <>
-        After being detained for almost seven years in relation to a
-        gangster&apos;s murder case, Divya Pahuja was free on bond.
+        The U.S. Navy said that although a Houthi drone boat loaded with
+        explosives exploded in the Red Sea on Thursday, it did not result in any
+        damage or casualties. The Yemen-based group has been attacking despite
+        calls from other countries to cease.
         <br />
         <br />
-        On Wednesday, Divya Pahuja, a 27-year-old woman suspected of being
-        involved in the purportedly staged encounter with notorious gangster
-        Sandeep Gadoli, was shot and killed in a hotel room close to the
-        Gurugram bus stop.
+        The most recent attack occurred one day after a group of 12 nations,
+        including the United States, Britain, and Japan, issued a statement
+        warning the Houthis that there would be &quot;consequences&quot; if they
+        continued their attacks. A U.S. official suggested on Wednesday that
+        this was the last warning.
         <br />
         <br />
-        Pahuja, a resident of Sector-7 in Gurugram&apos;s Baldev Nagar, was free
-        on bond following nearly seven years of detention in relation to
-        Gadoli&apos;s death. On February 7, 2016, the gangster was killed in a
-        Mumbai hotel. Pahuja, her mother, and five police officers were taken
-        into custody in connection with the gangster&apos;s murder.
+        Since November 19, the Houthis, who control a large portion of Yemen and
+        are aligned with Iran, have been firing waves of rockets and drones at
+        commercial ships in an apparent attempt to cause damage in response to
+        Israel&apos;s military actions in Gaza.
         <br />
         <br />
-        According to the Mumbai Police, Gadoli&apos;s girlfriend Pahuja assisted
-        the police officers in luring him into the hotel. In addition, the
-        police claimed that Virendra Kumar, also known as Binder Gujjar, was the
-        leader of an opposing gang and had plotted Gadoli&apos;s death with
-        Haryana Police officers.
+        International shipping has been severely disrupted by the Houthi
+        campaign; as a result, some companies have decided to forgo transits
+        through the Red Sea in favor of the more expensive and time-consuming
+        route around Africa.
         <br />
         <br />
-        <div className="flex flex-col space-y-2">
-          <span className="text-xl">
-            What is known about the murder case of Divya Pahuja is as follows:
-          </span>
-          <ul className="space-y-2">
-            <li>
-              <span className="font-normal">*</span> Pahuja&apos;s death was
-              discovered when her sister Naina went to the police, believing
-              there had been foul play, after her family was unable to get in
-              touch with her. She reported to the police that her sister had
-              last been seen at a hotel in the city that was owned by
-              56-year-old Abhijeet Singh.
-            </li>
-            <li>
-              <span className="font-normal">*</span> When a police squad finally
-              made it to the hotel late on Tuesday night, they discovered
-              bloodstains on the staircase. After watching two men drag a body
-              covered in a bed sheet toward the hotel&apos;s main entrance and
-              load it into a blue BMW, the team looked through the hotel&apos;s
-              security footage.
-            </li>
-            <li>
-              <span className="font-normal">*</span> &quot;The crime was
-              discovered when the police looked through the hotel&apos;s CCTV
-              footage. An investigation has been started, and the situation has
-              been documented. The matter is being investigated by the crime
-              team as well&quot;, Superintendent of Police Mukesh Kumar told
-              PTI.
-            </li>
-            <li>
-              <span className="font-normal">*</span> The police claimed that
-              Pahuja was extorting money from Singh. He reported to the police
-              that shortly after Pahuja&apos;s release, she started blackmailing
-              him and that she had some of his private photos.
-            </li>
-            <li>
-              <span className="font-normal">*</span> &quot;Singh disclosed that
-              he had met her Tuesday evening in a hotel room. He attempted to
-              remove the photos from her phone, but was unable to do so because
-              the phone was password-protected. After a furious dispute, Singh
-              shot and killed her&quot;, according to ACP Kumar.
-            </li>
-          </ul>
-        </div>
-        <br />
-        In relation to the case, Singh and two of his employees, Hemraj and Om
-        Prakash, have been taken into custody by the Gurugram Police. As of yet,
-        the body has eluded the police.
-      </>
-    ),
-  },
-  // 4
-  {
-    id: "controversy-arises-as-jitendra-awhad-comment-lord-ram-was-a-non-vegetarian-ruler-and-the-king-of-bahujan",
-    timestamp: "Jan 05, 2024",
-    image:
-      "/jan-05-2024/controversy-arises-as-jitendra-awhad-comment-lord-ram-was-a-non-vegetarian-ruler-and-the-king-of-bahujan.webp",
-    title: `Controversy arises as Jitendra Awhad comment, "Lord Ram was a non-vegetarian ruler and the king of Bahujan"`,
-    preArticle: `NCP (Sharad Pawar faction) leader Jitendra Awhad questioned how Lord
-        Ram, a vegetarian, could have survived in the jungle for fourteen years.`,
-    article: (
-      <>
-        NCP (Sharad Pawar faction) leader Jitendra Awhad questioned how Lord
-        Ram, a vegetarian, could have survived in the jungle for fourteen years.
+        The head of U.S. naval forces in the Middle East, Vice Admiral Brad
+        Cooper, informed reporters on Thursday that the Houthi explosive boat
+        penetrated about 50 miles (80 km) into the Red Sea before exploding in
+        crowded shipping lanes.
         <br />
         <br />
-        The BJP has demanded that January 22, the day of the consecration of the
-        Ram Temple in Ayodhya, be declared a dry day and that all non-vegetarian
-        food be banned. Maharashtra leader Jitendra Awhad&apos;s remark that
-        Lord Ram was never a vegetarian because he couldn&apos;t live in the
-        jungle for 14 years as a vegetarian has sparked a major controversy in
-        the state. According to the Nationalist Congress Party MLA (Sharad Pawar
-        faction), Lord Ram was a hunter and a Bahujan who did not follow a
-        vegetarian diet. &quot;We forget everything in politics and don&apos;t
-        read history. We own Ram. Of us Bahujans. Who used to hunt to eat… Ram
-        was never a vegetarian. He was a non-vegetarian&quot;. Jitendra Awhad
-        questioned &quot;how a man who spent 14 years living in the bush could
-        continue to be a vegetarian&quot;.
+        &quot;We all watched as it exploded, coming within a couple of miles of
+        ships operating in the area, merchant ships and U.S. Navy ships,&quot;
+        Cooper said reporters, adding that it was unclear what the attack&apos;s
+        precise target was.
         <br />
         <br />
-        Shiv Sena&apos;s Saamana newspaper would have criticized the &apos;Ram
-        non-vegetarian&apos; remark if Balasaheb Thackeray had been alive,
-        according to BJP MLA Ram Kadam. &quot;But in the actual world of today,
-        the Uddhav Sena does not seem to mind if someone makes fun of Hindus.
-        They are apathetic and as frigid as ice. However, they will bring up
-        Hindutva when the election time comes.&quot; Thursday, Ram Kadam posted
-        a tweet.
+        Cooper stated that &quot;there are no signs that their irresponsible
+        behavior is abating.&quot; The Houthis have now launched 25 attacks
+        against merchant vessels that are navigating the southern Red Sea and
+        the Gulf of Aden.
         <br />
         <br />
-        Ram Kadam demanded in a letter to Chief Minister Eknath Shinde that
-        January 22 be set aside as a vegetarian and dry day.
-        <br />
-        <br />
-        Jitendra Awhad responded to the controversy his remark caused by asking,
-        &quot;What is the controversy about what did Lord Ram eat? There was no
-        rice back then, but someone will say that Lord Ram used to eat
-        methi-bhaji, or fritters made from fenugreek leaves. Because Kshatriyas
-        are not vegetarians, Lord Ram was a Kshatriya. I wholeheartedly support
-        what I said. In addition to being non-vegetarians, 80% of Indians are
-        followers of Lord Ram&quot;, Jitendra Awhad said.
-        <br />
-        <br />
-        Priest Acharya Satyendra Das, the chief priest of Shri Ram Janambhoomi
-        Teerth Kshetra, refuted Awhad&apos;s claim, stating that scriptures
-        record that Lord Ram ate fruits when he was in exile. &quot;Jitendra
-        Awhad, the leader of the NCP, is saying things that are wholly untrue.
-        Nowhere in our scriptures is it mentioned that Lord Ram ate
-        non-vegetarian food while he was in exile. It states that he once
-        consumed fruits. It is not right for such a liar to disparage our Lord
-        Ram. Our God was a vegetarian from the beginning. He is insulting our
-        Lord Ram by using derogatory language,&quot; the priest remarked.
-      </>
-    ),
-  },
-  // 5
-  {
-    id: "unveiling-the-enigma-of-jeffrey-epstein-exploring-the-unsealed-documents-that-have-stirred-controversy",
-    timestamp: "Jan 05, 2024",
-    image:
-      "/jan-05-2024/unveiling-the-enigma-of-jeffrey-epstein-exploring-the-unsealed-documents-that-have-stirred-controversy.webp",
-    title: `Unveiling the Enigma of Jeffrey Epstein: Exploring the Unsealed Documents That Have Stirred Controversy"`,
-    preArticle: `The names of friends and inner circle members of disgraced financier and
-        sexual offender Jeffrey Epstein, who passed away in jail in 2019 while
-        awaiting federal sex-trafficking charges, were revealed in nearly 1,000
-        pages of court records that had previously been redacted.`,
-    article: (
-      <>
-        The names of friends and inner circle members of disgraced financier and
-        sexual offender Jeffrey Epstein, who passed away in jail in 2019 while
-        awaiting federal sex-trafficking charges, were revealed in nearly 1,000
-        pages of court records that had previously been redacted. The records
-        were unsealed on Wednesday. The expected revelations have generated a
-        lot of buzz and speculation. CNN reported on what is known about the
-        documents and why they are important.
-        <br />
-        <br />
-        <div className="flex flex-col space-y-2">
-          <span className="text-xl">Jeffrey Epstein: who was he?</span>
-          <span>
-            Epstein, a multimillionaire known for his connections to
-            politicians, celebrities, billionaires, and elite academics, was
-            first detained in Palm Beach, Florida, in 2005 on suspicion of
-            paying a 14-year-old girl for sex. However, in 2008, prosecutors
-            permitted him to enter a guilty plea to a charge pertaining to a
-            single victim. He participated in a jail work-release program for 13
-            months.
-          </span>
-          <span>
-            There were allegations of similar sexual abuse from dozens of other
-            minor girls. While many of his well-known acquaintances, including
-            former presidents Bill Clinton and Donald Trump, abandoned Epstein
-            after his conviction, many others did not. For ten more years,
-            Epstein remained in the company of the wealthy and well-known,
-            frequently through charitable endeavors.
-          </span>
-          <span>
-            In 2019, Epstein was charged with sex trafficking by federal
-            prosecutors in New York due to renewed interest in the scandal
-            following Miami Herald reporting. While in custody awaiting trial,
-            he committed suicide. Ghislaine Maxwell, Epstein&apos;s
-            ex-girlfriend, was subsequently charged by the US attorney in
-            Manhattan for aiding in the recruitment of his minor victims.
-            According to Guardian, she was found guilty in 2021 and is currently
-            incarcerated for 20 years.
-          </span>
-        </div>
-        <br />
-        <div className="flex flex-col space-y-2">
-          <span className="text-xl">
-            What is the subject matter of these records?
-          </span>
-          <span>
-            The documents that are being made public are a part of a lawsuit
-            that Virginia Giuffre, one of Epstein&apos;s victims, filed against
-            Maxwell in 2015. Giuffre was one of Epstein&apos;s victims who sued
-            him, claiming that he had mistreated her at his homes in Florida,
-            New York, the US Virgin Islands, and New Mexico. When Giuffre turned
-            seventeen, she said, she was enticed to leave her position as a spa
-            attendant at Trump&apos;s Mar-a-Lago club in order to work as a
-            &quot;masseuse&quot; for Epstein, which involved engaging in sexual
-            acts.
-          </span>
-          <span>
-            She further claimed that she was coerced into having sex with Prince
-            Andrew of Britain and other men in Epstein&apos;s social circle. Her
-            accounts were refuted by all the accused men as being false. In
-            2022, Giuffre and Prince Andrew reached a settlement in court. She
-            retracted her accusation against law professor Alan Dershowitz,
-            Epstein&apos;s former attorney, in the same year, saying she
-            &quot;may have made a mistake&quot; in designating him as an abuser.
-          </span>
-          <span>
-            Despite the fact that Giuffre and Maxwell&apos;s lawsuit was
-            resolved in 2017, the Miami Herald requested judicial intervention
-            in order to obtain court documents that had been initially filed
-            under seal, including transcripts of attorney-client interviews with
-            possible witnesses. A court unsealed about 2,000 pages in 2019, and
-            more documents surfaced in 2020, 2021, and 2022. The privacy rights
-            of Epstein&apos;s victims and other people whose names surfaced
-            during the legal battle but who were not involved in his crimes had
-            caused this next batch of records to stay sealed.
-          </span>
-        </div>
-        <br />
-        <div className="flex flex-col space-y-2">
-          <span className="text-xl">What is contained in the files?</span>
-          <span>
-            US District Judge Loretta A. Preska evaluated the documents to
-            decide what should be unsealed. She made the decision to release the
-            records in December, stating that a large portion of the information
-            contained therein was already known to the public. In other court
-            cases, some records have been made public, either in full or in
-            part. A large portion of the remaining material deals with subjects
-            and characters that have been thoroughly covered in newspaper
-            articles, TV documentaries, books, interviews, and testimony during
-            Maxwell&apos;s criminal trial over the course of nearly 20 years.
-          </span>
-          <span>
-            Numerous accusers of Epstein, staff members who told tabloid
-            newspapers about their experiences, witnesses at Maxwell&apos;s
-            trial, people mentioned in passing during depositions but not
-            implicated in any scandalous activities, and investigators of
-            Epstein, including prosecutors, a journalist, and a detective, are
-            among the names listed in the records. The judge added that there
-            are also prominent figures&apos; names in boldface who are known to
-            have had relationships with Epstein over the years, but whose
-            relationships have already been thoroughly reported elsewhere.
-          </span>
-          <span>
-            Among them is Jean-Luc Brunel, a French modeling agent who was close
-            to Epstein and committed suicide in a Paris jail in 2022 while
-            awaiting trial on allegations that he had sexually assaulted minors.
-            Among the women who had accused Brunel of sexual abuse was Giuffre.
-            Both Trump and Clinton are mentioned in the court file, in part
-            because Giuffre was questioned by Maxwell&apos;s attorneys regarding
-            errors in press articles regarding her time spent with Epstein,
-            according to the Guardian.
-          </span>
-          <span>
-            She was cited in one story as saying that she flirted with Trump and
-            went on a helicopter ride with Clinton. According to Giuffre, none
-            of those events occurred in reality. She doesn&apos;t seem to have
-            implicated any of the former presidents. The judge stated that
-            certain names ought to be kept off the records since they would
-            identify victims of sexual abuse.
-          </span>
-        </div>
-        <br />
-        <div className="flex flex-col space-y-2">
-          <span className="text-xl">
-            Why is everyone&apos;s attention focused on new documents?
-          </span>
-          <span>
-            The high-profile associates are what have drawn attention to the
-            latest revelation in the documents. Federal Judge Loretta Preska in
-            Manhattan unsealed the documents, which included the names of
-            numerous people identified as associates, affiliates, or victims of
-            Epstein in a civil lawsuit filed in 2015.
-          </span>
-          <span>
-            According to US-based NPR, the documents contain references to a
-            number of people, including former Vice President Al Gore, magician
-            David Copperfield, actor Kevin Spacey, lawyer Alan Dershowitz, late
-            New Mexico Governor Bill Richardson, and former Israeli Prime
-            Minister Ehud Barak.
-          </span>
-          <span></span>
-          <span></span>
-        </div>
-        The inclusion of names in these documents does not imply that any of the
-        individuals are the subject of accusations or proof of wrongdoing.Due to
-        earlier court cases or media revelations, a large number of the most
-        well-known people—including American politicians, members of British
-        royalty, tech tycoons, and bankers—were already known to be connected to
-        Epstein. The majority of those who have been made public have denied any
-        misconduct or prior knowledge of Epstein&apos;s illegal actions.
+        President Joe Biden is under more pressure to respond militarily as a
+        result of the ongoing Houthi attacks, but his administration has been
+        hesitant to do so for fear of worsening the already high levels of
+        tension in the region.
       </>
     ),
   },

@@ -2,17 +2,20 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
-import { data } from "@/data";
+import { breaking } from "@/data/breaking";
+import { breakingHistory } from "@/history/breaking";
 
 const BreakingNewsSlider = () => {
   const [currIndex, setCurrIndex] = useState(0);
 
   const handleNext = () => {
-    if (currIndex === data.breaking.length - 1) return setCurrIndex(0);
+    if (currIndex === [...breaking, ...breakingHistory].length - 1)
+      return setCurrIndex(0);
     setCurrIndex((prev) => prev + 1);
   };
   const handlePrev = () => {
-    if (currIndex === 0) return setCurrIndex(data.breaking.length - 1);
+    if (currIndex === 0)
+      return setCurrIndex([...breaking, ...breakingHistory].length - 1);
     setCurrIndex((prev) => prev - 1);
   };
 
@@ -30,8 +33,12 @@ const BreakingNewsSlider = () => {
           Breaking Briefs
         </span>
         <span className="text-sm ml-2.5">
-          <Link href={`/breaking/${data.breaking[currIndex].id}`}>
-            {data.breaking[currIndex].title}
+          <Link
+            href={`/breaking/${
+              [...breaking, ...breakingHistory][currIndex].id
+            }`}
+          >
+            {[...breaking, ...breakingHistory][currIndex].title}
           </Link>
         </span>
       </section>
