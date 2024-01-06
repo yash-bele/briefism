@@ -48,7 +48,7 @@ const PrivacyPolicy = () => {
           </span>
         </p>
         <p>
-          <span className="block text-lg">5. Children's Privacy:</span>
+          <span className="block text-lg">5. Children&apos;s Privacy:</span>
           <span>
             Briefism is not intended for children under the age of 13, and we do
             not knowingly collect personal information from children.

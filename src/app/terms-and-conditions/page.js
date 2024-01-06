@@ -71,9 +71,9 @@ const TermsConditions = () => {
         <p>
           <span className="block text-lg">8. Disclaimer of Warranties:</span>
           <span>
-            Briefism is provided "as is" without warranties of any kind. We do
-            not guarantee the accuracy, completeness, or reliability of any
-            content on the platform.
+            Briefism is provided &quot;as is&quot; without warranties of any
+            kind. We do not guarantee the accuracy, completeness, or reliability
+            of any content on the platform.
           </span>
         </p>
         <p>
