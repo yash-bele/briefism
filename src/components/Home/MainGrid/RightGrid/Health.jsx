@@ -10,7 +10,7 @@ const Health = () => {
       <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
         <Link href="/health">health</Link>
       </h2>
-      {[...health, ...healthHistory].slice(0, 3).map((i, j) => (
+      {[...health, ...healthHistory].slice(0, 5).map((i, j) => (
         <article key={i.id} className="flex items-center h-20 space-x-2.5">
           <Link
             href={`/health/${i.id}`}

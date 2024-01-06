@@ -1,5 +1,65 @@
 export const technology = [
   {
+    id: "foxconn-the-iphone-manufacturer-anticipates-lower-sales-due-to-reduced-demand-for-apple-products",
+    timestamp: "This week",
+    image:
+      "/week-jan-02-2024/technology/foxconn-the-iphone-manufacturer-anticipates-lower-sales-due-to-reduced-demand-for-apple-products.jpg",
+    title: `Foxconn, the iPhone manufacturer, anticipates lower sales due to reduced demand for Apple products`,
+    preArticle: `Hon Hai Precision Industry Co. anticipates lower revenue in the first
+          quarter due to a prolonged decline in the market for consumer
+          electronics`,
+    article: (
+      <div className="space-y-5">
+        <p>
+          Hon Hai Precision Industry Co. anticipates lower revenue in the first
+          quarter due to a prolonged decline in the market for consumer
+          electronics.
+        </p>
+        <p>
+          The Taiwanese company, Foxconn, revealed a sharp 27% decline in
+          December sales to NT$460.1 billion ($14.8 billion), raising further
+          doubts about the momentum of the newest iPhone generation going into
+          the new year.
+        </p>
+        <p>
+          As the primary supplier of iPhone assembly to Apple Inc., Foxconn
+          offers knowledge about the general demand for personal technology
+          among consumers. When Apple's iPhone 15 first went on sale in
+          September, it received mixed reviews in important markets. While sales
+          in China fell, the US saw the device spark an upgrade cycle from
+          previous iterations.
+        </p>
+        <p>
+          The iPhone is expected to face significant challenges this year,
+          particularly in China, where local tech giant Huawei Technologies Co.
+          is regaining market share with its high-end Mate 60 phone and Chinese
+          agencies and state-backed companies have expanded their ban on the
+          device and other Apple hardware.
+        </p>
+        <p>
+          Additionally, late last year, Foxconn became the focus of a regulatory
+          probe in China that rattled investors' cages and the confidence of
+          foreign businesses doing business there. The Chinese competitor
+          Luxshare Precision Industry Co., which plans to increase its iPhone
+          production capacity through a recent acquisition, is another growing
+          threat to Taiwan's device builder.
+        </p>
+        <p>
+          According to Liz Lee, associate director at Counterpoint Research, the
+          volume of iPhone sales is expected to increase by 2% this year,
+          falling short of the 5% growth of the mobile market as a whole. Sales
+          of smartphones from Huawei, however, are predicted to increase by 37%.
+          The lackluster demand for Apple's most recent iPhone led Barclays and
+          Piper Sandler to lower their ratings of the company this week.
+        </p>
+        <p>
+          Apple provides Foxconn with the majority of its revenue. In 2023, its
+          total sales were NT$6.16 trillion, a 7% decrease.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "redmi-note-13-pro-a-brief-yet-promising-review",
     timestamp: "This week",
     image:

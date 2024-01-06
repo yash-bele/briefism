@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export const breakingHistory = [
   // jan-05-2024
   // 1
