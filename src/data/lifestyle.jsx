@@ -9,7 +9,7 @@ export const lifestyle = [
           fruits and vegetables. Green peas are a winter vegetable that people
           all over the world love`,
     article: (
-      <div className="space-y-5">
+      <div className="space-y-6">
         <p>
           Winter is the season to gather colorful, flavorful, and in-season
           fruits and vegetables. Green peas are a winter vegetable that people
@@ -23,12 +23,12 @@ export const lifestyle = [
           Let&apos;s investigate ways to keep green peas fresher at home so we
           can eat them practically all year round!
         </p>
-        <div className="space-y-1">
+        <div className="space-y-1.5">
           <span className="text-xl">
             Ananya Chowdhury, a software engineer, gardener, and enthusiast from
             Pune, shared the following tips:
           </span>
-          <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
             <li>
               Start by removing the peas from their pods and throwing away any
               that are damaged or discolored.
@@ -63,12 +63,12 @@ export const lifestyle = [
             </li>
           </ul>
         </div>
-        <div className="space-y-1">
+        <div className="space-y-1.5">
           <span className="text-xl">
             In a comprehensive guide, Chef Neha Deepak Shah shares her insights
             on:
           </span>
-          <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
             <li>
               After bringing 3 to 4 liters of water to a boil, add 1 tablespoon
               salt, 2 teaspoons sugar, and a pinch of baking soda (optional, but
@@ -100,11 +100,11 @@ export const lifestyle = [
           results, use fresh, high-quality peas, according to clinical
           nutritionist Garima Goyal.
         </p>
-        <div className="space-y-1">
+        <div className="space-y-1.5">
           <span className="text-xl">
             Blanching peas has a number of advantages:
           </span>
-          <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
             <li>
               Color retention: Blanching stops the enzymes that cause color
               fading in peas, allowing their vivid green color to be retained.
@@ -154,6 +154,7 @@ export const lifestyle = [
         season has made my skin pretty dry…nothing works better than raw milk a
         couple of times over. Just add some rosewater to mask the smell.&quot;
         <br />
+        <br />
         <div className="flex flex-col space-y-2">
           <span className="text-xl">Is it effective?</span>
           <span>
@@ -188,6 +189,7 @@ export const lifestyle = [
             to Dr. Kapoor.
           </span>
         </div>
+        <br />
         <div className="flex flex-col space-y-2">
           <span className="text-xl">Way of application</span>
           <span>

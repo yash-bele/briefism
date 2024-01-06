@@ -29,6 +29,7 @@ export const lifestyleHistory = [
         drink has powerful effects, so it&apos;s important to fully comprehend
         the physiological effects of regular consumption.
         <br />
+        <br />
         <div className="flex flex-col space-y-2">
           <span className="text-xl">Advantageous Impacts:</span>
           <span>
@@ -58,6 +59,7 @@ export const lifestyleHistory = [
             beneficial for mental health and emotional balance.
           </span>
         </div>
+        <br />
         <div className="flex flex-col space-y-2">
           <span className="text-xl">Possible Adverse Repercussions:</span>
           <span>
@@ -133,6 +135,7 @@ export const lifestyleHistory = [
         flatulate during the day, gas passes involuntarily when the anal
         sphincter relaxes after sleep.
         <br />
+        <br />
         <div className="flex flex-col">
           <span className="text-xl">What should you remember?</span>
           <span>
@@ -141,11 +144,12 @@ export const lifestyleHistory = [
             that isn&apos;t released through burping.
           </span>
         </div>
-        <div className="flex flex-col">
+        <br />
+        <div className="space-y-1">
           <span className="text-xl">
             At some times, people swallow more air, as such:
           </span>
-          <ul className="list-inside list-disc">
+          <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
             <li>Consuming tobacco</li>
             <li>Eating while standing up or too quickly</li>
             <li>Utilizing a straw to drink</li>
@@ -212,12 +216,13 @@ export const lifestyleHistory = [
         are more likely to experience mobility issues, as are those who have bad
         posture.
         <br />
-        <div className="flex flex-col space-y-2">
+        <br />
+        <div className="flex flex-col space-y-1">
           <span className="text-xl">
             In the expert&apos;s opinion, you can improve your mobility in the
             following ways:
           </span>
-          <ul>
+          <ul className="space-y-1">
             <li>
               <span className="font-normal">*Maintain proper posture:</span>{" "}
               Improper posture can lead to limited mobility and stiff joints.

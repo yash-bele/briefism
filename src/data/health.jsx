@@ -9,7 +9,7 @@ export const health = [
           oats, which provide a flexible and nourishing supplement to our
           regular diets. Beyond being a breakfast mainstay`,
     article: (
-      <div className="space-y-5">
+      <div className="space-y-6">
         <p>
           Few foods are as well-known in the world of healthful nutrition as
           oats, which provide a flexible and nourishing supplement to our
@@ -25,9 +25,9 @@ export const health = [
           benefits of oats from Dr. Shuchin Bajaj, a general practitioner and
           the founder and director of the Ujala Cygnus Group of Hospitals.
         </p>
-        <div className="space-y-1">
+        <div className="space-y-1.5">
           <span className="text-xl">Oats&apos; Health Benefits</span>
-          <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
             <li>
               Heart health: Beta-glucans, a soluble fiber type found in oats,
               have the ability to lower cholesterol and thus support heart
@@ -58,9 +58,9 @@ export const health = [
             </li>
           </ul>
         </div>
-        <div className="space-y-1">
+        <div className="space-y-1.5">
           <span className="text-xl">Oats&apos; nutritional profile:</span>
-          <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
             <li>Fat: 6.9 grams</li>
             <li>Protein: 16.89 grams</li>
             <li>Dietary Fibre: 10.6 grams</li>
@@ -74,7 +74,7 @@ export const health = [
             </li>
           </ul>
         </div>
-        <div className="space-y-1">
+        <div className="space-y-1.5">
           <span className="text-xl">Can someone with diabetes eat oats?</span>
           <p>
             Oats are safe for diabetics to eat because they have a low glycaemic
@@ -82,7 +82,7 @@ export const health = [
             levels.
           </p>
         </div>
-        <div className="space-y-1">
+        <div className="space-y-1.5">
           <span className="text-xl">Does it help women who are expecting?</span>
           <p>
             Oats contain a number of nutrients, including iron and B vitamins,
@@ -90,9 +90,9 @@ export const health = [
             recommended.
           </p>
         </div>
-        <div className="space-y-1">
+        <div className="space-y-1.5">
           <span className="text-xl">Things to Remember</span>
-          <ul className="space-y-1 list-outside list-disc marker:text-slate-400 ml-4">
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
             <li>
               Gluten-free oats are the better option for those who are sensitive
               to gluten.
