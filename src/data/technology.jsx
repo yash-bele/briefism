@@ -24,7 +24,7 @@ export const technology = [
         <p>
           As the primary supplier of iPhone assembly to Apple Inc., Foxconn
           offers knowledge about the general demand for personal technology
-          among consumers. When Apple's iPhone 15 first went on sale in
+          among consumers. When Apple&apos;s iPhone 15 first went on sale in
           September, it received mixed reviews in important markets. While sales
           in China fell, the US saw the device spark an upgrade cycle from
           previous iterations.
@@ -38,19 +38,19 @@ export const technology = [
         </p>
         <p>
           Additionally, late last year, Foxconn became the focus of a regulatory
-          probe in China that rattled investors' cages and the confidence of
-          foreign businesses doing business there. The Chinese competitor
+          probe in China that rattled investors&apos; cages and the confidence
+          of foreign businesses doing business there. The Chinese competitor
           Luxshare Precision Industry Co., which plans to increase its iPhone
           production capacity through a recent acquisition, is another growing
-          threat to Taiwan's device builder.
+          threat to Taiwan&apos;s device builder.
         </p>
         <p>
           According to Liz Lee, associate director at Counterpoint Research, the
           volume of iPhone sales is expected to increase by 2% this year,
           falling short of the 5% growth of the mobile market as a whole. Sales
           of smartphones from Huawei, however, are predicted to increase by 37%.
-          The lackluster demand for Apple's most recent iPhone led Barclays and
-          Piper Sandler to lower their ratings of the company this week.
+          The lackluster demand for Apple&apos;s most recent iPhone led Barclays
+          and Piper Sandler to lower their ratings of the company this week.
         </p>
         <p>
           Apple provides Foxconn with the majority of its revenue. In 2023, its

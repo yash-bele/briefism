@@ -20,8 +20,8 @@ export const lifestyle = [
           component in cuisines all over the world.
         </p>
         <p>
-          Let's investigate ways to keep green peas fresher at home so we can
-          eat them practically all year round!
+          Let&apos;s investigate ways to keep green peas fresher at home so we
+          can eat them practically all year round!
         </p>
         <div className="space-y-1">
           <span className="text-xl">
@@ -44,8 +44,8 @@ export const lifestyle = [
               growth during storage.
             </li>
             <li>
-              After they've cooled, pat them dry with a fresh paper towel or
-              kitchen towel.
+              After they&apos;ve cooled, pat them dry with a fresh paper towel
+              or kitchen towel.
             </li>
             <li>
               These peas can now be kept in freezer-safe containers, heavy-duty
@@ -79,13 +79,13 @@ export const lifestyle = [
               water is bubbling hot.
             </li>
             <li>
-              Put this right away in some ice-cold water. "We don't want to cook
-              the green peas because that will avoid unsightly wrinkles on the
-              skin's surface," said Shah.
+              Put this right away in some ice-cold water. &quot;We don&apos;t
+              want to cook the green peas because that will avoid unsightly
+              wrinkles on the skin&apos;s surface,&quot; said Shah.
             </li>
             <li>
               The process of drying is crucial. By doing this, you can be sure
-              that your frozen green peas won't stick together when frozen.
+              that your frozen green peas won&apos;t stick together when frozen.
             </li>
           </ul>
         </div>
@@ -121,8 +121,8 @@ export const lifestyle = [
               Blanching preserves a large amount of the nutrients in the peas.
             </li>
             <li>
-              Enzyme inactivation: Blanching keeps the peas' original flavor
-              intact by inactivating enzymes that may alter their flavor.
+              Enzyme inactivation: Blanching keeps the peas&apos; original
+              flavor intact by inactivating enzymes that may alter their flavor.
             </li>
             <li>
               Cleaning & surface impurity removal: Blanching improves the safety

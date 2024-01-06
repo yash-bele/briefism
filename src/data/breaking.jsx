@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 export const breaking = [
+  // jan-06-2024
   {
     id: "us-claims-russia-employed-north-korean-missiles-in-attacks-on-ukraine",
     timestamp: "Jan 06, 2024",
@@ -88,7 +89,6 @@ export const breaking = [
       </>
     ),
   },
-  // jan-06-2024
   {
     id: "meet-willis-gibson-the-13-year-old-american-teenager-who-achieved-a-historic-gaming-victory-in-tetris",
     timestamp: "Jan 06, 2024",
