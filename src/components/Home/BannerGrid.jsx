@@ -15,7 +15,9 @@ const BannerGrid = () => {
       {formatData.map((i, j) => (
         <Link
           key={i.id}
-          href={`/breaking/${i.id}`}
+          href={`/${
+            j === 3 ? "entertainment" : j === 4 ? "technology" : "breaking"
+          }/${i.id}`}
           className={`relative group rounded-lg overflow-hidden ${
             j === 0 && "sm:col-span-2 sm:row-span-2"
           }`}
