@@ -1,7 +1,6 @@
 import { data } from "@/data";
 import { history } from "@/history";
 const baseUrl = "https://www.briefism.com";
-const footerLinks = ["about-us", "privacy-policy", "terms-and-conditions"];
 const navLinks = [
   "breaking",
   "entertainment",
@@ -23,10 +22,6 @@ export default function sitemap() {
     {
       url: baseUrl,
     },
-
-    ...footerLinks.map((i) => ({
-      url: `${baseUrl}/${i}`,
-    })),
 
     ...navLinks.map((i) => ({
       url: `${baseUrl}/${i}`,

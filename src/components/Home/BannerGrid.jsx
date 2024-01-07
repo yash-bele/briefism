@@ -31,7 +31,7 @@ const BannerGrid = () => {
             className="object-cover object-center group-hover:scale-110 duration-500"
           />
           <div
-            className={`absolute bottom-0 w-full h-3/4 bg-gradient-to-b from-transparent to-black/50 flex items-end ${
+            className={`absolute bottom-0 w-full h-1/2 bg-gradient-to-b from-transparent to-black/75 flex items-end ${
               j === 0 ? "p-2.5 sm:p-5" : "p-2.5"
             }`}
           >

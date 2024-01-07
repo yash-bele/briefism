@@ -63,7 +63,7 @@ const Technology = () => {
                 sizes="auto"
                 className="object-cover object-center group-hover:scale-110 duration-500"
               />
-              <div className="absolute bottom-0 w-full h-3/4 bg-gradient-to-b from-transparent to-black/50 flex items-end p-2.5">
+              <div className="absolute bottom-0 w-full h-1/2 bg-gradient-to-b from-transparent to-black/75 flex items-end p-2.5">
                 <div>
                   <div className="flex items-center space-x-1 font-normal text-slate-300 mb-0.5">
                     <IoIosTimer />
