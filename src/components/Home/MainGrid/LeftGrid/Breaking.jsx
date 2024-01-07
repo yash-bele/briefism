@@ -11,8 +11,8 @@ const Breaking = () => {
         <Link href="/breaking">breaking</Link>
       </h2>
       <div className="flex flex-col-reverse lg:grid grid-cols-2 gap-2.5 lg:gap-5">
-        <section className="flex flex-col sm:grid grid-rows-5 gap-2.5">
-          {[...breaking, ...breakingHistory].slice(2, 7).map((i, j) => (
+        <section className="flex flex-col sm:grid grid-rows-3 gap-2.5">
+          {[...breaking, ...breakingHistory].slice(1, 4).map((i, j) => (
             <article
               key={i.id}
               className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${
@@ -46,8 +46,8 @@ const Breaking = () => {
             </article>
           ))}
         </section>
-        <section className="grid grid-rows-5 gap-2.5 h-96 lg:h-auto">
-          {[...breaking, ...breakingHistory].slice(0, 2).map((i, j) => (
+        <section className="grid grid-rows-3 gap-2.5 h-[calc(384px/2)] lg:h-auto">
+          {[...breaking, ...breakingHistory].slice(0, 1).map((i, j) => (
             <Link
               key={i.id}
               href={`/breaking/${i.id}`}

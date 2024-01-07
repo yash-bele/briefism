@@ -11,9 +11,9 @@ const Entertainment = () => {
         <Link href="/entertainment">entertainment</Link>
       </h2>
       <div className="flex flex-col lg:grid grid-cols-2 gap-2.5 lg:gap-5">
-        <section className="grid grid-rows-5 gap-2.5 h-96 lg:h-auto">
+        <section className="grid grid-rows-3 gap-2.5 h-[calc(384px/2)] lg:h-auto">
           {[...entertainment, ...entertainmentHistory]
-            .slice(0, 2)
+            .slice(0, 1)
             .map((i, j) => (
               <Link
                 key={i.id}
@@ -42,9 +42,9 @@ const Entertainment = () => {
               </Link>
             ))}
         </section>
-        <section className="flex flex-col sm:grid grid-rows-5 gap-2.5">
+        <section className="flex flex-col sm:grid grid-rows-3 gap-2.5">
           {[...entertainment, ...entertainmentHistory]
-            .slice(2, 7)
+            .slice(1, 4)
             .map((i, j) => (
               <article
                 key={i.id}
