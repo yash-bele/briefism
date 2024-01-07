@@ -7,7 +7,7 @@ export const metadata = {
   title:
     "Latest News, Breaking News, Entertainment, Technology, Health & Lifestyle News | Briefism",
   description:
-    "Stay informed with Briefism - Your go-to source for concise and insightful news briefs. Explore breaking stories, in-depth analyses, and stay updated on global events, technology, lifestyle, and more. Get the latest news in a nutshell, delivered with clarity and brevity. Your daily briefing starts here.",
+    "Stay informed with Briefism - Explore breaking stories, in-depth analyses, and stay updated on global events, technology, lifestyle, and more. Get the latest news in a nutshell, delivered with clarity and brevity.",
 };
 
 const montserrat = Montserrat({
