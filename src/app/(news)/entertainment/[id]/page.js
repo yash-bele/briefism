@@ -4,10 +4,14 @@ import LeftSide from "./components/LeftSide";
 import RightSide from "./components/RightSide";
 import { entertainment } from "@/data/entertainment";
 import { entertainmentHistory } from "@/history/entertainment";
-const concatData = [...entertainment, ...entertainmentHistory];
+const formatData = [...entertainment, ...entertainmentHistory];
+
+export async function generateStaticParams() {
+  return formatData.map((i) => i.id);
+}
 
 export async function generateMetadata({ params }) {
-  const datum = concatData.find((i) => i.id === params.id);
+  const datum = formatData.find((i) => i.id === params.id);
   return {
     title: `${datum.title} | Briefism`,
     description: datum.preArticle,
@@ -15,7 +19,7 @@ export async function generateMetadata({ params }) {
 }
 
 const Id = ({ params }) => {
-  const datum = concatData.find((i) => i.id === params.id);
+  const datum = formatData.find((i) => i.id === params.id);
   return (
     <main className="grid md:grid-cols-2 lg:grid-cols-4 mb-10 mx-auto">
       <LeftSide />

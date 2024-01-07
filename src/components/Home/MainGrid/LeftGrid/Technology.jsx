@@ -69,7 +69,7 @@ const Technology = () => {
                     <IoIosTimer />
                     <span className="text-xs">{i.timestamp}</span>
                   </div>
-                  <h3 className="text-slate-200 text-sm">{i.title}</h3>
+                  <h3 className="text-slate-100 text-sm">{i.title}</h3>
                 </div>
               </div>
             </Link>

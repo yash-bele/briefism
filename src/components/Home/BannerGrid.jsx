@@ -37,7 +37,7 @@ const BannerGrid = () => {
           >
             <div>
               <h3
-                className={`text-slate-200 ${
+                className={`text-slate-100 ${
                   j === 0 ? "text-sm sm:text-base" : "text-sm"
                 }`}
               >

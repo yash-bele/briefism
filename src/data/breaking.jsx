@@ -1,207 +1,228 @@
 import Image from "next/image";
 
 export const breaking = [
-  // jan-06-2024
+  // jan-07-2024
+  // 1
   {
-    id: "according-to-official-sources-us-actor-christian-oliver-and-his-two-daughters-lost-their-lives-in-a-plane-crash-in-the-caribbean",
-    timestamp: "Jan 06, 2024",
+    id: "three-schoolgirls-from-rural-tamil-nadu-ran-away-to-seoul-to-see-bts-they-were-found-and-rescued-in-vellore",
+    timestamp: "Jan 07, 2024",
     image:
-      "/jan-06-2024/according-to-official-sources-us-actor-christian-oliver-and-his-two-daughters-lost-their-lives-in-a-plane-crash-in-the-caribbean.webp",
-    title: `According to official sources, US actor Christian Oliver and his two daughters lost their lives in a plane crash in the Caribbean`,
-    preArticle: `According to St. Vincent and the Grenadines police, US actor Christian
-          Oliver and his two daughters perished in a plane crash close to a
-          small private island in the eastern Caribbean`,
+      "/jan-07-2024/three-schoolgirls-from-rural-tamil-nadu-ran-away-to-seoul-to-see-bts-they-were-found-and-rescued-in-vellore.webp",
+    title: `Three schoolgirls from rural Tamil Nadu ran away to Seoul to see BTS. They were found and rescued in Vellore`,
+    preArticle: `Three teenage girls from a small rural village in Tamil Nadu were
+          determined to overcome the vast distance separating them from their
+          beloved K-pop idols in faraway Seoul, South Korea`,
     article: (
-      <div className="space-y-5">
+      <div className="space-y-6">
         <p>
-          According to St. Vincent and the Grenadines police, US actor Christian
-          Oliver and his two daughters perished in a plane crash close to a
-          small private island in the eastern Caribbean.
+          Three teenage girls from a small rural village in Tamil Nadu were
+          determined to overcome the vast distance separating them from their
+          beloved K-pop idols in faraway Seoul, South Korea. The sensational
+          band BTS had captured their hearts and imaginations. However, the
+          girls only managed to get as far as Chennai before their dream
+          collided with reality on the second day of their audacious journey.
+          Exhausted and out of money, they were discovered by police late at
+          night at a railway station near Vellore as they attempted to make
+          their way back home. The authorities immediately took the girls into
+          protective custody and transported them to a government-run
+          children&apos;s shelter in Vellore district.
         </p>
         <p>
-          According to a statement from the police, the plane was traveling
-          toward neighboring St. Lucia when it crashed on Thursday, just west of
-          Petit Nevis island near Bequia.
+          According to officials, the girls&apos; plan was to sail all the way
+          to Seoul from a port in Andhra Pradesh, a route they had managed to
+          cobble together after extensive online research. But their lack of
+          resources and preparation meant this goal was wildly unrealistic.
         </p>
         <p>
-          They stated that the pilot, Robert Sachs, also passed away and named
-          the daughters as Madita Klepser, age 10, and Annik Klepser, age 12.
-        </p>
-        <p>Police said it was unclear what caused the crash right away.</p>
-        <p>
-          While the St. Vincent and Grenadines Coast Guard was en route to the
-          scene, authorities said that local fishermen and divers went to the
-          crash site to offer assistance.
-        </p>
-        <p>
-          &quot;The selfless and brave acts of the fishermen and divers is very
-          much appreciated,&quot; police stated.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            priority
-            src="/jan-06-2024/according-to-official-sources-us-actor-christian-oliver-and-his-two-daughters-lost-their-lives-in-a-plane-crash-in-the-caribbean(2).png"
-            alt="entertainment/speculation-of-rohit-shetty-film-arises-as-ranbir-kapoors-cop-look-in-ad-shoot-grabs-attention"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The 51-year-old German actor has a long list of credits from both film
-          and television, including roles in the 2008 release &quot;Speed
-          Racer&quot; and the 2006 Steven Soderbergh film &quot;The Good
-          German,&quot; which starred George Clooney and Cate Blanchett and was
-          set during World War II.
+          The three girls come from humble, lower-middle class families in a
+          village located in Karur district. One girl&apos;s mother works as a
+          teacher at a local village primary school. However, her father suffers
+          from mental health issues that impact the family. Another girl has
+          separated parents, with her mother barely scraping by as a farm
+          laborer. But the third friend comes from a more stable home
+          environment, though still modest in means.
         </p>
         <p>
-          In the second season of the 1990s television series &quot;Saved by the
-          Bell: The New Class,&quot; he played Brian Keller, a transfer student
-          from Switzerland.
+          Somehow, despite their economic disadvantages, the girls had
+          internet-connected phones at home which appear to have fueled their
+          almost obsessive fascination with BTS. They dove deep into the digital
+          realm of the band&apos;s online fanbase, teaching themselves what they
+          could about Korean language and music. According to the
+          district&apos;s Child Welfare Committee Chairman, the girls had
+          researched their idols extensively, knowing intricate details about
+          each band member down to their hobbies, favorite outfits, and eating
+          habits.
+        </p>
+        <p>
+          Their passion for the music group seems to have sparked an intense
+          longing within the girls to escape the confines of their small village
+          and pursue dreams of dance, music, and stardom. This motivation
+          propelled them to raid their meager savings, take money from piggy
+          banks, and set off on their quest no matter how irrational.
+        </p>
+        <p>
+          After two days of freedom, the harsh realities of the world crashed
+          in. The girls&apos; lack of maturity and planning led them to abandon
+          their mission once exhaustion and homesickness kicked in. After
+          counseling sessions with child welfare authorities, the girls
+          expressed regret over their rash actions and promised not to undertake
+          such an irresponsible journey again. For now, they wait patiently,
+          albeit anxiously, for their parents to come bring them home. The
+          counselors aim to provide guidance to the girls and their families
+          before allowing them to reunite.
         </p>
       </div>
     ),
   },
+  // 2
   {
-    id: "t20-world-cup-2024-india-vs-pakistan-in-new-york-final-in-barbados-on-june-29",
-    timestamp: "Jan 06, 2024",
+    id: "bangladesh-holds-elections-amid-opposition-boycott",
+    timestamp: "Jan 07, 2024",
     image:
-      "/jan-06-2024/t20-world-cup-2024-india-vs-pakistan-in-new-york-final-in-barbados-on-june-29.png",
-    title: `T20 World Cup 2024: India vs Pakistan in New York, final in Barbados on June 29`,
-    preArticle: `The 2024 T20 World Cup groups have been released by the ICC, and India
-          will play Pakistan in New York. India is grouped with Pakistan, the
-          United States, Canada, and Ireland in Group A`,
+      "/jan-07-2024/bangladesh-holds-elections-amid-opposition-boycott.webp",
+    title: `Bangladesh Holds Elections Amid Opposition Boycott`,
+    preArticle: `Three teenage girls from a small rural village in Tamil Nadu were
+          determined to overcome the vast distance separating them from their
+          beloved K-pop idols in faraway Seoul, South Korea`,
     article: (
-      <div className="space-y-5">
+      <div className="space-y-6">
         <p>
-          The 2024 T20 World Cup groups have been released by the ICC, and India
-          will play Pakistan in New York. India is grouped with Pakistan, the
-          United States, Canada, and Ireland in Group A. In the meantime,
-          Namibia, Scotland, Oman, England, and Australia are in Group B.
+          As Bangladesh prepares for nationwide elections today, the country is
+          on high alert with tightened security measures amid fears of potential
+          violence.
         </p>
         <p>
-          New Zealand is grouped with the West Indies, Afghanistan, Uganda, and
-          Papua New Guinea in Group C. South Africa, meanwhile, has been
-          assigned to Group D, which also includes Bangladesh, Nepal, Sri Lanka,
-          and the Netherlands.
+          The vote holds major significance for India, as Prime Minister Sheikh
+          Hasina, a key ally, seeks a fourth straight term while the main
+          opposition boycotts the polls. India is closely monitoring this
+          electoral process, expected to shape the political landscape of its
+          eastern neighbor.
         </p>
         <p>
-          India&apos;s campaign against Ireland kicks off on June 5 in New York.
-          On June 9 and June 12, Pakistan and the USA will also play at the same
-          location. On June 15, they will play Canada in their last group match.
-          The Super 8 matches will take place from June 19-24, after the group
-          stage runs from June 1-18. The tournament&apos;s semi-finals and final
-          are scheduled for June 26-27 and June 29 respectively. Guyana will
-          host the first semifinal, while Trinidad will host the second. There
-          will be a final in Barbados.
+          The Bangladesh Nationalist Party (BNP) and its allies are refusing to
+          participate, insisting no fair or credible election can occur under
+          the current government. The BNP has called a 48-hour nationwide
+          general strike starting this morning through Monday morning.
         </p>
         <p>
-          This will be the first tournament held in a new format, with 20 teams
-          instead of just 16. The USA and the West Indies are the hosts in the
-          meantime. The tournament&apos;s move away from a global qualifier and
-          toward a focus on regional qualification tournaments is another
-          significant change to the new format. Two qualifying spots were
-          awarded to each of Africa, Asia, and Europe, while the Americas and
-          East Asia and Pacific each received one spot. Using this route, the
-          teams from Ireland, Canada, Namibia, Scotland, Oman, Papua New Guinea,
-          Uganda, and Nepal have qualified.
+          A BNP spokesperson said the strike aims to demand the resignation of
+          the &quot;illegal government,&quot; establishment of a nonpartisan
+          caretaker government, and release of imprisoned opposition leaders and
+          activists. Notably, former premier and BNP leader Khaleda Zia remains
+          under house arrest on graft convictions.
         </p>
         <p>
-          Under the new format, there will be two group stages involving the 20
-          teams and then the semi-finals. The previous format, which was in use
-          until 2022, had a qualification stage with associate and lower ranked
-          countries before a Super 12 stage and then the knockouts. Five groups,
-          each consisting of four teams, will be formed from the teams. Teams
-          that place first and second in each of these groups advance to the
-          Super 8s, where they will be split into two groups of four players
-          each. Teams that place first and second advance to the semi-finals.
+          The absence of a formidable challenger paves the way for Hasina&apos;s
+          Awami League party to win easily. However, this risks deepening
+          authoritarianism in Bangladesh. The BNP argues elections without them
+          lack legitimacy. But the Awami League insists people still have
+          candidate choices from smaller parties.
         </p>
+        <p>
+          Clashes between party supporters this month killed at least six
+          people, underscoring tensions. Rights groups decry crackdowns on
+          dissent under Hasina, which the government denies. While India has
+          concerns about Hasina&apos;s authoritarian streak, it sees her as key
+          to providing stability and maintaining close ties.
+        </p>
+        <div className="space-y-1.5">
+          <span className="text-xl">No Major Rivals:</span>
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
+            <li>
+              No major political opponents are participating in the elections.
+              The main contest is between the ruling Awami League and
+              independent candidates.
+            </li>
+            <li>
+              With 11 crore voters participating, the fate of 1500 candidates
+              competing for 300 parliamentary seats will be decided.
+            </li>
+            <li>
+              A total of 27 political parties are participating in the elections
+              for the Jatiya Sansad.
+            </li>
+            <li>
+              Key participating parties include former President HM
+              Ershad&apos;s Jatiyo Party, Trinamul BNP (a BNP offshoot), Islami
+              Front, Islami Aikyo Jot, Krishan Sramik Janata League, Gana Forum,
+              and Gana Front, among others.
+            </li>
+            <li>
+              The major opposition Bangladesh Nationalist Party (BNP) is
+              boycotting the polls along with some allies.
+            </li>
+          </ul>
+        </div>
       </div>
     ),
   },
   {
-    id: "aditya-l1-is-set-to-reach-its-final-orbit-this-saturday",
-    timestamp: "Jan 06, 2024",
+    id: "us-appeals-court-halts-californias-implementation-of-gun-ban-in-majority-of-public-spaces",
+    timestamp: "Jan 07, 2024",
     image:
-      "/jan-06-2024/aditya-l1-is-set-to-reach-its-final-orbit-this-saturday.avif",
-    title: `Aditya L1 is set to reach its final orbit this Saturday!`,
-    preArticle: `The first space-based solar observatory in India, the Aditya L1
-          spacecraft, is scheduled to launch on Saturday, when the Indian Space
-          Research Organization`,
+      "/jan-07-2024/us-appeals-court-halts-californias-implementation-of-gun-ban-in-majority-of-public-spaces.jpg",
+    title: `US Appeals Court Halts California&apos;s Implementation of Gun Ban in Majority of Public Spaces`,
+    preArticle: `On Saturday, a federal appeals court upheld a judge's decision that
+          prevented California from enforcing a recently enacted law prohibiting
+          the carrying of firearms in most public spaces`,
     article: (
-      <div className="space-y-5">
+      <div className="space-y-6">
         <p>
-          The first space-based solar observatory in India, the Aditya L1
-          spacecraft, is scheduled to launch on Saturday, when the Indian Space
-          Research Organization will perform a crucial maneuver that will place
-          it in its intended orbit, some 15 lakh kilometers from Earth.
+          On Saturday, a federal appeals court upheld a judge&apos;s decision
+          that prevented California from enforcing a recently enacted law
+          prohibiting the carrying of firearms in most public spaces, citing its
+          unconstitutionality. The 9th US Circuit Court of Appeals overruled a
+          previous order that temporarily suspended an injunction against the
+          law. The original injunction had been issued by a judge who determined
+          that the state&apos;s Democratic-led legislation violated
+          citizens&apos; Second Amendment rights.
         </p>
-        <div className="space-y-2.5">
-          <span className="text-xl">
-            What significant turning points and difficulties did Aditya L1 face
-            during its 127-day voyage?
-          </span>
-          <ul className="space-y-2.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>
-              Aditya L1 began a maneuver on September 19 in order to defy
-              gravity, exit Earth&apos;s sphere of influence, and travel in the
-              direction of the Lagrangian point.
-            </li>
-            <li>
-              Aditya L1 used its onboard thrusters to correct its course on
-              October 6 in order to stay on the correct course toward the L1
-              point.
-            </li>
-            <li>
-              The solar probe needed to be constantly observed as it traveled
-              away from Earth. The European Space Agency&apos;s ground stations,
-              which monitored its position and velocity, provided assistance to
-              the ISRO in doing so.
-            </li>
-          </ul>
-        </div>
-        <div className="space-y-2.5">
-          <span className="text-xl">
-            How does ISRO intend to launch Aditya L1 into its final orbit on
-            Saturday at 4 pm?
-          </span>
-          <ul className="space-y-2.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>
-              To help clarify, lets do a comparison with Chandrayaan 3. Similar
-              to how we launched Aditya L1, Chandrayaan 3 orbited the earth on
-              July 14 in order to elevate its orbit.
-            </li>
-            <li>
-              On July 31, Chandrayaan 3 entered the translunar injection phase
-              of its lunar voyage. We had confirmation by August 5 that the
-              moon&apos;s gravity had taken Chandrayaan hostage. We maneuvered
-              to alter the spacecraft&apos;s orientation on this crucial day.
-            </li>
-            <li>
-              The spacecraft moves forward when it is moving away from Earth
-              thanks to thrusters at the back. But when we want to be pulled
-              down by the gravity of another star, we turn around and accelerate
-              the spacecraft by bringing the thrusters to the front. Our Mars
-              Orbiter Mission and Chandrayaan 3 both used this standard
-              procedure.
-            </li>
-            <li>
-              The Aditya L1 probe will perform the same maneuver again tomorrow,
-              but it should be noted that it must orbit a void rather than a
-              celestial body. Additionally, this manoeuvre will only last a few
-              seconds, as opposed to the terrifying 17 minutes during the lunar
-              landing experience.
-            </li>
-          </ul>
-        </div>
         <p>
-          The important point to note is that our liquid apogee motors have been
-          in a hibernation state since a few months ago because of the cold
-          space environment. The important thing is to make sure the motors
-          respond to commands by starting up quickly, firing for the desired
-          amount of time, and precisely performing the maneuver at the critical
-          moment. To prevent overdoing, underdoing, or timing errors in the
-          motor firing, this calls for accuracy.
+          The earlier order, which had briefly lifted the injunction, allowing
+          the law to take effect on January 1, was dissolved by a different
+          panel of judges on Saturday in response to a request from gun rights
+          groups. CD Michel, legal representative for these groups, stated,
+          &quot;So the politicians&apos; attempt to circumvent the Second
+          Amendment has been halted, at least for now.&quot;
+        </p>
+        <p>
+          California&apos;s appeal of the injunction is now scheduled for a
+          hearing in April. The state&apos;s attorney general argued in court
+          documents that blocking the law would expose tens of millions of
+          Californians to an increased risk of gun violence.
+        </p>
+        <p>
+          The decision was met with criticism from Daniel Villaseñor, a
+          spokesperson for Democratic Governor Gavin Newsom, who signed the law
+          in September. Villaseñor argued that the court&apos;s ruling
+          jeopardizes the safety of Californians.
+        </p>
+        <p>
+          The law in question was enacted in response to a significant Supreme
+          Court ruling in June 2022 that broadened gun rights nationwide. In the
+          case of New York State Rifle & Pistol Association v Bruen, the
+          conservative-majority Supreme Court struck down New York&apos;s
+          stringent gun permit system and affirmed the right to carry handguns
+          in public for self-defense under the Second Amendment. The ruling also
+          introduced a new test for assessing the constitutionality of gun laws,
+          emphasizing consistency with the nation&apos;s historical tradition of
+          firearm regulation.
+        </p>
+        <p>
+          Following the Supreme Court decision, California, along with other
+          states, sought to revise its firearm regulations. Senate Bill 2, the
+          contested law in California, prohibited the carrying of concealed guns
+          in various &quot;sensitive places,&quot; such as hospitals,
+          playgrounds, stadiums, zoos, and places of worship, irrespective of
+          concealed carry permits. Additionally, the law restricted concealed
+          carry at privately owned commercial establishments open to the public,
+          unless the business explicitly permitted license holders to carry
+          firearms on the premises.
+        </p>
+        <p>
+          US District Judge Cormac Carney, appointed by former President George
+          W. Bush, sided with permit holders and gun rights groups on December
+          20, declaring that the law violated the Second Amendment.
         </p>
       </div>
     ),
