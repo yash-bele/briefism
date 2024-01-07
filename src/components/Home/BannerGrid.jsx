@@ -18,7 +18,7 @@ const BannerGrid = () => {
           href={`/${
             j === 3 ? "entertainment" : j === 4 ? "technology" : "breaking"
           }/${i.id}`}
-          className={`relative group rounded-lg overflow-hidden bg-slate-200 ${
+          className={`relative group rounded-lg overflow-hidden bg-black/75 ${
             j === 0 && "sm:col-span-2 sm:row-span-2"
           }`}
         >
