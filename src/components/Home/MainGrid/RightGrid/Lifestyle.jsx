@@ -31,9 +31,7 @@ const Lifestyle = () => {
               <span className="text-xs">{i.timestamp}</span>
             </div>
             <Link href={`/lifestyle/${i.id}`}>
-              <h3 className="text-sm break-all">
-                {i.title.substring(0, 70)}...
-              </h3>
+              <h3 className="text-sm ">{i.title.substring(0, 70)}...</h3>
             </Link>
           </div>
         </article>

@@ -45,9 +45,7 @@ const RightSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/technology/${i.id}`}>
-                <h3 className="text-sm break-all">
-                  {i.title.substring(0, 70)}...
-                </h3>
+                <h3 className="text-sm ">{i.title.substring(0, 70)}...</h3>
               </Link>
             </div>
           </article>
@@ -83,9 +81,7 @@ const RightSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/breaking/${i.id}`}>
-                <h3 className="text-sm break-all">
-                  {i.title.substring(0, 70)}...
-                </h3>
+                <h3 className="text-sm ">{i.title.substring(0, 70)}...</h3>
               </Link>
             </div>
           </article>
@@ -121,9 +117,7 @@ const RightSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/entertainment/${i.id}`}>
-                <h3 className="text-sm break-all">
-                  {i.title.substring(0, 70)}...
-                </h3>
+                <h3 className="text-sm ">{i.title.substring(0, 70)}...</h3>
               </Link>
             </div>
           </article>
@@ -159,9 +153,7 @@ const RightSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/health/${i.id}`}>
-                <h3 className="text-sm break-all">
-                  {i.title.substring(0, 70)}...
-                </h3>
+                <h3 className="text-sm ">{i.title.substring(0, 70)}...</h3>
               </Link>
             </div>
           </article>

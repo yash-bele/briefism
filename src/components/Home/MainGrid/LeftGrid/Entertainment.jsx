@@ -71,9 +71,10 @@ const Entertainment = () => {
                     <span className="text-xs">{i.timestamp}</span>
                   </div>
                   <Link href={`/entertainment/${i.id}`}>
-                    <h3 className="text-sm break-all">
+                    <h3 className="text-sm  hidden sm:block">
                       {i.title.substring(0, 70)}...
                     </h3>
+                    <h3 className="text-sm  block sm:hidden">{i.title}</h3>
                   </Link>
                 </div>
               </article>

@@ -51,8 +51,8 @@ const LeftSide = () => {
                 <span className="text-xs">{i.timestamp}</span>
               </div>
               <Link href={`/entertainment/${i.id}`}>
-                <h3 className="mb-0.5 break-all">{i.title}</h3>
-                <p className="text-sm text-slate-500 break-all">
+                <h3 className="mb-0.5 ">{i.title}</h3>
+                <p className="text-sm text-slate-500 ">
                   {i.preArticle.substring(0, 200)}...
                 </p>
               </Link>
