@@ -161,7 +161,7 @@ export const breaking = [
     timestamp: "Jan 07, 2024",
     image:
       "/jan-07-2024/us-appeals-court-halts-californias-implementation-of-gun-ban-in-majority-of-public-spaces.jpg",
-    title: `US Appeals Court Halts California&apos;s Implementation of Gun Ban in Majority of Public Spaces`,
+    title: `US Appeals Court Halts California's Implementation of Gun Ban in Majority of Public Spaces`,
     preArticle: `On Saturday, a federal appeals court upheld a judge's decision that
           prevented California from enforcing a recently enacted law prohibiting
           the carrying of firearms in most public spaces`,
