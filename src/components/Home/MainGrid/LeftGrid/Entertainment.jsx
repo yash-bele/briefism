@@ -18,7 +18,7 @@ const Entertainment = () => {
               <Link
                 key={i.id}
                 href={`/entertainment/${i.id}`}
-                className={`relative group w-full h-full overflow-hidden cursor-pointer rounded-xl bg-black/75 ${
+                className={`relative group w-full h-full overflow-hidden cursor-pointer rounded-xl bg-black/50 ${
                   j === 0 ? "row-span-3" : "row-span-2"
                 }`}
               >
