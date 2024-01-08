@@ -14,7 +14,7 @@ const MainGrid = () => {
         <Technology />
       </section>
       {/* Right Grid */}
-      <section className="border-l border-dashed border-red-300 pl-5 ml-5 hidden lg:block space-y-10">
+      <section className="border-none lg:border-l lg:border-dashed border-red-300 pl-0 lg:pl-5 ml-0 lg:ml-5 mt-10 lg:mt-0 space-y-10 col-span-3 lg:col-span-1">
         <Lifestyle />
         <Health />
       </section>

@@ -11,7 +11,12 @@ const Lifestyle = () => {
         <Link href="/lifestyle">lifestyle</Link>
       </h2>
       {[...lifestyle, ...lifestyleHistory].slice(0, 3).map((i, j) => (
-        <article key={i.id} className="flex items-center h-20 space-x-2.5">
+        <article
+          key={i.id}
+          className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${
+            j === 0 && "border-none pt-0"
+          }`}
+        >
           <Link
             href={`/lifestyle/${i.id}`}
             className="relative h-full w-40 hidden sm:block bg-slate-200 rounded-xl overflow-hidden"
@@ -31,7 +36,10 @@ const Lifestyle = () => {
               <span className="text-xs">{i.timestamp}</span>
             </div>
             <Link href={`/lifestyle/${i.id}`}>
-              <h3 className="text-sm ">{i.title.substring(0, 70)}...</h3>
+              <h3 className="text-sm hidden sm:block">
+                {i.title.substring(0, 70)}...
+              </h3>
+              <h3 className="text-sm block sm:hidden">{i.title}</h3>
             </Link>
           </div>
         </article>

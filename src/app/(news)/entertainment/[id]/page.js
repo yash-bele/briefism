@@ -21,10 +21,10 @@ export async function generateMetadata({ params }) {
 const Id = ({ params }) => {
   const datum = formatData.find((i) => i.id === params.id);
   return (
-    <main className="grid md:grid-cols-2 lg:grid-cols-4 mb-10 mx-auto">
-      <LeftSide />
+    <main className="grid grid-cols-1 lg:grid-cols-4 mb-10 mx-auto">
+      <LeftSide id={datum.id} />
       {/* || Main || */}
-      <section className="lg:col-span-2 space-y-5">
+      <section className="col-span-1 lg:col-span-2 space-y-5 -order-1 lg:order-none">
         {/* Head */}
         <div className="text-sm">
           <Link href="/" className="text-red-600 cursor-pointer">

@@ -13,7 +13,7 @@ const {
 
 const LeftSide = () => {
   return (
-    <aside className="pr-5 mr-5 border-r border-dashed border-red-300 space-y-10 hidden lg:block">
+    <aside className="pt-5 lg:pr-5 mt-5 lg:mr-5 border-none lg:border-r lg:border-dashed border-red-300 space-y-10">
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
           <Link href="/breaking">breaking</Link>
