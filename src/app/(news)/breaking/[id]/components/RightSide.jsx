@@ -13,7 +13,7 @@ const {
 
 const RightSide = () => {
   return (
-    <aside className="pt-5 lg:pl-5 mt-5 lg:ml-5 border-none lg:border-l lg:border-dashed border-red-300 space-y-10">
+    <aside className="pt-5 lg:pt-0 lg:pl-5 mt-5 lg:mt-0 lg:ml-5 border-none lg:border-l lg:border-dashed border-red-300 space-y-10">
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
           <Link href="/lifestyle">lifestyle</Link>
