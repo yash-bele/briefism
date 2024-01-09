@@ -58,19 +58,17 @@ const Navbar = () => {
           {openMenu ? <CgClose className="" /> : <CgMenuLeftAlt className="" />}
         </button>
       </section>
-      {openMenu && (
-        <ul className="text-sm capitalize">
-          {navLinks.map((i) => (
-            <Link
-              key={i}
-              href={`/${i}`}
-              className="px-5 py-2.5 hover:bg-slate-100 hover:text-red-600 border-t block"
-            >
-              {i}
-            </Link>
-          ))}
-        </ul>
-      )}
+      <ul className={`text-sm capitalize ${openMenu ? "block" : "hidden"}`}>
+        {navLinks.map((i) => (
+          <Link
+            key={i}
+            href={`/${i}`}
+            className="px-5 py-2.5 hover:bg-slate-100 hover:text-red-600 border-t block"
+          >
+            {i}
+          </Link>
+        ))}
+      </ul>
     </nav>
   );
 };
