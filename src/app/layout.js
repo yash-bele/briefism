@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9578547467175156"
           crossorigin="anonymous"
-        ></Script>
+        />
       </head>
       <body className={`font-light select-none ${montserrat.className}`}>
         <Navbar />
