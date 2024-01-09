@@ -1,113 +1,127 @@
 export const technology = [
+  // jan-09-2024
   {
-    id: "unlocking-the-secrets-your-guide-to-the-samsung-galaxy-s24-ultra",
-    timestamp: "This week",
+    id: "ios-18-launch-mark-gurman-reveals-apples-plans-to-integrate-generative-ai-into-iphones-at-wwdc-2024",
+    timestamp: "Jan 09, 2024",
     image:
-      "/week-jan-02-2024/technology/unlocking-the-secrets-your-guide-to-the-samsung-galaxy-s24-ultra.jpg",
-    title: `Unlocking the Secrets: Your Guide to the Samsung Galaxy S24 Ultra`,
-    preArticle: `For the past few years, the best Android smartphone has been
-          recognized as the Galaxy S series "Ultra" model. The South Korean
-          giant's Ultra smartphone, which offered the best of both worlds after
-          the Note lineup was discontinued, appears to be pushing the boundaries
-          of hardware and software capabilities even further this year`,
+      "/jan-09-2024/ios-18-launch-mark-gurman-reveals-apples-plans-to-integrate-generative-ai-into-iphones-at-wwdc-2024.jpg",
+    title: `iOS 18 Launch: Mark Gurman Reveals Apple&apos;s Plans to Integrate Generative AI into iPhones at WWDC 2024`,
+    preArticle: `Apple is reportedly preparing to reveal ground-breaking generative
+          AI-based tools for its coveted iPhone series at the Worldwide
+          Developers Conference (WWDC) 2024, which is scheduled for June, in a
+          tech race against its rivals.`,
     article: (
       <div className="space-y-6">
         <p>
-          For the past few years, the best Android smartphone has been
-          recognized as the Galaxy S series &quot;Ultra&quot; model. The South
-          Korean giant&apos;s Ultra smartphone, which offered the best of both
-          worlds after the Note lineup was discontinued, appears to be pushing
-          the boundaries of hardware and software capabilities even further this
-          year.
+          Apple is reportedly preparing to reveal ground-breaking generative
+          AI-based tools for its coveted iPhone series at the Worldwide
+          Developers Conference (WWDC) 2024, which is scheduled for June, in a
+          tech race against its rivals.
         </p>
         <p>
-          The Samsung Galaxy S24 Ultra is slated to launch on January 17 and is
-          anticipated to be a benchmark in terms of features and specifications.
-          Here&apos;s everything you need to know about Samsung&apos;s upcoming
-          premium non-foldable flagship, which will be unveiled at Samsung
-          Galaxy Unpacked 2024.
+          As per the observations made by Mark Gurman, the tech expert at
+          Bloomberg, in his &quot;Power On&quot; newsletter (via mysmartprice),
+          the upcoming iOS 18 update from Apple is expected to bring in a new
+          era of artificial intelligence by introducing a number of cutting-edge
+          features that are intended to improve user experiences.
         </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">Launch of &quot;Galaxy AI&quot;:</span>
-          <p>
-            In 2023, we saw firsthand the transformative potential of generative
-            artificial intelligence (AI). Now, with the Galaxy S24 Ultra,
-            Samsung is probably going to expand on these applications by
-            integrating AI into the smartphone. Samsung is probably going to
-            provide a couple more scenarios for the generative AI technology on
-            devices. According to the leaks, Samsung is anticipated to provide
-            features like real-time voice translation, an AI-powered wallpaper
-            generator for simple customization, improved Bixby (at last), and
-            optimized smartphone performance.
-          </p>
-          <p>
-            Although some of these features are already present on devices like
-            the Google Pixel 8, Samsung will democratize these features with the
-            Galaxy S24 Ultra, making them more accessible to a wider audience.
-            Thanks to the Snapdragon 8 Gen 3 SoC, these operations will be
-            carried out on-device, making them more private and secure than
-            those of comparable cloud-based services.
-          </p>
-          <p>
-            Furthermore, Samsung is implementing &quot;AI Zoom&quot; technology
-            on the Galaxy S24 Ultra. With the S24 Ultra, the company appears to
-            be combining the power of hardware, software, and AI to further
-            elevate the zooming capability by cleverly reconstructing the
-            subject using generative AI. The Ultra series of smartphones were
-            already known for their zooming prowess. These are a few of the
-            Samsung promotional videos that showcase the AI Zoom functionality
-            of the upcoming Galaxy S24 Ultra.
-          </p>
-          <p>
-            The Galaxy S24 Ultra&apos;s camera specs appear to be the same as
-            those of the Galaxy S23 Ultra. The Galaxy S24 Ultra is rumored to
-            come with a 200 MP primary camera, a 12 MP ultra-wide angle lens, a
-            5x 50 MP periscope zoom lens, a 3x optical zoom lens, and a 12 MP
-            selfie camera. The upcoming Samsung Galaxy Ultra smartphone has a
-            high-resolution 50 MP sensor with 5x optical zoom and 10x lossless
-            hybrid zoom, while the S23 Ultra has a 10 MP periscope zoom lens
-            with 10x optical zoom. This is the only difference between the two
-            generations of Samsung Galaxy Ultra smartphones.
-          </p>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">Top-performing Android Mobile!</span>
-          <p>
-            The Galaxy S24 Ultra is almost certainly powered by the Snapdragon 8
-            Gen 3 SoC, one of the first Android smartphone processors with
-            on-device generative AI capability, according to a post made by
-            Qualcomm India on X (formerly Twitter). The Galaxy S24 Ultra is
-            expected to change this, as although there are many phones on the
-            market with the same chip, none of them fully take advantage of this
-            new technology.
-          </p>
-          <p>
-            Samsung has a history of releasing new software features before
-            Android; in fact, Google incorporates TouchWiz and Samsung OneUI
-            design cues into the core of Android. Many such features are
-            anticipated for this year. Yet another update, OneUI 6.1, which is
-            based on Android 14, is anticipated to come pre-installed on the
-            smartphone.
-          </p>
-          <p>
-            The Galaxy S24 Ultra may keep its 5,000 mAh battery that supports
-            45W fast charging in addition to adding new Qi2 wireless charging
-            support. This could mark the first time that a Galaxy device has
-            MagSafe-like functionality.
-          </p>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">All of this could come with a price:</span>
-          <p>
-            Despite having a similar appearance to its predecessors, the Samsung
-            Galaxy S24 Ultra appears to have improved hardware and software,
-            along with additional generative AI capabilities. Accordingly, the
-            Galaxy S24 Ultra may very well be the priciest non-foldable
-            smartphone that Samsung has ever released. As a result, we should
-            anticipate that the price of the Samsung smartphone that isn&apos;t
-            foldable will go above Rs 1,50,000.
-          </p>
-        </div>
+        <p>
+          Anticipated artificial intelligence features might comprise
+          auto-summarization, which enables users to condense lengthy content,
+          and an auto-complete feature for applications, which streamlines user
+          interactions. Additionally, it is rumored that Apple will incorporate
+          AI into Apple Music, offering a more customized and user-friendly
+          music streaming experience. The report also suggests that new AI-based
+          developer tools will be released, giving creators more opportunities
+          to innovate inside the Apple ecosystem.
+        </p>
+        <p>
+          According to Gurman, since early 2023, Apple has been working hard to
+          develop a proprietary Large Language Model (LLM) called Ajax. This
+          cutting-edge model seeks to integrate AI capabilities into
+          Apple&quot;s flagship devices, including iPhones and Macs. When it
+          comes to incorporating AI into services like Siri, Apple Music,
+          essential apps, and more, the LLM will be essential. But it&quot;s
+          anticipated that Apple will proceed cautiously and choose to release
+          these features gradually.
+        </p>
+        <p>
+          Gurman predicts that Apple&quot;s AI vision will be fully realized by
+          2025, indicating that the tech giant has a visionary roadmap that goes
+          beyond 2024. This ambitious timeline highlights Apple&quot;s
+          dedication to the methodical and meticulous integration of new
+          technologies, even though it suggests that not all AI-centric
+          announcements will materialize in the upcoming year.
+        </p>
+        <p>
+          Beyond advancements in AI, Gurman offers insight into Apple&quot;s
+          more comprehensive product plan. The highly anticipated mixed reality
+          headset, the Apple Vision Pro, is expected to be released in February.
+          It is reported that new iPad Pro models with OLED screens and the
+          potent M3 SoC will go on sale in March. There may also be a larger
+          12.9-inch iPad Air release.
+        </p>
+        <p>
+          Furthermore, Gurman claims that a revised Apple TV 4K with a new
+          chipset may hit the market in the first half of 2024.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "vivo-x100-series-debuts-in-india-enhanced-cameras-and-mediatek-dimensity-9300-chipset-take-center-stage",
+    timestamp: "Jan 09, 2024",
+    image:
+      "/jan-09-2024/vivo-x100-series-debuts-in-india-enhanced-cameras-and-mediatek-dimensity-9300-chipset-take-center-stage.jpeg",
+    title: `Vivo X100 Series Debuts in India: Enhanced Cameras and Mediatek Dimensity 9300 Chipset Take Center Stage`,
+    preArticle: `On Thursday, Vivo unveiled its flagship Vivo X100 phones in India. The
+          Vivo X100 and X100 Pro variants are part of the new series. Because of their collaboration with ZEISS, the devices are expected to
+          provide notable improvements in mobile photography and come equipped
+          with Mediatek's most recent flagship chipset.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          On Thursday, Vivo unveiled its flagship Vivo X100 phones in India. The
+          Vivo X100 and X100 Pro variants are part of the new series.
+        </p>
+        <p>
+          Because of their collaboration with ZEISS, the devices are expected to
+          provide notable improvements in mobile photography and come equipped
+          with Mediatek&apos;s most recent flagship chipset.
+        </p>
+        <p>
+          Significant improvements are made to the vivo ZEISS Co-engineered
+          Imaging System, particularly in telephoto photography, where it now
+          has an amazing 100x zoom capability. The Telephoto Sunshot function on
+          both smartphones allows for better sunset and sunrise photography.
+        </p>
+        <p>
+          Telephoto Sunshot and 4K Cinematic Portrait Video are two more camera
+          features. The X100 series, which is driven by two flagship chipsets,
+          guarantees excellent performance while saving energy.
+        </p>
+        <p>
+          To ensure better performance, the phones integrate the Pro Imaging
+          chip V3 in the X100 Pro and V2 in the X100, along with the Dimensity
+          9300 SoC.
+        </p>
+        <p>
+          Notably, IP68 protection for resistance to dust and water is a feature
+          shared by the X100 Pro and X100.
+        </p>
+        <p>
+          The Funtouch OS14-powered devices are guaranteed to receive OS updates
+          for three years.
+        </p>
+        <p>
+          The X100 comes with two storage options, while the X100 Pro, which
+          costs ₹89,999, only has one storage configuration: 16GB RAM and 512GB
+          storage.
+        </p>
+        <p>
+          The cost of the Vivo X100 12GB+256GB variant is ₹63,999, while the
+          16GB+512GB variant is ₹69,999.
+        </p>
       </div>
     ),
   },

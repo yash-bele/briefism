@@ -1,70 +1,75 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // jan-09-2024
   {
-    id: "captain-miller-trailer-shows-dhanush-battling-british-forces",
-    timestamp: "This week",
+    id: "oppenheimers-triumph-at-the-2024-golden-globes-best-film-award-wins-cillian-murphy-christopher-nolan",
+    timestamp: "Jan 09, 2024",
     image:
-      "/week-jan-02-2024/entertainment/captain-miller-trailer-shows-dhanush-battling-british-forces.jpeg",
-    title: `Captain Miller Trailer Shows Dhanush Battling British Forces`,
-    preArticle: `The intense trailer for actor Dhanush's upcoming film Captain Miller
-          was unveiled Saturday, offering a glimpse into the movie's
-          action-packed narrative. Dhanush portrays a violent character fiercely
-          determined to battle British forces in the film`,
+      "/jan-09-2024/oppenheimers-triumph-at-the-2024-golden-globes-best-film-award-wins-cillian-murphy-christopher-nolan.jpg",
+    title: `Oppenheimer's Triumph at the 2024 Golden Globes: Best Film Award - Wins Cillian Murphy, Christopher Nolan`,
+    preArticle: `The 81st Golden Globes, which marked the beginning of this year's
+          Hollywood award season, were dominated by Oppenheimer and Succession.
+          Out of the eight nominations, Oppenheimer took home five wins,
+          including Best Film (Drama). In addition to winning Best Director,
+          Christopher Nolan's film also took home two major acting honors: for
+          his roles as Lewis Strauss and Robert Oppenheimer, Cillian Murphy won
+          Best Film Actor (Drama) and Robert Downey Jr. took home Best
+          Supporting Actor (Film). Ryan Gosling, who portrayed Ken in Barbie:
+          Barbie and Oppenheimer battled at the worldwide box office with
+          remarkable outcomes last year, was in RDJ's category. Best Score was
+          also won by Oppenheimer.`,
     article: (
       <div className="space-y-6">
         <p>
-          The intense trailer for actor Dhanush&apos;s upcoming film Captain
-          Miller was unveiled Saturday, offering a glimpse into the movie&apos;s
-          action-packed narrative. Dhanush portrays a violent character fiercely
-          determined to battle British forces in the film.
+          The 81st Golden Globes, which marked the beginning of this year&apos;s
+          Hollywood award season, were dominated by Oppenheimer and Succession.
+          Out of the eight nominations, Oppenheimer took home five wins,
+          including Best Film (Drama). In addition to winning Best Director,
+          Christopher Nolan&apos;s film also took home two major acting honors:
+          for his roles as Lewis Strauss and Robert Oppenheimer, Cillian Murphy
+          won Best Film Actor (Drama) and Robert Downey Jr. took home Best
+          Supporting Actor (Film). Ryan Gosling, who portrayed Ken in Barbie:
+          Barbie and Oppenheimer battled at the worldwide box office with
+          remarkable outcomes last year, was in RDJ&apos;s category. Best Score
+          was also won by Oppenheimer.
         </p>
         <p>
-          The nearly 3-minute trailer is filled with gunshots, swordfights,
-          explosions and other high-octane sequences, previewing the
-          movie&apos;s frenetic action. Dhanush appears to be defending his
-          village and its mines against the British troops. Towards the end,
-          it&apos;s revealed he was formerly a British soldier himself who held
-          the rank of Captain Miller.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            priority
-            src="/week-jan-02-2024/entertainment/captain-miller-trailer-shows-dhanush-battling-british-forces(2).webp"
-            alt="entertainment/speculation-of-rohit-shetty-film-arises-as-ranbir-kapoors-cop-look-in-ad-shoot-grabs-attention"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Fans praised the trailer in comments, with one user remarking
-          &quot;Goosebumps in each frame. He’s gonna dominate this Pongal.&quot;
-          Another commented &quot;No words to say about action rush cuts.
-          Deserves a national award for Dhanush. That’s all.&quot; A third fan
-          wrote &quot;Dhanush – Shivarajkumar – Sundeep, 3 talented actors in
-          one frame...Blast is loading.&quot;
+          In a surprising turn of events, Emma Stone won Best Film Actress
+          (Musical/Comedy), and Poor Things defeated Barbie for Best Film
+          (Musical/Comedy). Paul Giamatti and Da&apos;Vine Randolph, the stars
+          of The Holdovers, took home the Best Actor (Musical/Comedy) and Best
+          Supporting Actress film awards. The first-ever victory for an
+          Indigenous actor was achieved by Lily Gladstone, who won Best Film
+          Actress (Drama) for Killers of the Flower Moon.
         </p>
         <p>
-          Fans praised the trailer in comments, with one user remarking
-          &quot;Goosebumps in each frame. He’s gonna dominate this Pongal.&quot;
-          Another commented &quot;No words to say about action rush cuts.
-          Deserves a national award for Dhanush. That’s all.&quot; A third fan
-          wrote &quot;Dhanush – Shivarajkumar – Sundeep, 3 talented actors in
-          one frame...Blast is loading.&quot;
+          Succession, The Bear, and Beef all won handily in their respective
+          categories. Roman Roy, portrayed by Kieran Culkin, is the Succession
+          character who would win Best TV Actor (Drama). Best Supporting Actor
+          (TV) and Best TV Actress (Drama) went to co-stars Sarah Snook and
+          Matthew Macfadyen. Best Series (Drama) went to Succession as well.
         </p>
         <p>
-          The Central Board of Film Certification in India recently instructed
-          the makers of Captain Miller to reduce violence in final scenes by 40%
-          and mute derogatory language toward the British, including words like
-          &quot;white dogs.&quot; The board also asked for adjustments to bloody
-          visuals.
+          Beef took home the awards for Best Limited Series, Anthology, or TV
+          Movie in addition to Best Actress and Best Actor for Steven Yeun and
+          Ali Wong.
         </p>
         <p>
-          Directed by Arun Matheshwaran, the film stars Dhanush along with
-          Priyanka Arul Mohan, Shivaraj Kumar, Nivedita Sathish, Vinayakan and
-          Sandeep Kishan. Captain Miller has received a U/A certificate and is
-          slated for release on January 12.
+          For the second consecutive year, Jeremy Allen White won Best TV Actor
+          (Musical/Comedy) for The Bear, while co-star Ayo Edebiri took home the
+          Best TV Actress (Musical/Comedy) award. Also awarded Best Series
+          (Musical/Comedy) was The Bear.
+        </p>
+        <p>
+          After several contentious years of criticism and a boycott of the
+          Hollywood Foreign Press Association, which presented the awards
+          previously, the Golden Globes are back this year under new ownership.
+          The production company that has created and aired the show for many
+          years now owns the Globes. This year&apos;s Golden Globes, which are
+          hosted by comedian Jo Koy, feature two new categories: Best
+          Performance in Stand-Up Comedy on TV and Cinematic and Box Office
+          Achievement.
         </p>
       </div>
     ),
