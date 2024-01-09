@@ -5,7 +5,7 @@ export const technology = [
     timestamp: "Jan 09, 2024",
     image:
       "/jan-09-2024/ios-18-launch-mark-gurman-reveals-apples-plans-to-integrate-generative-ai-into-iphones-at-wwdc-2024.jpg",
-    title: `iOS 18 Launch: Mark Gurman Reveals Apple&apos;s Plans to Integrate Generative AI into iPhones at WWDC 2024`,
+    title: `iOS 18 Launch: Mark Gurman Reveals Apple's Plans to Integrate Generative AI into iPhones at WWDC 2024`,
     preArticle: `Apple is reportedly preparing to reveal ground-breaking generative
           AI-based tools for its coveted iPhone series at the Worldwide
           Developers Conference (WWDC) 2024, which is scheduled for June, in a

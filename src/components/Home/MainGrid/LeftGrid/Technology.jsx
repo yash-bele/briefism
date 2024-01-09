@@ -15,6 +15,7 @@ const Technology = () => {
           {[...technology, ...technologyHistory].slice(1, 4).map((i, j) => (
             <article
               key={i.id}
+              style={{ paddingTop: j === 0 && 0 }}
               className={`flex items-center h-auto sm:h-20 space-x-0 sm:space-x-2.5 border-t border-slate-400 border-dashed sm:border-none pt-2.5 sm:pt-0 ${
                 j === 0 && "border-none"
               }`}

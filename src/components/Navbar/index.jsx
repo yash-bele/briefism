@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { CgMenuLeftAlt, CgClose } from "react-icons/cg";
 export const navLinks = [
   "breaking",
@@ -12,10 +12,22 @@ export const navLinks = [
 ];
 
 const Navbar = () => {
+  const containerRef = useRef();
   const pathname = usePathname();
   const [openMenu, setOpenMenu] = useState(false);
+
+  useEffect(() => {
+    document.addEventListener(
+      "click",
+      (e) => {
+        if (!containerRef?.current?.contains(e.target)) setOpenMenu(false);
+      },
+      true
+    );
+  }, []);
+
   return (
-    <nav className="shadow fixed w-full z-10 top-0 bg-white">
+    <nav className="shadow-md fixed w-full z-10 top-0 bg-white">
       <section className="relative h-12 max-w-7xl flex items-center justify-between mx-auto px-5 lg:px-0">
         <Link href="/" className="text-xl">
           Briefism
@@ -39,6 +51,7 @@ const Navbar = () => {
           ))}
         </ul>
         <button
+          ref={containerRef}
           onClick={() => setOpenMenu(!openMenu)}
           className="absolute right-5 block sm:hidden text-2xl cursor-pointer text-slate-400"
         >
@@ -51,7 +64,6 @@ const Navbar = () => {
             <Link
               key={i}
               href={`/${i}`}
-              onClick={() => setOpenMenu(false)}
               className="px-5 py-2.5 hover:bg-slate-100 hover:text-red-600 border-t block"
             >
               {i}

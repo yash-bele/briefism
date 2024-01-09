@@ -1,5 +1,4 @@
 import { Montserrat } from "next/font/google";
-import Script from "next/script";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -19,10 +18,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <Script
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9578547467175156"
-          crossorigin="anonymous"
+          crossOrigin="anonymous"
         />
       </head>
       <body className={`font-light select-none ${montserrat.className}`}>
