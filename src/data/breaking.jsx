@@ -1,326 +1,276 @@
 import Image from "next/image";
 
 export const breaking = [
-  // jan-09-2024
+  // jan-10-2024
   {
-    id: "rhinos-homecoming-to-assam-wildlife-sanctuary-after-a-40-year-absence",
-    timestamp: "Jan 09, 2024",
+    id: "goa-tragedy-unraveling-the-motive-behind-suchana-seths-actions-against-her-4-year-old-son",
+    timestamp: "Jan 10, 2024",
     image:
-      "/jan-09-2024/rhinos-homecoming-to-assam-wildlife-sanctuary-after-a-40-year-absence.avif",
-    title: `Rhinos' Homecoming to Assam Wildlife Sanctuary After a 40-Year Absence`,
-    preArticle: `After forty years, the greater one-horned rhinoceros has made a
-          comeback to the Laokhowa-Burachapori Wildlife Sanctuary in central
-          Assam, according to officials.`,
+      "/jan-10-2024/goa-tragedy-unraveling-the-motive-behind-suchana-seths-actions-against-her-4-year-old-son.webp",
+    title: `Goa Tragedy: Unraveling the Motive Behind Suchana Seth's Actions Against Her 4-Year-Old Son`,
+    preArticle: `Estranged from her husband, Suchana Seth, 39, is the chief executive
+          officer of the artificial intelligence company Mindful AI Lab. It is
+          alleged that Seth killed her four-year-old son in Goa and took the
+          body to Karnataka.`,
     article: (
       <div className="space-y-6">
         <p>
-          After forty years, the greater one-horned rhinoceros has made a
-          comeback to the Laokhowa-Burachapori Wildlife Sanctuary in central
-          Assam, according to officials.
+          Estranged from her husband, Suchana Seth, 39, is the chief executive
+          officer of the artificial intelligence company Mindful AI Lab. It is
+          alleged that Seth killed her four-year-old son in Goa and took the
+          body to Karnataka.
         </p>
         <p>
-          Up until 1983, there were at least 45 rhinos living in the 309.2 sq.
-          km. wildlife sanctuary (WLS) in the Nagaon district, which is a part
-          of the Greater Kaziranga landscape. Although stray rhinos from Orang
-          National Park across the Brahmaputra River and the Kaziranga National
-          Park to the east were known to briefly enter the WLS, widespread
-          encroachment and poaching ultimately led to their extinction.
-        </p>
-        <p>
-          We are pleased to announce the return of our famous rhinos to Laokhowa
-          and Burachapori, after a 40-year absence, Chief Minister Himanta Biswa
-          Sarma posted on X, formerly Twitter, on Friday night. Stating that
-          they had returned within a year of our successful anti-encroachment
-          operation in the area. He also mentioned that following the eviction
-          drive in 2023, 51.7 square kilometers of forest cover had been
-          recovered.
-        </p>
-        <p>
-          According to wildlife officials, the two rhinos are thought to have
-          entered through Arimari, where between February 13 and 15, 2023,
-          encroachers were removed from 1,282 hectares of forest land and 817
-          hectares of unsurveyed government land.
-        </p>
-        <p>
-          Since November 2023, rhinos have been seen in Laokhowa-Burachapori, a
-          great place for freshwater mangroves to live. The WLS also has ten
-          tigers on file, suggesting a healthy base of herbivorous prey for
-          these animals, according to Kaziranga&apos;s field director, Sonali
-          Ghosh.
-        </p>
-        <p>
-          The recent filling of 75 frontline positions and the recruitment of
-          new personnel have been credited with increasing sanctuary protection.
-        </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">Conservatory Campaigns</span>
-          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>
-              For students attending schools near Kaziranga National Park and
-              Tiger Reserve, a biodiversity conservation group organized a
-              series of campaigns under the title &quot;Rhino goes to
-              school.&quot; Nine hundred students took part in the quizzes and
-              audio-visual presentations that were part of the programs.
-            </li>
-            <li>
-              The program was held at the Luhitmukh Higher Secondary School,
-              which is situated outside the boundaries of the tiger
-              reserve&apos;s Biswanath Wildlife Division.
-            </li>
-            <li>
-              &quot;As a component of the awareness initiative, learners were
-              instructed on various facets of rhinoceros, their behaviors and
-              environments, and the significance they hold for ecosystems and
-              human welfare,&quot; stated Arif Hussain from Aaranyak.
-            </li>
-            <li>
-              Bortamuli Lower Primary School, Namoni Mishing Middle English
-              School, and Luhitmukh Girls&apos; High School hosted the other
-              events.
-            </li>
-          </ul>
-        </div>
-      </div>
-    ),
-  },
-  {
-    id: "promoting-trilateral-cooperation-chinas-stance-amid-escalating-india-maldives-dispute",
-    timestamp: "Jan 09, 2024",
-    image:
-      "/jan-09-2024/promoting-trilateral-cooperation-chinas-stance-amid-escalating-india-maldives-dispute.jpeg",
-    title: `Promoting Trilateral Cooperation: China's Stance Amid Escalating India-Maldives Dispute`,
-    preArticle: `In light of the growing diplomatic ties between the two countries,
-          China stated on Monday that it is willing to carry out trilateral
-          cooperation between India and the Maldives. China's announcement
-          coincides with President Mohamed Muizzu of the Maldives' visit to the
-          nation`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In light of the growing diplomatic ties between the two countries,
-          China stated on Monday that it is willing to carry out trilateral
-          cooperation between India and the Maldives. China&apos;s announcement
-          coincides with President Mohamed Muizzu of the Maldives&apos; visit to
-          the nation.
-        </p>
-        <p>
-          Editorial in China&apos;s official media — Global Times — discusses
-          the growing diplomatic spat between India and the Maldives in the wake
-          of insulting remarks made by Maldivian ministers against Prime
-          Minister Narendra Modi.
-        </p>
-        <p>
-          &quot;It also respects the friendly and cooperative relationship
-          between the Maldives and India, fully aware of the importance for Male
-          to maintain good relations with New Delhi,&quot; reads the editorial
-          in China&apos;s Global Times. Beijing does not see cooperation between
-          the Maldives and India as hostile or dangerous, and it has never asked
-          Male to reject New Delhi due to disputes between China and India,
-          according to an editorial in the Global Times.
-        </p>
-        <p>
-          It went on to say: &quot;China is also open to implementing trilateral
-          cooperation with the Maldives, India, and China. Since China does not
-          view its cooperation with South Asian nations as a zero-sum endeavor,
-          New Delhi should continue to be more accommodating.&quot;
+          Superintendent of police (North) Nidhin Valsan stated at a press
+          conference on Tuesday that Suchana Seth had informed the police that
+          her husband and her were in the midst of divorce proceedings.
         </p>
         <div className="space-y-1.5">
           <span className="text-xl">
-            The visit of Maldivian President Mohamed Muizzu to China:
+            Regarding the husband of Suchana Seth, the Goa Police stated:
           </span>
           <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
             <li>
-              On Monday, Maldivian President Mohamed Muizzu landed in China.
+              Suchana Seth has been residing in Bengaluru, but she is originally
+              from West Bengal.
+            </li>
+            <li>Kerala is the home of Venkat Raman, Seth&apos;s spouse.</li>
+            <li>
+              The divorced husband has been told about the incident and is
+              presently in Jakarta, Indonesia.
             </li>
             <li>
-              Muizzu is currently on a five-day visit to China with Sajidha
-              Mohamed, the nation&apos;s first lady.
+              According to certain media reports, the couple got married in 2010
+              and had a son in 2019.
             </li>
+            <li>But in 2020, disagreements caused them to file for divorce.</li>
             <li>
-              Muizzu is seen as pro-Chinese, and since taking office, he has
-              been strengthening relations with the nation led by Xi Jinping.
-            </li>
-            <li>
-              The Maldives and India have long had close relations. India was a
-              close collaborator of Ibrahim Mohamed Solih, Muizzu&apos;s
-              predecessor.
-            </li>
-            <li>
-              The Maldivian government announced on social media the
-              Muizzu&apos;s arrival in China.
+              Pushing herself to the limit and wanting to keep Venkat Raman from
+              seeing the boy, Seth allegedly made plans to take her child to
+              Goa.
             </li>
           </ul>
         </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">What is the motive behind the murder?</span>
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
+            <li>
+              The police officer stated that since the woman is being
+              transported from Karnataka to Goa, the motive for the murder is
+              still unknown.
+            </li>
+            <li>
+              The SP stated that only after questioning her would the reason for
+              the murder be determined.
+            </li>
+            <li>
+              He stated that a post-mortem would be necessary to determine the
+              precise cause of his death.
+            </li>
+          </ul>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">What&apos;s known about the case:</span>
+          <div className="space-y-3">
+            <p>
+              Calangute police station inspector Paresh Naik stated that Suchana
+              Seth and her son moved into a rented service apartment in
+              Candolim, North Goa, on January 6.
+            </p>
+            <p>
+              Following a few days of stay, Seth informed the apartment staff
+              that she needed to go to Bengaluru for work and requested that
+              they set up a taxi, according to Naik.
+            </p>
+            <p>
+              Instead of hiring a taxi, which is an expensive option, the staff
+              recommended that she take a flight to Bengaluru, which would be
+              less expensive, the police officer said.
+            </p>
+            <p>
+              The woman insisted that she would only take a taxi, and on January
+              8 early in the morning, a car was arranged for her.
+            </p>
+            <p>
+              He claimed that blood stains were discovered on a towel when the
+              apartment staff went to clean the room where she had stayed later.
+              The apartment&apos;s management notified the Calangute Police
+              right away.
+            </p>
+            <p>
+              In addition, the staff reported to the police that Seth was seen
+              carrying an abnormally heavy bag when she left the apartment and
+              that her four-year-old son was not seen with her.
+            </p>
+            <p>
+              After that, she received a call from the police asking her about
+              her missing son and the bloodstains.
+            </p>
+            <p>
+              In response, the woman said that her monthly period was to blame
+              for the bloodstains. She gave the address and mentioned that her
+              son was in Margao town, South Goa, with her friend.
+            </p>
+            <p>
+              According to Naik, the police realized right away that the address
+              she had provided was a fake after enlisting the assistance of the
+              Fatorda Police (near Margao).
+            </p>
+            <p>
+              Later, the taxi driver, who was traveling to Bengaluru and had
+              arrived in the Karnataka district of Chitradurga, was instructed
+              by the inspector over the phone to transport the accused person to
+              the closest police station.
+            </p>
+            <p>
+              According to Naik, when the Chitradurga police examined the
+              woman&apos;s bag, they discovered the child&apos;s body.
+            </p>
+            <p>
+              After that, a team from Calangute Police hurried to Chitradurga
+              and secured the accused&apos;s transit remand so that he could be
+              transported to Goa.
+            </p>
+          </div>
+        </div>
+      </div>
+    ),
+  },
+  {
+    id: "maldives-leader-urges-removal-of-president-muizzu-amid-growing-strains-in-relations-with-india",
+    timestamp: "Jan 10, 2024",
+    image:
+      "/jan-10-2024/maldives-leader-urges-removal-of-president-muizzu-amid-growing-strains-in-relations-with-india.webp",
+    title: `Maldives Leader Urges Removal of President Muizzu Amid Growing Strains in Relations with India`,
+    preArticle: `Amidst the controversy surrounding a Maldivian minister's disparaging
+          comments about Prime Minister Narendra Modi, Parliamentary Minority
+          Leader Ali Azim of the Maldives demanded on Monday that Mohamed
+          Muizzu, the president of the archipelago nation, be removed.`,
+    article: (
+      <div className="space-y-6">
         <p>
-          The Maldives President&apos;s Office stated that H.E. Xi Jinping, the
-          president of China, has invited this visit. When Muizzu arrived at the
-          airport in Fujian, he was observed being welcomed by Chinese
-          officials. President Xi Jinping of China has invited Muizzu and his
-          spouse on a state visit.
+          Amidst the controversy surrounding a Maldivian minister&apos;s
+          disparaging comments about Prime Minister Narendra Modi, Parliamentary
+          Minority Leader Ali Azim of the Maldives demanded on Monday that
+          Mohamed Muizzu, the president of the archipelago nation, be removed.
         </p>
         <p>
-          President Muizzu of the Maldives is on his first bilateral visit since
-          taking office on December 17 of last year. Rumor has it that during
-          Muizzu&apos;s visit, China and the Maldives will have formal
-          discussions and sign important agreements to improve trade,
-          professional growth, and socioeconomic cooperation.
+          Noting that the foreign policy of the country remains stable, Azim
+          called for a motion of no confidence to be put out against Muizzu.
         </p>
         <p>
-          Muizzu will also meet important Chinese business executives at the
-          Invest Maldives Forum in Fuzhou. The President&apos;s Office of the
-          Maldives released a statement saying, &quot;The visit aims to pave the
-          way for technological and other collaborations between the two
-          countries.&quot; The President and First Lady of the Maldives are
-          accompanied by a high-level delegation.
+          He asked in a post on X (previously Twitter), &quot;We, d Democrats, r
+          dedicated to upholding d stability of the nation&apos;s foreign policy
+          n preventing d isolation of any neighboring country. R u willing to
+          take all necessary steps to remove prez @MMuizzu from power? Is
+          @MDPSecretariat prepared to initiate a vote of no confidence?&quot;
         </p>
         <p>
-          The Maldives President&apos;s Office stated, &quot;Additionally, the
-          President will meet with senior Chinese government officials, attend
-          the Invest Maldives Forum, and have meetings with senior Chinese
-          business leaders to explore avenues of mutual collaborations in
-          investments and trade between the Maldives and China.&quot;
+          This follows a controversy that started when a few Maldivian
+          politicians disparaged Prime Minister Modi and made fun of his most
+          recent trip to Lakshadweep. India brought up the issue with Male in a
+          strong manner, and the leaders of the island nation&apos;s opposition
+          criticized the ruling class for the disagreement.
         </p>
         <p>
-          On October 14, 1972, China and the Maldives established diplomatic
-          relations. Since that time, China and the Maldives have made a
-          concerted effort to strengthen their friendship.
+          The Maldivian deputy minister of youth empowerment, Mariyam Shiuna,
+          made a derogatory and mocking reference to Prime Minister Modi in a
+          post that has since been removed.
+        </p>
+        <p>
+          The comments incited a fierce backlash in India. The Maldives
+          government rejected the disparaging remarks, claiming they did not
+          reflect Male&apos;s opinions.
+        </p>
+        <p>
+          Three deputy ministers were also suspended by the Maldivian government
+          on Sunday for disparaging remarks about Prime Minister Modi on social
+          media. Ibrahim Khaleel, a spokesman for the Maldivian president,
+          stated, &quot;All government officials responsible for the comments
+          have been suspended from their post effective immediately.&quot;
+        </p>
+        <p>
+          Following the row, a number of well-known Indians, including cricketer
+          Sachin Tendulkar, actor Akshay Kumar, actor Salman Khan, and actor
+          Aakash Chopra, joined an online campaign advocating for a boycott of
+          the Maldives and its tourist attractions.
+        </p>
+        <p>
+          Amidst the boycott of the Maldives, online travel agency EaseMyTrip
+          declared that &quot;country comes before business&quot; and that it
+          would suspend all reservations for flights to the Maldives.
+        </p>
+        <p>
+          PM Modi visited the union territory on January 2 and posted a number
+          of photos, including one of him snorkelling, which he described as a
+          &quot;exhilarating experience.&quot; PM Modi posted images of the
+          ocean, snow-white beaches, and clear blue skies on X, captioning them
+          with the words, &quot;Lakshadweep has to be on your list for those who
+          wish to embrace the adventurer in them.&quot;
         </p>
       </div>
     ),
   },
   {
-    id: "muslim-professionals-in-the-tech-industry-share-hesitations-highlighted-by-sam-altman",
-    timestamp: "Jan 09, 2024",
+    id: "is-vladimir-putin-employing-north-korean-missiles-in-ukraine-kremlin's-statement-on-the-matter",
+    timestamp: "Jan 10, 2024",
     image:
-      "/jan-09-2024/muslim-professionals-in-the-tech-industry-share-hesitations-highlighted-by-sam-altman.avif",
-    title: `Muslim Professionals in the Tech Industry Share Hesitations, highlighted by Sam Altman`,
-    preArticle: `In apparent reference to the effects of the ongoing conflict in Gaza,
-          OpenAI CEO Sam Altman stated on Thursday that he felt people in the
-          Muslim and Arab communities in the tech sector were uncomfortable
-          talking about their recent experiences`,
+      "/jan-10-2024/is-vladimir-putin-employing-north-korean-missiles-in-ukraine-kremlin's-statement-on-the-matter.jpg",
+    title: `Is Vladimir Putin Employing North Korean Missiles in Ukraine? Kremlin's Statement on the Matter`,
+    preArticle: `The Kremlin said on Tuesday that Kyiv was using missiles made in the
+          West to attack Russian targets, but it declined to comment on claims
+          made by the US and Ukraine that Moscow had fired North Korean missiles
+          at targets in Ukraine.`,
     article: (
       <div className="space-y-6">
         <p>
-          In apparent reference to the effects of the ongoing conflict in Gaza,
-          OpenAI CEO Sam Altman stated on Thursday that he felt people in the
-          Muslim and Arab communities in the tech sector were uncomfortable
-          talking about their recent experiences.
+          The Kremlin said on Tuesday that Kyiv was using missiles made in the
+          West to attack Russian targets, but it declined to comment on claims
+          made by the US and Ukraine that Moscow had fired North Korean missiles
+          at targets in Ukraine.
         </p>
         <p>
-          On the social media platform X, formerly known as Twitter, Altman
-          posted, &quot;Muslim and arab (especially Palestinian) colleagues in
-          the tech community i&apos;ve spoken with feel uncomfortable speaking
-          about their recent experiences, often out of fear of retaliation and
-          damaged career prospects.&quot;
+          The White House announced last week that Russia had launched several
+          strikes against Ukraine using short-range ballistic missiles (SRBMs)
+          that were obtained from North Korea, citing recently declassified
+          intelligence. Later on, a senior Ukrainian official confirmed the
+          report.
         </p>
         <p>
-          The well-known CEO of ChatGPT, a company supported by Microsoft, urged
-          the tech sector to show empathy for people in those communities.
+          Since the start of the conflict in Ukraine, both Moscow and Pyongyang
+          have grown closer, despite their denials of having any arms deals. In
+          September of last year, President Vladimir Putin and North Korean
+          leader Kim Jong Un met in the Far East of Russia, and senior Russian
+          officials have since visited Pyongyang multiple times.
         </p>
         <p>
-          In response, a user on X questioned Altman about his thoughts on the
-          experiences of the Jewish community.
+          When asked about the allegations made by the United States and
+          Ukraine, Kremlin spokesperson Dmitry Peskov responded, &quot;No
+          comment&quot;, to a call with reporters.
         </p>
         <p>
-          In response, Altman said, &quot;I&apos;m Jewish. I see a lot of people
-          in our industry standing up for me, which I really appreciate, and I
-          think antisemitism is a serious and expanding issue in the world. I
-          notice a lot less of that with Muslims.&quot;
+          Peskov said that Ukraine had been using missiles made by
+          &quot;Germany, France, Italy, the United States, and other
+          countries&quot; to strike civilian targets inside Russia on multiple
+          occasions.
         </p>
         <p>
-          Human rights activists point out that since October 7, when the
-          Palestinian Islamist organization Hamas attacked Israel and killed
-          1,200 people, according to Israeli estimates, antisemitism and
-          Islamophobia have increased significantly both domestically and
-          internationally.
+          On December 30, an attack by Ukraine on the Russian border city of
+          Belgorod resulted in the deaths of over 20 people, including two
+          children, and 111 injuries, according to Russian media.
         </p>
         <p>
-          According to Gaza&apos;s health ministry, over 22,000 Palestinians
-          have died as a result of Israel&apos;s subsequent assault on the
-          territory, accounting for nearly 1% of its 2.3 million inhabitants.
+          The Belgorod region, which borders northern Ukraine, has experienced
+          drone attacks and shelling this year, similar to other Russian border
+          zones, which the authorities have attributed to Ukraine, though none
+          had ever been this severe.
         </p>
         <p>
-          The Council on American-Islamic Relations reported last month that,
-          compared to the same period the previous year, there had been a 172%
-          increase in incidents in the United States motivated by Islamophobia
-          and bias against Palestinians and Arabs in the two months following
-          the start of the war.
-        </p>
-        <p>
-          US antisemitic incidents increased by 337% between October 7 and
-          December 7, according to a December report from the Anti-Defamation
-          League.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "jee-main-2024-expected-announcement-of-session-1-exam-city-allocation-this-week",
-    timestamp: "Jan 09, 2024",
-    image:
-      "/jan-09-2024/jee-main-2024-expected-announcement-of-session-1-exam-city-allocation-this-week.png",
-    title: `JEE Main 2024: Expected Announcement of Session 1 Exam City Allocation This Week`,
-    preArticle: `On the official website, jeemain.nta.ac.in, the National Testing
-          Agency (NTA) will begin issuing admit cards and exam city information
-          slips for the first session of the Joint Entrance Examination (JEE)
-          Mains 2024. On January 24, the exam will take place. Admit cards are
-          anticipated to be sent out this week, and they will be provided "three
-          days prior to the actual date of the examination." With their
-          application number and birthdate, candidates can download it.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          On the official website, jeemain.nta.ac.in, the National Testing
-          Agency (NTA) will begin issuing admit cards and exam city information
-          slips for the first session of the Joint Entrance Examination (JEE)
-          Mains 2024. On January 24, the exam will take place. Admit cards are
-          anticipated to be sent out this week, and they will be provided
-          &quot;three days prior to the actual date of the examination.&quot;
-          With their application number and birthdate, candidates can download
-          it.
-        </p>
-        <p>
-          The names of the cities where the exam centers will be located will be
-          mentioned on JEE Main exam city slips, and exam day instructions,
-          reporting times, and exam dates will all be listed on the admit cards.
-        </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">
-            How to get the exam city slip downloaded:
-          </span>
-          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>Applicants must visit jeemain.nta.ac.in.</li>
-            <li>
-              Next, click the link to download the exam city notification slip
-              for the first session.
-            </li>
-            <li>Log in with your credentials.</li>
-            <li>Verify and save the city slip exam.</li>
-            <li>
-              Separate admit cards for each exam day will be made available.
-            </li>
-          </ul>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">Download admit card:</span>
-          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>Visit jeemain.nta.ac.in.</li>
-            <li>Go to the download tab for the session 1 admit card now.</li>
-            <li>To log in, enter your date of birth and application number.</li>
-            <li>Examine and save the admissions card.</li>
-          </ul>
-        </div>
-        <p>
-          The National Testing Agency (NTA) has announced that candidates taking
-          the engineering entrance exam JEE-Main will also be required to submit
-          to biometric attendance and frisking after bathroom breaks.
-        </p>
-        <p>
-          NTA Director Subodh Kumar Singh stated, &quot;The goal of the action
-          is to guarantee that there are no instances of unfair means or proxy
-          attendance. We already have strict mechanisms in place, but the goal
-          is to make the exam completely foolproof to ensure there are no
-          incidents.&quot;
+          The stated goals of Moscow&apos;s Feb. 24, 2022, deployment of tens of
+          thousands of troops into Ukraine were &quot;demilitarising&quot; and
+          &quot;denazifying&quot; the nation. Moscow has stated that Western
+          countries, including the US, are accountable for the fallout from
+          arming Kyiv.
         </p>
       </div>
     ),
