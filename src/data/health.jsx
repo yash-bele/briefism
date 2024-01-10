@@ -1,175 +1,137 @@
 export const health = [
+  // jan-10-2024
   {
-    id: "nutrition-insight-revealing-the-composition-of-a-100-gram-serving-of-oats",
-    timestamp: "This week",
+    id: "detecting-signs-of-vitamin-a-deficiency-be-aware-of-symptoms-and-learn-tips-for-improvement",
+    timestamp: "Jan 10, 2024",
     image:
-      "/week-jan-02-2024/health/nutrition-insight-revealing-the-composition-of-a-100-gram-serving-of-oats.jpg",
-    title: `Nutrition Insight: Revealing the Composition of a 100-Gram Serving of Oats`,
-    preArticle: `Few foods are as well-known in the world of healthful nutrition as
-          oats, which provide a flexible and nourishing supplement to our
-          regular diets. Beyond being a breakfast mainstay`,
+      "/jan-10-2024/detecting-signs-of-vitamin-a-deficiency-be-aware-of-symptoms-and-learn-tips-for-improvement.jpg",
+    title: `Detecting Signs of Vitamin A Deficiency: Be Aware of Symptoms and Learn Tips for Improvement`,
+    preArticle: `Vitamin A is a fat-soluble vitamin that is essential for immune system
+          function, healthy skin, and clear vision. There are two types of it:
+          provitamin A carotenoids (beta-carotene) and preformed vitamin A
+          (retinol). Whereas provitamin A carotenoids are present in plant-based
+          foods like carrots, sweet potatoes, spinach, and apricots, preformed
+          vitamin A is derived from animal sources like liver, fish, dairy
+          products, and eggs.`,
     article: (
       <div className="space-y-6">
         <p>
-          Few foods are as well-known in the world of healthful nutrition as
-          oats, which provide a flexible and nourishing supplement to our
-          regular diets. Beyond being a breakfast mainstay, oats have become
-          well-known for their remarkable health advantages, making them a
-          popular option for anyone looking for a nutrient-dense, heart-healthy
-          meal.
+          Vitamin A is a fat-soluble vitamin that is essential for immune system
+          function, healthy skin, and clear vision. There are two types of it:
+          provitamin A carotenoids (beta-carotene) and preformed vitamin A
+          (retinol). Whereas provitamin A carotenoids are present in plant-based
+          foods like carrots, sweet potatoes, spinach, and apricots, preformed
+          vitamin A is derived from animal sources like liver, fish, dairy
+          products, and eggs.
         </p>
         <p>
-          Oats have many benefits, ranging from supporting heart health to
-          helping with weight management, which makes them an important part of
-          a healthy, well-balanced diet. We learned about the nutritional
-          benefits of oats from Dr. Shuchin Bajaj, a general practitioner and
-          the founder and director of the Ujala Cygnus Group of Hospitals.
+          A deficiency of vitamin A arises from the body not getting enough of
+          this vital nutrient. People in developing nations are mainly affected
+          by it, particularly in regions where malnutrition is common. Common
+          causes include eating a diet low in foods high in vitamin A, having
+          digestive issues that impair vitamin A absorption, and having certain
+          medical conditions.
+        </p>
+        <p>
+          A lack of vitamin A can result in a variety of illnesses and
+          disabilities, especially those that affect the eyes. Continue reading
+          for a list of the numerous symptoms of a vitamin A deficiency as well
+          as advice on how to treat it.
         </p>
         <div className="space-y-1.5">
-          <span className="text-xl">Oats&apos; Health Benefits</span>
+          <span className="text-xl">
+            Typical indicators of a vitamin A deficiency include:
+          </span>
           <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
             <li>
-              Heart health: Beta-glucans, a soluble fiber type found in oats,
-              have the ability to lower cholesterol and thus support heart
-              health.
+              Having trouble adjusting to low light or having trouble seeing
+              well in low light.
             </li>
             <li>
-              Blood sugar control: Oats are a good option for people with
-              diabetes since their soluble fiber helps control blood sugar
-              levels.
+              Dry, scaly, or rough skin. As a result of moisture loss, the skin
+              gets flaky and dry.
             </li>
             <li>
-              Digestion: The high fiber content of oats promotes a healthy
-              digestive system and helps ease constipation. Additionally, it
-              encourages fullness, which helps with weight management.
+              Spots on the conjunctiva, the membrane covering the whites of the
+              eyes, that are white or grayish in color.
             </li>
             <li>
-              Weight management: Oats&apos; high fiber content, which helps
-              regulate appetite, can aid in weight loss and management.
+              Cornea ulceration, which results in pain, redness in the eyes, and
+              issues with vision.
             </li>
             <li>
-              Absorption of nutrients: Oats are a good source of vitamins,
-              minerals, and B-vitamins, which are important for the metabolism
-              of energy.
+              A serious eye ailment characterized by dry, irritated, and
+              infection-prone eyes. If treatment is not received, it may lead to
+              progressive damage and even blindness.
             </li>
             <li>
-              Antioxidants: Avenanthramides, an antioxidant found in oats, have
-              anti-inflammatory and anti-itching qualities.
+              A lack of vitamin A impairs immunity, leaving people more
+              vulnerable to diseases and infections.
             </li>
           </ul>
         </div>
         <div className="space-y-1.5">
-          <span className="text-xl">Oats&apos; nutritional profile:</span>
+          <span className="text-xl">
+            Suggestions for treating vitamin A deficiency:
+          </span>
           <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>Fat: 6.9 grams</li>
-            <li>Protein: 16.89 grams</li>
-            <li>Dietary Fibre: 10.6 grams</li>
-            <li>Sugars: 0.99 grams</li>
-            <li>Carbohydrates: 66.27 grams</li>
-            <li>Calories: 389 kcal</li>
             <li>
-              Vitamins and Minerals: Oats are a good source of iron, magnesium,
-              phosphorus, zinc, copper, manganese, selenium, and B-vitamins (B1,
-              B2, B3, B5, B6).
+              Eat a diet rich in foods like liver, fish, eggs, dairy, and orange
+              and yellow vegetables like sweet potatoes, pumpkin, and carrots.
+            </li>
+            <li>
+              Include leafy greens in your diet, such as kale, collard greens,
+              and spinach, as they are rich in beta-carotene, which the body
+              uses to make vitamin A.
+            </li>
+            <li>
+              Add fruits that are high in beta-carotene and can help raise your
+              vitamin A levels, like oranges, mangoes, and apricots.
+            </li>
+            <li>
+              To help you reach your daily requirements, look for fortified
+              cereals, milk, and other food products that are enhanced with
+              vitamin A.
+            </li>
+            <li>
+              Consider taking a vitamin A supplement under a doctor&apos;s
+              supervision if your diet isn&apos;t enough to meet your needs for
+              the vitamin.
+            </li>
+            <li>
+              Heat has the potential to destroy vitamin A, so use caution when
+              cooking food to preserve its vitamin A content. Vegetables can
+              have their nutrients preserved by lightly steaming or
+              stirring-frying them.
+            </li>
+            <li>
+              Limit or stay away from alcohol completely as it can cause
+              problems with the absorption and utilisation of vitamin A.
+            </li>
+            <li>
+              It has been demonstrated that smoking lowers vitamin A levels, so
+              giving up can help you keep your body&apos;s vitamin A levels at
+              their ideal levels.
+            </li>
+            <li>
+              Certain medications, like some acne treatments, can obstruct the
+              body&apos;s ability to absorb and use vitamin A. Talk to your
+              doctor about any possible medication-induced vitamin A deficiency.
             </li>
           </ul>
         </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">Can someone with diabetes eat oats?</span>
-          <p>
-            Oats are safe for diabetics to eat because they have a low glycaemic
-            index and soluble fiber, which helps to stabilize blood sugar
-            levels.
-          </p>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">Does it help women who are expecting?</span>
-          <p>
-            Oats contain a number of nutrients, including iron and B vitamins,
-            which can be advantageous for expectant mothers. But moderation is
-            recommended.
-          </p>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">Things to Remember</span>
-          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>
-              Gluten-free oats are the better option for those who are sensitive
-              to gluten.
-            </li>
-            <li>
-              Although oats have some natural sugars in them, their total sugar
-              content is minimal.
-            </li>
-            <li>
-              Portion control is crucial because overindulgence can result in an
-              excessive calorie intake.
-            </li>
-          </ul>
-        </div>
+        <p>
+          Consider taking a vitamin A supplement under a doctor&apos;s
+          supervision if your diet isn&apos;t enough to meet your needs for the
+          vitamin.
+        </p>
+        <p>
+          It&apos;s crucial to speak with a healthcare provider if you think you
+          may have a vitamin A deficiency in order to receive a diagnosis and
+          the best course of action, which may include vitamin A supplements,
+          dietary adjustments, or treating the underlying causes.
+        </p>
       </div>
-    ),
-  },
-  {
-    id: "people-with-covid-19-infection-are-four-times-more-likely-to-develop-schizophrenia-according-to-a-study",
-    timestamp: "This week",
-    image:
-      "/week-jan-02-2024/health/people-with-covid-19-infection-are-four-times-more-likely-to-develop-schizophrenia-according-to-a-study.avif",
-    title: `People with Covid-19 infection are four times more likely to develop schizophrenia, according to a study`,
-    preArticle: `Scientists are learning about the long-term effects of the SARS-CoV-2
-        virus on mental health amidst its ongoing global impact. There may be a
-        link between Covid-19 and mental health problems, according to recent
-        research.`,
-    article: (
-      <>
-        Scientists are learning about the long-term effects of the SARS-CoV-2
-        virus on mental health amidst its ongoing global impact. There may be a
-        link between Covid-19 and mental health problems, according to recent
-        research.
-        <br />
-        <br />
-        Researchers have discovered a connection between severe Covid-19
-        infection and schizophrenia, a psychotic disorder, in a recent study.
-        <br />
-        <br />
-        The results show that individuals with Covid-19 infection have a
-        diagnosis of schizophrenia that is more than four times higher than that
-        of those without the infection.
-        <br />
-        <br />
-        Researchers from West Virginia University in the US have published in
-        the National Library of Medicine about a possible interaction between
-        vaccines and clozapine, a common medication used to treat schizophrenia.
-        <br />
-        <br />
-        Although the cause of schizophrenia, a mental illness characterized by
-        hallucinations and cognitive impairments, is unknown, earlier research
-        has hypothesized that viral infections may be involved. This theory is
-        strengthened by the latest discovery, which demands more research.
-        <br />
-        <br />
-        The study also made clear how important it is to carefully consider
-        immunization plans for patients receiving clozapine therapy.
-        <br />
-        <br />
-        &quot;According to our data, younger people who have Covid-19 are more
-        likely to develop SSPD (Schizophrenia Spectrum and Psychotic Disorders).
-        These findings highlight the necessity of careful mental evaluation and
-        assistance in the Long-Covid era, particularly for younger populations,
-        and are consistent with the known neurotropism of SARS-CoV-2 and past
-        research&quot;, the authors wrote.
-        <br />
-        <br />
-        The correlation observed between severe Covid-19 infections and a
-        heightened likelihood of developing schizophrenia underscored the
-        pressing requirement for an all-encompassing strategy to tackle the
-        pandemic&apos;s enduring impact on mental health.
-        <br />
-        <br />
-        Additionally, the study examined how the pandemic affected primary care
-        providers&apos; ability to provide Brief Interventions (BIs) for alcohol
-        and tobacco use.
-      </>
     ),
   },
 ];
