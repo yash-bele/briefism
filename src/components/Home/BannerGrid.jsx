@@ -2,9 +2,9 @@ import Link from "next/link";
 import Image from "next/image";
 import { data } from "@/data";
 const formatData = [
-  data.breaking[0],
-  data.breaking[1],
+  data.breaking[3],
   data.breaking[2],
+  data.breaking[4],
   data.health[0],
   data.lifestyle[0],
 ];

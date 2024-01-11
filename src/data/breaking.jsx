@@ -265,4 +265,137 @@ export const breaking = [
       </div>
     ),
   },
+  {
+    id: "maldives-tourism-advocates-for-the-resumption-of-flight-bookings-by-easemytrip-acknowledging-the-vital-role-of-indian-tourists",
+    timestamp: "Jan 11, 2024",
+    image:
+      "/jan-11-2024/maldives-tourism-advocates-for-the-resumption-of-flight-bookings-by-easemytrip-acknowledging-the-vital-role-of-indian-tourists.webp",
+    title: `Maldives Tourism Advocates for the Resumption of Flight Bookings by EaseMyTrip, Acknowledging the Vital Role of Indian Tourists`,
+    preArticle: `On Tuesday, the travel aggregation app EaseMyTrip received a request
+          from the Maldives Association of Tour and Travel Operators, or MATATO,
+          asking it to reinstate flight reservations to the island nation
+          through its platform. CEO of EaseMyTrip Nishant Pitti declared that
+          flights to the Maldives will not be accepted after three ministers
+          from the island nation made disparaging comments about Prime Minister
+          Narendra Modi's visit to Lakshadweep.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          On Tuesday, the travel aggregation app EaseMyTrip received a request
+          from the Maldives Association of Tour and Travel Operators, or MATATO,
+          asking it to reinstate flight reservations to the island nation
+          through its platform. CEO of EaseMyTrip Nishant Pitti declared that
+          flights to the Maldives will not be accepted after three ministers
+          from the island nation made disparaging comments about Prime Minister
+          Narendra Modi&apos;s visit to Lakshadweep.
+        </p>
+        <p>
+          MATATO stated that they &quot;did not reflect sentiments of Maldivians
+          in general&quot; and urged EaseMyTrip to ignore them. MATATO
+          emphasized that Indian travelers are indispensable force in the
+          success of the Maldivian tourism sector, providing vital support to
+          small to medium-sized enterprises&quot; highlighting the need for
+          them.
+        </p>
+        <p>
+          In a statement, the Maldives tourism board praised Indian visitors,
+          who have become the country&apos;s largest group of foreign visitors
+          since COVID-19.
+        </p>
+        <p>
+          &quot;As we offer our sincere thanks for the long-lasting friendship
+          and cooperation that characterize the Maldives&apos; relationship with
+          India, we want you to know that these ties go beyond issues of
+          politics. We love and cherish our Indian counterparts as brothers and
+          sisters.&quot;
+        </p>
+        <p>
+          &quot;With over two-thirds of the Maldives&apos; GDP coming from the
+          tourism industry and 44,000 Maldivians employed in it, tourism is the
+          lifeblood of the islands. The possible negative effect on tourism has
+          the capacity to have catastrophic effects on our economy.&quot;
+        </p>
+        <p>
+          Based on information provided by the Maldives Tourism Ministry, over
+          4.5 lakh Indian tourists have come to the nation over the previous two
+          years, including over two lakh visitors last year. When the Maldives
+          was still open to visitors, approximately 63,000 Indians went there
+          despite the pandemic.
+        </p>
+        <p>
+          Earlier, the Maldives Association of Tourism Industry (MATI) denounced
+          remarks made disparagingly about Prime Minister Modi. MATATO also
+          urged people to abstain from using offensive language that exacerbates
+          division.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "zerodha-ceo-unveils-warning-signs-in-finance-apps-urging-vigilance",
+    timestamp: "Jan 11, 2024",
+    image:
+      "/jan-11-2024/zerodha-ceo-unveils-warning-signs-in-finance-apps-urging-vigilance.webp",
+    title: `Zerodha CEO Unveils Warning Signs in Finance Apps, Urging Vigilance`,
+    preArticle: `The CEO and founder of Zerodha, Nithin Kamath, used X to caution users
+          against financial apps, particularly those that deal with loans. A red
+          indicator, according to him, are programs that "ask for full access to
+          contacts, messages, photos." Kamath warned consumers against these
+          kinds of apps, calling them 'digital avatars of unscrupulous
+          moneylenders'.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The CEO and founder of Zerodha, Nithin Kamath, used X to caution users
+          against financial apps, particularly those that deal with loans. A red
+          indicator, according to him, are programs that &quot;ask for full
+          access to contacts, messages, photos.&quot; Kamath warned consumers
+          against these kinds of apps, calling them &apos;digital avatars of
+          unscrupulous moneylenders&apos;.
+        </p>
+        <p>
+          &quot;There has been a noticeable increase in the number of people
+          being duped by dubious and unlawful lending apps. Many people who
+          become entangled in the network of these apps often turn to extreme
+          measures, like suicide. Two new illicit lending apps appear for each
+          one that is banned. It&apos;s turned into a whack-a-mole game,&quot;
+          Kamath wrote.
+        </p>
+        <p>
+          He went on to discuss the strategies these apps employ to generate
+          revenue. &quot;The fact that many of these apps deduct as much as 10%
+          upfront is what makes them disgusting,&quot; he said. Furthermore,
+          interest rates can vary from fifty percent to one hundred percent, or
+          even higher. People that borrow money through these applications are
+          unable to return it on such exorbitant terms. However, since that
+          users of these apps are in need, they overlook the fine print.&quot;
+        </p>
+        <p>
+          He further warned individuals that these loan sharks may use physical
+          threats in order to get money back at the conclusion of his tweet. By
+          phoning all of their contacts and sharing their private images, they
+          can also harass others.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              Finance apps that ask for full access to contacts, messages,
+              photos, etc. are a red flag, especially if it&#39;s a loan app. A
+              lot of these lending apps are digital avatars of predatory
+              moneylenders (Sudakhor in Hindi).
+              <br />
+              <br />
+              The number of people getting fleeced by shady and illegal loan…{" "}
+              <a href="https://t.co/gtemoVqZif">pic.twitter.com/gtemoVqZif</a>
+            </p>
+            &mdash; Nithin Kamath (@Nithin0dha){" "}
+            <a href="https://twitter.com/Nithin0dha/status/1744330282269085875?ref_src=twsrc%5Etfw">
+              January 8, 2024
+            </a>
+          </blockquote>{" "}
+          <script async src="https://platform.twitter.com/widgets.js" />
+        </div>
+      </div>
+    ),
+  },
 ];

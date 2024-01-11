@@ -27,7 +27,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav className="shadow-md fixed w-full z-10 top-0 bg-white">
+    <nav className="shadow fixed w-full z-10 top-0 bg-white">
       <section className="relative h-12 max-w-7xl flex items-center justify-between mx-auto px-5 lg:px-0">
         <Link href="/" className="text-xl">
           Briefism
