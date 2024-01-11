@@ -1,277 +1,267 @@
 import Image from "next/image";
 
 export const breaking = [
-  // jan-10-2024
+  // jan-11-2024
   {
-    id: "goa-tragedy-unraveling-the-motive-behind-suchana-seths-actions-against-her-4-year-old-son",
-    timestamp: "Jan 10, 2024",
+    id: "call-for-justice-in-uttarakhand-resort-murder-bjp-leaders-arrest-urged-by-ankita-bhandaris-mother",
+    timestamp: "Jan 11, 2024",
     image:
-      "/jan-10-2024/goa-tragedy-unraveling-the-motive-behind-suchana-seths-actions-against-her-4-year-old-son.webp",
-    title: `Goa Tragedy: Unraveling the Motive Behind Suchana Seth's Actions Against Her 4-Year-Old Son`,
-    preArticle: `Estranged from her husband, Suchana Seth, 39, is the chief executive
-          officer of the artificial intelligence company Mindful AI Lab. It is
-          alleged that Seth killed her four-year-old son in Goa and took the
-          body to Karnataka.`,
+      "/jan-11-2024/call-for-justice-in-uttarakhand-resort-murder-bjp-leaders-arrest-urged-by-ankita-bhandaris-mother.avif",
+    title: `Call for Justice in Uttarakhand Resort Murder: BJP Leader's Arrest Urged by Ankita Bhandari's Mother`,
+    preArticle: `Ankita Bhandari, 19, was murdered in September 2022 while working as a
+          receptionist in an upscale resort in Rishikesh, Uttarakhand. Since
+          then, the murder has taken a new turn, with her mother calling for the
+          arrest of a prominent member of the ruling Bharatiya Janata party
+          (BJP).`,
     article: (
       <div className="space-y-6">
         <p>
-          Estranged from her husband, Suchana Seth, 39, is the chief executive
-          officer of the artificial intelligence company Mindful AI Lab. It is
-          alleged that Seth killed her four-year-old son in Goa and took the
-          body to Karnataka.
+          Ankita Bhandari, 19, was murdered in September 2022 while working as a
+          receptionist in an upscale resort in Rishikesh, Uttarakhand. Since
+          then, the murder has taken a new turn, with her mother calling for the
+          arrest of a prominent member of the ruling Bharatiya Janata party
+          (BJP).
         </p>
         <p>
-          Superintendent of police (North) Nidhin Valsan stated at a press
-          conference on Tuesday that Suchana Seth had informed the police that
-          her husband and her were in the midst of divorce proceedings.
-        </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">
-            Regarding the husband of Suchana Seth, the Goa Police stated:
-          </span>
-          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>
-              Suchana Seth has been residing in Bengaluru, but she is originally
-              from West Bengal.
-            </li>
-            <li>Kerala is the home of Venkat Raman, Seth&apos;s spouse.</li>
-            <li>
-              The divorced husband has been told about the incident and is
-              presently in Jakarta, Indonesia.
-            </li>
-            <li>
-              According to certain media reports, the couple got married in 2010
-              and had a son in 2019.
-            </li>
-            <li>But in 2020, disagreements caused them to file for divorce.</li>
-            <li>
-              Pushing herself to the limit and wanting to keep Venkat Raman from
-              seeing the boy, Seth allegedly made plans to take her child to
-              Goa.
-            </li>
-          </ul>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">What is the motive behind the murder?</span>
-          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>
-              The police officer stated that since the woman is being
-              transported from Karnataka to Goa, the motive for the murder is
-              still unknown.
-            </li>
-            <li>
-              The SP stated that only after questioning her would the reason for
-              the murder be determined.
-            </li>
-            <li>
-              He stated that a post-mortem would be necessary to determine the
-              precise cause of his death.
-            </li>
-          </ul>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">What&apos;s known about the case:</span>
-          <div className="space-y-3">
-            <p>
-              Calangute police station inspector Paresh Naik stated that Suchana
-              Seth and her son moved into a rented service apartment in
-              Candolim, North Goa, on January 6.
-            </p>
-            <p>
-              Following a few days of stay, Seth informed the apartment staff
-              that she needed to go to Bengaluru for work and requested that
-              they set up a taxi, according to Naik.
-            </p>
-            <p>
-              Instead of hiring a taxi, which is an expensive option, the staff
-              recommended that she take a flight to Bengaluru, which would be
-              less expensive, the police officer said.
-            </p>
-            <p>
-              The woman insisted that she would only take a taxi, and on January
-              8 early in the morning, a car was arranged for her.
-            </p>
-            <p>
-              He claimed that blood stains were discovered on a towel when the
-              apartment staff went to clean the room where she had stayed later.
-              The apartment&apos;s management notified the Calangute Police
-              right away.
-            </p>
-            <p>
-              In addition, the staff reported to the police that Seth was seen
-              carrying an abnormally heavy bag when she left the apartment and
-              that her four-year-old son was not seen with her.
-            </p>
-            <p>
-              After that, she received a call from the police asking her about
-              her missing son and the bloodstains.
-            </p>
-            <p>
-              In response, the woman said that her monthly period was to blame
-              for the bloodstains. She gave the address and mentioned that her
-              son was in Margao town, South Goa, with her friend.
-            </p>
-            <p>
-              According to Naik, the police realized right away that the address
-              she had provided was a fake after enlisting the assistance of the
-              Fatorda Police (near Margao).
-            </p>
-            <p>
-              Later, the taxi driver, who was traveling to Bengaluru and had
-              arrived in the Karnataka district of Chitradurga, was instructed
-              by the inspector over the phone to transport the accused person to
-              the closest police station.
-            </p>
-            <p>
-              According to Naik, when the Chitradurga police examined the
-              woman&apos;s bag, they discovered the child&apos;s body.
-            </p>
-            <p>
-              After that, a team from Calangute Police hurried to Chitradurga
-              and secured the accused&apos;s transit remand so that he could be
-              transported to Goa.
-            </p>
-          </div>
-        </div>
-      </div>
-    ),
-  },
-  {
-    id: "maldives-leader-urges-removal-of-president-muizzu-amid-growing-strains-in-relations-with-india",
-    timestamp: "Jan 10, 2024",
-    image:
-      "/jan-10-2024/maldives-leader-urges-removal-of-president-muizzu-amid-growing-strains-in-relations-with-india.webp",
-    title: `Maldives Leader Urges Removal of President Muizzu Amid Growing Strains in Relations with India`,
-    preArticle: `Amidst the controversy surrounding a Maldivian minister's disparaging
-          comments about Prime Minister Narendra Modi, Parliamentary Minority
-          Leader Ali Azim of the Maldives demanded on Monday that Mohamed
-          Muizzu, the president of the archipelago nation, be removed.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Amidst the controversy surrounding a Maldivian minister&apos;s
-          disparaging comments about Prime Minister Narendra Modi, Parliamentary
-          Minority Leader Ali Azim of the Maldives demanded on Monday that
-          Mohamed Muizzu, the president of the archipelago nation, be removed.
+          Ankita&apos;s mother, Soni Devi, reportedly made the claim in a video,
+          claiming that BJP MLA Renu Bisht had given the order to destroy
+          evidence linked to the murder case by burning the victim&apos;s room
+          at the Vanantra Resort, where her daughter worked as a receptionist.
         </p>
         <p>
-          Noting that the foreign policy of the country remains stable, Azim
-          called for a motion of no confidence to be put out against Muizzu.
+          Recall that BJP leader Vinod Arya&apos;s son Pulkit and two others
+          were arrested following a furious public outcry following the
+          disappearance of Ankita, whose body was subsequently discovered in
+          Rishikesh&apos;s Chilla barrage. The luxurious resort&apos;s owner,
+          Pulkit, is said to have thrown her into the water when she resisted
+          being made to serve a VIP guest.
         </p>
         <p>
-          He asked in a post on X (previously Twitter), &quot;We, d Democrats, r
-          dedicated to upholding d stability of the nation&apos;s foreign policy
-          n preventing d isolation of any neighboring country. R u willing to
-          take all necessary steps to remove prez @MMuizzu from power? Is
-          @MDPSecretariat prepared to initiate a vote of no confidence?&quot;
+          The girl&apos;s mother also claimed that the state BJP secretary, Ajay
+          Kumar, had appeared in witness statements nearly a year and a half
+          after the crime, and she urged Uttarakhand Chief Minister Pushkar
+          Singh Dhami to act right away.
         </p>
         <p>
-          This follows a controversy that started when a few Maldivian
-          politicians disparaged Prime Minister Modi and made fun of his most
-          recent trip to Lakshadweep. India brought up the issue with Male in a
-          strong manner, and the leaders of the island nation&apos;s opposition
-          criticized the ruling class for the disagreement.
+          Due to the intense public outcry surrounding the Ankita Bhandari
+          murder case in 2022, the Uttarakhand Police assigned the case to a
+          special investigation team (SIT) headed by senior IPS officer P Renuka
+          Devi.
         </p>
         <p>
-          The Maldivian deputy minister of youth empowerment, Mariyam Shiuna,
-          made a derogatory and mocking reference to Prime Minister Modi in a
-          post that has since been removed.
+          Declaring that the Dhami government had betrayed her, Soni Devi
+          expressed &quot;Arrest Ajay Kumar as it&apos;s evident that his name
+          surfaced in the probe as the VIP who visited the resort,&quot; Soni
+          Devi stated in the Sunday video statement. It added &quot;Arrest MLA
+          Renu Bisht as well as Pramod Kumar, the former SDM, who gave the order
+          for a JCB driver to destroy Ankita&apos;s room.&quot;
         </p>
         <p>
-          The comments incited a fierce backlash in India. The Maldives
-          government rejected the disparaging remarks, claiming they did not
-          reflect Male&apos;s opinions.
+          Inspector General of Police Nilesh Anand Bharne told news agency ANI
+          that &quot;no evidence or statement about any VIP was presented during
+          the investigation and testimony in court.&quot; He also stated that
+          &quot;many serious allegations have been made by Ankita
+          Bhandari&apos;s parents in the media and the social media about the
+          so-called VIPs.&quot;
         </p>
         <p>
-          Three deputy ministers were also suspended by the Maldivian government
-          on Sunday for disparaging remarks about Prime Minister Modi on social
-          media. Ibrahim Khaleel, a spokesman for the Maldivian president,
-          stated, &quot;All government officials responsible for the comments
-          have been suspended from their post effective immediately.&quot;
+          The accusations made by Ankita&apos;s mother have also been refuted by
+          the BJP. &quot;In a fit of rage, Ankita&apos;s parents have made
+          accusations, and the Congress party is expressing its frustration over
+          electoral setbacks. The BJP leader&apos;s character is being attacked
+          by the opposition using Ankita&apos;s mother&apos;s remarks as
+          cover. The government and the BJP are with the victim&apos;s family
+          and justice will be done in the case as it is sub judice.&quot;, news
+          reports as such cited a party leader.
         </p>
         <p>
-          Following the row, a number of well-known Indians, including cricketer
-          Sachin Tendulkar, actor Akshay Kumar, actor Salman Khan, and actor
-          Aakash Chopra, joined an online campaign advocating for a boycott of
-          the Maldives and its tourist attractions.
+          According to a PTI report, Uttarakhand Congress president Karan Mahara
+          shared Ankita&apos;s mother&apos;s video statement and asked,
+          &quot;When will Dhami answer our daughter Ankita Bhandari&apos;s
+          mother&apos;s tears?&quot;
         </p>
         <p>
-          Amidst the boycott of the Maldives, online travel agency EaseMyTrip
-          declared that &quot;country comes before business&quot; and that it
-          would suspend all reservations for flights to the Maldives.
+          Ankita&apos;s mother further claimed in her statement that his wife
+          had been sent to Pithoragarh and that the Dhami government had falsely
+          filed a case against social worker Ashutosh Negi, who was assisting
+          her in the case.
         </p>
         <p>
-          PM Modi visited the union territory on January 2 and posted a number
-          of photos, including one of him snorkelling, which he described as a
-          &quot;exhilarating experience.&quot; PM Modi posted images of the
-          ocean, snow-white beaches, and clear blue skies on X, captioning them
-          with the words, &quot;Lakshadweep has to be on your list for those who
-          wish to embrace the adventurer in them.&quot;
+          &quot;I will sacrifice my life if the case against Negi is not dropped
+          soon and his wife&apos;s transfer is not cancelled,&quot; the woman
+          declared.
+        </p>
+        <p>
+          Mahara stated that similar accusations had also been made by
+          Ankita&apos;s father in a letter addressed to the Pauri District
+          Magistrate, and that the entire incident ought to be looked into under
+          the supervision of a sitting High Court judge.
+        </p>
+        <p>
+          &quot;It is imperative that action be taken against these allegations
+          if there is even the slightest degree of truth,&quot; he declared.
         </p>
       </div>
     ),
   },
   {
-    id: "is-vladimir-putin-employing-north-korean-missiles-in-ukraine-kremlins-statement-on-the-matter",
-    timestamp: "Jan 10, 2024",
+    id: "maharashtra-speaker-pronounces-eknath-shinde-faction-as-the-true-shiv-sena",
+    timestamp: "Jan 11, 2024",
     image:
-      "/jan-10-2024/is-vladimir-putin-employing-north-korean-missiles-in-ukraine-kremlins-statement-on-the-matter.jpg",
-    title: `Is Vladimir Putin Employing North Korean Missiles in Ukraine? Kremlin's Statement on the Matter`,
-    preArticle: `The Kremlin said on Tuesday that Kyiv was using missiles made in the
-          West to attack Russian targets, but it declined to comment on claims
-          made by the US and Ukraine that Moscow had fired North Korean missiles
-          at targets in Ukraine.`,
+      "/jan-11-2024/maharashtra-speaker-pronounces-eknath-shinde-faction-as-the-true-shiv-sena.jpg",
+    title: `Maharashtra Speaker Pronounces Eknath Shinde Faction as the True Shiv Sena`,
+    preArticle: `Regarding disqualification petitions submitted by organizations led by
+          former chief minister Uddhav Thackeray and Shinde, Rahul Narwekar
+          rendered a decision.`,
     article: (
       <div className="space-y-6">
         <p>
-          The Kremlin said on Tuesday that Kyiv was using missiles made in the
-          West to attack Russian targets, but it declined to comment on claims
-          made by the US and Ukraine that Moscow had fired North Korean missiles
-          at targets in Ukraine.
+          Regarding disqualification petitions submitted by organizations led by
+          former chief minister Uddhav Thackeray and Shinde, Rahul Narwekar
+          rendered a decision.
         </p>
         <p>
-          The White House announced last week that Russia had launched several
-          strikes against Ukraine using short-range ballistic missiles (SRBMs)
-          that were obtained from North Korea, citing recently declassified
-          intelligence. Later on, a senior Ukrainian official confirmed the
-          report.
+          On Wednesday, the Speaker declared that the Thackeray-led faction had
+          not submitted any documentation indicating that a meeting of the Shiv
+          Sena&apos;s national executive had taken place to determine which
+          faction of the party was the legitimate one.
         </p>
         <p>
-          Since the start of the conflict in Ukraine, both Moscow and Pyongyang
-          have grown closer, despite their denials of having any arms deals. In
-          September of last year, President Vladimir Putin and North Korean
-          leader Kim Jong Un met in the Far East of Russia, and senior Russian
-          officials have since visited Pyongyang multiple times.
+          The Supreme Court gave Narwekar another deadline extension on December
+          15, ordering him to make a decision on the petitions by January 10.
+          The Maharashtra Speaker was initially instructed by a five-judge bench
+          led by Chief Justice DY Chandrachud to hear and rule on the
+          disqualification petitions within a “reasonable time” in May of last
+          year.
         </p>
         <p>
-          When asked about the allegations made by the United States and
-          Ukraine, Kremlin spokesperson Dmitry Peskov responded, &quot;No
-          comment&quot;, to a call with reporters.
+          The Shiv Sena broke up in June 2022 when Chief Minister Eknath Shinde
+          rebelled against Thackeray&apos;s Maha Vikas Aghadi coalition,
+          claiming the backing of 39 of the party&apos;s 55 MLAs in addition to
+          10 independent MLAs. In the government, allies included the Congress,
+          the Nationalist Congress Party, and the Shiv Sena.
         </p>
         <p>
-          Peskov said that Ukraine had been using missiles made by
-          &quot;Germany, France, Italy, the United States, and other
-          countries&quot; to strike civilian targets inside Russia on multiple
-          occasions.
+          The Thackeray faction has demanded the disqualification of Shinde and
+          other MLAs. There were 34 such petitions pending before the Speaker in
+          total.
         </p>
         <p>
-          On December 30, an attack by Ukraine on the Russian border city of
-          Belgorod resulted in the deaths of over 20 people, including two
-          children, and 111 injuries, according to Russian media.
+          The Shiv Sena (UBT), led by Thackeray, had petitioned the Supreme
+          Court on the eve of Narwekar&apos;s verdict, citing concerns about a
+          recent meeting between Shinde and Narwekar, according to NDTV. This
+          was compared by the former chief minister to a &quot;judge meeting a
+          criminal.&quot;
         </p>
         <p>
-          The Belgorod region, which borders northern Ukraine, has experienced
-          drone attacks and shelling this year, similar to other Russian border
-          zones, which the authorities have attributed to Ukraine, though none
-          had ever been this severe.
+          Shiv Sena (UBT) MLA Aaditya Thackeray charged the Maharashtra
+          government of trying to silence the opinions of those outside the
+          ruling class ahead of the Speaker&apos;s decision on Wednesday,
+          according to ANI.
         </p>
         <p>
-          The stated goals of Moscow&apos;s Feb. 24, 2022, deployment of tens of
-          thousands of troops into Ukraine were &quot;demilitarising&quot; and
-          &quot;denazifying&quot; the nation. Moscow has stated that Western
-          countries, including the US, are accountable for the fallout from
-          arming Kyiv.
+          Leader of the Nationalist Congress Party and acting deputy speaker
+          Narhari Zirwal initiated the disqualification process in June 2022.
         </p>
+        <p>
+          The Supreme Court ruled in May that former Maharashtra Governor Bhagat
+          Singh Koshyari had erred in concluding that the Shinde-led rebellion
+          had caused the Thackeray government to lose its majority. However, the
+          court further ruled that the Maha Vikas Aghadi could not be reinstated
+          after Thackeray resigned without being put to a floor test.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "why-is-ecuador-becoming-a-focal-point-for-drug-gang-confrontations",
+    timestamp: "Jan 11, 2024",
+    image:
+      "/jan-11-2024/why-is-ecuador-becoming-a-focal-point-for-drug-gang-confrontations.jpg",
+    title: `Why is Ecuador becoming a Focal Point for Drug Gang Confrontations!`,
+    preArticle: `Positioned along the cocaine trade route that connects Peru and
+          Colombia, Ecuador is experiencing a serious crisis due to gang
+          violence.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Positioned along the cocaine trade route that connects Peru and
+          Colombia, Ecuador is experiencing a serious crisis due to gang
+          violence.
+        </p>
+        <p>
+          According to AFP, Ecuadorian President Daniel Noboa declared a state
+          of &quot;internal armed conflict&quot; due to the ongoing situation,
+          which has resulted in at least 10 deaths.
+        </p>
+        <p>
+          Noboa approved military operations against the nation&apos;s most
+          powerful criminal organizations on Tuesday, following the takeover of
+          a television studio by masked gunmen and threats made by gang members
+          against law enforcement and civilians.
+        </p>
+        <div className="space-y-1.5">
+          <span className="text-xl">What is going on!</span>
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
+            <li>
+              Gangs that are connected to powerful cartels in Mexico and
+              Colombia, most notably Los Choneros, have committed acts of
+              violence, including attacking television studios, setting off
+              explosions in numerous cities, and kidnapping police officers.
+            </li>
+            <li>
+              After the largest gang in Ecuador, Los Choneros, led by Jose
+              Adolfo Macias, also known as &quot;Fito,&quot; escaped, President
+              Noboa declared a state of emergency and instituted a curfew for
+              the evening hours on Monday.
+            </li>
+            <li>
+              Later, groups affiliated with cartels from Mexico and Colombia,
+              including Ecuadorian gangs, detonated bombs in multiple cities and
+              kidnapped multiple police officers.
+            </li>
+            <li>
+              Armed with guns, these gang members broke into a TC television
+              studio in the port city of Guayaquil on Tuesday. &quot;Don&apos;t
+              shoot, please don&apos;t shoot,&quot; pleaded a woman&apos;s voice
+              over gunfire during a live TC broadcast.
+            </li>
+            <li>
+              After police broke into the studio, thirteen people were taken
+              into custody.
+            </li>
+          </ul>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">Why is violence prevalent in Ecuador?</span>
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
+            <li>
+              Ecuador is a prime target for drug trafficking organizations due
+              to its strategic location on the cocaine trade route that connects
+              Peru and Colombia.
+            </li>
+            <li>
+              In Ecuador, drug-related violence has been on the rise for a long
+              time; between 2018 and 2022, the murder rate quadrupled, peaking
+              at over 7,800 killings last year.
+            </li>
+            <li>
+              In an effort to increase their power and influence, rival gangs
+              connected to the cartels in Mexico and Colombia fight for control
+              of drug routes and territory in Ecuador.
+            </li>
+            <li>
+              The country&apos;s faltering economy, in addition to extreme
+              poverty and inequality, has made it an ideal environment for gang
+              recruitment.
+            </li>
+            <li>
+              Unrest within Ecuador&apos;s penitentiaries and an inefficient
+              prison system that allows well-known criminals to evade justice
+              have both substantially contributed to the rise in violence.
+            </li>
+          </ul>
+        </div>
       </div>
     ),
   },
