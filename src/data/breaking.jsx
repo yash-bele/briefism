@@ -3,6 +3,139 @@ import Image from "next/image";
 export const breaking = [
   // jan-12-2024
   {
+    id: "prime-minister-modi-inaugurates-atal-setu-indias-longest-sea-bridge-its-significance-for-the-people-of-mumbai",
+    timestamp: "Jan 12, 2024",
+    image:
+      "/jan-12-2024/prime-minister-modi-inaugurates-atal-setu-indias-longest-sea-bridge-its-significance-for-the-people-of-mumbai.webp",
+    title: `Prime Minister Modi Inaugurates Atal Setu, India's Longest Sea Bridge; Its Significance for the People of Mumbai`,
+    preArticle: `Prime Minister Narendra Modi inaugurated India's longest sea
+          bridge, the Atal Bihari Vajpayee Sewri Nhava Sheva Atal Setu, also
+          known as the Mumbai Trans Harbour Link (MTHL), on Friday. The bridge
+          is named after former Prime Minister and BJP veteran Atal Bihari
+          Vajpayee.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Prime Minister Narendra Modi inaugurated India&apos;s longest sea
+          bridge, the Atal Bihari Vajpayee Sewri Nhava Sheva Atal Setu, also
+          known as the Mumbai Trans Harbour Link (MTHL), on Friday. The bridge
+          is named after former Prime Minister and BJP veteran Atal Bihari
+          Vajpayee.
+        </p>
+        <p>
+          This bridge is set to revolutionize travel for Mumbaikars by reducing
+          the two-hour journey from Mumbai to Navi Mumbai to just 20 minutes.
+          Under construction for the past six years at a massive cost of around
+          Rs 20,000 crores, the Atal Setu has been hailed as a boon for
+          commuters.
+        </p>
+        <p>
+          By spanning 22 km over the sea, the bridge drastically cuts down the
+          travel distance between Sewri in South Mumbai and Chirle near Nhava
+          Sheva in Navi Mumbai from 42 km to 22 km. This not only saves precious
+          time but also promotes fuel conservation, addressing a pressing
+          concern in busy Mumbai.
+        </p>
+        <p>
+          Touted as India&apos;s longest sea bridge, the project includes a 16.5
+          km long section over the sea and a 5.5 km elevated stretch over land.
+          As per officials, it has a design capacity of 70,000 vehicles daily,
+          enabling smooth travel at 100 km/hr on average.
+        </p>
+        <p>
+          Starting at Sewri and ending at Chirle near Nhava Sheva, the Atal Setu
+          offers key interchanges at Sewri, Shivajinagar, State Highway 54, and
+          NH-348. This strategic connectivity significantly enhances local links
+          while also establishing vital access to Pune, Goa and southern India,
+          promoting regional integration.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              <a href="https://twitter.com/hashtag/WATCH?src=hash&amp;ref_src=twsrc%5Etfw">
+                #WATCH
+              </a>{" "}
+              | PM Modi inaugurates Atal Bihari Vajpayee Sewari - Nhava Sheva
+              Atal Setu in Maharashtra
+              <br />
+              <br />
+              Atal Setu is the longest bridge in India and also the longest sea
+              bridge in the country. It will provide faster connectivity to
+              Mumbai International Airport and Navi Mumbai…{" "}
+              <a href="https://t.co/2GT2OUkVnC">pic.twitter.com/2GT2OUkVnC</a>
+            </p>
+            &mdash; ANI (@ANI){" "}
+            <a href="https://twitter.com/ANI/status/1745755162231361905?ref_src=twsrc%5Etfw">
+              January 12, 2024
+            </a>
+          </blockquote>{" "}
+          <script async src="https://platform.twitter.com/widgets.js" />
+        </div>
+        <p>
+          The inauguration of this engineering marvel marks a major
+          infrastructure milestone for Mumbai and the country. By vastly
+          improving connectivity between the mainland and Navi Mumbai, the Atal
+          Setu promises to bring the two cities closer while boosting economic
+          growth and opportunities.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "nearly-eight-years-later-mystery-of-missing-iaf-plane-finally-unraveled",
+    timestamp: "Jan 12, 2024",
+    image:
+      "/jan-12-2024/nearly-eight-years-later-mystery-of-missing-iaf-plane-finally-unraveled.webp",
+    title: `Nearly Eight Years Later, Mystery of Missing IAF Plane Finally Unraveled`,
+    preArticle: `After nearly 8 years, the wreckage of an Indian Air Force An-32
+          aircraft that went missing in 2016 has finally been discovered on the
+          seabed of the Bay of Bengal. The plane, with registration number
+          K-2743, had disappeared during a flight from Port Blair to Chennai on
+          July 22, 2016.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          After nearly 8 years, the wreckage of an Indian Air Force An-32
+          aircraft that went missing in 2016 has finally been discovered on the
+          seabed of the Bay of Bengal. The plane, with registration number
+          K-2743, had disappeared during a flight from Port Blair to Chennai on
+          July 22, 2016.
+        </p>
+        <p>
+          On Friday, the Indian Air Force announced that debris from the crashed
+          aircraft has been located at a depth of approximately 3.4 km, around
+          310 km off the Chennai coast. The discovery was made by India&apos;s
+          National Institute of Ocean Technology using specialized deep sea
+          search equipment.
+        </p>
+        <p>
+          As per the IAF statement, NIOT recently deployed an advanced
+          Autonomous Underwater Vehicle equipped with deep sea exploration
+          capabilities to survey the aircraft&apos;s last known position.
+          Multiple sensor payloads were utilized, including multi-beam sonar,
+          synthetic aperture sonar and high-resolution photography. Analysis of
+          the search imagery revealed the presence of aircraft debris on the
+          seabed.
+        </p>
+        <p>
+          There were 29 people on board the ill-fated An-32 transport plane that
+          fateful day in 2016. After the plane went missing mid-flight, an
+          extensive search and rescue operation was launched over the Bay of
+          Bengal but no signs of the aircraft or passengers were found.
+          Eventually all 29 were presumed dead.
+        </p>
+        <p>
+          The recent discovery of the wreckage thus provides some closure after
+          years of the aircraft&apos;s mysterious disappearance. Efforts will
+          now focus on attempting to retrieve the flight data recorder as well
+          as any remains to aid the investigation into this tragic incident. The
+          families of the lost passengers and crew will also get some answers to
+          the enduring questions surrounding the crash.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "massive-retaliatory-strike-against-iranian-backed-houthis-in-yemen-launched-by-us-and-british-militaries",
     timestamp: "Jan 12, 2024",
     image:

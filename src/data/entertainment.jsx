@@ -3,6 +3,73 @@ import Image from "next/image";
 export const entertainment = [
   // jan-12-2024
   {
+    id: "bigg-boss-17-elimination-samarth-jurel-voted-out-of-the-show-fans-express-joy",
+    timestamp: "Jan 12, 2024",
+    image:
+      "/jan-12-2024/bigg-boss-17-elimination-samarth-jurel-voted-out-of-the-show-fans-express-joy.jpg",
+    title: `Bigg Boss 17 Elimination: Samarth Jurel Voted Out of the Show; Fans Express Joy`,
+    preArticle: `In the latest eviction twist, contestant Samarth Jurel has reportedly been eliminated from the popular reality show Bigg Boss 17 just ahead of the grand finale this month.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In the latest eviction twist, contestant Samarth Jurel has reportedly
+          been eliminated from the popular reality show Bigg Boss 17 just ahead
+          of the grand finale this month.
+        </p>
+        <p>
+          As Bigg Boss 17 approaches its finale episode, the show is currently
+          in the Family Week phase with visits from contestants&apos; loved
+          ones. However, an exciting update has now emerged regarding the
+          weekend eviction that has brought immense joy to many fans.
+        </p>
+        <p>
+          There has been growing anticipation and calls from viewers in recent
+          days for Samarth&apos;s eviction from the Bigg Boss house. Now that he
+          has finally been eliminated according to inside reports, fans are
+          expressing their overwhelming happiness and relief at his departure.
+        </p>
+        <p>
+          The reactions make it clear that Samarth&apos;s eviction is a
+          long-awaited and welcome development for a significant portion of the
+          show&apos;s dedicated supporters and followers.
+        </p>
+        <p>
+          According to the famous Bigg Boss insider account The Khabri, the
+          eviction process took place recently and Samarth Jurel has been
+          officially eliminated as a result.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              Brraking ELIMINATION TOOK place just few moments back and{" "}
+              <a href="https://twitter.com/hashtag/SamarthJurel?src=hash&amp;ref_src=twsrc%5Etfw">
+                #SamarthJurel
+              </a>{" "}
+              is ELIMINATED
+              <br />
+              <br />
+              RETWEET IF HAPPY
+              <br />
+              LIKE IF SAD
+            </p>
+            &mdash; The Khabri (@TheKhabriTweets){" "}
+            <a href="https://twitter.com/TheKhabriTweets/status/1745534793889275940?ref_src=twsrc%5Etfw">
+              January 11, 2024
+            </a>
+          </blockquote>{" "}
+          <script async src="https://platform.twitter.com/widgets.js" />
+        </div>
+        <p>
+          With one of the perceived villains now out of the show, the dynamics
+          between the remaining Bigg Boss 17 contestants may shift dramatically
+          in the final few crucial weeks. Fans are eager to see how the other
+          housemates respond to Samarth&apos;s eviction and who rises to
+          prominence leading up to the grand finale.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "nandita-roy-and-shiboprosad-mukherjees-film-shastry-vs-shastry-secures-top-10-spot-on-netflix-for-15-days",
     timestamp: "Jan 12, 2024",
     image:
