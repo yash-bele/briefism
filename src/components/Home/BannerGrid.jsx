@@ -16,7 +16,13 @@ const BannerGrid = () => {
         <Link
           key={i.id}
           href={`/${
-            j === 3 ? "entertainment" : j === 4 ? "entertainment" : "breaking"
+            j === 2
+              ? "entertainment"
+              : j === 3
+              ? "entertainment"
+              : j === 4
+              ? "entertainment"
+              : "breaking"
           }/${i.id}`}
           className={`relative group rounded-lg overflow-hidden bg-black/50 ${
             j === 0 && "sm:col-span-2 sm:row-span-2"
