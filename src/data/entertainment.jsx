@@ -1,165 +1,267 @@
 import Image from "next/image";
 
 export const entertainment = [
-  // jan-11-2024
+  // jan-12-2024
   {
-    id: "2023-shah-rukh-khans-comeback-the-bollywood-kings-box-office-triumph",
-    timestamp: "Jan 11, 2024",
+    id: "nandita-roy-and-shiboprosad-mukherjees-film-shastry-vs-shastry-secures-top-10-spot-on-netflix-for-15-days",
+    timestamp: "Jan 12, 2024",
     image:
-      "/jan-11-2024/2023-shah-rukh-khans-comeback-the-bollywood-kings-box-office-triumph.avif",
-    title: `2023: Shah Rukh Khan's Comeback: The Bollywood King's Box Office Triumph`,
-    preArticle: `Saying that 2023 was the year of Shah Rukh Khan wouldn't be incorrect.
-          After a four-year hiatus, the Bollywood superstar returned to the big
-          screen as the protagonist of Pathaan. Though lengthy, the wait was
-          well worth it. Shah Rukh shed his romantic persona and put on the
-          armor of an action hero. And what a hero he turned into! Both
-          audiences and critics were impressed by his new avatar. For the
-          five-day long weekend, fans flocked to theaters as early as 5 a.m. to
-          see the opening performance of Pathaan, which also starred Deepika
-          Padukone and John Abraham. The subsequent shows were completely
-          booked.`,
+      "/jan-12-2024/nandita-roy-and-shiboprosad-mukherjees-film-shastry-vs-shastry-secures-top-10-spot-on-netflix-for-15-days.avif",
+    title: `Nandita Roy and Shiboprosad Mukherjee's Film 'Shastry Vs Shastry' Secures Top 10 Spot on Netflix for 15 Days`,
+    preArticle: `"Shastry Virudh Shastry" has become a beloved presence on the
+          streaming platform, capturing the hearts and attention of viewers,
+          while other films come and go. A memorable story combined with the directing skills of Shiboprosad
+          Mukherjee and Nandita Roy have produced a cinematic experience that
+          will never be forgotten.`,
     article: (
       <div className="space-y-6">
         <p>
-          Saying that 2023 was the year of Shah Rukh Khan wouldn&apos;t be
-          incorrect. After a four-year hiatus, the Bollywood superstar returned
-          to the big screen as the protagonist of Pathaan. Though lengthy, the
-          wait was well worth it. Shah Rukh shed his romantic persona and put on
-          the armor of an action hero. And what a hero he turned into! Both
-          audiences and critics were impressed by his new avatar. For the
-          five-day long weekend, fans flocked to theaters as early as 5 a.m. to
-          see the opening performance of Pathaan, which also starred Deepika
-          Padukone and John Abraham. The subsequent shows were completely
-          booked.
+          &quot;Shastry Virudh Shastry&quot; has become a beloved presence on
+          the streaming platform, capturing the hearts and attention of viewers,
+          while other films come and go.
         </p>
         <p>
-          Pathaan achieved a record-breaking opening weekend collection as a
-          result. Pathaan had an opening box office collection of Rs 280.75 cr,
-          according to Bollywood Hungama. With a staggering lifetime collection
-          of Rs 543.05 cr in India and Rs 1050.3 cr worldwide, the movie—which
-          also happened to be a landmark picture for Yash Raj Films—set a new
-          record for box office receipts of Rs 1000 crore.
+          A memorable story combined with the directing skills of Shiboprosad
+          Mukherjee and Nandita Roy have produced a cinematic experience that
+          will never be forgotten.
         </p>
         <p>
-          The release was significant for Bollywood overall as well as for Shah
-          Rukh&apos;s career. With the release of the Covid-19 lockdown, the
-          superstar broke the negative trend and brought back Bollywood at the
-          box office. Distributors and producers gained confidence from Pathaan
-          to release high-budget movies, and many of them did well at the box
-          office. While a number of films, including Rocky Aur Rani Kii Prem
-          Kahaani, OMG 2, Gadar 2, and Tu Jhoothi Main Makkaar, maintained the
-          momentum at the box office, Shah Rukh made a triumphant comeback with
-          Jawan, raising the stakes even further.
+          Not only has the movie persevered through the ten new Netflix releases
+          in the last fifteen days, but it has done so with steadfast charm and
+          resiliency.
         </p>
         <p>
-          Shah Rukh not only returned to the action role in his first movie with
-          Atlee, but he also played two roles. SRK shed all of his inhibitions
-          and transformed into the bulky hero we had all been waiting to see him
-          as, playing the part of an identical father and son. Rajakumari&apos;s
-          rap in honor of King Khan and Anirudh Ravichander&apos;s famous
-          &quot;massy massy&quot; BGM elevated the movie to new heights and
-          caused a massive explosion at the Box Office.
+          Reunited in the Bengali film industry, Nandita Roy and Shiboprosad
+          Mukherjee have begun filming &apos;Aamar Boss,&apos; starring the
+          legendary Rakhee Gulzar.
         </p>
         <p>
-          Jawan grossed an incredible Rs 75 cr on its opening day and Rs 286.16
-          cr over the course of its four-day opening weekend. After just over
-          two months at the Indian box office, Jawan brought in a staggering Rs
-          1148.32 cr worldwide and Rs 643.87 cr in India over its lifetime.
+          Nandita Roy and Shiboprosad Mukherjee expressed their thoughts on the
+          film&apos;s ongoing success in a joint statement, saying, &quot;We are
+          deeply appreciative of the tremendously positive reception to Shastry
+          Vs Shastry. The main goal of the movie is to clarify the complexities
+          of family dynamics.&quot;
         </p>
         <p>
-          Before anyone could have predicted that we would see him in December,
-          Shah Rukh shocked fans on Diwali by making an appearance in Tiger 3.
-          His cameo, which he shared on screen with Salman Khan once more,
-          became the talk of the town right away. The Diwali &quot;mithai&quot;
-          was delicious, but Rajkumar Hirani and SRK&apos;s collaboration,
-          Dunki, was the real Diwali-Christmas gift.
+          It&apos;s encouraging to see how the story&apos;s universal themes,
+          which explore the subtleties of interpersonal relationships and the
+          forces that mold our lives, resonate with viewers.
         </p>
         <p>
-          Arriving in time for the holidays, the movie deviated from Shah
-          Rukh&apos;s previous films in style. He lost his superstar aura in the
-          movie, becoming just another Punjabi boy. His love for the nation and
-          the people in it was greater, and that resonated with the audience,
-          even though his love for Taapsee Pannu was a secondary plot in the
-          movie. The movie turned out to be one of Shah Rukh&apos;s many hits.
-          As of the time of reporting, the movie has brought in Rs 444.44 cr at
-          the global box office.
-        </p>
-        <p>
-          Shah Rukh&apos;s humility was brought to our attention by a number of
-          Bollywood celebrities during the year through interviews,
-          conversations, and social media posts, even though these three films
-          solidified his position as the industry&apos;s most popular actor. Who
-          could forget the incredibly popular selfie that Mona Singh took with
-          him at his star-studded birthday party, or the fact that Vikram
-          Kochhar, the star of Dunki, revealed that the superstar surprised him
-          with a birthday party despite having a busy schedule during filming!
-        </p>
-        <p>
-          Although 2023 will be remembered for a variety of reasons, Shah Rukh
-          Khan&apos;s year will always be the most memorable. The actor will
-          also begin 2024 on a high note as he will be featured in the 13th
-          CNN-News18 Indian of the Year edition.
+          The film&apos;s astounding success expands the director duo&apos;s
+          already impressive body of work. Their most recent release,
+          &quot;Raktabeej,&quot; which was made by Windows Productions, ended up
+          becoming one of 2023&apos;s highest grossing films.
         </p>
       </div>
     ),
   },
   {
-    id: "vijay-deverakonda-and-rashmika-mandanna-reportedly-planning-engagement-ceremony-in-february",
-    timestamp: "Jan 11, 2024",
+    id: "review-of-killer-soup-konkona-manojs-paya-soup-showcases-imbalance-in-flavors",
+    timestamp: "Jan 12, 2024",
     image:
-      "/jan-11-2024/vijay-deverakonda-and-rashmika-mandanna-reportedly-planning-engagement-ceremony-in-february.webp",
-    title: `Vijay Deverakonda and Rashmika Mandanna Reportedly Planning Engagement Ceremony in February`,
-    preArticle: `Rashmika Mandanna and Vijay Deverakonda have always had a fantastic
-          on-screen and off-screen chemistry. Their fans have always loved
-          seeing them together, and they are about to receive some excellent
-          news.`,
+      "/jan-12-2024/review-of-killer-soup-konkona-manojs-paya-soup-showcases-imbalance-in-flavors.jpg",
+    title: `Review of 'Killer Soup': Konkona-Manoj's Paya Soup Showcases Imbalance in Flavors`,
+    preArticle: `We know that when two exceptionally talented people like Konkona
+          Sensharma and Manoj Bajpayee collaborate, the bar will be set
+          extremely high. Thus, it is understandable that director Abhishek
+          Chaubey is under pressure for the Netflix web series "Killer Soup." It
+          is'very very loosely based on real-life events', as the makers
+          claimed. So is this soup really as delicious as it sounds, or do the
+          masalas go too far in this case? Let's investigate!`,
     article: (
       <div className="space-y-6">
         <p>
-          Rashmika Mandanna and Vijay Deverakonda have always had a fantastic
-          on-screen and off-screen chemistry. Their fans have always loved
-          seeing them together, and they are about to receive some excellent
-          news.
+          We know that when two exceptionally talented people like Konkona
+          Sensharma and Manoj Bajpayee collaborate, the bar will be set
+          extremely high. Thus, it is understandable that director Abhishek
+          Chaubey is under pressure for the Netflix web series &quot;Killer
+          Soup.&quot; It is &apos;very very loosely based on real-life
+          events&apos;, as the makers claimed. So is this soup really as
+          delicious as it sounds, or do the masalas go too far in this case?
+          Let&apos;s investigate!
         </p>
         <p>
-          They are reportedly planning to tie the knot next month, according to
-          a News18 Telugu report, though this has not yet been confirmed.
+          The Konkona Sensharma and Manoj Bajpayee film gets off to a great
+          start. It centers on Manoj Bajpayee as Prabhakar, also known as Prabhu
+          Shetty, and his spouse, Konkona Sensharma, as Swathi Shetty. Although
+          Prabhu has been using his brother Arvind (Shayaji Shinde) as a means
+          of money laundering, Swathi is solely concerned with refining her paya
+          soup, which doesn&apos;t seem to be popular, and starting her own
+          restaurant. Another character in the play is Umesh Pillai (played by
+          Manoj Bajpayee again), who serves as both Swathi&apos;s paramour and
+          Prabhu&apos;s masseuse.
         </p>
         <p>
-          Fans are certain that the couple is deeply in love and appears to be
-          living together, even though they haven&apos;t made it official yet.
-          Actor Ranbir Kapoor appears to have confirmed Vijay and
-          Rashmika&apos;s romance, which has once again made headlines amid
-          rumors and reports about their relationship.
+          It starts out one way and then gets messy and complicated from there.
+          Things happen (let&apos;s just settle for that, since saying anything
+          more would give away the ending). What would this all lead to, and
+          would Swathi be able to escape the scandal of money laundering and
+          start her own restaurant? The program focuses on that.
         </p>
         <p>
-          In addition, the Animal actor made his co-star blush when she answered
-          a phone call from her purported boyfriend Vijay Devarakonda while they
-          were promoting their upcoming movie.
+          The series&apos; first two episodes are packed full of action.
+          Actually, it seemed like everything was happening in these two
+          episodes, so viewers&apos; biggest curiosity was what would be covered
+          in the remaining six!
         </p>
         <p>
-          Along with Rashmika Mandanna and Sandeep Reddy, Ranbir Kapoor promoted
-          Animal on the popular show Unstoppable with NBK 2. The guests and the
-          host struck up a lively discussion, with Vijay and Rashmika being
-          teased about their romantic lives.
+          Though the show doesn&apos;t get particularly dark, there are a number
+          of twists and turns as the plot develops, leaving the audience curious
+          about what will happen next. By the halfway point of the program, one
+          could only wonder what more Chaubey could provide!
         </p>
         <p>
-          A few of the show&apos;s videos, which highlight their amusing banter,
-          are going viral on social media. Rashmika finally calls the actor
-          after Ranbir begs her to call Vijay Deverakonda, teasing her by
-          saying, &quot;He (Vijay) won&apos;t pick up Sandeep&apos;s
-          phone.&quot; &quot;What&apos;s up with that?&quot; asked Vijay,
-          putting a faint smile on Rashmika&apos;s countenance. She also told
-          him that the phone was in speaker mode.
+          That&apos;s not necessarily a good thing. The show felt strained even
+          after four episodes, and there were still roughly three hours and
+          twenty minutes of content to cover. This made it unclear whether
+          Chaubey would be able to maintain the momentum he had established. As
+          a matter of fact, the third episode marks the slowdown in pace.
         </p>
         <p>
-          During the conversation, Ranbir Kapoor made fun of the two of them,
-          claiming that Balakrishnan was becoming envious of the call and
-          that&apos;s why they&apos;ve been referring to her as
-          &quot;Crushmika.&quot; The celebrity host questioned Vijay about his
-          romantic partner, to which he replied, &quot;Bala sir loves
-          Rashmika.&quot; When the Kushi actor declared, &quot;I love Sandeep
-          Reddy Vanga,&quot; they were all in splits.
+          The fact that everyone was nervous about what would happen next in the
+          dark comedy is evidence that it is a skillfully written thriller. But
+          there was a strange urgency about it. Chaubey&apos;s trademark
+          eccentricity is present, though it doesn&apos;t always fully connect.
+        </p>
+        <p>
+          Both Konkana Sensharma and Manoj Bajpayee are superb actors who also
+          give faultless performances in &quot;Killer Soup.&quot; Still, there
+          was a gap between the two; at least in the first four episodes, there
+          was never much of a spark.
+        </p>
+        <p>
+          The performers play their roles almost flawlessly, despite the fact
+          that some characters—like the Khansama who has been teaching Swathi
+          how to cook—are wildly exaggerated. Particularly striking was
+          Nasser&apos;s portrayal of Hassan, a man driven by a personal tragedy
+          to learn the truth about the events surrounding him.
+        </p>
+        <p>
+          One noteworthy aspect of the show is how masterfully it has been shot.
+          The story is given so much depth (and the soup&apos;s flavor) by the
+          close-up shots. Because of the actors&apos; talent and ability to
+          convey the right emotions to maximize impact, it only gets better.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "mrunal-thakur-in-hi-nanna-the-internet-cant-stop-discussing-heres-why",
+    timestamp: "Jan 12, 2024",
+    image:
+      "/jan-12-2024/mrunal-thakur-in-hi-nanna-the-internet-cant-stop-discussing-heres-why.webp",
+    title: `Mrunal Thakur in 'Hi Nanna': The Internet Can't Stop Discussing - Here's Why`,
+    preArticle: `One of Mrunal Thakur's stories opens in a Mumbai hotel's restroom. The
+          actor ran into a journalist colleague a few days prior to the release
+          of her first movie, Love Sonia, in 2018 following a busy afternoon of
+          media appearances. Even though Mrunal was already well-known from
+          television, he admitted that he was anxious to move from television to
+          the big screen, particularly with a strange film. She could have
+          waited for a more secure solution, but the movie "spoke" to her, she
+          claimed.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          One of Mrunal Thakur&apos;s stories opens in a Mumbai hotel&apos;s
+          restroom. The actor ran into a journalist colleague a few days prior
+          to the release of her first movie, Love Sonia, in 2018 following a
+          busy afternoon of media appearances. Even though Mrunal was already
+          well-known from television, he admitted that he was anxious to move
+          from television to the big screen, particularly with a strange film.
+          She could have waited for a more secure solution, but the movie
+          &quot;spoke&quot; to her, she claimed.
+        </p>
+        <p>
+          It is simple to chart the rise of Mrunal Thakur, the Marathi mulgi who
+          has created a Telugu storm by following her heart even when it goes
+          against industry conventions, six years and twelve films later.
+        </p>
+        <p>
+          In a quiet but heartfelt diversion from labelling every new breakout
+          female performer as its next big thing, the internet is presently
+          raving about what Mrunal has accomplished in her latest Telugu
+          romantic drama, Hi Nanna. The star of Shouryu&apos;s directorial
+          debut, Hi Nanna (Hi Papa in Hindi), is Nani, whose resume is filled
+          with successful performances in the genre. However, Mrunal&apos;s
+          performance, which is genuinely endearing, anchors a large portion of
+          the movie and keeps it cohesive even when the writing becomes forced,
+          the climax is pushed, and an unnecessary dance number makes an
+          appearance.
+        </p>
+        <p>
+          She debuted in an international feature film with good intentions,
+          acted opposite Hrithik Roshan in her first mainstream Hindi movie, and
+          then struggled with earnest but unsatisfactory projects before
+          becoming a more formidable actor in Telugu films, which are in a
+          language she wasn&apos;t born in. It is unfortunate that none of
+          Mrunal&apos;s feature films in Hindi, even those directed by
+          well-known names, have been able to provide her with the same platform
+          and star presentation that her two Telugu releases, Hi Nanna and Sita
+          Ramam, have.
+        </p>
+        <p>
+          The way the camera adorses Mrunal in Sita Ramam and Hi Nanna makes it
+          hard to look away. She joins the frame fifty minutes into the love
+          drama in the former. A train coupe door gently opens as the
+          compartment emerges from the shadows of a tunnel and Dulquer
+          Salmaan&apos;s voice-over creates a legendary buzz about the woman he
+          is going to see.
+        </p>
+        <p>
+          Similar scenes involving Mrunal and Nani enjoying a lovely moment on a
+          Goa beach can also be found in Hi Nanna, where she has an almost
+          hair-flip entrance scene. Without giving anything away, he is telling
+          her what his wife looked like. The scene is made possible not only by
+          Nani&apos;s performance, the dialogue, or the melodious background
+          music, but also by Mrunal, who never stops gazing lovingly at him and
+          allowing her eyes to be the only ones that speak.
+        </p>
+        <p>
+          But this is what sets her two South releases apart from a gaze trap
+          that other actors have fallen victim to in the past. Although it may
+          be a derogatory term, a lot of actors have previously allowed
+          themselves to be reduced to something as simple as a
+          &quot;flowerpot.&quot; These kinds of roles are astounding because
+          they bring about enormous popularity and a devoted following. However,
+          as history has shown us in a variety of industries, if one
+          doesn&apos;t step outside of their comfort zone, the outcome is always
+          the same: they begin to be replaced by the newest person, who is given
+          the responsibility for such stock roles.
+        </p>
+        <p>
+          Female actors have rarely been given anything appetizing to chew on in
+          A-list star vehicles, particularly in Tamil and Telugu. The women
+          exist in the plot because the men do. However, that has been carefully
+          avoided by Mrunal&apos;s decisions so far. Despite the fact that the
+          stories are told from the perspectives of the men, the genre of
+          romantic dramas, which includes both of her Telugu films, guarantees
+          women substantially greater agency and narrative control. The women
+          that Mrunal has in Sita Ramam as well as in Hi Nanna are necessary for
+          the men to survive.
+        </p>
+        <p>
+          Mrunal made an expected choice in her second Telugu film, the poignant
+          and sensitive Hi Nanna. The actor had previously discussed how
+          challenging it was to navigate her career after Sita Ramam. She said
+          &quot;Indeed, it is difficult. There was a period of time when I
+          signed no Telugu films at all. For me, having faith in a character and
+          a story was crucial. After a year, I signed Hi Nanna because I thought
+          the movie was great and I could relate to it. What&apos;s the point if
+          I don&apos;t spend those 100 days anticipating something?&quot;
+        </p>
+        <p>
+          It&apos;s not like Hi Nanna is a perfect movie; it has its share of
+          flaws. It&apos;s overly sweet and rides on a resolute, almost
+          optimistic sentimentality, but in the end, it all comes together
+          because the movie is still largely sincere and gives Mrunal at least
+          two memorable scenes to show off her range. Similar to Sita Ramam,
+          particularly in the film&apos;s finale, Mrunal excels in the
+          movie&apos;s slower moments, which appropriately heightens its intense
+          emotional beats. Her roles have essentially proved that, despite
+          Bollywood&apos;s lack of interest, the actor is capable of producing
+          endearing dramas. Mrunal Thakur demonstrates that she represents the
+          flower, not the flowerpot, with the help of Sita Ramam and Hi Nanna.
         </p>
       </div>
     ),
