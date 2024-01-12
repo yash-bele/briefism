@@ -89,6 +89,91 @@ export const breaking = [
     ),
   },
   {
+    id: "iit-kanpur-student-found-dead-in-hostel-police-suspect-suicide",
+    timestamp: "Jan 12, 2024",
+    image:
+      "/jan-12-2024/iit-kanpur-student-found-dead-in-hostel-police-suspect-suicide.jpg",
+    title: `IIT-Kanpur Student Found Dead in Hostel; Police Suspect Suicide`,
+    preArticle: `A tragic incident occurred at the prestigious Indian Institute of
+          Technology Kanpur (IIT-K) where an MTech student was found dead in his
+          hostel room on Wednesday evening. According to police, the 26-year-old
+          student, Vikas Kumar Meena, appeared to have died by suicide though
+          further investigations are underway.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          A tragic incident occurred at the prestigious Indian Institute of
+          Technology Kanpur (IIT-K) where an MTech student was found dead in his
+          hostel room on Wednesday evening. According to police, the 26-year-old
+          student, Vikas Kumar Meena, appeared to have died by suicide though
+          further investigations are underway.
+        </p>
+        <p>
+          Vikas was enrolled in the Aerospace Engineering department at IIT-K
+          and originally hailed from Meerut. After visiting the campus and
+          speaking to faculty and students, Kanpur&apos;s Police Commissioner
+          Akhil Kumar shared some preliminary findings though noted the probe is
+          still ongoing.
+        </p>
+        <p>
+          He stated that on Wednesday evening, Vikas&apos;s death in his hostel
+          room was reported and at first glance, it seems to be a potential
+          suicide case. However, only after a full post-mortem examination and
+          further investigations can police definitively determine causes and
+          circumstances.
+        </p>
+        <p>
+          Police have obtained a digital copy of a purported suicide note which
+          cites some academic issues that Vikas was facing. The note apparently
+          claims no one else should be blamed for his actions. However,
+          authorities are still working to verify the authenticity of the note
+          and confirm it was written by Vikas before his death.
+        </p>
+        <p>
+          According to investigating officials, some of Vikas&apos;s peers had
+          gone to his locked hostel room after not getting any response to their
+          knocks. When he still did not respond, institute officials were
+          informed and the room&apos;s lock was broken, only to discover
+          Vikas&apos;s body hanging inside.
+        </p>
+        <p>
+          Speaking to media, Vikas&apos;s father Anil Kumar Meena revealed his
+          son had grown depressed after recently receiving an academic
+          termination notice from IIT-K which he could not timely appeal
+          against. Anil claims Vikas felt he could have gotten the notice
+          repealed if granted the appeal opportunity.
+        </p>
+        <p>
+          Police are still holding on to Vikas&apos;s mobile phone and the
+          alleged suicide note. Anil described his son as a very friendly person
+          and believes the termination notice directly led to his suicide due to
+          resulting depression.
+        </p>
+        <p>
+          However, IIT-K officials clarified that such termination warning
+          letters are meant to prompt students to meet with faculty and address
+          their issues, and can be easily challenged to get revoked. But Vikas
+          apparently did not take these steps.
+        </p>
+        <p>
+          In its statement, IIT-K called Vikas an academically bright student
+          who joined the MTech program in 2021. Losing him is a major loss for
+          the institute and his passing is deeply upsetting, the statement
+          added. Kanpur&apos;s Police Commissioner also mentioned having
+          discussions with IIT-K&apos;s Director to ascertain the full
+          circumstances and consider corrective actions.
+        </p>
+        <p>
+          The investigation into Vikas&apos;s tragic death remains ongoing as
+          police work to conclusively determine the causes and events leading up
+          to the suspected suicide. His family, friends and the IIT-K community
+          are grieving the devastating loss of a promising young student and
+          individual.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "decision-by-grand-jury-ohio-woman-escapes-corpse-abuse-charges-after-home-miscarriage",
     timestamp: "Jan 12, 2024",
     image:
