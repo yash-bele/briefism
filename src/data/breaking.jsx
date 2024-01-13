@@ -3,6 +3,198 @@ import Image from "next/image";
 export const breaking = [
   // jan-13-2024
   {
+    id: "king-charles-urges-promotion-of-kate-middleton-to-former-role",
+    timestamp: "Jan 13, 2024",
+    image:
+      "/jan-13-2024/king-charles-urges-promotion-of-kate-middleton-to-former-role.jpg",
+    title: `King Charles Urges Promotion of Kate Middleton to Former Role`,
+    preArticle: `Kate Middleton, the Princess of Wales, is poised for an elevation within the royal family to a pivotal role in King Charles III’s restructured monarchy. According to reports, the mother of three could be granted new powers by the King after celebrating her 42nd birthday recently.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Kate Middleton, the Princess of Wales, is poised for an elevation
+          within the royal family to a pivotal role in King Charles III’s
+          restructured monarchy. According to reports, the mother of three could
+          be granted new powers by the King after celebrating her 42nd birthday
+          recently.
+        </p>
+        <p>
+          The Mail reported that Kate will mark her birthday privately in
+          Windsor with husband Prince William and their children George,
+          Charlotte and Louis, before returning to school. But soon, she is
+          expected to be promoted as per a source.
+        </p>
+        <p>
+          King Charles is said to be considering appointing Kate as a Royal Lady
+          of the Order of the Garter. This is regarded as Britain&apos;s most
+          senior chivalric order, with members personally chosen by the monarch.
+          Prince William, Camilla, Princess Anne and Prince Edward already
+          belong to the Order of the Garter.
+        </p>
+        <p>
+          If inducted, Kate would gain the authority to grant royal warrants,
+          similar to Camilla and William. Granting royal warrants allows firms
+          to use the Royal Arms in branding and supply the royal household. This
+          power was previously held by King Charles as Prince of Wales,
+          bequeathed by the late Queen Elizabeth II.
+        </p>
+        <p>
+          While Charles retains the power for now, he may eventually grant it to
+          Camilla and William too. But some royal warrant holders believe Kate
+          officially endorsing brands would provide a huge boost to British
+          industry, driving fashion and lifestyle interest.
+        </p>
+        <p>
+          As a working member of the royal family, Kate has grown into her roles
+          over the years. She has focused on early childhood development,
+          promoting sports and outdoor activities. Along with William, Kate has
+          also advocated for mental health.
+        </p>
+        <p>
+          Recently, she played piano publically for the first time during a
+          Christmas carol concert. Kate has also emphasized environmental
+          awareness and sustainability through her initiatives.
+        </p>
+        <p>
+          As per reports, King Charles aims to reduce costs and streamline the
+          monarchy to core members carrying out official duties. These include
+          Charles and Camilla, William and Kate, Princess Anne and Prince Edward
+          and his wife Sophie.
+        </p>
+        <p>
+          The promotion indicates Kate’s ever-important position in the new
+          royal order. It reflects the faith Charles has in the Princess to take
+          on more responsibility as a senior royal.
+        </p>
+        <p>
+          At 41, Kate is the youngest Royal Lady of the Order of the Garter
+          after Queen Mary in the early 1900s. Her induction will make her the
+          only woman apart from Camilla in the order. It highlights her
+          significance and the prominence of her role alongside William.
+        </p>
+        <p>
+          Charles is expected to undertake the Order of the Garter appointments
+          in June 2023. The ceremony takes place annually at St. George’s Chapel
+          in Windsor. The order consists of the monarch, prince consort, and 24
+          knights chosen personally.
+        </p>
+        <p>
+          Founded in 1348 by King Edward III, it recognizes high achievement and
+          public service. The knights wear elaborate blue velvet robes and
+          plumed hats for ceremonies. New knights take part in an investiture
+          and pageantry-filled service presided by the King.
+        </p>
+        <p>
+          For Kate, being granted powers to endorse royal warrants shortly after
+          turning 40 reinforces her image as a dependable future queen consort.
+          It reflects the royal family&apos;s confidence in her maturity and
+          readiness for more responsibility.
+        </p>
+        <p>
+          From being a commoner to future Queen, Kate has come a long way. Her
+          evolution into a senior working royal will only accelerate after this
+          promotion. With King Charles intent on a meritocratic monarchy, Kate
+          and Prince William will have to continually prove their mettle as the
+          new face of the modern royal family.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "pakistan-shuts-vital-afghanistan-crossing-for-trucks-now-requires-documentation",
+    timestamp: "Jan 13, 2024",
+    image:
+      "/jan-13-2024/pakistan-shuts-vital-afghanistan-crossing-for-trucks-now-requires-documentation.avif",
+    title: `Pakistan Shuts Vital Afghanistan Crossing for Trucks; Now Requires Documentation`,
+    preArticle: `Tensions have escalated along the Afghanistan-Pakistan border after Pakistan began demanding passports and visas from Afghan truck drivers at the key Torkham crossing on Saturday. For years, truckers have been able to cross freely without documents. But the new requirements have effectively closed the vital trade route.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Tensions have escalated along the Afghanistan-Pakistan border after
+          Pakistan began demanding passports and visas from Afghan truck drivers
+          at the key Torkham crossing on Saturday. For years, truckers have been
+          able to cross freely without documents. But the new requirements have
+          effectively closed the vital trade route.
+        </p>
+        <p>
+          Noor Mohammad Hanif, an official in Afghanistan&apos;s Nangarhar
+          province, said Pakistani officials suddenly started asking Afghan
+          drivers for passports and visas at Torkham. Since most drivers do not
+          possess these documents, traffic has stalled.
+        </p>
+        <p>
+          In retaliation, Afghanistan has also started demanding the same from
+          Pakistani truckers, according to a statement from the Nangarhar
+          governor&apos;s office. Officials from both sides are holding
+          discussions to resolve the impasse, with a decision expected soon, the
+          statement added.
+        </p>
+        <p>
+          The Torkham crossing has experienced closures multiple times in recent
+          months, including a nine-day shutdown in September due to border
+          forces clashing. On Saturday, dozens of trucks carrying perishable
+          items like vegetables and fruits remained stuck on both sides, unable
+          to cross.
+        </p>
+        <p>
+          Analysts see this as part of the lingering tensions between Pakistan
+          and Afghanistan&apos;s Taliban government. Pakistan is worried about
+          the Pakistani Taliban finding sanctuary and regrouping in Afghanistan
+          after the Taliban takeover. It has blamed the group for increased
+          militant attacks against Pakistani security forces.
+        </p>
+        <p>
+          However, the Afghan Taliban denies allowing Pakistani Taliban fighters
+          to use its soil for attacks in Pakistan. Last week, senior Pakistani
+          politician Fazlur Rehman visited Kabul, the first high-level visit
+          since the Taliban takeover, to ease frictions.
+        </p>
+        <p>
+          But mistrust persists, as evident from the Torkham situation. Pakistan
+          remains concerned about militant activity across the porous border.
+          Demanding documents from previously exempt truckers appears to be an
+          attempt to tighten control and track movements.
+        </p>
+        <p>
+          The border crisis comes amid Pakistan&apos;s ongoing expulsion of
+          hundreds of thousands of undocumented Afghans, further straining ties.
+          Since August 2022, over half a million Afghans without valid papers
+          have been deported. Pakistan has long hosted nearly 1.7 million
+          Afghans who fled the Soviet occupation and subsequent conflicts.
+        </p>
+        <p>
+          With this latest standoff, trade and commerce between the two
+          countries will be severely impacted. Torkham is a vital commercial
+          artery and trade route to Central Asia for Pakistan.
+        </p>
+        <p>
+          For landlocked Afghanistan, access to the Arabian seaports through
+          Pakistan is crucial for exports and imports. Disruptions at Torkham
+          will choke key supplies of food, medicines and essential commodities.
+          It may exacerbate Afghanistan&apos;s humanitarian crisis.
+        </p>
+        <p>
+          If the border remains closed to traffic, prices of goods transported
+          by road may rise sharply in both nations. Transporters will also
+          suffer major losses.
+        </p>
+        <p>
+          To avoid greater public hardship, both sides will have to resolve the
+          documentation dispute quickly through diplomatic channels. Wider
+          engagement is also needed to address the core issues driving
+          Pakistan&apos;s security concerns and perceived threat from
+          Afghanistan.
+        </p>
+        <p>
+          Restarting stalled talks between Taliban and Pakistani authorities on
+          border management may help instil confidence. But for now, the
+          unpredictable border situation highlights the delicate ties between
+          the uneasy neighbours.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "washing-machines-installed-in-overcrowded-prisons-for-inmate-skin-disease-prevention",
     timestamp: "Jan 13, 2024",
     image:
