@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
+import { HiChevronDoubleRight } from "react-icons/hi2";
 import { data } from "@/data";
 import { history } from "@/history";
 const { breaking, entertainment, health, lifestyle, technology } = data;
@@ -16,7 +17,10 @@ const RightSide = () => {
     <aside className="pt-5 lg:pt-0 lg:pl-5 mt-5 lg:mt-0 lg:ml-5 border-none lg:border-l lg:border-dashed border-red-300 space-y-10">
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          <Link href="/lifestyle">lifestyle</Link>
+          <Link href="/lifestyle" className="flex items-center">
+            <HiChevronDoubleRight className="mt-px mr-px text-red-400" />
+            <span>lifestyle</span>
+          </Link>
         </h2>
         <div className="space-y-2.5">
           {[...lifestyle, ...lifestyleHistory].slice(0, 5).map((i, j) => (
@@ -42,7 +46,10 @@ const RightSide = () => {
       </section>
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          <Link href="/technology">technology</Link>
+          <Link href="/technology" className="flex items-center">
+            <HiChevronDoubleRight className="mt-px mr-px text-red-400" />
+            <span>technology</span>
+          </Link>
         </h2>
         <div className="space-y-2.5">
           {[...technology, ...technologyHistory].slice(0, 5).map((i, j) => (

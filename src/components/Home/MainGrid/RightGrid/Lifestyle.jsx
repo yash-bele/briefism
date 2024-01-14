@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
+import { HiChevronDoubleRight } from "react-icons/hi2";
 import { lifestyle } from "@/data/lifestyle";
 import { lifestyleHistory } from "@/history/lifestyle";
 
@@ -8,7 +9,10 @@ const Lifestyle = () => {
   return (
     <section className="space-y-2.5">
       <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-        <Link href="/lifestyle">lifestyle</Link>
+        <Link href="/lifestyle" className="flex items-center">
+          <HiChevronDoubleRight className="mt-px mr-px text-red-400" />
+          <span>lifestyle</span>
+        </Link>
       </h2>
       {[...lifestyle, ...lifestyleHistory].slice(0, 3).map((i, j) => (
         <article

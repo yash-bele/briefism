@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
+import { HiChevronDoubleRight } from "react-icons/hi2";
 import { entertainment } from "@/data/entertainment";
 import { entertainmentHistory } from "@/history/entertainment";
 
@@ -8,7 +9,10 @@ const Entertainment = () => {
   return (
     <section>
       <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-        <Link href="/entertainment">entertainment</Link>
+        <Link href="/entertainment" className="flex items-center">
+          <HiChevronDoubleRight className="mt-px mr-px text-red-400" />
+          <span>entertainment</span>
+        </Link>
       </h2>
       <div className="flex flex-col lg:grid grid-cols-2 gap-2.5 lg:gap-5">
         <section className="grid grid-rows-3 gap-2.5 h-[calc(384px/2)] lg:h-auto">

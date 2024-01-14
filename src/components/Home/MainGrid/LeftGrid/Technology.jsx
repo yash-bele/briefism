@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
+import { HiChevronDoubleRight } from "react-icons/hi2";
 import { technology } from "@/data/technology";
 import { technologyHistory } from "@/history/technology";
 
@@ -8,7 +9,10 @@ const Technology = () => {
   return (
     <section>
       <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-        <Link href="/technology">technology</Link>
+        <Link href="/technology" className="flex items-center">
+          <HiChevronDoubleRight className="mt-px mr-px text-red-400" />
+          <span>technology</span>
+        </Link>
       </h2>
       <div className="flex flex-col-reverse lg:grid grid-cols-2 gap-2.5 lg:gap-5">
         <section className="flex flex-col sm:grid grid-rows-3 gap-2.5">

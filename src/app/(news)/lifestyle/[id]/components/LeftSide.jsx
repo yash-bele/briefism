@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
+import { HiChevronDoubleRight } from "react-icons/hi2";
 import { data } from "@/data";
 import { history } from "@/history";
 const { breaking, entertainment, health, lifestyle, technology } = data;
@@ -16,7 +17,10 @@ const LeftSide = () => {
     <aside className="pt-5 lg:pt-0 lg:pr-5 mt-5 lg:mt-0 lg:mr-5 border-none lg:border-r lg:border-dashed border-red-300 space-y-10">
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          <Link href="/breaking">breaking</Link>
+          <Link href="/breaking" className="flex items-center">
+            <HiChevronDoubleRight className="mt-px mr-px text-red-400" />
+            <span>breaking</span>
+          </Link>
         </h2>
         <div className="space-y-2.5">
           {[...breaking, ...breakingHistory].slice(0, 5).map((i, j) => (
@@ -42,7 +46,10 @@ const LeftSide = () => {
       </section>
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          <Link href="/entertainment">entertainment</Link>
+          <Link href="/entertainment" className="flex items-center">
+            <HiChevronDoubleRight className="mt-px mr-px text-red-400" />
+            <span>entertainment</span>
+          </Link>
         </h2>
         <div className="space-y-2.5">
           {[...entertainment, ...entertainmentHistory]
@@ -70,7 +77,10 @@ const LeftSide = () => {
       </section>
       <section>
         <h2 className="border-b-4 border-double border-red-100 mb-2.5 capitalize">
-          <Link href="/health">health</Link>
+          <Link href="/health" className="flex items-center">
+            <HiChevronDoubleRight className="mt-px mr-px text-red-400" />
+            <span>health</span>
+          </Link>
         </h2>
         <div className="space-y-2.5">
           {[...health, ...healthHistory].slice(0, 5).map((i, j) => (
