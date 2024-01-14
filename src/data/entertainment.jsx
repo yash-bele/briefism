@@ -1,76 +1,76 @@
 import Image from "next/image";
 
 export const entertainment = [
-  // jan-13-2024
+  // jan-14-2024
   {
-    id: "sharad-kelkar-credits-dubbing-for-prabhas-for-gaining-recognition-overcame-childhood-stuttering",
-    timestamp: "Jan 13, 2024",
+    id: "taylor-swift-engages-in-epic-swag-surf-with-travis-kelces-mom-during-viral-chiefs-game-moment",
+    timestamp: "Jan 14, 2024",
     image:
-      "/jan-13-2024/sharad-kelkar-credits-dubbing-for-prabhas-for-gaining-recognition-overcame-childhood-stuttering.webp",
-    title: `Sharad Kelkar Credits Dubbing for Prabhas for Gaining Recognition: 'Overcame Childhood Stuttering'`,
-    preArticle: `Sharad Kelkar, one of the most recognizable voices in Bollywood, recently discussed his experiences dubbing for South Indian films. He is known for voicing Prabhas' characters in the Hindi dubbed versions of films like Baahubali and Salaar.`,
+      "/jan-14-2024/taylor-swift-engages-in-epic-swag-surf-with-travis-kelces-mom-during-viral-chiefs-game-moment.jpg",
+    title: `Taylor Swift Engages in Epic Swag Surf with Travis Kelce's Mom During Viral Chiefs Game Moment`,
+    preArticle: `In a heartwarming viral video, pop superstar Taylor Swift and Donna
+          Kelce, mother of her boyfriend Travis Kelce, were seen joyfully "swag
+          surfing" together at a recent Kansas City Chiefs playoff game. Joining
+          the raucous Arrowhead Stadium crowd, their impromptu synchronized
+          dancing quickly became a highlight, showcasing Swift bonding with her
+          potential future mother-in-law.`,
     article: (
       <div className="space-y-6">
         <p>
-          Sharad Kelkar, one of the most recognizable voices in Bollywood,
-          recently discussed his experiences dubbing for South Indian films. He
-          is known for voicing Prabhas&apos; characters in the Hindi dubbed
-          versions of films like Baahubali and Salaar.
+          In a heartwarming viral video, pop superstar Taylor Swift and Donna
+          Kelce, mother of her boyfriend Travis Kelce, were seen joyfully
+          &quot;swag surfing&quot; together at a recent Kansas City Chiefs
+          playoff game. Joining the raucous Arrowhead Stadium crowd, their
+          impromptu synchronized dancing quickly became a highlight, showcasing
+          Swift bonding with her potential future mother-in-law.
         </p>
-        <p>
-          Kelkar shared that he used to stammer as a child and never imagined he
-          would become an actor or voice actor. On dubbing for South films, he
-          said the recognition he got for voicing Prabhas was immense, unlike
-          anything seen before in the voicing industry. He noted how audiences
-          now notice the voice artists, like Shreyas Talpade in Pushpa and
-          Sachin Gole for Yash in KGF.
-        </p>
-        <p>
-          According to Kelkar, Baahubali brought about this change and made
-          people recognize and respect voice actors. He wants filmmakers to
-          start crediting voice actors in movie posters and end credits, like
-          it&apos;s done in Hollywood animated films. He feels voice actors in
-          India don&apos;t get their due.
-        </p>
-        <p>
-          Discussing overcoming his stammering, Kelkar shared that correcting
-          his breathing pattern helped stop his stammering. People started
-          noticing his voice after that. To improve his voice modulation, he
-          observed other actors&apos; dialogue delivery. Once the stammering
-          reduced, he learned the craft of dubbing from coach Mona Shetty.
-          Starting with small projects, his big break was Baahubali.
-        </p>
-        <p>
-          Kelkar&apos;s next voice acting project is Hotstar&apos;s animated
-          series The Legend of Hanuman, where he has voiced Ravana. He chooses
-          projects based on the writing. He wanted to break the cliche and
-          present a new perspective on Ravana. As an actor, voicing mythological
-          characters allows exploring them in new ways. Overall, Kelkar wants
-          writers to get more recognition in India for their critical
-          contribution.
-        </p>
+        <div className="space-y-1.5">
+          <span className="text-xl">
+            Braving Subzero Temps to Support Her Man
+          </span>
+          <div className="space-y-3">
+            <p>
+              Despite biting winds and below freezing temperatures, Swift made a
+              flashy entrance at the NFL Wild Card game in a red puffer jacket
+              emblazoned with Kelce&apos;s name and number. Taking her seat next
+              to Donna Kelce, Swift faced intense scrutiny after missing the
+              Chiefs&apos; last game for the Golden Globes. But she silenced
+              critics by not only attending but amping up the energy with her
+              festive moves alongside Travis&apos; mom.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">Long-Awaited Mother-Daughter Time</span>
+          <div className="space-y-3">
+            <p>
+              With chatter and cheers filling the air, Swift and Donna Kelce
+              finally got quality time together after numerous scheduling
+              conflicts kept them apart. Eagle-eyed fans noticed Swift
+              strategically placing her hand near her mouth, likely avoiding a
+              viral moment à la Selena Gomez at the Globes.
+            </p>
+            <p>
+              Earlier, Donna had said she would be in the heated skybox despite
+              below-freezing winds and temperatures plunging to -27°C. &quot;I
+              have to have a blanket and I’ll have my winter coat on,&quot; she
+              stated. This was Swift&apos;s 5th Chiefs game out of 6 at
+              Arrowhead Stadium. She told Time Magazine, &quot;By the time I
+              went to that first game, we were a couple.&quot; Swift added they
+              would never “hard launch a first date” at a game.
+            </p>
+          </div>
+        </div>
         <div>
           <blockquote className="twitter-tweet">
             <p lang="en" dir="ltr">
-              The face and the voice ... finally in one frame 🤗.. im honoured
-              🙏🏼 thankyou{" "}
-              <a href="https://twitter.com/hashtag/Prabhas?src=hash&amp;ref_src=twsrc%5Etfw">
-                #Prabhas
-              </a>{" "}
-              <a href="https://twitter.com/BaahubaliMovie?ref_src=twsrc%5Etfw">
-                @BaahubaliMovie
-              </a>{" "}
-              <a href="https://twitter.com/ssrajamouli?ref_src=twsrc%5Etfw">
-                @ssrajamouli
-              </a>{" "}
-              <a href="https://twitter.com/KaranJohar?ref_src=twsrc%5Etfw">
-                @karanjohar
-              </a>{" "}
-              <a href="https://t.co/wku3avr6rT">pic.twitter.com/wku3avr6rT</a>
+              donna kelce and taylor swift swag surfing was not on my 2024 bingo
+              card{" "}
+              <a href="https://t.co/57QR7sGlzA">pic.twitter.com/57QR7sGlzA</a>
             </p>
-            &mdash; Sharad Kelkar (@SharadK7){" "}
-            <a href="https://twitter.com/SharadK7/status/1071305291541680128?ref_src=twsrc%5Etfw">
-              December 8, 2018
+            &mdash; jules (@ohheyitsjaye){" "}
+            <a href="https://twitter.com/ohheyitsjaye/status/1746382658802713040?ref_src=twsrc%5Etfw">
+              January 14, 2024
             </a>
           </blockquote>{" "}
           <script async src="https://platform.twitter.com/widgets.js" />
@@ -79,91 +79,71 @@ export const entertainment = [
     ),
   },
   {
-    id: "guntur-kaaram-day-1-box-office-collection-mahesh-babus-film-earns-rs-50-cr-gross-hanuman-starts-slow-despite-pan-india-release",
-    timestamp: "Jan 13, 2024",
+    id: "my-life-with-the-walter-boys-season-2-release-date-cast-plot-predictions-and-comprehensive-overview",
+    timestamp: "Jan 14, 2024",
     image:
-      "/jan-13-2024/guntur-kaaram-day-1-box-office-collection-mahesh-babus-film-earns-rs-50-cr-gross-hanuman-starts-slow-despite-pan-india-release.jpeg",
-    title: `Guntur Kaaram Day 1 Box Office Collection: Mahesh Babu's Film Earns Rs 50 Cr Gross, HanuMan Starts Slow Despite Pan-India Release`,
-    preArticle: `Mahesh Babu’s highly anticipated return to screens after two years in the Trivikram Srinivas-directorial ‘SSMB28’, titled ‘Guntur Kaaram’, has received a roaring response on its opening day. According to early estimates by trade website Sacnilk, the film has collected a gross of Rs 50 crore on day one, reflecting Mahesh Babu’s star power.`,
+      "/jan-14-2024/my-life-with-the-walter-boys-season-2-release-date-cast-plot-predictions-and-comprehensive-overview.avif",
+    title: `"My Life with the Walter Boys" Season 2: Release Date, Cast, Plot Predictions, and Comprehensive Overview`,
+    preArticle: `The popular teen romantic drama My Life with the Walter Boys has been
+          officially renewed for a second season by Netflix after the phenomenal
+          success of season 1. Get ready for more swoon-worthy cowboy charm,
+          heart fluttering romances, and intense family drama when the Walter
+          squad returns to our screens.`,
     article: (
       <div className="space-y-6">
         <p>
-          Mahesh Babu’s highly anticipated return to screens after two years in
-          the Trivikram Srinivas-directorial ‘SSMB28’, titled ‘Guntur Kaaram’,
-          has received a roaring response on its opening day. According to early
-          estimates by trade website Sacnilk, the film has collected a gross of
-          Rs 50 crore on day one, reflecting Mahesh Babu’s star power.
+          The popular teen romantic drama My Life with the Walter Boys has been
+          officially renewed for a second season by Netflix after the phenomenal
+          success of season 1. Get ready for more swoon-worthy cowboy charm,
+          heart fluttering romances, and intense family drama when the Walter
+          squad returns to our screens.
         </p>
-        <p>
-          As expected, the lion’s share of the collection for ‘Guntur Kaaram’
-          came from the Telugu superstar’s stronghold of Andhra Pradesh and
-          Telangana. The estimated gross from the Telugu territories was
-          approximately Rs 44.5 crore. This was followed by Karnataka with Rs
-          4.5 crore gross, Tamil Nadu with Rs 0.5 crore and Rs 0.5 crore from
-          other parts of India.
-        </p>
-        <p>
-          The other major release this Friday was Teja Sajja and director
-          Prasanth Varma’s pan-India sci-fi fantasy ‘HanuMan’. Despite positive
-          reviews, the film had a more subdued opening day compared to ‘Guntur
-          Kaaram’. The total day one net collection for ‘HanuMan’ across all
-          languages was Rs 7.56 crore as per estimates.
-        </p>
-        <p>
-          Of this, the majority Rs 5.5 crore net came from the Telugu version.
-          The Hindi dubbed version contributed Rs 2 crore, while other languages
-          chipped in with Rs 0.06 crore. However, the unique genre and
-          word-of-mouth are expected to attract the family audience, especially
-          in the Hindi belt where there is a dearth of major releases.
-        </p>
-        <p>
-          The first weekend remains crucial for both ‘Guntur Kaaram’ and
-          ‘HanuMan’ as the Sankranti weekend will see other big Telugu releases
-          like Venkatesh’s ‘Saindhav’ and Nagarjuna’s ‘NaanSamruddha’ competing
-          for screens and audiences. Trade pundits had predicted Mahesh Babu’s
-          film will dominate over the Sankranti releases due to his stardom. It
-          remains to be seen if the box office dynamics change as more films
-          open.
-        </p>
-        <p>
-          For Trivikram Srinivas, known for several blockbusters, ‘Guntur
-          Kaaram’ marks an attempt to deliver a hit after his previous film ‘Ala
-          Vaikunthapurramuloo’. Mahesh Babu was last seen in the 2020
-          blockbuster ‘Sarileru Neekevvaru’. Hence, the combination of the star
-          actor and popular director has generated immense buzz among fans.
-        </p>
-        <p>
-          ‘Guntur Kaaram’ features Mahesh Babu in the role of an archaeologist
-          on a treasure hunt. Pooja Hegde stars as the female lead, while the
-          cast includes Jayaram, Sachin Khedekar, and others. The story blends
-          comedy, adventure, and supernatural elements against the backdrop of
-          Guntur.
-        </p>
-        <p>
-          The film’s release in theaters coinciding with the Sankranti festival
-          weekend gives it the advantage of attracting big crowds. Moreover,
-          Mahesh Babu has a huge fan following across the Telugu states who
-          eagerly await his films on the big screen.
-        </p>
-        <p>
-          With the Covid pandemic impacting the entertainment industry over the
-          past two years, the response to ‘Guntur Kaaram’ indicates that
-          audiences are flocking back to theaters when major stars like Mahesh
-          Babu deliver a promising film.
-        </p>
-        <p>
-          If the film sustains its collections over the extended opening week
-          and positive word-of-mouth, it is headed towards becoming a huge hit.
-          Not just in the Telugu belt, but even markets like Karnataka, Tamil
-          Nadu, and Hindi circuits hold potential if content clicks with a wide
-          appeal.
-        </p>
-        <p>
-          For the Telugu film industry, the success of ‘Guntur Kaaram’ will
-          provide a major boost after a difficult pandemic period. And for
-          Mahesh Babu, it will cement his standing as one of Tollywood’s most
-          bankable superstars with an enviable box office track record.
-        </p>
+        <div className="space-y-1.5">
+          <span className="text-xl">Season 2 Confirmation and Excitement</span>
+          <div className="space-y-3">
+            <p>
+              Season 2 is now fully confirmed and underway, with stars Nikki
+              Rodriguez, Noah LaLonde, and Ashby Gentry reprising their roles as
+              the central love triangle. The new season promises to deliver more
+              steamy cliffhangers, surprises, and intrigue as we dive deeper
+              into the lives of our beloved characters in picturesque Silver
+              Falls.
+            </p>
+          </div>
+        </div>
+
+        <div className="space-y-1.5">
+          <span className="text-xl">Based on a Bestselling Book</span>
+          <div className="space-y-3">
+            <p>
+              Season 1 became a global smash hit as Netflix&apos;s #1 show not
+              only in the United States but also in a whopping 88 other
+              countries worldwide. Based on the young adult book by author Ali
+              Novak, the show garnered immense praise for its gripping narrative
+              and top-notch performances.
+            </p>
+          </div>
+        </div>
+
+        <div className="space-y-1.5">
+          <span className="text-xl">Potential Season 2 Release Date</span>
+          <div className="space-y-3">
+            <p>
+              Netflix announced the renewal on December 19, 2022 via a special
+              video featuring the Walter family and creator Melanie Halsall
+              expressing her excitement to explore more of the Walter boys&apos;
+              world. With the streaming giant firmly behind the show, fans can
+              expect the same high production values and compelling
+              storytelling.
+            </p>
+            <p>
+              While an exact release date is yet to be confirmed, season 2 will
+              likely hit Netflix in 2024 or early 2025 given the long production
+              timelines of season 1. Filming and post-production took well over
+              a year last time around. But the wait will be well worth it!
+            </p>
+          </div>
+        </div>
       </div>
     ),
   },
