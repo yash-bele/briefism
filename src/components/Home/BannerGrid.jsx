@@ -4,8 +4,8 @@ import { data } from "@/data";
 const formatData = [
   data.breaking[0],
   data.breaking[1],
+  data.breaking[2],
   data.entertainment[0],
-  data.entertainment[1],
   data.lifestyle[0],
 ];
 
@@ -16,13 +16,7 @@ const BannerGrid = () => {
         <Link
           key={i.id}
           href={`/${
-            j === 2
-              ? "entertainment"
-              : j === 3
-              ? "entertainment"
-              : j === 4
-              ? "lifestyle"
-              : "breaking"
+            j === 3 ? "entertainment" : j === 4 ? "lifestyle" : "breaking"
           }/${i.id}`}
           className={`relative group rounded-lg overflow-hidden bg-black/50 ${
             j === 0 && "sm:col-span-2 sm:row-span-2"
