@@ -99,16 +99,16 @@ export const entertainment = [
           Actor Shehnaaz Gill made heads turn in a glitzy gold bustier blouse
           paired with a shimmering black sequin saree by designer Gaurav Gupta.
           She wore the striking cocktail-perfect ensemble to Ira Khan and Nupur
-          Shikhare's star-studded wedding reception in Mumbai. While other celeb
-          guests opted for traditional ethnic looks, Shehnaaz's modern saree
-          twist was perfect for fashion-forward Indian women. Her gold bustier
-          and embellished saree made for the ultimate party outfit.
+          Shikhare&apos;s star-studded wedding reception in Mumbai. While other
+          celeb guests opted for traditional ethnic looks, Shehnaaz&apos;s
+          modern saree twist was perfect for fashion-forward Indian women. Her
+          gold bustier and embellished saree made for the ultimate party outfit.
         </p>
         <p>
           Shehnaaz shared photos of herself dressed in the Gaurav Gupta gold top
-          and black sequin saree on Instagram. "Gold & Glitter," she aptly
-          captioned the post, earning praise from fans calling her a "Golden
-          Diva" and "Golden Girl of India."
+          and black sequin saree on Instagram. &quot;Gold & Glitter,&quot; she
+          aptly captioned the post, earning praise from fans calling her a
+          &quot;Golden Diva&quot; and &quot;Golden Girl of India.&quot;
         </p>
         <p>
           The pre-draped saree featured dazzling gold diamantes embellishing the
@@ -156,8 +156,8 @@ export const entertainment = [
           drama and oomph for wedding functions and parties. While the black and
           gold color scheme lent a classical elegance, the shimmery
           embellishments and sensual styling gave it a glamorous edge.
-          Shehnaaz's red carpet-worthy ensemble exemplified her experimental and
-          confident sense of style.
+          Shehnaaz&apos;s red carpet-worthy ensemble exemplified her
+          experimental and confident sense of style.
         </p>
       </div>
     ),
