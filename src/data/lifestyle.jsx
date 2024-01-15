@@ -1,94 +1,130 @@
 export const lifestyle = [
-  // jan-13-2024
+  // jan-15-2024
   {
-    id: "the-global-demand-for-spider-silk-limited-availability-and-high-necessity",
-    timestamp: "Jan 13, 2024",
+    id: "winter-heart-health-5-ways-to-guard-against-heart-attacks-in-cold-weather-and-smog",
+    timestamp: "Jan 15, 2024",
     image:
-      "/jan-13-2024/the-global-demand-for-spider-silk-limited-availability-and-high-necessity.jpg",
-    title: `The Global Demand for Spider Silk: Limited Availability and High Necessity`,
-    preArticle: `Spider silk possesses incredible properties that make it highly desirable for various applications. It has immense strength, elasticity, and flexibility exceeding steel and Kevlar. Orb weaver spiders can spin massive strong webs up to 1.5 meters wide that can trap birds. If harnessed at scale, spider silk could transform fields like medicine, defense, textiles and aerospace.`,
+      "/jan-15-2024/winter-heart-health-5-ways-to-guard-against-heart-attacks-in-cold-weather-and-smog.jpg",
+    title: `Winter Heart Health: 5 Ways to Guard Against Heart Attacks in Cold Weather and Smog`,
+    preArticle: `Venturing into the sunshine, doing light workouts, and eating a
+          balanced diet can empower your body to withstand not just the bitter
+          cold but also environmental pollution. As severe winter engulfs North India and a dense smog shrouds various
+          cities, it's vital to pay attention to your cardiovascular health.`,
     article: (
       <div className="space-y-6">
         <p>
-          Spider silk possesses incredible properties that make it highly
-          desirable for various applications. It has immense strength,
-          elasticity, and flexibility exceeding steel and Kevlar. Orb weaver
-          spiders can spin massive strong webs up to 1.5 meters wide that can
-          trap birds. If harnessed at scale, spider silk could transform fields
-          like medicine, defense, textiles and aerospace.
+          Venturing into the sunshine, doing light workouts, and eating a
+          balanced diet can empower your body to withstand not just the bitter
+          cold but also environmental pollution.
         </p>
         <p>
-          However, spiders are nearly impossible to farm at a large scale due to
-          their volatile nature. They frequently attack and eat each other when
-          kept together, as per spider silk expert Aarathi Prasad. This
-          limitation has stymied utilizing spider silk through history despite
-          its virtues. But now scientists aim to produce it without relying on
-          spiders.
+          As severe winter engulfs North India and a dense smog shrouds various
+          cities, it&apos;s vital to pay attention to your cardiovascular
+          health. When the temperature dips below your body&apos;s tolerance,
+          all its functions suffer. Due to constricted blood vessels, your heart
+          has to work extra hard in cold weather to ensure proper circulation.
+          Avoiding cold exposure during peak hours and dressing in layers can
+          prevent heart problems in chilly conditions. Stepping into the
+          sunlight for warmth, exercising lightly, and eating wholesome meals
+          can equip your body to handle both the intense cold and air pollution.
+          Apart from a healthy diet, staying hydrated with warm drinks like
+          herbal tea or soup can boost heart function.
         </p>
         <p>
-          Recently, researchers in China modified silkworms&apos; DNA using
-          CRISPR gene editing to generate spider silk. The resulting silk had
-          strength and elasticity approximating natural spider silk. This was a
-          marked improvement over past approaches.
+          &quot;The cold triggers various health complications like flu, cough,
+          and heart diseases. The winter months put additional strain on our
+          heart, as it works overtime to ensure efficient blood circulation
+          owing to contracted blood vessels. The chilly season can lead to
+          increased heart rate and cause the blood to thicken in some cases,
+          heightening the risk of heart diseases like arrhythmias, angina, and
+          sudden cardiac death. With one of our major organs suffering in
+          winter, heart attack cases rise during this period, highlighting the
+          importance of caring for our heart health, especially amid the cold
+          wave gripping numerous regions of our country,&quot; says Dr. Nagendra
+          Singh Chouhan, Senior Director of Interventional Cardiology at Medanta
+          Hospital&apos;s Heart Institute in Gurugram.
         </p>
         <p>
-          For instance, scientists at Utah State University earlier tried
-          extracting spider silk protein from the milk of genetically engineered
-          goats. But the silk fibers were weak. The goats now live on a
-          university farm.
+          5 Important Tips to Safeguard Your Heart During Extreme Cold. Dr.
+          Chouhan shares 5 key tips to protect your heart amid a cold wave:
         </p>
+        <div className="space-y-1.5">
+          <span className="text-xl">
+            1. Manage Your Heart or Circulatory Condition
+          </span>
+          <div className="space-y-3">
+            <p>
+              Effective heart health management involves identifying underlying
+              conditions, which can significantly reduce risks linked to colder
+              weather. Consistency in taking medication is paramount. Setting
+              reminders, maintaining a medication schedule, and getting regular
+              checkups can assist in building a steady health routine.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">2. Protect Yourself Against the Flu</span>
+          <div className="space-y-3">
+            <p>
+              As the cold wave approaches, prioritize safeguarding yourself from
+              the flu, since its prevalence peaks in winter. The flu can pose
+              additional health risks, especially for seniors and those with
+              pre-existing heart conditions. If you reside with susceptible
+              people or work in high public interaction environments, get your
+              flu shots. Guarding against the flu not only shields you from its
+              direct impact but also minimizes potential complications for your
+              heart health.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">3. Stay Warm and Layered</span>
+          <div className="space-y-3">
+            <p>
+              Staying warm can lessen the strain of winter on your
+              cardiovascular system. Dress in layers, specifically
+              moisture-wicking base layers followed by insulating materials like
+              wool or fleece, ensuring optimal temperature control. Adequately
+              covering extremities and avoiding prolonged exposure to cold
+              further alleviates the burden on your heart, enabling efficient
+              circulation.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">4. Maintain Regular Physical Activity</span>
+          <div className="space-y-3">
+            <p>
+              Preserving a steady exercise program, even indoors, significantly
+              betters heart and overall health. Incorporate activities like
+              brisk walking, indoor jogging, or fitness classes to boost
+              cardiovascular function. Additionally, integrating stretching or
+              yoga builds flexibility and resilience, supporting general heart
+              health despite cold weather challenges.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">
+            5. Follow a Heart-Healthy Diet and Stay Hydrated
+          </span>
+          <div className="space-y-3">
+            <p>
+              Nourish your heart with a balanced diet plentiful in fruits,
+              vegetables, lean protein, and omega-3 fatty acids. Limiting
+              saturated fats, refined sugars, and excess salt ensures
+              cholesterol and blood pressure stay in check. Simultaneously,
+              prioritize hydration, opting for warm fluids like herbal tea or
+              soup, to maintain optimal blood volume and heart function.
+            </p>
+          </div>
+        </div>
         <p>
-          Previous artificial spider silk made in labs also lacked the
-          protective glycoprotein coating spiders apply on their webs. Silkworms
-          have an innate gland for secreting such coating, giving them an
-          advantage.
-        </p>
-        <p>
-          However, Prasad notes even silkworm spider silk can&apos;t perfectly
-          replicate natural spider silk. In spiders, silk starts liquid before
-          solidifying into threads. We don&apos;t fully understand this natural
-          protein folding process that imparts strength. So silkworm silk will
-          always be part spider.
-        </p>
-        <p>
-          Donghua University is working to get closer by tweaking the silkworm
-          silk&apos;s molecular structure for more strength and elasticity. They
-          highlight an existing robust silk supply chain for silkworms that
-          allows scalability.
-        </p>
-        <p>
-          The ability to produce spider silk without spiders has exciting
-          potential if the properties can be fine-tuned. The materials could
-          replace plastics in some single-use products, given spider silk is
-          biodegradable. Spider silk is also hypoallergenic, meaning medical
-          devices and sutures made from it would not cause reactions.
-        </p>
-        <p>
-          Spider silk could have applications in bulletproof vests, parachute
-          cords, artificial tendons, and even space suits owing to its
-          durability and lightness. It could reinforce airplane panels and
-          suspensions bridges. The biocompatibility opens up possibilities in
-          tissue engineering as well.
-        </p>
-        <p>
-          However, scaling up artificial spider silk does raise ecological
-          concerns. Introducing genetically engineered silkworms or goats in the
-          wild could impact natural populations and ecosystems. Tight regulation
-          around their use in closed facilities would be necessary.
-        </p>
-        <p>
-          There are also ethical dilemmas regarding animal gene editing that
-          require careful consideration. While spider silk production has
-          benefits, it should not come at the cost of animal welfare or
-          conservation. Striking the right balance will be key.
-        </p>
-        <p>
-          The field does show how biotechnology can provide solutions where
-          nature poses challenges. But replicating the complex marvel of
-          evolution requires nuance. Artificial spider silk may find uses where
-          natural silk isn&apos;t viable, but it seems unlikely to completely
-          replace real spider silk. There are limits to bioengineering the
-          intricate biological processes still being unravelled.
+          In summary, while cold waves present challenges to heart health,
+          proactive measures and steady management strategies mitigate potential
+          risks. Stay informed, take preventive action, and make cardiovascular
+          health a priority to safeguard yourself against cold-induced threats
+          this season.
         </p>
       </div>
     ),

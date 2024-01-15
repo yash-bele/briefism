@@ -3,6 +3,112 @@ import Image from "next/image";
 export const breaking = [
   // jan-15-2024
   {
+    id: "fir-filed-against-karnataka-bjp-mp-anantkumar-hegde-for-remarks-on-mosque-demolition",
+    timestamp: "Jan 15, 2024",
+    image:
+      "/jan-15-2024/fir-filed-against-karnataka-bjp-mp-anantkumar-hegde-for-remarks-on-mosque-demolition.webp",
+    title: `FIR Filed Against Karnataka BJP MP Anantkumar Hegde for Remarks on Mosque Demolition`,
+    preArticle: `Police in Karnataka's Uttara Kannada district have registered a case
+          against BJP Member of Parliament Anantkumar Hegde pertaining to
+          promoting enmity between religious groups. This is in relation to his
+          controversial remarks made in Kumta during a speech on January 13th
+          about the Ram Mandir consecration event.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Police in Karnataka&apos;s Uttara Kannada district have registered a
+          case against BJP Member of Parliament Anantkumar Hegde pertaining to
+          promoting enmity between religious groups. This is in relation to his
+          controversial remarks made in Kumta during a speech on January 13th
+          about the Ram Mandir consecration event.
+        </p>
+        <p>
+          The suo motu case against the MP was filed by a police sub-inspector
+          attached to the Kumta police station. The complaint alleges Hegde was
+          recorded on video making provocative statements against other
+          religious groups in a speech to BJP workers and supporters on January
+          13th.
+        </p>
+        <p>
+          In his address, the far-right MP called for demolishing several
+          mosques in Karnataka, similar to Babri Masjid, claiming they were
+          constructed over Hindu temples. The BJP had distanced itself from
+          Hegde&apos;s comments.
+        </p>
+        <p>
+          &quot;Some people can take it as a threat also. We will definitely do
+          it. This is a decision of the Hindu community, not of Anantkumar
+          Hegde,&quot; he stated at the Kumta meeting on Saturday. &quot;...in
+          every village of the state there are small religious places which were
+          violated. Until they are demolished, the Hindu community will not sit
+          idle....,&quot; he added.
+        </p>
+        <p>
+          &quot;Revenge, revenge, revenge. If we do not take revenge for 1,000
+          years, then the Hindu community can clearly say that this is not Hindu
+          blood. We are not a community which will be in debt. We will clear the
+          debt at any cost,&quot; Hegde emphasized.
+        </p>
+        <p>
+          The police complaint registered under Indian Penal Code (IPC) sections
+          153, 153A and 505 quotes Hegde&apos;s statements verbatim for making
+          inflammatory remarks and fomenting enmity between groups.
+        </p>
+        <p>
+          A five-time BJP MP, Anantkumar Hegde is a prospective BJP Lok Sabha
+          candidate from Uttara Kannada for the upcoming elections. He had been
+          inactive in public life the past couple of years owing to illness. In
+          the past few weeks, Hegde resumed meeting people to secure candidature
+          again.
+        </p>
+        <p>
+          This is not the first time Hegde has stirred controversy with his
+          hardline remarks. In 2017, as a Union Minister, he sparked outrage by
+          terming secularists as &quot;people without parentage&quot;.
+          Previously in 2016, he had equated Islam with terrorism.
+        </p>
+        <p>
+          The latest case underscores tensions between Hindu nationalist
+          politicians and minority groups in Karnataka. It evokes memories of
+          the contentious Babri Masjid demolition in 1992 by Hindu nationalist
+          mobs who claimed the 16th century mosque was built over a temple.
+        </p>
+        <p>
+          By calling for similar demolitions, Hegde&apos;s rhetoric threatens to
+          inflame communal tensions in the state along religious lines. It also
+          contradicts the BJP&apos;s official stance of distancing itself from
+          his comments.
+        </p>
+        <p>
+          However, Hegde retains significant support among hardcore Hindu
+          nationalists and right-wing voters. Despite past controversies, he was
+          appointed a central minister and may be renominated for the Lok Sabha
+          polls. This highlights the sway of extremist politicians within the
+          party.
+        </p>
+        <p>
+          But such figures also damage the BJP&apos;s image among moderate
+          voters and minorities. With Karnataka being a communally sensitive
+          state, Hegde&apos;s fiery rhetoric has the potential to stir social
+          disharmony during election season.
+        </p>
+        <p>
+          The police case indicates authorities are taking his remarks seriously
+          given their provocative nature. But it remains to be seen whether
+          Hegde will face any meaningful censure from within his party or
+          criminal charges for his latest outburst.
+        </p>
+        <p>
+          His fate will be an important test of how far the BJP is willing to go
+          to contain fringe extremist voices while still harnessing their
+          support during elections. It will also determine whether the party
+          prizes broader social harmony over consolidating a hardline
+          majoritarian voter base.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "delhi-schools-set-to-reopen-today-with-classes-commencing-at-9am-amidst-cold-wave",
     timestamp: "Jan 15, 2024",
     image:

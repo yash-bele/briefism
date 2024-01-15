@@ -1,116 +1,131 @@
 export const technology = [
-  // jan-14-2024
+  // jan-15-2024
   {
-    id: "2024-mg-astor-debuts-with-additional-features",
-    timestamp: "Jan 14, 2024",
-    image: "/jan-14-2024/2024-mg-astor-debuts-with-additional-features.webp",
-    title: `2024 MG Astor Debuts with Additional Features, Priced at ₹9.98 Lakh`,
-    preArticle: `MG Motor India has introduced the 2024 model of its popular Astor SUV
-          in the Indian market. The updated 2024 Astor comes loaded with
-          additional features and technology upgrades, while retaining the same
-          exterior and interior design as the outgoing model. Priced between Rs
-          9.98 lakh to Rs 16.78 lakh (ex-showroom), the new Astor aims to
-          strengthen MG's position in the competitive midsize SUV segment.`,
+    id: "realme-note-smartphones-set-to-enter-market-ready-to-rival-redmi-note",
+    timestamp: "Jan 15, 2024",
+    image:
+      "/jan-15-2024/realme-note-smartphones-set-to-enter-market-ready-to-rival-redmi-note.jpg",
+    title: `Realme Note Smartphones Set to Enter Market, Ready to Rival Redmi Note`,
+    preArticle: `Realme founder and CEO Sky Li announced on social media that the
+          company will soon launch the “Note” series of smartphones, positioned
+          to compete with Xiaomi's popular Redmi Note lineup. Catering to demand
+          for large-screen devices, the Realme Note series aims to provide
+          affordable big-screen options for buyers.`,
     article: (
       <div className="space-y-6">
         <p>
-          MG Motor India has introduced the 2024 model of its popular Astor SUV
-          in the Indian market. The updated 2024 Astor comes loaded with
-          additional features and technology upgrades, while retaining the same
-          exterior and interior design as the outgoing model. Priced between Rs
-          9.98 lakh to Rs 16.78 lakh (ex-showroom), the new Astor aims to
-          strengthen MG&apos;s position in the competitive midsize SUV segment.
+          Realme founder and CEO Sky Li announced on social media that the
+          company will soon launch the “Note” series of smartphones, positioned
+          to compete with Xiaomi&apos;s popular Redmi Note lineup. Catering to
+          demand for large-screen devices, the Realme Note series aims to
+          provide affordable big-screen options for buyers.
         </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">Variants and Powertrains</span>
-          <div className="space-y-3">
-            <p>
-              The 2024 Astor is offered in five trim levels - Sprint, Shine,
-              Select, Sharp Pro and Savvy Pro. There are two engine options - a
-              138hp 1.3-litre turbo-petrol mated to a 6-speed torque converter
-              automatic, and a 108hp 1.5-litre naturally aspirated petrol paired
-              with a 5-speed manual or CVT automatic.
+        <p>
+          Realme currently offers the budget C series, mid-range numbered series
+          and flagship GT series. The upcoming Note lineup is expected to slot
+          between the regular number series and premium GT series.
+        </p>
+        <p>
+          According to leaks, the first device Realme Note 1 will sport a
+          6.67-inch 120Hz OLED display with FHD+ resolution and in-screen
+          fingerprint scanner. It is tipped to be powered by the MediaTek
+          Dimensity 7050 chipset. The triple camera setup may include a 108MP
+          main camera, 8MP ultrawide lens and 2MP macro camera, plus a 16MP
+          selfie camera.
+        </p>
+        <p>
+          The Note 1 is said to pack a 5,000mAh battery with 67W fast charging
+          support and stereo speakers. Going by the leaked specs versus Infinix
+          Note 30 and Redmi Note 13, the Realme Note 1 could be priced
+          attractively under Rs 20,000.
+        </p>
+        <p>
+          It is unclear when the Note 1 will launch and if the lineup will offer
+          Pro/Pro+ models like Redmi Note series. Meanwhile, Realme just
+          confirmed its 12 Pro series launch in India on January 29th.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              Get ready for something big! I&#39;m excited to share that realme
+              is about to launch the brand-new Note Series. Stay tuned for the
+              latest updates!{" "}
+              <a href="https://twitter.com/hashtag/realmeNoteSeries?src=hash&amp;ref_src=twsrc%5Etfw">
+                #realmeNoteSeries
+              </a>{" "}
+              <a href="https://t.co/MgAa2GTnkY">pic.twitter.com/MgAa2GTnkY</a>
             </p>
-          </div>
+            &mdash; Sky Li (@skyli_realme){" "}
+            <a href="https://twitter.com/skyli_realme/status/1746736464220631505?ref_src=twsrc%5Etfw">
+              January 15, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          />
         </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">New Features and Technology Upgrades</span>
-          <div className="space-y-3">
-            <p>
-              The 2024 Astor introduces some nifty features including wireless
-              phone charging, wireless Android Auto/Apple CarPlay connectivity,
-              auto-dimming IRVMs, and the updated i-SMART 2.0 connected car
-              tech. The AI-based i-SMART system now boasts over 80 connectivity
-              features, plus a Jio-powered voice recognition system allowing
-              voice commands for multiple functions.
+        <p>
+          With the Note series, Realme aims to capture the market for affordable
+          big-screen smartphones, which is currently dominated by Xiaomi&apos;s
+          Redmi Note. Realme&apos;s numbered series and GT series don&apos;t
+          offer many low-cost large display options currently.
+        </p>
+        <p>
+          The leaked 6.67-inch screen size reveals Realme plans to compete
+          head-on with Redmi Note in the budget big-screen segment. The OLED
+          panel and 120Hz refresh rate also give it an edge over LCD displays of
+          competing devices.
+        </p>
+        <p>
+          Powered by a capable Dimensity 7050 chipset, the Note series will
+          offer higher performance than Redmi&apos;s Snapdragon 4 Gen 1-based
+          Note 13. The flagship-grade 108MP camera will also provide superior
+          photography experience and lend premium appeal.
+        </p>
+        <p>
+          Priced attractively under Rs 20,000, the Note series solves
+          Realme&apos;s gap in affordable large-screen smartphones. It neatly
+          slots between the premium GT and regular number series. With a
+          value-for-money formula of good specs, big display and low price, it
+          can shake up the budget smartphone landscape.
+        </p>
+        <p>
+          However, Realme will need to ensure compelling differentiators beyond
+          just large screens to stand out against Redmi&apos;s strong brand
+          presence and familiar Note series. Smooth software, good battery life
+          and appealing design will be key.
+        </p>
+        <p>
+          Overall, the Note lineup indicates Realme&apos;s strategy of covering
+          all price tiers and consumer needs. Alongside its budget C series,
+          performance-centric GT models and all-rounder number series, the Note
+          range helps Realme cement its &quot;value flagship&quot; appeal and
+          take on rival Xiaomi more strongly across segments.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              The Note is Here! 🤯🔥🔥
+              <a href="https://twitter.com/hashtag/realmeNote1?src=hash&amp;ref_src=twsrc%5Etfw">
+                #realmeNote1
+              </a>{" "}
+              <a href="https://twitter.com/hashtag/realmeNote50?src=hash&amp;ref_src=twsrc%5Etfw">
+                #realmeNote50
+              </a>{" "}
+              <a href="https://t.co/RL1AD8WYGO">pic.twitter.com/RL1AD8WYGO</a>
             </p>
-            <p>
-              Among other features retained from the outgoing Astor are
-              automatic climate control, panoramic sunroof, cruise control,
-              electric driver&apos;s seat adjustment and advanced safety systems
-              like ADAS autonomous tech. Overall, the new 2024 Astor offers
-              enhanced technology, comfort and convenience over its predecessor.
-            </p>
-          </div>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">Rationale Behind 2024 Update</span>
-          <div className="space-y-3">
-            <p>
-              Despite no changes to exterior styling, the 2024 Astor&apos;s
-              updates make it more in tune with user needs and preferences. The
-              new wireless charging and enhanced voice controls cater perfectly
-              to today&apos;s smartphone-centric users. Safety has also been
-              augmented via auto-dimming IRVMs. And existing owners can enjoy
-              these benefits via OTA software updates as well.
-            </p>
-            <p>
-              The midsize SUV space is ultra-competitive with models like
-              Hyundai Creta, Kia Seltos, VW Taigun, Skoda Kushaq and Maruti
-              Suzuki Grand Vitara. By injecting freshness via these new features
-              rather than just superficial styling changes, MG has made the
-              Astor more compelling in this crowded segment.
-            </p>
-          </div>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">BrandMG&apos;s India Gameplan</span>
-          <div className="space-y-3">
-            <p>
-              The 2024 Astor launch demonstrates MG Motor&apos;s
-              customer-centric approach and long-term view of the Indian market.
-              While other brands refresh models every 5 years or so, MG has
-              updated the Astor in under 2 years of its launch highlighting its
-              agility and resilience.
-            </p>
-            <p>
-              MG entered India in 2019 with the Hector SUV that took the market
-              by storm. The company has since expanded its portfolio to 5 models
-              across the mass and premium segments, including the Astor,
-              Gloster, ZS EV and MG One budget SUV.
-            </p>
-            <p>
-              Despite the pandemic and global volatility, MG has invested over
-              Rs 3,500 crore in India - in manufacturing, R&D and networks. The
-              carmaker employs over 2,000 people in India and provides indirect
-              employment via its 450+ dealerships.
-            </p>
-            <p>
-              By regularly injecting newness into products, MG is giving tough
-              competition to established players. The updated Astor will appeal
-              to existing owners through its added tech and value. For new
-              buyers, its refreshed proposition makes it a serious contender
-              among other options.
-            </p>
-            <p>
-              The 2024 Astor reiterates MG&apos;s dynamic approach and
-              commitment to the Indian market. By responding quickly to user
-              feedback and evolving needs, the company is building models that
-              resonate strongly with customers. The updated Astor has the
-              ingredients to boost MG&apos;s sales and market share further in
-              2023.
-            </p>
-          </div>
+            &mdash; Farsting_ID 🇮🇩 (@ThisGood15){" "}
+            <a href="https://twitter.com/ThisGood15/status/1746754201198432518?ref_src=twsrc%5Etfw">
+              January 15, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          />
         </div>
       </div>
     ),
