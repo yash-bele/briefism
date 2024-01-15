@@ -17,6 +17,18 @@ const MainGrid = () => {
       <section className="border-none lg:border-l lg:border-dashed border-red-300 pl-0 lg:pl-5 ml-0 lg:ml-5 mt-10 lg:mt-0 space-y-10 col-span-3 lg:col-span-1">
         <Lifestyle />
         <Health />
+        <div>
+          {/* Home-MainGrid-RightGrid */}
+          <ins
+            className="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-9578547467175156"
+            data-ad-slot="7848180757"
+            data-ad-format="auto"
+            data-full-width-responsive="true"
+          />
+          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
       </section>
     </main>
   );
