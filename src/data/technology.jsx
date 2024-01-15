@@ -1,6 +1,105 @@
 export const technology = [
   // jan-15-2024
   {
+    id: "amazon-and-flipkart-republic-day-sale-top-phones-under-rs-20000",
+    timestamp: "Jan 15, 2024",
+    image:
+      "/jan-15-2024/amazon-and-flipkart-republic-day-sale-top-phones-under-rs-20000.webp",
+    title: `Amazon and Flipkart Republic Day Sale: Top Phones Under Rs 20,000`,
+    preArticle: `As Republic Day approaches, both Amazon and Flipkart are presenting
+          substantial discounts on various smartphones. If you're in the market
+          for a new mid-range phone that excels in both camera performance and
+          overall functionality, here are some excellent options under Rs
+          20,000.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          As Republic Day approaches, both Amazon and Flipkart are presenting
+          substantial discounts on various smartphones. If you&apos;re in the
+          market for a new mid-range phone that excels in both camera
+          performance and overall functionality, here are some excellent options
+          under Rs 20,000.
+        </p>
+        <div className="space-y-1.5">
+          <span className="text-xl">1. Motorola G34</span>
+          <div className="space-y-3">
+            <p>
+              Motorola has recently introduced the G34, a budget-friendly phone
+              equipped with the Snapdragon 695, a mid-range chipset commonly
+              found in phones like the OnePlus CE 3 Lite and Poco X5. Operating
+              on near-stock Android 14 with a few customizations, the Motorola
+              G34 boasts a slightly smaller 6.5-inch LCD screen with a high
+              refresh rate. It features a decent 50MP primary camera supported
+              by another 2MP sensor. Priced starting at Rs 10,999, the Motorola
+              G34 is a cost-effective choice.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">2. Poco M6</span>
+          <div className="space-y-3">
+            <p>
+              The Poco M6 stands out as another budget-friendly 5G phone
+              excelling in various aspects. Powered by the Dimensity 6100+ chip,
+              the phone offers a sizable 6.74-inch LCD screen and a 50MP camera
+              delivering decent daytime photos. For those seeking a
+              budget-friendly 5G device with value for money and running on
+              MIUI, the Poco M6 is a strong recommendation. The base version
+              with 4GB RAM and 128GB storage is priced at Rs 9,999, while the
+              6GB RAM variant, recommended for Rs 10,999, provides enhanced
+              performance.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">3. OnePlus Nord CE 3 Lite</span>
+          <div className="space-y-3">
+            <p>
+              The OnePlus Nord CE 3 Lite may not boast the fastest processor or
+              the best camera, but it compensates with a smooth user experience.
+              Running on OxygenOS 13.1, this mid-range 5G phone ensures two
+              years of OS updates and features a 108MP camera delivering average
+              photos. Although it lacks an AMOLED screen, for users prioritizing
+              a clean and smooth user interface, the Nord CE 3 Lite, starting
+              from Rs 19,999, proves to be a reliable choice.
+            </p>
+          </div>
+        </div>
+        =
+        <div className="space-y-1.5">
+          <span className="text-xl">4. Lava Agni 2</span>
+          <div className="space-y-3">
+            <p>
+              Lava introduced the Agni 2 last year, a premium-looking mid-range
+              device featuring a high refresh rate curved screen, glass back,
+              and complimentary home delivery. Powered by the MediaTek Dimensity
+              7050 chipset, the Lava Agni 2 offers a seamless experience with
+              stock Android, 67W fast charging, and efficient multitasking.
+              Although specifics about its Android update policy are not
+              disclosed, Lava assures an upgrade to Android 14. Priced at Rs
+              19,999, it&apos;s available on Amazon.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">5. Samsung Galaxy M34</span>
+          <div className="space-y-3">
+            <p>
+              The Samsung Galaxy M34, equipped with a robust 6,000mAh battery,
+              caters to users requiring prolonged phone usage without frequent
+              recharging. Borrowing design elements from the Galaxy S23 series,
+              the back panel is constructed from plastic. It features a high
+              refresh rate AMOLED screen, visible even under direct sunlight,
+              and a 59MP primary camera complemented by an 8MP ultrawide angle
+              lens and a practical 2MP macro shooter. Available on Amazon, the
+              Samsung Galaxy M34 starts from Rs 15,999.
+            </p>
+          </div>
+        </div>
+      </div>
+    ),
+  },
+  {
     id: "realme-note-smartphones-set-to-enter-market-ready-to-rival-redmi-note",
     timestamp: "Jan 15, 2024",
     image:

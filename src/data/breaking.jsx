@@ -3,6 +3,109 @@ import Image from "next/image";
 export const breaking = [
   // jan-15-2024
   {
+    id: "two-men-accused-of-rape-in-haveri-karnataka-charged-in-another-assault-case",
+    timestamp: "Jan 15, 2024",
+    image:
+      "/jan-15-2024/two-men-accused-of-rape-in-haveri-karnataka-charged-in-another-assault-case.avif",
+    title: `Two Men Accused of Rape in Haveri, Karnataka, Charged in Another Assault Case`,
+    preArticle: `In Karnataka's Haveri district, two men affiliated with a group
+          accused of assaulting a Muslim woman and a Hindu man on January 8 are
+          facing fresh charges in an assault case involving a 19-year-old woman
+          in the same area.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In Karnataka&apos;s Haveri district, two men affiliated with a group
+          accused of assaulting a Muslim woman and a Hindu man on January 8 are
+          facing fresh charges in an assault case involving a 19-year-old woman
+          in the same area.
+        </p>
+        <p>
+          The 19-year-old Muslim woman experienced an assault by these men,
+          accompanied by three others, in the first week of January. The
+          incident came to light after police discovered videos of the attack.
+          In the January 8 incident at a hotel in Hanagal, the accused recorded
+          a video of their assault on the interfaith couple, circulating it on
+          social media.
+        </p>
+        <p>
+          Yallappa Hiraganavar, an officer from the Hanagal police station,
+          filed a complaint against Aftab Maqbool Ahmed, a 24-year-old mechanic,
+          and Mardansab Mohammed Isaq Mandakki, a 23-year-old merchant, along
+          with three others—Mehaboob Ali Gaffarsab Savikeri, Sahib Channapur,
+          and Tanveer Gouda, all residents of Hanagal—for attacking the
+          19-year-old woman. Ahmed and Mandakki are already in police custody
+          over the January 8 attack and the alleged gangrape of a 26-year-old
+          married Muslim woman.
+        </p>
+        <p>
+          According to a new police complaint registered on January 14 at the
+          Hanagal police station, the 19-year-old woman was allegedly abducted
+          by the gang on January 4 between 12 noon and 3 pm after she got off a
+          bus. The gang purportedly outraged the modesty of the young woman and
+          threatened her with dire consequences if she spoke out about the
+          attack.
+        </p>
+        <p>
+          In the complaint, the gang is said to have interrogated her about a
+          man she was traveling with on the bus and whether she had willingly
+          gone with him. They recorded a video of the moral policing incident
+          and shared it on social media.
+        </p>
+        <p>
+          Meanwhile, between January 10 and 14, Haveri police arrested seven men
+          in connection with the January 8 assault case. Anshu Kumar,
+          Superintendent of Police, Haveri, confirmed these arrests during a
+          press briefing on Sunday.
+        </p>
+        <p>
+          The initial FIR in the case was filed on January 10 by the Hanagal
+          police, prompted by a room boy at the Idigas Lodge. The interfaith
+          couple had refrained from filing a complaint due to fears of
+          repercussions from their spouses.
+        </p>
+        <p>
+          However, during a court appearance, the woman stated that she was also
+          raped by the gang, who took her away after storming into their hotel
+          room. The police subsequently invoked charges of gang rape against the
+          accused based on the woman’s allegations.
+        </p>
+        <p>
+          Among the seven men arrested for the January 8 incident is an
+          autorickshaw driver named Abdul Khadar Jaffarsab, 28, who reportedly
+          served as an informant to the gang about the interfaith couple.
+        </p>
+        <p>
+          The police are investigating if some of the accused are involved in
+          additional attacks on women under the guise of moral policing in the
+          region. The accused have allegedly recorded videos of their assaults
+          and shared them on social media, prompting the police to suspect that
+          they may have been engaged in such crimes in the past.
+        </p>
+        <p>
+          These moral policing incidents, typically associated with right-wing
+          groups in coastal Karnataka, have taken a political turn in Haveri.
+          BJP leaders have criticized the ruling Congress government, with
+          former chief minister and senior BJP leader Basavaraj Bommai, who
+          hails from Haveri, alleging double standards in the state
+          government&apos;s approach to tackling moral policing.
+        </p>
+        <p>
+          Bommai has demanded the creation of a Special Investigation Team to
+          look into these cases and has accused the police of attempting to
+          downplay the case by taking down a statement that did not include
+          gangrape allegations. The situation raises concerns about the
+          prevalence of moral policing, the safety of individuals in the region,
+          and the effectiveness of the current legal system in ensuring justice
+          for survivors. The involvement of political figures and potential
+          manipulation of the legal process further underscore the need for a
+          comprehensive examination of the root causes and factors contributing
+          to such crimes.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "fir-filed-against-karnataka-bjp-mp-anantkumar-hegde-for-remarks-on-mosque-demolition",
     timestamp: "Jan 15, 2024",
     image:
