@@ -21,13 +21,12 @@ const MainGrid = () => {
           {/* Home-MainGrid-RightGrid */}
           <ins
             className="adsbygoogle"
-            style="display:block"
+            style={{ display: "block" }}
             data-ad-client="ca-pub-9578547467175156"
             data-ad-slot="7848180757"
             data-ad-format="auto"
             data-full-width-responsive="true"
           />
-          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
       </section>
     </main>
