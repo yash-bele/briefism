@@ -6,7 +6,7 @@ export const breaking = [
     id: "1-fatality-and-4-injured-in-north-delhi-collision-as-vehicles-collide-on-opposite-carriageways",
     timestamp: "Jan 16, 2024",
     image:
-      "/jan-16-2024/1-fatality-and-4-injured-in-north-delhi-collision-as-vehicles-collide-on-opposite-carriageways.avif",
+      "/breaking/jan-16-2024/1-fatality-and-4-injured-in-north-delhi-collision-as-vehicles-collide-on-opposite-carriageways.avif",
     title: `1 Fatality and 4 Injured in North Delhi Collision as Vehicles Collide on Opposite Carriageways`,
     preArticle: `In North Delhi, a tragic incident occurred on the night between Monday
           and Tuesday, resulting in the death of a 40-year-old man and injuries
@@ -84,7 +84,7 @@ export const breaking = [
     id: "delhi-high-court-rejects-petition-challenging-film-aankh-micholi",
     timestamp: "Jan 16, 2024",
     image:
-      "/jan-16-2024/delhi-high-court-rejects-petition-challenging-film-aankh-micholi.avif",
+      "/breaking/jan-16-2024/delhi-high-court-rejects-petition-challenging-film-aankh-micholi.avif",
     title: `Delhi High Court Rejects Petition Challenging Film 'Aankh Micholi'`,
     preArticle: `On Monday, the Delhi High Court dismissed a plea alleging that the
           film 'Aankh Micholi' violated the Rights of Persons with Disabilities
@@ -111,7 +111,7 @@ export const breaking = [
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
             priority
-            src="/jan-16-2024/delhi-high-court-rejects-petition-challenging-film-aankh-micholi(2).avif"
+            src="/breaking/jan-16-2024/delhi-high-court-rejects-petition-challenging-film-aankh-micholi(2).avif"
             alt="delhi-high-court-rejects-petition-challenging-film-aankh-micholi(2)"
             fill
             sizes="auto"
@@ -164,7 +164,7 @@ export const breaking = [
     id: "unemployment-takes-center-stage-in-elections-as-rss-promotes-self-employment",
     timestamp: "Jan 16, 2024",
     image:
-      "/jan-16-2024/unemployment-takes-center-stage-in-elections-as-rss-promotes-self-employment.avif",
+      "/breaking/jan-16-2024/unemployment-takes-center-stage-in-elections-as-rss-promotes-self-employment.avif",
     title: `Unemployment Takes Center Stage in Elections as RSS Promotes 'Self-Employment'`,
     preArticle: `In anticipation of unemployment emerging as a pivotal issue in the
           upcoming 2024 elections, the Sangh Parivar is actively steering the
