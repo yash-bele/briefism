@@ -1,12 +1,15 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
+import dynamic from "next/dynamic";
 import { useState } from "react";
 import ReactPaginate from "react-paginate";
 import { IoIosTimer } from "react-icons/io";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import { breaking } from "@/data/breaking";
-import { breakingHistory } from "@/history/breaking";
+const breakingHistory = dynamic(() => import("@/history/breaking"), {
+  ssr: false,
+});
 const concatData = [...breaking, ...breakingHistory];
 
 const LeftSide = () => {

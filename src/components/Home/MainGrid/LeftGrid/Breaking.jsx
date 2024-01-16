@@ -3,7 +3,6 @@ import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
 import { HiChevronDoubleRight } from "react-icons/hi2";
 import { breaking } from "@/data/breaking";
-import { breakingHistory } from "@/history/breaking";
 
 const Breaking = () => {
   return (
@@ -16,7 +15,7 @@ const Breaking = () => {
       </h2>
       <div className="flex flex-col-reverse lg:grid grid-cols-2 gap-2.5 lg:gap-5">
         <section className="flex flex-col sm:grid grid-rows-3 gap-2.5">
-          {[...breaking, ...breakingHistory].slice(1, 4).map((i, j) => (
+          {breaking.slice(1, 4).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -53,7 +52,7 @@ const Breaking = () => {
           ))}
         </section>
         <section className="grid grid-rows-3 gap-2.5 h-[calc(384px/2)] lg:h-auto">
-          {[...breaking, ...breakingHistory].slice(0, 1).map((i, j) => (
+          {breaking.slice(0, 1).map((i, j) => (
             <Link
               key={i.id}
               href={`/breaking/${i.id}`}
