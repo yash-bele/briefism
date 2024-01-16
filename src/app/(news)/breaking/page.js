@@ -1,8 +1,5 @@
-import dynamic from "next/dynamic";
+import LeftSide from "./components/LeftSide";
 import RightSide from "./components/RightSide";
-const LeftSide = dynamic(() => import("./components/LeftSide"), {
-  ssr: false,
-});
 
 export const metadata = {
   title: "Breaking | Briefism",

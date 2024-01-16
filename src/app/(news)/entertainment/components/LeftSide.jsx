@@ -1,15 +1,12 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
-import dynamic from "next/dynamic";
 import { useState } from "react";
 import ReactPaginate from "react-paginate";
 import { IoIosTimer } from "react-icons/io";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import { entertainment } from "@/data/entertainment";
-const entertainmentHistory = dynamic(() => import("@/history/entertainment"), {
-  ssr: false,
-});
+import { entertainmentHistory } from "@/history/entertainment";
 const concatData = [...entertainment, ...entertainmentHistory];
 
 const LeftSide = () => {

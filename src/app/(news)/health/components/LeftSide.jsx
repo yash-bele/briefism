@@ -6,9 +6,7 @@ import ReactPaginate from "react-paginate";
 import { IoIosTimer } from "react-icons/io";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import { health } from "@/data/health";
-const healthHistory = dynamic(() => import("@/history/health"), {
-  ssr: false,
-});
+import { healthHistory } from "@/history/health";
 const concatData = [...health, ...healthHistory];
 
 const LeftSide = () => {
