@@ -1,6 +1,243 @@
 import Image from "next/image";
 
 export const breaking = [
+  // jan-16-2024
+  {
+    id: "1-fatality-and-4-injured-in-north-delhi-collision-as-vehicles-collide-on-opposite-carriageways",
+    timestamp: "Jan 16, 2024",
+    image:
+      "/jan-16-2024/1-fatality-and-4-injured-in-north-delhi-collision-as-vehicles-collide-on-opposite-carriageways.avif",
+    title: `1 Fatality and 4 Injured in North Delhi Collision as Vehicles Collide on Opposite Carriageways`,
+    preArticle: `In North Delhi, a tragic incident occurred on the night between Monday
+          and Tuesday, resulting in the death of a 40-year-old man and injuries
+          to four others when his car collided head-on with another vehicle near
+          the Geeta Colony Flyover.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In North Delhi, a tragic incident occurred on the night between Monday
+          and Tuesday, resulting in the death of a 40-year-old man and injuries
+          to four others when his car collided head-on with another vehicle near
+          the Geeta Colony Flyover.
+        </p>
+        <p>
+          According to a Delhi Police official, preliminary findings suggest
+          that the accident occurred due to poor visibility on the road, and
+          they were notified about the incident at 1:30 am.
+        </p>
+        <p>
+          The collision occurred on Salim Garg Road near Jheel Cut, just before
+          the Geeta Colony Flyover in the Kotwali area, as reported by Manoj
+          Kumar Meena, DCP (North). At the scene, both vehicles, a Celerio and a
+          Swift, both displaying license plates, were found significantly
+          damaged.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              VIDEO | One person was killed after a car collided with another
+              vehicle near Salim Garh road in Delhi yesterday. More details are
+              awaited.{" "}
+              <a href="https://t.co/ffxCNUTqbd">pic.twitter.com/ffxCNUTqbd</a>
+            </p>
+            &mdash; Press Trust of India (@PTI_News){" "}
+            <a href="https://twitter.com/PTI_News/status/1747119012268412952?ref_src=twsrc%5Etfw">
+              January 16, 2024
+            </a>
+          </blockquote>{" "}
+          <script async src="https://platform.twitter.com/widgets.js" />
+        </div>
+        <p>
+          Upon initial investigation, it was revealed that the Celerio was
+          struck by the Swift from the opposite carriageway, causing substantial
+          damage to the central road divider. The driver of the Swift,
+          identified as Gaurav Malhotra from Laxmi Nagar, lost his life in the
+          collision.
+        </p>
+        <p>
+          DCP Meena further stated, &quot;Four other individuals, namely Sumi,
+          Saurav, and two unidentified persons, sustained injuries. One of them
+          is in critical condition and has been admitted to the Trauma Centre. A
+          case has been registered against unknown persons under the sections of
+          causing death due to negligence and rash driving of the IPC (Indian
+          Penal Code).&quot;
+        </p>
+        <p>
+          The tragic incident highlights the dangerous consequences of the
+          collision, with one fatality and multiple individuals grappling with
+          injuries. The authorities are actively investigating the case,
+          focusing on potential negligence and reckless driving as contributing
+          factors.
+        </p>
+        <p>
+          This unfortunate event serves as a somber reminder of the importance
+          of road safety and the need for heightened awareness, especially
+          during periods of low visibility. As the investigation unfolds,
+          authorities will likely seek to determine the exact circumstances
+          leading to the collision and hold those responsible accountable for
+          the tragic outcome.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "delhi-high-court-rejects-petition-challenging-film-aankh-micholi",
+    timestamp: "Jan 16, 2024",
+    image:
+      "/jan-16-2024/delhi-high-court-rejects-petition-challenging-film-aankh-micholi.avif",
+    title: `Delhi High Court Rejects Petition Challenging Film 'Aankh Micholi'`,
+    preArticle: `On Monday, the Delhi High Court dismissed a plea alleging that the
+          film 'Aankh Micholi' violated the Rights of Persons with Disabilities
+          (RPwD) Act by depicting individuals with disabilities in a derogatory
+          manner. Advocate Jai Anant Dehadrai, representing petitioner Nipun
+          Malhotra, presented the case before a division bench of Acting Chief
+          Justice Manmohan and Justice Manmeet Pritam Singh Arora. Malhotra, a
+          disability rights activist with a locomotor disability, contested
+          specific segments of the film, asserting they contravened the RPwD
+          Act.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          On Monday, the Delhi High Court dismissed a plea alleging that the
+          film &apos;Aankh Micholi&apos; violated the Rights of Persons with
+          Disabilities (RPwD) Act by depicting individuals with disabilities in
+          a derogatory manner. Advocate Jai Anant Dehadrai, representing
+          petitioner Nipun Malhotra, presented the case before a division bench
+          of Acting Chief Justice Manmohan and Justice Manmeet Pritam Singh
+          Arora. Malhotra, a disability rights activist with a locomotor
+          disability, contested specific segments of the film, asserting they
+          contravened the RPwD Act.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            priority
+            src="/jan-16-2024/delhi-high-court-rejects-petition-challenging-film-aankh-micholi(2).avif"
+            alt="delhi-high-court-rejects-petition-challenging-film-aankh-micholi(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The film, produced and distributed by Sony Pictures Films India
+          Private Limited, featuring Mrunal Thakur, Abhimanyu Dassai, and Paresh
+          Rawal, was released in November of the preceding year.
+        </p>
+        <p>
+          Dehadrai argued that the entire film contained highly offensive
+          references, describing it as a comedy with an exceptionally
+          distasteful portrayal of individuals with permanent disabilities. He
+          emphasized that the film perpetuated negative stereotypes, deviating
+          from its intended comedic nature.
+        </p>
+        <p>
+          Despite these claims, the Delhi High Court declined to entertain the
+          plea. The court&apos;s decision signifies a legal stance against the
+          petitioner&apos;s argument that the film violated the rights of
+          individuals with disabilities, as outlined in the RPwD Act. The
+          court&apos;s rejection implies that, based on their evaluation, the
+          film does not appear to infringe upon the legal provisions intended to
+          protect the rights and dignity of persons with disabilities.
+        </p>
+        <p>
+          This legal development highlights the challenges in navigating the
+          intersection of artistic expression and potential societal impact,
+          especially when it comes to sensitive subjects like disabilities.
+          While the petitioner raised concerns about offensive portrayals and
+          perpetuation of negative stereotypes in the film, the court&apos;s
+          decision signals a subjective interpretation of the content within the
+          framework of existing laws.
+        </p>
+        <p>
+          As debates around creative freedom and responsible representation in
+          the entertainment industry continue, legal cases like these underscore
+          the importance of finding a balance between artistic expression and
+          ensuring that content does not compromise the dignity and rights of
+          specific communities. The court&apos;s decision serves as a precedent
+          in addressing such concerns within the evolving landscape of media and
+          entertainment law.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "unemployment-takes-center-stage-in-elections-as-rss-promotes-self-employment",
+    timestamp: "Jan 16, 2024",
+    image:
+      "/jan-16-2024/unemployment-takes-center-stage-in-elections-as-rss-promotes-self-employment.avif",
+    title: `Unemployment Takes Center Stage in Elections as RSS Promotes 'Self-Employment'`,
+    preArticle: `In anticipation of unemployment emerging as a pivotal issue in the
+          upcoming 2024 elections, the Sangh Parivar is actively steering the
+          narrative away from mere job seeking. Over the past two years, a
+          concerted effort has been made to emphasize self-employment and guide
+          young individuals in that direction.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In anticipation of unemployment emerging as a pivotal issue in the
+          upcoming 2024 elections, the Sangh Parivar is actively steering the
+          narrative away from mere job seeking. Over the past two years, a
+          concerted effort has been made to emphasize self-employment and guide
+          young individuals in that direction.
+        </p>
+        <p>
+          In sync with the government&apos;s Aatmanirbhar Bharat Abhiyan, the
+          Rashtriya Swayamsevak Sangh (RSS) launched its Swavalambi Bharat
+          Abhiyan on January 12, 2022. This initiative, led by the economic wing
+          of the RSS, the Swadeshi Jagran Manch (SJM), aims to inspire youth to
+          become entrepreneurs.
+        </p>
+        <p>
+          During the last two years, the SJM and affiliated organizations within
+          the RSS have organized 4,413 programs across 511 districts, involving
+          over 82,000 youths, collaborating with 400 industrial units, and
+          honoring 3,938 entrepreneurs. Additionally, 448 Zilla Rozgar Kendras
+          (district employment centers) have been established to assist young
+          entrepreneurs in securing funds, arranging necessary training,
+          providing legal guidance, and facilitating government clearances.
+        </p>
+        <p>
+          Ashwani Mahajan, the national co-convenor of SJM, underscores the need
+          to shift the mindset from job-seeking, attributing the inclination
+          towards government jobs to policies initiated by Jawaharlal Nehru.
+          Mahajan contends that with millions entering the job market annually,
+          neither the government nor multinational corporations can provide
+          employment opportunities for everyone. The solution, according to him,
+          lies in fostering entrepreneurship and revitalizing India&apos;s
+          historical legacy as a land of entrepreneurs.
+        </p>
+        <p>
+          As part of their strategy, the SJM has conducted Entrepreneur
+          Development Programs in 2,701 high schools and intermediate colleges,
+          1,555 institutions and colleges, and 155 universities. The focus is on
+          nurturing the risk-taking ability of young individuals by sharing
+          success stories of fellow entrepreneurs and facilitating fund-raising
+          through various channels such as private equity funds, government bank
+          loans, and Mudra loans. The SJM aims to create an ecosystem that
+          sustains entrepreneurial growth with collaboration from diverse
+          sections, including politicians and corporates.
+        </p>
+        <p>
+          Numerous organizations affiliated with the Sangh Parivar, such as the
+          Bharatiya Kisan Sangh, Bharatiya Mazdoor Sangh, Laghu Udyog Bharti,
+          and others, are actively involved in this endeavor. External
+          contributors include Zoho Corporation, Gayatri Parivar, Kaneri Math,
+          and several more, showcasing a wide-ranging collaboration.
+        </p>
+        <p>
+          Mahajan highlights the establishment of numerous entrepreneurial
+          ventures, including tailoring centers, beauty parlors, computer
+          centers, Krishi Vikas Kendras, and Farmer Producer Organizations
+          (FPOs) across the country over the past two years. To complement these
+          efforts, the SJM has published multiple books on the theme of
+          self-employment and even released a song titled &quot;Hum sabko aage
+          badhna hai&quot; (We all have to advance), sung by playback artist
+          Kailash Kher. The multifaceted approach aims to foster a culture of
+          entrepreneurship and address the challenges posed by unemployment.
+        </p>
+      </div>
+    ),
+  },
   // jan-15-2024
   {
     id: "two-men-accused-of-rape-in-haveri-karnataka-charged-in-another-assault-case",
@@ -207,277 +444,6 @@ export const breaking = [
           support during elections. It will also determine whether the party
           prizes broader social harmony over consolidating a hardline
           majoritarian voter base.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "delhi-schools-set-to-reopen-today-with-classes-commencing-at-9am-amidst-cold-wave",
-    timestamp: "Jan 15, 2024",
-    image:
-      "/jan-15-2024/delhi-schools-set-to-reopen-today-with-classes-commencing-at-9am-amidst-cold-wave.jpg",
-    title: `Delhi Schools Set to Reopen Today with Classes Commencing at 9am Amidst Cold Wave`,
-    preArticle: `As the prolonged winter break ends, schools in Delhi are set to resume
-          in-person classes starting today, January 15, 2024. However, as a
-          preemptive measure considering the ongoing cold wave conditions and
-          foggy weather, school timings have been modified.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          As the prolonged winter break ends, schools in Delhi are set to resume
-          in-person classes starting today, January 15, 2024. However, as a
-          preemptive measure considering the ongoing cold wave conditions and
-          foggy weather, school timings have been modified.
-        </p>
-        <p>
-          According to a directive issued by the Education Department on Sunday,
-          no schools will commence sessions before 9 AM or continue beyond 5 PM
-          until further notice. This adjusted schedule applies to all students
-          in government, government-aided, and recognized private schools,
-          including those in nursery, kindergarten, and primary sections. The
-          order stated that the standard reporting time remains unchanged for
-          all teaching and non-teaching faculty.
-        </p>
-        <p>
-          &quot;With the aim of exercising caution given the current foggy
-          circumstances, no school (including those with double shifts) will
-          begin before 9 AM or have classes after 5 PM until additional
-          guidelines are provided,&quot; the order outlined.
-        </p>
-        <p>
-          Earlier, on January 7th, Delhi&apos;s Education Minister Atishi
-          announced that the winter break would be prolonged until January 12th
-          for students from nursery to 5th standard, in light of the severe cold
-          wave conditions in the national capital. &quot;Schools in Delhi will
-          stay closed for the next 5 days owing to the ongoing cold weather, for
-          students from nursery to class 5,&quot; Atishi had tweeted at the
-          time.
-        </p>
-        <p>
-          Today, Delhi recorded its lowest temperature this winter season so
-          far, with the mercury plummeting to 3.5 degrees Celsius. The cold
-          intensified further in the Lodhi Road area, where the minimum
-          temperature fell to 3.4 degrees Celsius.
-        </p>
-        <p>
-          Most parts of Delhi-NCR were enveloped in dense fog, bringing
-          visibility on roads down to zero.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "red-sea-crisis-expected-to-result-in-increased-oil-prices-for-india-according-to-world-economic-forum-chief",
-    timestamp: "Jan 15, 2024",
-    image:
-      "/jan-15-2024/red-sea-crisis-expected-to-result-in-increased-oil-prices-for-india-according-to-world-economic-forum-chief.jpg",
-    title: `Red Sea Crisis Expected to Result in Increased Oil Prices for India, According to World Economic Forum Chief`,
-    preArticle: `The ongoing tensions in the Red Sea resulting from repeated assaults
-          on commercial vessels by Yemen’s Houthi rebels are negatively
-          impacting the global supply chain. This could lead to a $10-20
-          increase in oil prices for major oil importing countries such as
-          India, according to World Economic Forum (WEF) President Borge Brende.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The ongoing tensions in the Red Sea resulting from repeated assaults
-          on commercial vessels by Yemen’s Houthi rebels are negatively
-          impacting the global supply chain. This could lead to a $10-20
-          increase in oil prices for major oil importing countries such as
-          India, according to World Economic Forum (WEF) President Borge Brende.
-        </p>
-        <p>
-          In an exclusive interview with India Today TV/Business Today and News
-          Director Rahul Kanwal, Brende stated that closing the Suez Canal would
-          be detrimental for the global supply chain. He expressed hope that the
-          Houthi attacks in the region would cease soon.
-        </p>
-        <p>
-          Brende made these remarks just as the 54th annual World Economic Forum
-          meeting is set to commence in the scenic city of Davos, Switzerland.
-        </p>
-        <p>
-          During the interview, Brende highlighted that trade growth fell to
-          0.8% last year compared to 3.4%. However, he remained optimistic that
-          global trade will “pick up a bit” this year, despite the Red Sea
-          crisis.
-        </p>
-        <p>
-          &quot;However, it doesn’t take much to also have a negative impact on
-          this if we close the Red Sea. Even closing the Suez Canal for weeks
-          will have a very negative impact on the global supply chain. So, a lot
-          is at stake. We also know that this has an impact on oil prices and
-          for major oil-importing countries like India, where a $10-20 increase
-          in oil prices will have very negative effects on the economy,&quot; he
-          explained.
-        </p>
-        <p>
-          &quot;So, I hope that this will not escalate further and that shipping
-          can resume as usual in the Red Sea in a few days,&quot; he added.
-        </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">
-            India’s Economy Projected to Grow 8% in 2023
-          </span>
-          <div className="space-y-3">
-            <p>
-              Brende was optimistic regarding the Indian economy, projecting 8%
-              growth this year. &quot;We think, in the coming decade, we can be
-              speaking about a $10 trillion economy, at least in the coming two
-              decades,&quot; he stated.
-            </p>
-            <p>
-              He praised India&apos;s growth narrative, noting that the country
-              was developing its digital economy twice as fast as the rest of
-              the economy.
-            </p>
-            <p>
-              &quot;India has been at the forefront due to the digital economy
-              and the export of services. This is a very sweet spot for India.
-              But, of course, reforms should continue in India. Reforms related
-              to education, funding and reforms to tackle unnecessary red tape
-              should continue. I feel there is an understanding of all these
-              things in New Delhi,&quot; Brende remarked.
-            </p>
-          </div>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">India&apos;s Global Prominence Rising</span>
-          <div className="space-y-3">
-            <p>
-              Acknowledging India&apos;s increasing global prominence, Brende
-              cited an example where there was a &quot;long waiting list&quot;
-              of Indian officials waiting to meet him in a room that could only
-              accommodate &quot;100 people&quot;.
-            </p>
-            <p>
-              &quot;We have a lot of Indian companies here. India is growing
-              very fast. There&apos;s a lot of interest in India. There is a
-              country strategy meeting on India where the three ministers that
-              are here will conduct, and the Reserve Bank of India (RBI)
-              Governor is here too. I was told by my team that it was
-              oversubscribed after half an hour. So, there&apos;s a long waiting
-              list,&quot; he said.
-            </p>
-            <p>
-              &quot;I think we can only fit 100 of them in the room. They are
-              still waiting and they can&apos;t get in and they are upset. So, I
-              said, maybe we will have to look for a bigger room,&quot; he
-              chuckled.
-            </p>
-          </div>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">
-            Global Economic Growth Projected at 2.9% in 2023
-          </span>
-          <div className="space-y-3">
-            <p>
-              Discussing global economic growth, Brende stated that the WEF
-              projected 2.9% growth this year but was hopeful it could surpass
-              3% soon. &quot;We should also acknowledge that many economists
-              expected a recession in the US, the largest economy constituting
-              25% of global GDP. But there is no recession. It&apos;s probably a
-              soft landing. We&apos;re seeing inflation abating a bit. Interest
-              rates will then go down,&quot; he explained.
-            </p>
-            <p>
-              &quot;For India, I think if trade grows again and India gets a
-              little more tailwind from the global economy in 2025, I think, as
-              I said earlier, India could be a $10 trillion economy in the
-              medium to long term, provided reforms continue,&quot; he added.
-            </p>
-            <p>
-              According to Brende, the upcoming elections in India, the US, the
-              UK, Russia and the European Parliament will have a “huge impact”
-              on the global economic outlook this &quot;election year&quot;.
-            </p>
-          </div>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">Need for Global Collaboration</span>
-          <div className="space-y-3">
-            <p>
-              Elaborating on the WEF 2024 theme of rebuilding trust in a
-              fractured world, Brende emphasized the need for global
-              collaboration due to a “clear trust deficit”.
-            </p>
-            <p>
-              &quot;There is also huge geopolitical competition. But even in a
-              fractured, fragmented world, we need to collaborate. Some of the
-              most pressing challenges are global – future pandemics, climate
-              change, cyber attacks. We also know, for example, from the war in
-              Gaza that we need to collaborate now, so this doesn’t escalate
-              further,&quot; he stated.
-            </p>
-          </div>
-        </div>
-      </div>
-    ),
-  },
-  {
-    id: "indigo-captain-assaulted-by-passenger-while-announcing-flight-delay",
-    timestamp: "Jan 15, 2024",
-    image:
-      "/jan-15-2024/indigo-captain-assaulted-by-passenger-while-announcing-flight-delay.webp",
-    title: `IndiGo Captain Assaulted by Passenger While Announcing Flight Delay`,
-    preArticle: `A video circulating online depicts an IndiGo passenger punching the
-          captain while he was making an announcement regarding flight delays. The widely shared footage has provoked numerous reactions from social
-          media users calling for action against the passenger. However, some
-          pointed to the frustration among travelers given IndiGo's pileup of
-          complaints over cancellations, unreasonable delays, and subpar service
-          standards.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          A video circulating online depicts an IndiGo passenger punching the
-          captain while he was making an announcement regarding flight delays.
-        </p>
-        <p>
-          The widely shared footage has provoked numerous reactions from social
-          media users calling for action against the passenger. However, some
-          pointed to the frustration among travelers given IndiGo&apos;s pileup
-          of complaints over cancellations, unreasonable delays, and subpar
-          service standards.
-        </p>
-        <p>
-          The video shows the captain making a statement about delays. Suddenly,
-          a passenger wearing a yellow hoodie rushes up and slaps the captain
-          across the face. A flight attendant standing next to the captain
-          immediately intervenes, shielding the captain and trying to defuse the
-          situation. The attacker is then pulled back by another man in a sky
-          blue hoodie as commotion spreads in the cabin.
-        </p>
-        <p>
-          &quot;Sir, you cannot do this,&quot; the flight attendant is heard
-          saying as she protects the captain.
-        </p>
-        <p>
-          Many passengers can be heard justifying the passenger&apos;s behavior,
-          blaming IndiGo for the delays.
-        </p>
-        <p>
-          The captain had announced the delays after replacing the previous crew
-          owing to Flight Duty Time Limitations (FDTL) regulations following
-          several hours of waiting. The viral video stated the flight was
-          &quot;13 hours&quot; delayed.
-        </p>
-        <p>
-          The FDTL rules mandate adequate rest periods for pilots and crew to
-          reduce fatigue, established by the Directorate General of Civil
-          Aviation (DGCA).
-        </p>
-        <p>
-          This comes amid a barrage of complaints against IndiGo on social
-          media, with numerous accounts of delays and chaos. On Saturday, actor
-          Radhika Apte shared her terrible experience after being confined on an
-          aerobridge at Mumbai airport for hours along with fellow travelers.
-          She said IndiGo staff were clueless, depriving passengers including
-          seniors and infants of food and restroom breaks.
-        </p>
-        <p>
-          Flight operations have been hampered the past few days due to harsh
-          winter fog across North and Central India.
         </p>
       </div>
     ),
