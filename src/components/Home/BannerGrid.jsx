@@ -5,7 +5,7 @@ const formatData = [
   data.breaking[0],
   data.breaking[1],
   data.breaking[2],
-  data.entertainment[0],
+  data.entertainment[1],
   data.technology[0],
 ];
 
