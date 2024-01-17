@@ -1,4 +1,3 @@
-import dynamic from "next/dynamic";
 import BreakingNewsSlider from "@/components/Home/BreakingNewsSlider";
 import BannerGrid from "@/components/Home/BannerGrid";
 import Breaking from "@/components/Home/MainGrid/LeftGrid/Breaking";
