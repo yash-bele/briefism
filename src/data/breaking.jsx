@@ -1,449 +1,438 @@
 import Image from "next/image";
 
 export const breaking = [
-  // jan-16-2024
+  // jan-17-2024
   {
-    id: "1-fatality-and-4-injured-in-north-delhi-collision-as-vehicles-collide-on-opposite-carriageways",
-    timestamp: "Jan 16, 2024",
+    id: "us-diplomat-highlights-multiplicative-nature-of-india-us-relations-contrasting-it-with-a-simple-addition",
+    timestamp: "Jan 17, 2024",
     image:
-      "/breaking/jan-16-2024/1-fatality-and-4-injured-in-north-delhi-collision-as-vehicles-collide-on-opposite-carriageways.avif",
-    title: `1 Fatality and 4 Injured in North Delhi Collision as Vehicles Collide on Opposite Carriageways`,
-    preArticle: `In North Delhi, a tragic incident occurred on the night between Monday
-          and Tuesday, resulting in the death of a 40-year-old man and injuries
-          to four others when his car collided head-on with another vehicle near
-          the Geeta Colony Flyover.`,
+      "/breaking/jan-17-2024/us-diplomat-highlights-multiplicative-nature-of-india-us-relations-contrasting-it-with-a-simple-addition.jpg",
+    title: `US Diplomat Highlights Multiplicative Nature of India-US Relations, Contrasting it with a Simple Addition`,
+    preArticle: `US Ambassador to India Eric Garcetti recently emphasized the strong
+          and growing relationship between India and the United States. Speaking
+          at the USC-India Innovation Summit, Garcetti described the bilateral
+          ties as “multiplicative” rather than simply additive. He explained
+          that when India and the US collaborate, the result is greater than the
+          sum of their individual efforts and capacities.`,
     article: (
       <div className="space-y-6">
         <p>
-          In North Delhi, a tragic incident occurred on the night between Monday
-          and Tuesday, resulting in the death of a 40-year-old man and injuries
-          to four others when his car collided head-on with another vehicle near
-          the Geeta Colony Flyover.
+          US Ambassador to India Eric Garcetti recently emphasized the strong
+          and growing relationship between India and the United States. Speaking
+          at the USC-India Innovation Summit, Garcetti described the bilateral
+          ties as “multiplicative” rather than simply additive. He explained
+          that when India and the US collaborate, the result is greater than the
+          sum of their individual efforts and capacities.
         </p>
         <p>
-          According to a Delhi Police official, preliminary findings suggest
-          that the accident occurred due to poor visibility on the road, and
-          they were notified about the incident at 1:30 am.
+          The Ambassador outlined four key pillars of the relationship between
+          the two countries – peace, prosperity, planet, and people. On peace,
+          he noted joint diplomacy efforts at forums like the G20. Regarding
+          prosperity, he highlighted cooperation in areas like healthcare. In
+          terms of planet, he mentioned aligning priorities on major global
+          issues like climate change. And on the people pillar, he noted the
+          deep cultural and educational ties exemplified by USC’s engagement
+          with India.
         </p>
         <p>
-          The collision occurred on Salim Garg Road near Jheel Cut, just before
-          the Geeta Colony Flyover in the Kotwali area, as reported by Manoj
-          Kumar Meena, DCP (North). At the scene, both vehicles, a Celerio and a
-          Swift, both displaying license plates, were found significantly
-          damaged.
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              VIDEO | One person was killed after a car collided with another
-              vehicle near Salim Garh road in Delhi yesterday. More details are
-              awaited.{" "}
-              <a href="https://t.co/ffxCNUTqbd">pic.twitter.com/ffxCNUTqbd</a>
-            </p>
-            &mdash; Press Trust of India (@PTI_News){" "}
-            <a href="https://twitter.com/PTI_News/status/1747119012268412952?ref_src=twsrc%5Etfw">
-              January 16, 2024
-            </a>
-          </blockquote>{" "}
-          <script async src="https://platform.twitter.com/widgets.js" />
-        </div>
-        <p>
-          Upon initial investigation, it was revealed that the Celerio was
-          struck by the Swift from the opposite carriageway, causing substantial
-          damage to the central road divider. The driver of the Swift,
-          identified as Gaurav Malhotra from Laxmi Nagar, lost his life in the
-          collision.
+          Garcetti shared that when President Biden asked him to take on the
+          ambassador role, he emphasized that India was the most important
+          country in the world currently. This indicates the great significance
+          the Biden administration places on strengthening ties between the two
+          nations. The Ambassador said he agreed with this assessment, which is
+          why he accepted the position.
         </p>
         <p>
-          DCP Meena further stated, &quot;Four other individuals, namely Sumi,
-          Saurav, and two unidentified persons, sustained injuries. One of them
-          is in critical condition and has been admitted to the Trauma Centre. A
-          case has been registered against unknown persons under the sections of
-          causing death due to negligence and rash driving of the IPC (Indian
-          Penal Code).&quot;
+          As the two largest democracies globally, the Ambassador said India and
+          the US can demonstrate moral leadership at a crucial juncture.
+          Democracies must stand together to uphold ideals like freedom, human
+          rights, and the rule of law. Their partnership is not based on mere
+          convenience or strategic calculations, but on shared values and a
+          lasting friendship. This is embodied in institutions like USC
+          fostering innovation and exchange between the two countries.
         </p>
         <p>
-          The tragic incident highlights the dangerous consequences of the
-          collision, with one fatality and multiple individuals grappling with
-          injuries. The authorities are actively investigating the case,
-          focusing on potential negligence and reckless driving as contributing
-          factors.
+          Garcetti remarked that 2022 was an unprecedented year in US-India
+          relations. He described it not just as a new peak in engagement, but a
+          new foundation for the relationship. As India rapidly emerges in
+          sectors from healthcare to technology to finance, the two nations now
+          have an opportunity to build on this foundation for even greater
+          cooperation.
         </p>
         <p>
-          This unfortunate event serves as a somber reminder of the importance
-          of road safety and the need for heightened awareness, especially
-          during periods of low visibility. As the investigation unfolds,
-          authorities will likely seek to determine the exact circumstances
-          leading to the collision and hold those responsible accountable for
-          the tragic outcome.
+          The Ambassador expressed confidence that the best is yet to come in
+          India-US relations. As the world confronts dictatorship in some
+          regions, the partnership between its two largest democracies serves as
+          a moral example. India and the US collaborating as equals can unlock
+          solutions to pressing global challenges.
+        </p>
+        <p>
+          People-to-people ties, underpinned byIndian-Americans as a vibrant
+          bridge, are bringing the two nations closer. Shared values, converging
+          strategic interests, and complementary capacities provide a strong
+          base. With sound diplomacy and leadership, the multiplicative India-US
+          relationship can be a force for good. Both sides must continue
+          nurturing it as a priority.
         </p>
       </div>
     ),
   },
   {
-    id: "delhi-high-court-rejects-petition-challenging-film-aankh-micholi",
-    timestamp: "Jan 16, 2024",
+    id: "political-dispute-causes-86-decline-in-indian-students-choosing-canada-states-minister",
+    timestamp: "Jan 17, 2024",
     image:
-      "/breaking/jan-16-2024/delhi-high-court-rejects-petition-challenging-film-aankh-micholi.avif",
-    title: `Delhi High Court Rejects Petition Challenging Film 'Aankh Micholi'`,
-    preArticle: `On Monday, the Delhi High Court dismissed a plea alleging that the
-          film 'Aankh Micholi' violated the Rights of Persons with Disabilities
-          (RPwD) Act by depicting individuals with disabilities in a derogatory
-          manner. Advocate Jai Anant Dehadrai, representing petitioner Nipun
-          Malhotra, presented the case before a division bench of Acting Chief
-          Justice Manmohan and Justice Manmeet Pritam Singh Arora. Malhotra, a
-          disability rights activist with a locomotor disability, contested
-          specific segments of the film, asserting they contravened the RPwD
-          Act.`,
+      "/breaking/jan-17-2024/political-dispute-causes-86-decline-in-indian-students-choosing-canada-states-minister.webp",
+    title: `Political Dispute Causes 86% Decline in Indian Students Choosing Canada, States Minister`,
+    preArticle: `The number of study permits issued by Canada to Indian students saw a
+          sharp decline in late 2022, according to recent comments by Canadian
+          Immigration Minister Marc Miller. He stated several factors
+          contributed to the decrease, including diplomatic tensions between the
+          two countries that led to reduced staff processing the permits in
+          India. Fewer Indian students also applied due to the strained
+          relations.`,
     article: (
       <div className="space-y-6">
         <p>
-          On Monday, the Delhi High Court dismissed a plea alleging that the
-          film &apos;Aankh Micholi&apos; violated the Rights of Persons with
-          Disabilities (RPwD) Act by depicting individuals with disabilities in
-          a derogatory manner. Advocate Jai Anant Dehadrai, representing
-          petitioner Nipun Malhotra, presented the case before a division bench
-          of Acting Chief Justice Manmohan and Justice Manmeet Pritam Singh
-          Arora. Malhotra, a disability rights activist with a locomotor
-          disability, contested specific segments of the film, asserting they
-          contravened the RPwD Act.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            priority
-            src="/breaking/jan-16-2024/delhi-high-court-rejects-petition-challenging-film-aankh-micholi(2).avif"
-            alt="delhi-high-court-rejects-petition-challenging-film-aankh-micholi(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The film, produced and distributed by Sony Pictures Films India
-          Private Limited, featuring Mrunal Thakur, Abhimanyu Dassai, and Paresh
-          Rawal, was released in November of the preceding year.
+          The number of study permits issued by Canada to Indian students saw a
+          sharp decline in late 2022, according to recent comments by Canadian
+          Immigration Minister Marc Miller. He stated several factors
+          contributed to the decrease, including diplomatic tensions between the
+          two countries that led to reduced staff processing the permits in
+          India. Fewer Indian students also applied due to the strained
+          relations.
         </p>
         <p>
-          Dehadrai argued that the entire film contained highly offensive
-          references, describing it as a comedy with an exceptionally
-          distasteful portrayal of individuals with permanent disabilities. He
-          emphasized that the film perpetuated negative stereotypes, deviating
-          from its intended comedic nature.
+          The tensions stemmed from Canadian Prime Minister Justin
+          Trudeau&apos;s allegation in June 2022 that there was evidence linking
+          Indian agents to the murder of Khalistani separatist Hardeep Singh
+          Nijjar in British Columbia. India rejected this claim but the damage
+          was done.
         </p>
         <p>
-          Despite these claims, the Delhi High Court declined to entertain the
-          plea. The court&apos;s decision signifies a legal stance against the
-          petitioner&apos;s argument that the film violated the rights of
-          individuals with disabilities, as outlined in the RPwD Act. The
-          court&apos;s rejection implies that, based on their evaluation, the
-          film does not appear to infringe upon the legal provisions intended to
-          protect the rights and dignity of persons with disabilities.
+          As a result, India ejected a majority of Canadian diplomats working in
+          the country, severely limiting Canada&apos;s capacity to process study
+          permit applications. Specifically, Canada was forced to pull out 41
+          diplomats, nearly two-thirds of its staff in India, after orders from
+          New Delhi.
         </p>
         <p>
-          This legal development highlights the challenges in navigating the
-          intersection of artistic expression and potential societal impact,
-          especially when it comes to sensitive subjects like disabilities.
-          While the petitioner raised concerns about offensive portrayals and
-          perpetuation of negative stereotypes in the film, the court&apos;s
-          decision signals a subjective interpretation of the content within the
-          framework of existing laws.
+          Miller stated these moves &quot;really halved our ability to process a
+          lot of applications from India.&quot; Data shows Indian student
+          permits dropped 86% in the fourth quarter of 2022 compared to the
+          previous quarter - from 108,940 to only 14,910.
         </p>
         <p>
-          As debates around creative freedom and responsible representation in
-          the entertainment industry continue, legal cases like these underscore
-          the importance of finding a balance between artistic expression and
-          ensuring that content does not compromise the dignity and rights of
-          specific communities. The court&apos;s decision serves as a precedent
-          in addressing such concerns within the evolving landscape of media and
-          entertainment law.
+          Besides reduced processing capacity, some Indian students are now
+          seeking options in other countries due to recent concerns over
+          facilities at some Canadian institutions, according to an Indian
+          official. Miller believes permit numbers are unlikely to rebound soon
+          given the ongoing diplomatic tensions.
+        </p>
+        <p>
+          Indian students have been the largest group of international students
+          in Canada in recent years, making up over 41% of all permits in 2022.
+          Their enrollment brings in around $16.4 billion for Canadian
+          universities annually. A decline will significantly impact revenues.
+        </p>
+        <p>
+          Miller mentioned the Canadian government has also been looking to
+          reduce overall international student numbers due to factors like
+          housing shortages. He stated the volume of students has simply become
+          &quot;out of control&quot; and needs major reduction over a short
+          timeframe.
+        </p>
+        <p>
+          Possible measures include a cap on numbers and changes to make
+          post-graduation work permits less generous. There are also plans to
+          crack down on substandard &quot;fly-by-night&quot; designated learning
+          institutions that have enabled student influx.
+        </p>
+        <p>
+          In 2023, Canada projected roughly 900,000 international students, with
+          Indians making up 40% or 360,000. Though Indian permits dropped 4%
+          last year, they remained the largest group. Canada clearly relies
+          heavily on Indian enrollments for its universities.
+        </p>
+        <p>
+          The ongoing diplomatic spat means this crucial source of students and
+          revenue is at risk. Unless tensions ease over the disputed murder
+          allegations, Indian appetite to study in Canada may wane. And reduced
+          processing capacity in India will also deter students due to long wait
+          times.
+        </p>
+        <p>
+          Canada is in a tough position balancing politics, foreign policy and
+          its education sector. Allegations of Indian transnational subversion
+          have clearly backfired. But both nations have a vested interest in
+          restoring relations to revive educational exchange.
+        </p>
+        <p>
+          Miller implied charges in Nijjar&apos;s case could worsen ties
+          further. But conversely, if no charges materialize, diplomacy may
+          gradually normalize. Canada will likely tread cautiously to avoid
+          entirely alienating a key country for its international education
+          strategy.
+        </p>
+        <p>
+          In the interim, diversifying student source markets could hedge risks.
+          But India will remain integral to Canada&apos;s universities.
+          Eventually, pragmatism may override politics to reset the student
+          mobility pillars of this important bilateral relationship.
         </p>
       </div>
     ),
   },
   {
-    id: "unemployment-takes-center-stage-in-elections-as-rss-promotes-self-employment",
-    timestamp: "Jan 16, 2024",
+    id: "nikki-haley-republican-leader-asserts-us-has-never-been-a-racist-nation",
+    timestamp: "Jan 17, 2024",
     image:
-      "/breaking/jan-16-2024/unemployment-takes-center-stage-in-elections-as-rss-promotes-self-employment.avif",
-    title: `Unemployment Takes Center Stage in Elections as RSS Promotes 'Self-Employment'`,
-    preArticle: `In anticipation of unemployment emerging as a pivotal issue in the
-          upcoming 2024 elections, the Sangh Parivar is actively steering the
-          narrative away from mere job seeking. Over the past two years, a
-          concerted effort has been made to emphasize self-employment and guide
-          young individuals in that direction.`,
+      "/breaking/jan-17-2024/nikki-haley-republican-leader-asserts-us-has-never-been-a-racist-nation.webp",
+    title: `Nikki Haley, Republican Leader, Asserts U.S. Has Never Been a "Racist Nation"`,
+    preArticle: `Indian-American Republican leader Nikki Haley recently rejected the
+          notion that the United States has ever been a racist country. Haley,
+          who came third in the recent Iowa caucuses, made these comments in an
+          interview with Fox News. She was responding to statements made by
+          MSNBC host Joy Reid, who expressed doubt that Haley could win the
+          Republican nomination due to the party's alleged anti-immigrant
+          stance.`,
     article: (
       <div className="space-y-6">
         <p>
-          In anticipation of unemployment emerging as a pivotal issue in the
-          upcoming 2024 elections, the Sangh Parivar is actively steering the
-          narrative away from mere job seeking. Over the past two years, a
-          concerted effort has been made to emphasize self-employment and guide
-          young individuals in that direction.
+          Indian-American Republican leader Nikki Haley recently rejected the
+          notion that the United States has ever been a racist country. Haley,
+          who came third in the recent Iowa caucuses, made these comments in an
+          interview with Fox News. She was responding to statements made by
+          MSNBC host Joy Reid, who expressed doubt that Haley could win the
+          Republican nomination due to the party&apos;s alleged anti-immigrant
+          stance.
         </p>
         <p>
-          In sync with the government&apos;s Aatmanirbhar Bharat Abhiyan, the
-          Rashtriya Swayamsevak Sangh (RSS) launched its Swavalambi Bharat
-          Abhiyan on January 12, 2022. This initiative, led by the economic wing
-          of the RSS, the Swadeshi Jagran Manch (SJM), aims to inspire youth to
-          become entrepreneurs.
+          Haley suggested Reid was depicting a distorted version of America,
+          very different from her own experiences. She highlighted her own
+          journey as the daughter of Indian immigrants who became the first
+          female minority governor of South Carolina and later UN Ambassador.
+          Haley said this embodied the American dream, not racism.
         </p>
         <p>
-          During the last two years, the SJM and affiliated organizations within
-          the RSS have organized 4,413 programs across 511 districts, involving
-          over 82,000 youths, collaborating with 400 industrial units, and
-          honoring 3,938 entrepreneurs. Additionally, 448 Zilla Rozgar Kendras
-          (district employment centers) have been established to assist young
-          entrepreneurs in securing funds, arranging necessary training,
-          providing legal guidance, and facilitating government clearances.
+          When asked directly whether the Republican Party is racist, Haley
+          firmly denied it. She stated that America overall has never been a
+          racist country. While acknowledging that racism exists and she faced
+          it growing up, Haley said the situation today is much better than in
+          the past. The goal should be constant progress to create a more just
+          society for all.
         </p>
         <p>
-          Ashwani Mahajan, the national co-convenor of SJM, underscores the need
-          to shift the mindset from job-seeking, attributing the inclination
-          towards government jobs to policies initiated by Jawaharlal Nehru.
-          Mahajan contends that with millions entering the job market annually,
-          neither the government nor multinational corporations can provide
-          employment opportunities for everyone. The solution, according to him,
-          lies in fostering entrepreneurship and revitalizing India&apos;s
-          historical legacy as a land of entrepreneurs.
+          Haley argued against dividing Americans based on race or gender. She
+          expressed passion for ensuring her own children do not feel
+          disadvantaged due to their ethnicity or gender. Haley wants them to
+          believe that through hard work, they can achieve anything in the US.
+          This requires tackling racism but not depicting America as defined by
+          it.
         </p>
         <p>
-          As part of their strategy, the SJM has conducted Entrepreneur
-          Development Programs in 2,701 high schools and intermediate colleges,
-          1,555 institutions and colleges, and 155 universities. The focus is on
-          nurturing the risk-taking ability of young individuals by sharing
-          success stories of fellow entrepreneurs and facilitating fund-raising
-          through various channels such as private equity funds, government bank
-          loans, and Mudra loans. The SJM aims to create an ecosystem that
-          sustains entrepreneurial growth with collaboration from diverse
-          sections, including politicians and corporates.
+          Despite her third place finish in Iowa behind winner Donald Trump and
+          runner-up Ron DeSantis, Haley said her campaign remains focused on the
+          upcoming New Hampshire primary. She aims to maximize her performance
+          there to gain momentum. Though she trails in polls, Haley represents a
+          rising Indian-American voice in Republican politics.
         </p>
         <p>
-          Numerous organizations affiliated with the Sangh Parivar, such as the
-          Bharatiya Kisan Sangh, Bharatiya Mazdoor Sangh, Laghu Udyog Bharti,
-          and others, are actively involved in this endeavor. External
-          contributors include Zoho Corporation, Gayatri Parivar, Kaneri Math,
-          and several more, showcasing a wide-ranging collaboration.
+          Some experts argue Haley’s experiences as a non-white daughter of
+          immigrants clashes with trends of nativism and racism within segments
+          of the Republican Party. Her denial that America is a racist country
+          aims to counter this narrative. Haley contends that the American dream
+          is color-blind, with equal opportunity for all who work hard.
         </p>
         <p>
-          Mahajan highlights the establishment of numerous entrepreneurial
-          ventures, including tailoring centers, beauty parlors, computer
-          centers, Krishi Vikas Kendras, and Farmer Producer Organizations
-          (FPOs) across the country over the past two years. To complement these
-          efforts, the SJM has published multiple books on the theme of
-          self-employment and even released a song titled &quot;Hum sabko aage
-          badhna hai&quot; (We all have to advance), sung by playback artist
-          Kailash Kher. The multifaceted approach aims to foster a culture of
-          entrepreneurship and address the challenges posed by unemployment.
-        </p>
-      </div>
-    ),
-  },
-  // jan-15-2024
-  {
-    id: "two-men-accused-of-rape-in-haveri-karnataka-charged-in-another-assault-case",
-    timestamp: "Jan 15, 2024",
-    image:
-      "/jan-15-2024/two-men-accused-of-rape-in-haveri-karnataka-charged-in-another-assault-case.avif",
-    title: `Two Men Accused of Rape in Haveri, Karnataka, Charged in Another Assault Case`,
-    preArticle: `In Karnataka's Haveri district, two men affiliated with a group
-          accused of assaulting a Muslim woman and a Hindu man on January 8 are
-          facing fresh charges in an assault case involving a 19-year-old woman
-          in the same area.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In Karnataka&apos;s Haveri district, two men affiliated with a group
-          accused of assaulting a Muslim woman and a Hindu man on January 8 are
-          facing fresh charges in an assault case involving a 19-year-old woman
-          in the same area.
+          However, others contend Republican policies on issues from immigration
+          to voting rights uphold systemic inequities. They say Haley downplays
+          ongoing discrimination and barriers facing people of color. There are
+          also questions whether a majority of Republican voters would back a
+          non-white female nominee despite Haley’s qualifications.
         </p>
         <p>
-          The 19-year-old Muslim woman experienced an assault by these men,
-          accompanied by three others, in the first week of January. The
-          incident came to light after police discovered videos of the attack.
-          In the January 8 incident at a hotel in Hanagal, the accused recorded
-          a video of their assault on the interfaith couple, circulating it on
-          social media.
+          As an Indian-American woman, Haley’s political ascent highlights
+          increasing diversity in US politics. Her competitive showing in Iowa
+          despite a late entry in the primary illustrates her rising stature
+          within Republican ranks. But it remains contentious whether Haley
+          accurately depicts contemporary America as largely post-racial.
         </p>
         <p>
-          Yallappa Hiraganavar, an officer from the Hanagal police station,
-          filed a complaint against Aftab Maqbool Ahmed, a 24-year-old mechanic,
-          and Mardansab Mohammed Isaq Mandakki, a 23-year-old merchant, along
-          with three others—Mehaboob Ali Gaffarsab Savikeri, Sahib Channapur,
-          and Tanveer Gouda, all residents of Hanagal—for attacking the
-          19-year-old woman. Ahmed and Mandakki are already in police custody
-          over the January 8 attack and the alleged gangrape of a 26-year-old
-          married Muslim woman.
-        </p>
-        <p>
-          According to a new police complaint registered on January 14 at the
-          Hanagal police station, the 19-year-old woman was allegedly abducted
-          by the gang on January 4 between 12 noon and 3 pm after she got off a
-          bus. The gang purportedly outraged the modesty of the young woman and
-          threatened her with dire consequences if she spoke out about the
-          attack.
-        </p>
-        <p>
-          In the complaint, the gang is said to have interrogated her about a
-          man she was traveling with on the bus and whether she had willingly
-          gone with him. They recorded a video of the moral policing incident
-          and shared it on social media.
-        </p>
-        <p>
-          Meanwhile, between January 10 and 14, Haveri police arrested seven men
-          in connection with the January 8 assault case. Anshu Kumar,
-          Superintendent of Police, Haveri, confirmed these arrests during a
-          press briefing on Sunday.
-        </p>
-        <p>
-          The initial FIR in the case was filed on January 10 by the Hanagal
-          police, prompted by a room boy at the Idigas Lodge. The interfaith
-          couple had refrained from filing a complaint due to fears of
-          repercussions from their spouses.
-        </p>
-        <p>
-          However, during a court appearance, the woman stated that she was also
-          raped by the gang, who took her away after storming into their hotel
-          room. The police subsequently invoked charges of gang rape against the
-          accused based on the woman’s allegations.
-        </p>
-        <p>
-          Among the seven men arrested for the January 8 incident is an
-          autorickshaw driver named Abdul Khadar Jaffarsab, 28, who reportedly
-          served as an informant to the gang about the interfaith couple.
-        </p>
-        <p>
-          The police are investigating if some of the accused are involved in
-          additional attacks on women under the guise of moral policing in the
-          region. The accused have allegedly recorded videos of their assaults
-          and shared them on social media, prompting the police to suspect that
-          they may have been engaged in such crimes in the past.
-        </p>
-        <p>
-          These moral policing incidents, typically associated with right-wing
-          groups in coastal Karnataka, have taken a political turn in Haveri.
-          BJP leaders have criticized the ruling Congress government, with
-          former chief minister and senior BJP leader Basavaraj Bommai, who
-          hails from Haveri, alleging double standards in the state
-          government&apos;s approach to tackling moral policing.
-        </p>
-        <p>
-          Bommai has demanded the creation of a Special Investigation Team to
-          look into these cases and has accused the police of attempting to
-          downplay the case by taking down a statement that did not include
-          gangrape allegations. The situation raises concerns about the
-          prevalence of moral policing, the safety of individuals in the region,
-          and the effectiveness of the current legal system in ensuring justice
-          for survivors. The involvement of political figures and potential
-          manipulation of the legal process further underscore the need for a
-          comprehensive examination of the root causes and factors contributing
-          to such crimes.
+          The coming primaries and election cycle will test Haley’s
+          characterization of the US as a land of equal opportunity. Her vision
+          contrasts with those emphasizing deep divides and discrimination still
+          impacting people of color. How Haley fares with voters of diverse
+          backgrounds will reveal which perspective resonates more powerfully.
+          But her voice as an Indian-American adds unique texture to the
+          national discourse on identity and the American ideal.
         </p>
       </div>
     ),
   },
   {
-    id: "fir-filed-against-karnataka-bjp-mp-anantkumar-hegde-for-remarks-on-mosque-demolition",
-    timestamp: "Jan 15, 2024",
+    id: "google-announces-global-advertising-team-layoffs-impacting-few-hundred-employees",
+    timestamp: "Jan 17, 2024",
     image:
-      "/jan-15-2024/fir-filed-against-karnataka-bjp-mp-anantkumar-hegde-for-remarks-on-mosque-demolition.webp",
-    title: `FIR Filed Against Karnataka BJP MP Anantkumar Hegde for Remarks on Mosque Demolition`,
-    preArticle: `Police in Karnataka's Uttara Kannada district have registered a case
-          against BJP Member of Parliament Anantkumar Hegde pertaining to
-          promoting enmity between religious groups. This is in relation to his
-          controversial remarks made in Kumta during a speech on January 13th
-          about the Ram Mandir consecration event.`,
+      "/breaking/jan-17-2024/google-announces-global-advertising-team-layoffs-impacting-few-hundred-employees.webp",
+    title: `Google Announces Global Advertising Team Layoffs Impacting "Few Hundred" Employees`,
+    preArticle: `Google recently announced that it is eliminating several hundred
+          positions from its global advertising sales team. The job cuts are
+          targeted at the company's "large customer" sales unit that handles
+          major advertisers.`,
     article: (
       <div className="space-y-6">
         <p>
-          Police in Karnataka&apos;s Uttara Kannada district have registered a
-          case against BJP Member of Parliament Anantkumar Hegde pertaining to
-          promoting enmity between religious groups. This is in relation to his
-          controversial remarks made in Kumta during a speech on January 13th
-          about the Ram Mandir consecration event.
+          Google recently announced that it is eliminating several hundred
+          positions from its global advertising sales team. The job cuts are
+          targeted at the company&apos;s &quot;large customer&quot; sales unit
+          that handles major advertisers.
         </p>
         <p>
-          The suo motu case against the MP was filed by a police sub-inspector
-          attached to the Kumta police station. The complaint alleges Hegde was
-          recorded on video making provocative statements against other
-          religious groups in a speech to BJP workers and supporters on January
-          13th.
+          According to Google, the goal is to redirect resources to better
+          support small and medium-sized businesses on its advertising
+          platforms. By downsizing teams focused on large advertisers, the
+          company aims to expand teams assisting smaller businesses with their
+          digital advertising needs.
         </p>
         <p>
-          In his address, the far-right MP called for demolishing several
-          mosques in Karnataka, similar to Babri Masjid, claiming they were
-          constructed over Hindu temples. The BJP had distanced itself from
-          Hegde&apos;s comments.
+          This shift aligns with Google&apos;s long-term growth strategy. Small
+          and medium enterprises represent a massive collective opportunity
+          compared to a relatively small number of large corporations. Enhancing
+          services for SMBs can significantly expand Google&apos;s customer base
+          over time.
         </p>
         <p>
-          &quot;Some people can take it as a threat also. We will definitely do
-          it. This is a decision of the Hindu community, not of Anantkumar
-          Hegde,&quot; he stated at the Kumta meeting on Saturday. &quot;...in
-          every village of the state there are small religious places which were
-          violated. Until they are demolished, the Hindu community will not sit
-          idle....,&quot; he added.
+          The company expects its increased investment in SMB ad sales teams
+          will drive net hiring growth overall this year. The large customer job
+          cuts are seen as a reallocation rather than overall downsizing of the
+          sales organization.
         </p>
         <p>
-          &quot;Revenge, revenge, revenge. If we do not take revenge for 1,000
-          years, then the Hindu community can clearly say that this is not Hindu
-          blood. We are not a community which will be in debt. We will clear the
-          debt at any cost,&quot; Hegde emphasized.
+          Google&apos;s announcement did not mention the role of new artificial
+          intelligence capabilities in the changes. However, AI is transforming
+          the advertising sector, enabling more automated and personalized
+          services. This likely factored into Google&apos;s calculation that it
+          can serve large customers equally well with fewer staff.
         </p>
         <p>
-          The police complaint registered under Indian Penal Code (IPC) sections
-          153, 153A and 505 quotes Hegde&apos;s statements verbatim for making
-          inflammatory remarks and fomenting enmity between groups.
+          For example, Google Cloud recently launched new AI tools to help
+          retailers with tasks like automated customer service agents and
+          product description generation. Generative AI can handle rote sales
+          processes to free up human staff for higher-value client interactions.
         </p>
         <p>
-          A five-time BJP MP, Anantkumar Hegde is a prospective BJP Lok Sabha
-          candidate from Uttara Kannada for the upcoming elections. He had been
-          inactive in public life the past couple of years owing to illness. In
-          the past few weeks, Hegde resumed meeting people to secure candidature
-          again.
+          The capability of AI technologies is advancing rapidly. Google aims to
+          take advantage by using them to make its operations more efficient.
+          This will reduce costs and allow reallocation of resources to new
+          growth areas like SMB advertising.
         </p>
         <p>
-          This is not the first time Hegde has stirred controversy with his
-          hardline remarks. In 2017, as a Union Minister, he sparked outrage by
-          terming secularists as &quot;people without parentage&quot;.
-          Previously in 2016, he had equated Islam with terrorism.
+          These motives likely shaped Google&apos;s decision to eliminate
+          positions in the large customer ad sales team. With AI able to
+          replicate lower-level sales functions, the company can focus human
+          roles on small businesses that require more customized engagement.
         </p>
         <p>
-          The latest case underscores tensions between Hindu nationalist
-          politicians and minority groups in Karnataka. It evokes memories of
-          the contentious Babri Masjid demolition in 1992 by Hindu nationalist
-          mobs who claimed the 16th century mosque was built over a temple.
+          The changes come a year after Google laid off around 12,000 staff in
+          early 2022, representing about 6% of its global workforce. That move
+          aligned with cost reduction efforts in the face of high inflation and
+          rising interest rates.
         </p>
         <p>
-          By calling for similar demolitions, Hegde&apos;s rhetoric threatens to
-          inflame communal tensions in the state along religious lines. It also
-          contradicts the BJP&apos;s official stance of distancing itself from
-          his comments.
+          The latest job cuts are smaller in scale and more targeted. They
+          exemplify how maturing AI capabilities are transforming businesses
+          processes and workforce needs across sectors.
         </p>
         <p>
-          However, Hegde retains significant support among hardcore Hindu
-          nationalists and right-wing voters. Despite past controversies, he was
-          appointed a central minister and may be renominated for the Lok Sabha
-          polls. This highlights the sway of extremist politicians within the
-          party.
+          This has dual implications. Firstly, automating repetitive tasks
+          improves productivity and consumer experiences. But secondly,
+          displacement of roles requires transition support for affected
+          workers.
         </p>
         <p>
-          But such figures also damage the BJP&apos;s image among moderate
-          voters and minorities. With Karnataka being a communally sensitive
-          state, Hegde&apos;s fiery rhetoric has the potential to stir social
-          disharmony during election season.
+          As an AI leader, Google aims to harness promising new technologies.
+          But it must also ensure its workforce strategies align with its brand
+          values around responsible innovation. The path forward entails
+          leveraging AI’s benefits while minimising its risks.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "accusations-of-sexual-assault-against-donald-trump-case-overview",
+    timestamp: "Jan 17, 2024",
+    image:
+      "/breaking/jan-17-2024/accusations-of-sexual-assault-against-donald-trump-case-overview.jpeg",
+    title: `Accusations of Sexual Assault Against Donald Trump: Case Overview`,
+    preArticle: `Shortly after winning the Republican presidential primary in Iowa,
+          Donald Trump appeared in a New York courtroom on Tuesday for a
+          defamation trial brought by writer E. Jean Carroll. The trial centers
+          around Carroll's claim that Trump sexually assaulted her in a
+          department store dressing room in the 1990s, which he denied.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Shortly after winning the Republican presidential primary in Iowa,
+          Donald Trump appeared in a New York courtroom on Tuesday for a
+          defamation trial brought by writer E. Jean Carroll. The trial centers
+          around Carroll&apos;s claim that Trump sexually assaulted her in a
+          department store dressing room in the 1990s, which he denied.
         </p>
         <p>
-          The police case indicates authorities are taking his remarks seriously
-          given their provocative nature. But it remains to be seen whether
-          Hegde will face any meaningful censure from within his party or
-          criminal charges for his latest outburst.
+          In her opening statement, Carroll&apos;s lawyer told the jury that
+          when Carroll publicly shared her account in 2019, then-President Trump
+          used his powerful platform to attack her character and reputation. The
+          lawyer argued Trump attempted to humiliate Carroll and destroy her
+          credibility in response to her allegations.
         </p>
         <p>
-          His fate will be an important test of how far the BJP is willing to go
-          to contain fringe extremist voices while still harnessing their
-          support during elections. It will also determine whether the party
-          prizes broader social harmony over consolidating a hardline
-          majoritarian voter base.
+          Carroll is seeking over $10 million in damages. The jury will decide
+          how much Trump should pay, not whether the alleged assault occurred or
+          if he lied about it. Trump previously lost a separate defamation case
+          to Carroll and is appealing the $5 million damages awarded.
+        </p>
+        <p>
+          In both cases, Trump has denied knowing Carroll and claimed she
+          fabricated the encounter to promote her memoir. However, the judge has
+          barred him from arguing he did not defame or assault Carroll.
+        </p>
+        <p>
+          Trump left the courtroom before Carroll&apos;s lawyer gave opening
+          remarks. His attendance demonstrates the legal jeopardy he still faces
+          despite leaving office. The trial commences after Trump secured his
+          first primary victory in the 2024 Republican nomination race in Iowa.
+        </p>
+        <p>
+          The defamation proceedings will likely revive discussion of the
+          decades-old assault allegations against Trump at a sensitive time in
+          his political comeback bid. Trump&apos;s credibility among voters and
+          ongoing legal issues could emerge as liabilities during the campaign.
+        </p>
+        <p>
+          Meanwhile, Carroll sees the trial as a chance for justice and
+          accountability. Though the alleged assault occurred years ago, she
+          aims to use the civil lawsuit to send a message about confronting
+          abuse of power.
+        </p>
+        <p>
+          The case highlights how private figures like Carroll can face
+          difficulties getting legal recourse over harassment claims against
+          influential public figures. Defamation suits allow alternative avenues
+          to dispute denials and mitigate damages to reputation.
+        </p>
+        <p>
+          However, critics argue such cases set risky precedents infringing on
+          free speech rights. There are also concerns over using courts as
+          forums to litigate alleged sexual misconduct lacking sufficient
+          evidence. The Carroll lawsuit encapsulates the complex dynamics around
+          high-profile #MeToo cases.
+        </p>
+        <p>
+          Ultimately, the jury will have to weigh both sides’ arguments in
+          deciding damages. But the verdict’s wider symbolic impact could
+          transcend financial awards. For Carroll, it’s become about restoring
+          her credibility and challenging impunity. For Trump, it threatens to
+          further tarnish his image during his election rerun.
         </p>
       </div>
     ),
