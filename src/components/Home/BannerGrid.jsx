@@ -23,7 +23,6 @@ const BannerGrid = () => {
           }`}
         >
           <Image
-            priority
             src={i.image}
             alt={i.id}
             fill

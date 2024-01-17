@@ -37,7 +37,6 @@ const LeftSide = () => {
               className="relative h-40 w-full sm:w-96 bg-slate-200 rounded-xl overflow-hidden"
             >
               <Image
-                priority
                 src={i.image}
                 alt={i.id}
                 fill

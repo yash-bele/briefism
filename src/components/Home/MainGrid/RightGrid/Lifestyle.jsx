@@ -14,7 +14,7 @@ const Lifestyle = () => {
           <span>lifestyle</span>
         </Link>
       </h2>
-      {[...lifestyle, ...lifestyleHistory].slice(0, 3).map((i, j) => (
+      {[...lifestyle, ...lifestyleHistory].slice(0, 5).map((i, j) => (
         <article
           key={i.id}
           style={{ paddingTop: j === 0 && 0 }}
@@ -27,7 +27,6 @@ const Lifestyle = () => {
             className="relative h-full w-40 hidden sm:block bg-slate-200 rounded-xl overflow-hidden"
           >
             <Image
-              priority
               src={i.image}
               alt={i.id}
               fill

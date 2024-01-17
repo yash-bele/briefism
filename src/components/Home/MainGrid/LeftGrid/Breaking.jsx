@@ -14,8 +14,8 @@ const Breaking = () => {
         </Link>
       </h2>
       <div className="flex flex-col-reverse lg:grid grid-cols-2 gap-2.5 lg:gap-5">
-        <section className="flex flex-col sm:grid grid-rows-3 gap-2.5">
-          {breaking.slice(1, 4).map((i, j) => (
+        <section className="flex flex-col sm:grid grid-rows-5 gap-2.5">
+          {breaking.slice(2, 7).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -28,7 +28,6 @@ const Breaking = () => {
                 className="relative h-full w-40 hidden sm:block bg-slate-200 rounded-xl overflow-hidden"
               >
                 <Image
-                  priority
                   src={i.image}
                   alt={i.id}
                   fill
@@ -51,8 +50,8 @@ const Breaking = () => {
             </article>
           ))}
         </section>
-        <section className="grid grid-rows-3 gap-2.5 h-[calc(384px/2)] lg:h-auto">
-          {breaking.slice(0, 1).map((i, j) => (
+        <section className="grid grid-rows-5 gap-2.5 h-96 lg:h-auto">
+          {breaking.slice(0, 2).map((i, j) => (
             <Link
               key={i.id}
               href={`/breaking/${i.id}`}
@@ -61,7 +60,6 @@ const Breaking = () => {
               }`}
             >
               <Image
-                priority
                 src={i.image}
                 alt={i.id}
                 fill

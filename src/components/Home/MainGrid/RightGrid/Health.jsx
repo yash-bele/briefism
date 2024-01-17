@@ -27,7 +27,6 @@ const Health = () => {
             className="relative h-full w-40 hidden sm:block bg-slate-200 rounded-xl overflow-hidden"
           >
             <Image
-              priority
               src={i.image}
               alt={i.id}
               fill
