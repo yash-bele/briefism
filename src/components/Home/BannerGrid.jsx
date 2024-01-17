@@ -18,11 +18,12 @@ const BannerGrid = () => {
           href={`/${j === 3 ? "breaking" : j === 4 ? "breaking" : "breaking"}/${
             i.id
           }`}
-          className={`relative group rounded-lg overflow-hidden bg-black/50 ${
+          className={`relative group rounded-lg overflow-hidden bg-slate-200 ${
             j === 0 && "sm:col-span-2 sm:row-span-2"
           }`}
         >
           <Image
+            priority
             src={i.image}
             alt={i.id}
             fill
