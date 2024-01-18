@@ -3,6 +3,158 @@ import Image from "next/image";
 export const breakingHistory = [
   // jan-17-2024
   {
+    id: "mahua-moitra-receives-eviction-notice-for-vacating-government-bungalow",
+    timestamp: "Jan 17, 2024",
+    image:
+      "/breaking/jan-17-2024/mahua-moitra-receives-eviction-notice-for-vacating-government-bungalow.webp",
+    title: `Mahua Moitra Receives Eviction Notice for Vacating Government Bungalow`,
+    preArticle: `The Centre has initiated the process to evict former Trinamool
+          Congress MP Mahua Moitra from her government accommodation in Delhi.
+          On Tuesday, the Directorate of Estates issued an eviction notice
+          asking Moitra to immediately vacate the bungalow allotted to her as an
+          MP.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The Centre has initiated the process to evict former Trinamool
+          Congress MP Mahua Moitra from her government accommodation in Delhi.
+          On Tuesday, the Directorate of Estates issued an eviction notice
+          asking Moitra to immediately vacate the bungalow allotted to her as an
+          MP.
+        </p>
+        <p>
+          Moitra was expelled from the Lok Sabha last month over allegations of
+          unethical conduct. Post her expulsion, the housing allotment was
+          cancelled and she was earlier asked to vacate by January 7. However,
+          she had not done so.
+        </p>
+        <p>
+          The Directorate then sent notices on January 8 and 12 seeking
+          explanation on why she had not vacated despite cancellation. As there
+          was still no compliance, the final eviction notice was issued.
+          Officials will now be deputed to ensure the bungalow is vacated
+          promptly.
+        </p>
+        <p>
+          Previously on January 4, the Delhi High Court had allowed Moitra to
+          approach the Directorate requesting an extension to continue occupying
+          the accommodation. The rules permit overstay of up to six months in
+          exceptional circumstances on payment of charges.
+        </p>
+        <p>
+          But the court did not comment on the merits of the case and left the
+          decision to the Directorate&apos;s discretion. It only observed that
+          due process of issuing notice before eviction must be followed.
+        </p>
+        <p>
+          Moitra was expelled after being found guilty of &quot;unethical
+          conduct&quot; by the ethics committee of Lok Sabha. The allegations
+          were regarding accepting expensive gifts from a businessman and
+          sharing her Parliament website credentials with him.
+        </p>
+        <p>
+          The case highlights the strict code of conduct expected from
+          lawmakers. Any breaches or ethical violations can warrant serious
+          disciplinary action as was seen in Moitra&apos;s expulsion.
+        </p>
+        <p>
+          For the former MP, loss of housing is an additional penalty alongside
+          expulsion. Housing is an important perk and its withdrawal adds to the
+          magnitude of her punishment.
+        </p>
+        <p>
+          However, some argue penalizing elected representatives for misconduct
+          must not extend to impacting duties towards constituents. As
+          Moitra&apos;s term was cut short, continuity of her office and housing
+          till next elections may have been fair.
+        </p>
+        <p>
+          But the rules are clear that housing facilities are contingent on
+          remaining an active MP. Moitra&apos;s prompt eviction sends a strong
+          message that privileges come with commensurate accountability.
+        </p>
+        <p>
+          The larger debate continues on strengthening parliamentary ethics and
+          maintaining citizens&apos; trust. Moitra&apos;s case will serve as a
+          reference on standards of probity expected from lawmakers across party
+          lines.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "iim-calcutta-removes-acting-director-following-sexual-harassment-complaint",
+    timestamp: "Jan 17, 2024",
+    image:
+      "/breaking/jan-17-2024/iim-calcutta-removes-acting-director-following-sexual-harassment-complaint.avif",
+    title: `IIM Calcutta Removes Acting Director Following Sexual Harassment Complaint`,
+    preArticle: `The Indian Institute of Management Calcutta (IIM-C) has removed its
+          Director-in-Charge, Professor Sahadeb Sarkar, over a sexual harassment
+          complaint against him.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The Indian Institute of Management Calcutta (IIM-C) has removed its
+          Director-in-Charge, Professor Sahadeb Sarkar, over a sexual harassment
+          complaint against him.
+        </p>
+        <p>
+          In a statement on Tuesday evening, IIM-C said Sarkar was removed based
+          on the recommendation of the institute&apos;s Internal Complaints
+          Committee (ICC). The ICC received a written sexual harassment
+          complaint against Sarkar under the relevant law.
+        </p>
+        <p>
+          After initial review, the ICC concluded that the allegations prima
+          facie warrant a formal inquiry. It communicated this to IIM-C&apos;s
+          Board of Governors (BoG).
+        </p>
+        <p>
+          To ensure impartiality during the impending inquiry, the BoG decided
+          to remove Sarkar from the Director-in-Charge post and any other
+          positions of administrative responsibility at IIM-C. This will apply
+          for the duration of the ICC inquiry and resulting proceedings.
+        </p>
+        <p>
+          The senior-most faculty member, Professor Saibal Chattopadhyay, has
+          been appointed as the new officiating Director-in-Charge with
+          immediate effect.
+        </p>
+        <p>
+          The development makes Sarkar the third IIM director in three years to
+          not complete their tenure, preceding Uttam Kumar Sarkar and Anju Seth.
+        </p>
+        <p>
+          This indicates the increased spotlight on abuse of power and gender
+          sensitization in academic institutions, where sexual misconduct often
+          gets brushed under the carpet.
+        </p>
+        <p>
+          IIM-C&apos;s swift action shows zero tolerance for such allegations,
+          especially against senior leadership. Removing the accused pending
+          investigation is vital for unbiased, fair proceedings.
+        </p>
+        <p>
+          However, the rights of the accused person must also be upheld. IIM-C
+          should ensure due process is followed before any conclusions are
+          reached.
+        </p>
+        <p>
+          Overall, the case highlights the ongoing need to strengthen safeguards
+          against sexual harassment and sensitize campus cultures. Educational
+          institutions have a duty to lead by example in promoting gender
+          justice.
+        </p>
+        <p>
+          Strict policy enforcement signaled by Sarkar&apos;s removal combined
+          with proactive sensitization can help India&apos;s premier institutes
+          set positive precedents. The IIMs must drive change by their ethics as
+          much as their academic excellence.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "us-diplomat-highlights-multiplicative-nature-of-india-us-relations-contrasting-it-with-a-simple-addition",
     timestamp: "Jan 17, 2024",
     image:

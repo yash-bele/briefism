@@ -3,6 +3,114 @@ import Image from "next/image";
 export const breaking = [
   // jan-18-2024
   {
+    id: "road-rage-gunshot-to-hip-after-car-brushes-against-bike",
+    timestamp: "Jan 18, 2024",
+    image:
+      "/breaking/jan-18-2024/road-rage-gunshot-to-hip-after-car-brushes-against-bike.jpg",
+    title: `Road Rage: Gunshot to Hip After Car Brushes Against Bike`,
+    preArticle: `A shocking case of road rage occurred in Delhi's Janakpuri area on
+          Wednesday morning, where a 22-year-old man was shot and injured by two
+          men after his car accidentally brushed against their motorcycle.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          A shocking case of road rage occurred in Delhi&apos;s Janakpuri area
+          on Wednesday morning, where a 22-year-old man was shot and injured by
+          two men after his car accidentally brushed against their motorcycle.
+        </p>
+        <p>
+          According to police reports, the victim, Jatin Jain, was with a female
+          friend when the incident took place. While parking his car near a
+          district center, it slightly collided with a motorcycle belonging to
+          the two accused men. An intense argument broke out between Jain and
+          the men.
+        </p>
+        <p>
+          Later, when Jain and his friend crossed the road on her scooter, the
+          accused allegedly followed them and demanded they stop. Another heated
+          exchange occurred, after which one of the men pulled out a pistol and
+          fired at Jain, with the bullet striking his left hip. Jain&apos;s
+          friend fortunately escaped unharmed.
+        </p>
+        <p>
+          One of the accused, identified as Vishal Rai, was arrested at the
+          scene by a nearby police patrol that rushed over after hearing the
+          gunshot. However, Rai&apos;s associate managed to flee initially and
+          was absconding.
+        </p>
+        <p>
+          According to the Deputy Commissioner of Police (West) Vichitra Veer,
+          locals also hurried to help the injured Jain as his friend screamed
+          for assistance, providing cover from the hostile men. Police recovered
+          the pistol used in the attack from the site.
+        </p>
+        <p>
+          Officials revealed Rai has a criminal background with over eight prior
+          cases related to arms and ammunition, theft, and robbery charges. The
+          injured Jain was transported to a hospital for treatment, while police
+          registered a case of attempted murder.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "bilkis-bano-case-supreme-court-accepts-convicts-pleas-for-extended-surrender-time",
+    timestamp: "Jan 18, 2024",
+    image:
+      "/breaking/jan-18-2024/bilkis-bano-case-supreme-court-accepts-convicts-pleas-for-extended-surrender-time.webp",
+    title: `Bilkis Bano Case: Supreme Court Accepts Convicts' Pleas for Extended Surrender Time`,
+    preArticle: `The Supreme Court on Thursday agreed to hear applications filed by
+          convicts sentenced to life imprisonment for the 2002 gangrape of
+          Bilkis Bano and murder of her family during the Gujarat riots. The
+          convicts are seeking an extension of time to surrender to authorities.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The Supreme Court on Thursday agreed to hear applications filed by
+          convicts sentenced to life imprisonment for the 2002 gangrape of
+          Bilkis Bano and murder of her family during the Gujarat riots. The
+          convicts are seeking an extension of time to surrender to authorities.
+        </p>
+        <p>
+          A bench headed by Justice BV Nagarathna, before whom the pleas were
+          mentioned, directed the registry to get orders from the Chief Justice
+          of India DY Chandrachud for reconstituting the original bench that
+          heard the case.
+        </p>
+        <p>
+          The original case was decided by Justices Nagarathna and Ujjal Bhuyan.
+          However, Justice Nagarathna was sitting with Justice Sanjay Karol on
+          Thursday.
+        </p>
+        <p>
+          On January 8, the Supreme Court had quashed the remission granted to
+          the 11 convicts by the Gujarat government. The court had ordered them
+          to surrender to jail authorities within two weeks.
+        </p>
+        <p>
+          With the January 21 deadline approaching, three convicts have now
+          moved the Supreme Court seeking more time to surrender, citing
+          personal reasons.
+        </p>
+        <p>
+          On Thursday, their counsel urged the court to list the matter on
+          Friday, January 19 given the looming deadline. The counsel added that
+          though only three pleas have been filed currently, more may be
+          submitted during the day.
+        </p>
+        <p>
+          The court agreed to their request in view of the deadline. Justice
+          Nagarathna&apos;s bench directed the registry to get orders from the
+          CJI to reconstitute the original bench that heard the case.
+        </p>
+        <p>
+          The court said the listing is required urgently since the surrender
+          deadline expires on January 21, 2024.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "woman-swindles-rs-7-lakh-from-5-star-hotel-using-fake-upi-receipts-apprehended-during-escape-attempt",
     timestamp: "Jan 18, 2024",
     image:
@@ -418,158 +526,6 @@ export const breaking = [
           deconstruct prejudices and promote inclusivity are essential. The
           state and civil society groups must collaborate on this grassroots
           work for sustainable communal harmony.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "mahua-moitra-receives-eviction-notice-for-vacating-government-bungalow",
-    timestamp: "Jan 17, 2024",
-    image:
-      "/breaking/jan-17-2024/mahua-moitra-receives-eviction-notice-for-vacating-government-bungalow.webp",
-    title: `Mahua Moitra Receives Eviction Notice for Vacating Government Bungalow`,
-    preArticle: `The Centre has initiated the process to evict former Trinamool
-          Congress MP Mahua Moitra from her government accommodation in Delhi.
-          On Tuesday, the Directorate of Estates issued an eviction notice
-          asking Moitra to immediately vacate the bungalow allotted to her as an
-          MP.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The Centre has initiated the process to evict former Trinamool
-          Congress MP Mahua Moitra from her government accommodation in Delhi.
-          On Tuesday, the Directorate of Estates issued an eviction notice
-          asking Moitra to immediately vacate the bungalow allotted to her as an
-          MP.
-        </p>
-        <p>
-          Moitra was expelled from the Lok Sabha last month over allegations of
-          unethical conduct. Post her expulsion, the housing allotment was
-          cancelled and she was earlier asked to vacate by January 7. However,
-          she had not done so.
-        </p>
-        <p>
-          The Directorate then sent notices on January 8 and 12 seeking
-          explanation on why she had not vacated despite cancellation. As there
-          was still no compliance, the final eviction notice was issued.
-          Officials will now be deputed to ensure the bungalow is vacated
-          promptly.
-        </p>
-        <p>
-          Previously on January 4, the Delhi High Court had allowed Moitra to
-          approach the Directorate requesting an extension to continue occupying
-          the accommodation. The rules permit overstay of up to six months in
-          exceptional circumstances on payment of charges.
-        </p>
-        <p>
-          But the court did not comment on the merits of the case and left the
-          decision to the Directorate&apos;s discretion. It only observed that
-          due process of issuing notice before eviction must be followed.
-        </p>
-        <p>
-          Moitra was expelled after being found guilty of &quot;unethical
-          conduct&quot; by the ethics committee of Lok Sabha. The allegations
-          were regarding accepting expensive gifts from a businessman and
-          sharing her Parliament website credentials with him.
-        </p>
-        <p>
-          The case highlights the strict code of conduct expected from
-          lawmakers. Any breaches or ethical violations can warrant serious
-          disciplinary action as was seen in Moitra&apos;s expulsion.
-        </p>
-        <p>
-          For the former MP, loss of housing is an additional penalty alongside
-          expulsion. Housing is an important perk and its withdrawal adds to the
-          magnitude of her punishment.
-        </p>
-        <p>
-          However, some argue penalizing elected representatives for misconduct
-          must not extend to impacting duties towards constituents. As
-          Moitra&apos;s term was cut short, continuity of her office and housing
-          till next elections may have been fair.
-        </p>
-        <p>
-          But the rules are clear that housing facilities are contingent on
-          remaining an active MP. Moitra&apos;s prompt eviction sends a strong
-          message that privileges come with commensurate accountability.
-        </p>
-        <p>
-          The larger debate continues on strengthening parliamentary ethics and
-          maintaining citizens&apos; trust. Moitra&apos;s case will serve as a
-          reference on standards of probity expected from lawmakers across party
-          lines.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "iim-calcutta-removes-acting-director-following-sexual-harassment-complaint",
-    timestamp: "Jan 17, 2024",
-    image:
-      "/breaking/jan-17-2024/iim-calcutta-removes-acting-director-following-sexual-harassment-complaint.avif",
-    title: `IIM Calcutta Removes Acting Director Following Sexual Harassment Complaint`,
-    preArticle: `The Indian Institute of Management Calcutta (IIM-C) has removed its
-          Director-in-Charge, Professor Sahadeb Sarkar, over a sexual harassment
-          complaint against him.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The Indian Institute of Management Calcutta (IIM-C) has removed its
-          Director-in-Charge, Professor Sahadeb Sarkar, over a sexual harassment
-          complaint against him.
-        </p>
-        <p>
-          In a statement on Tuesday evening, IIM-C said Sarkar was removed based
-          on the recommendation of the institute&apos;s Internal Complaints
-          Committee (ICC). The ICC received a written sexual harassment
-          complaint against Sarkar under the relevant law.
-        </p>
-        <p>
-          After initial review, the ICC concluded that the allegations prima
-          facie warrant a formal inquiry. It communicated this to IIM-C&apos;s
-          Board of Governors (BoG).
-        </p>
-        <p>
-          To ensure impartiality during the impending inquiry, the BoG decided
-          to remove Sarkar from the Director-in-Charge post and any other
-          positions of administrative responsibility at IIM-C. This will apply
-          for the duration of the ICC inquiry and resulting proceedings.
-        </p>
-        <p>
-          The senior-most faculty member, Professor Saibal Chattopadhyay, has
-          been appointed as the new officiating Director-in-Charge with
-          immediate effect.
-        </p>
-        <p>
-          The development makes Sarkar the third IIM director in three years to
-          not complete their tenure, preceding Uttam Kumar Sarkar and Anju Seth.
-        </p>
-        <p>
-          This indicates the increased spotlight on abuse of power and gender
-          sensitization in academic institutions, where sexual misconduct often
-          gets brushed under the carpet.
-        </p>
-        <p>
-          IIM-C&apos;s swift action shows zero tolerance for such allegations,
-          especially against senior leadership. Removing the accused pending
-          investigation is vital for unbiased, fair proceedings.
-        </p>
-        <p>
-          However, the rights of the accused person must also be upheld. IIM-C
-          should ensure due process is followed before any conclusions are
-          reached.
-        </p>
-        <p>
-          Overall, the case highlights the ongoing need to strengthen safeguards
-          against sexual harassment and sensitize campus cultures. Educational
-          institutions have a duty to lead by example in promoting gender
-          justice.
-        </p>
-        <p>
-          Strict policy enforcement signaled by Sarkar&apos;s removal combined
-          with proactive sensitization can help India&apos;s premier institutes
-          set positive precedents. The IIMs must drive change by their ethics as
-          much as their academic excellence.
         </p>
       </div>
     ),

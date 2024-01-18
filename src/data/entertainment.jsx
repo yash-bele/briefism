@@ -3,6 +3,68 @@ import Image from "next/image";
 export const entertainment = [
   // jan-18-2024
   {
+    id: "bhumi-pednekar-takes-on-role-of-investigative-journalist-in-netflixs-bhakshak",
+    timestamp: "Jan 18, 2024",
+    image:
+      "/entertainment/jan-18-2024/bhumi-pednekar-takes-on-role-of-investigative-journalist-in-netflixs-bhakshak.webp",
+    title: `Bhumi Pednekar Takes on Role of Investigative Journalist in Netflix's Bhakshak; Film to Debut on Specified Date`,
+    preArticle: `Talented actor Bhumi Pednekar is set to deliver another powerful
+          performance in the upcoming Netflix investigative drama Bhakshak.
+          Produced by Shah Rukh Khan and Gauri Khan's renowned production house
+          Red Chillies Entertainment, the highly anticipated film is slated for
+          release on Netflix on February 9th.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Talented actor Bhumi Pednekar is set to deliver another powerful
+          performance in the upcoming Netflix investigative drama Bhakshak.
+          Produced by Shah Rukh Khan and Gauri Khan&apos;s renowned production
+          house Red Chillies Entertainment, the highly anticipated film is
+          slated for release on Netflix on February 9th.
+        </p>
+        <p>
+          Bhumi unveiled the intense teaser on social media, describing it as
+          the story of a committed journalist who perseveres to uncover the
+          truth no matter what. Bhakshak is inspired by real life events that
+          took place in the past.
+        </p>
+        <p>
+          The teaser provides a glimpse of Bhumi portraying the role of Vaishali
+          Singh, a determined investigative journalist seeking to expose a
+          horrific crime and shed light on the dismal reality of violence
+          against women in society. Commenting on the film&apos;s hard-hitting
+          theme, the director expressed that the aim is to highlight difficult
+          realities and generate meaningful conversations that can lead to
+          positive change.
+        </p>
+        <p>
+          Gaurav Verma, producer at Red Chillies Entertainment, conveyed that
+          they believe in storytelling that not only engages audiences but also
+          enlightens them. He described Bhakshak as a testimony to their
+          commitment to thought-provoking narratives that encourage social
+          reflections. They are excited to partner with Netflix to share this
+          impactful story with global audiences.
+        </p>
+        <p>
+          Ruchikaa Kapoor Sheikh from Netflix India added that Bhakshak is an
+          intense story following a resolute journalist&apos;s unfaltering
+          pursuit of justice against all obstacles.
+        </p>
+        <p>
+          Helmed by director Pulkit, Bhakshak also features impressive
+          performances by Sanjay Mishra, Aditya Srivastava and Sai Tamhankar
+          essaying pivotal roles. But Bhumi takes centerstage in her portrayal
+          of the fierce journalist at the heart of this hard-hitting story.
+        </p>
+        <p>
+          Set to premiere exclusively on Netflix on February 9th, the promising
+          investigative drama marks another career defining performance by Bhumi
+          Pednekar in the central role.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "prabhas-the-raja-saab-imdb-plot-sparks-conversation-with-director-maruthi",
     timestamp: "Jan 18, 2024",
     image:
