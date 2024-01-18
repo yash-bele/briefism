@@ -1,154 +1,208 @@
 export const technology = [
-  // jan-16-2024
+  // jan-18-2024
   {
-    id: "jio-introduces-annual-recharge-plan-with-republic-day-promotion",
-    timestamp: "Jan 16, 2024",
+    id: "samsung-galaxy-s24-series-launching-today-live-stream-expected-price-and-more",
+    timestamp: "Jan 18, 2024",
     image:
-      "/technology/jan-16-2024/jio-introduces-annual-recharge-plan-with-republic-day-promotion.webp",
-    title: `Jio Introduces Annual Recharge Plan with Republic Day Promotion`,
-    preArticle: `On Tuesday, Jio revealed a time-limited annual prepaid recharge plan
-          accompanied by a Republic Day offer. Priced at Rs 2,999, this prepaid
-          plan encompasses 2.5 GB of 4G data and unlimited 5G data for a
-          duration of 365 days, coupled with unrestricted calling. Beyond these
-          core features, subscribers will also enjoy supplementary perks such as
-          Swiggy and Ajio coupons, flight discounts through Ixigo, and a 10%
-          reduction on specific products at Reliance Digital.`,
+      "/technology/jan-18-2024/samsung-galaxy-s24-series-launching-today-live-stream-expected-price-and-more.avif",
+    title: `Samsung Galaxy S24 Series Launching Today: Live Stream, Expected Price, and More`,
+    preArticle: `The highly anticipated Samsung Galaxy Unpacked event is taking place
+          today in San Jose, where the tech giant is expected to unveil its most
+          advanced lineup of smartphones yet - the Galaxy S24 series. This new
+          generation of Galaxy S devices promises major upgrades and
+          improvements over their predecessors, making them Samsung's most
+          powerful smartphones to date.`,
     article: (
       <div className="space-y-6">
         <p>
-          On Tuesday, Jio revealed a time-limited annual prepaid recharge plan
-          accompanied by a Republic Day offer. Priced at Rs 2,999, this prepaid
-          plan encompasses 2.5 GB of 4G data and unlimited 5G data for a
-          duration of 365 days, coupled with unrestricted calling. Beyond these
-          core features, subscribers will also enjoy supplementary perks such as
-          Swiggy and Ajio coupons, flight discounts through Ixigo, and a 10%
-          reduction on specific products at Reliance Digital.
+          The highly anticipated Samsung Galaxy Unpacked event is taking place
+          today in San Jose, where the tech giant is expected to unveil its most
+          advanced lineup of smartphones yet - the Galaxy S24 series. This new
+          generation of Galaxy S devices promises major upgrades and
+          improvements over their predecessors, making them Samsung&apos;s most
+          powerful smartphones to date.
         </p>
         <p>
-          This recharge plan, averaging a monthly cost of Rs 230, will be
-          accessible through the My Jio app from January 15 to January 30. Users
-          availing of this plan during this period are entitled to a range of
-          benefits. While not an entirely new plan, Jio sweetens the deal with
-          additional advantages as part of the Republic Day offer, extending
-          beyond the typical offerings.
+          The event is being held at the SAP Center in San Jose, California and
+          starts at 1 PM EST for US audiences, while Indian viewers can tune in
+          from 11:30 PM IST onwards. Samsung is live streaming the launch on
+          their official YouTube channel and social media platforms like
+          Facebook, ensuring global accessibility.
         </p>
         <p>
-          Complementary benefits encompass 100 SMS per day and a basic
-          subscription to JioCinema.
+          Those interested in following the event through Samsung&apos;s
+          official website have the chance to win a INR 5,000 voucher to spend
+          on Samsung products. Additionally, by pre-paying INR 1,999, you can
+          reserve a spot to be one of the first to purchase the new Galaxy S24
+          smartphones.
         </p>
         <p>
-          Under the Republic Day offer, Jio introduces a 10% discount for the
-          purchase of select items at Reliance Digital. For eligibility, the
-          minimum purchase value should exceed Rs 5,000, and the maximum
-          discount is capped at Rs 10,000. This translates to a flat Rs 10,000
-          discount on a gadget valued at Rs 1,00,000 or more.
+          Rumors suggest that the Galaxy S24+ may be priced between INR 1,04,999
+          and INR 1,05,999 for the base 12GB RAM and 256GB storage model. This
+          indicates a significant price jump of over INR 10,000 compared to last
+          year&apos;s Galaxy S23+ which was priced at INR 94,999.
         </p>
         <p>
-          Further incentives include two Swiggy coupons, each valued at Rs 125,
-          applicable to orders exceeding Rs 299. Additionally, Jio presents an
-          Ixigo coupon, facilitating reductions of Rs 1,500 for three
-          passengers, Rs 1,000 for two passengers, and Rs 500 for a single
-          ticket on flight bookings.
+          The top-of-the-line Galaxy S24 Ultra is speculated to cost between INR
+          1,34,999 and INR 1,35,999 for the same configuration. Again, this is
+          approximately INR 10,000 more than the S23 Ultra&apos;s starting price
+          of INR 1,24,999. Samsung appears to be considering a price hike for
+          its flagship S series, although leaked information implies the company
+          may retain existing prices. We will have to wait for official
+          confirmation during the launch event.
         </p>
         <p>
-          As part of Jio&apos;s Republic Day promotion, users can benefit from a
-          flat Rs 500 discount coupon for Ajio, redeemable on purchases
-          exceeding Rs 2,499. Lastly, the plan encompasses a 30% discount on
-          select Tira products valued over Rs 999, with the discount capped at
-          Rs 1,000.
+          There is no available information yet regarding the pricing of the
+          standard Galaxy S24. For reference, the S23 was launched at INR 74,999
+          last year. Samsung may continue the same starting price for the base
+          S24 model, limiting the price increases to the S24+ and S24 Ultra
+          only. This mirrors Apple&apos;s strategy with its recent iPhone 15
+          lineup.
         </p>
         <p>
-          Jio also extends its annual recharge offerings with plans priced at Rs
-          3,662, Rs 3,226, Rs 3,225, Rs 3,227, and Rs 3,178, each bundled with
-          various OTT subscription plans. The most expensive plan at Rs 4,498
-          provides access to 14 OTT subscriptions, including Prime Video Mobile,
-          Hotstar Mobile, Netflix, and more.
+          In India, pre-reservations for the Galaxy S24 series have already
+          commenced on Samsung&apos;s official website. With powerful upgrades,
+          new AI capabilities, and potentially higher prices, Samsung aims to
+          position the S24 series as its most premium smartphone range ever.
+        </p>
+        <div className="space-y-1.5">
+          <span className="text-xl">Key highlights expected include:</span>
+          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
+            <li>
+              Enhanced camera systems with new 200MP sensor on Ultra model
+            </li>
+            <li>Latest Snapdragon 8 Gen 2 processor for maximum performance</li>
+            <li>Brighter, more dynamic displays with higher refresh rates</li>
+            <li>Larger batteries for extended battery life</li>
+            <li>New privacy and security features</li>
+            <li>Refined design with potential new colors</li>
+            <li>S Pen support on Ultra model</li>
+            <li>OneUI 5.1 based on Android 13</li>
+          </ul>
+        </div>
+        <p>
+          With online reservations already open, stay tuned to Samsung
+          India&apos;s social channels and the Galaxy Unpacked livestream to
+          catch all the official Galaxy S24 details as they are announced. This
+          highly anticipated launch promises significant upgrades that once
+          again set the bar for premium smartphones this year.
         </p>
       </div>
     ),
   },
   {
-    id: "deciding-between-microsoft-copilot-pro-and-chatgpt-plus-comparing-ai-chatbots",
-    timestamp: "Jan 16, 2024",
+    id: "google-introduces-circle-for-search-a-novel-approach-to-searching-anywhere-anytime",
+    timestamp: "Jan 18, 2024",
     image:
-      "/technology/jan-16-2024/deciding-between-microsoft-copilot-pro-and-chatgpt-plus-comparing-ai-chatbots.jpg",
-    title: `Deciding Between Microsoft Copilot Pro and ChatGPT Plus: Comparing AI Chatbots`,
-    preArticle: `Microsoft has expanded the availability of Copilot Pro beyond
-          enterprises, making it accessible for individuals. This move,
-          announced on Tuesday, positions Copilot Pro as a competitor to ChatGPT
-          Plus, the premium version of ChatGPT, offering enhanced response times
-          and access to cutting-edge models like GPT-4 and GPT-4 Turbo.`,
+      "/technology/jan-18-2024/google-introduces-circle-for-search-a-novel-approach-to-searching-anywhere-anytime.webp",
+    title: `Google Introduces Circle for Search: A Novel Approach to Searching Anywhere, Anytime`,
+    preArticle: `Google has long been pioneering search technology, leveraging speed,
+          diverse information, and relevance to transform how people explore the
+          internet. Recently, Google introduced two new search features powered
+          by Artificial Intelligence that provide more accessible and meaningful
+          ways for users to engage with search. These additions demonstrate
+          Google's commitment to investing in AI that helps people express needs
+          naturally and obtain relevant insights instantly.`,
     article: (
       <div className="space-y-6">
         <p>
-          Microsoft has expanded the availability of Copilot Pro beyond
-          enterprises, making it accessible for individuals. This move,
-          announced on Tuesday, positions Copilot Pro as a competitor to ChatGPT
-          Plus, the premium version of ChatGPT, offering enhanced response times
-          and access to cutting-edge models like GPT-4 and GPT-4 Turbo.
+          Google has long been pioneering search technology, leveraging speed,
+          diverse information, and relevance to transform how people explore the
+          internet. Recently, Google introduced two new search features powered
+          by Artificial Intelligence that provide more accessible and meaningful
+          ways for users to engage with search. These additions demonstrate
+          Google&apos;s commitment to investing in AI that helps people express
+          needs naturally and obtain relevant insights instantly.
         </p>
-        <p>
-          Priced at Rs 2,000 per month, Copilot Pro is in close competition with
-          ChatGPT Plus, available at Rs 1,950 per month. With a minimal price
-          difference, these premium AI-driven chatbots target power users
-          seeking top-notch AI capabilities. Let&apos;s delve into an analysis
-          of these two offerings and how they stack up against each other.
-        </p>
-        <p>
-          Microsoft collaborates closely with OpenAI, and Copilot is powered by
-          the GPT (Generative Pretrained Transformer) model, which is the same
-          underlying technology that drives ChatGPT. Consequently, the results
-          and responses from both chatbots are comparable. Both Copilot Pro and
-          ChatGPT Plus provide access to the latest GPT-4 and GPT-4 Turbo
-          models.
-        </p>
-        <p>
-          While both subscriptions offer similar features, ChatGPT Plus has a
-          unique advantage—the GPT Store. This store contains over three million
-          customized versions of ChatGPT tailored for specific use cases.
-          Microsoft has indicated that Copilot Pro users will eventually have
-          the capability to create their own GPT, although this feature will be
-          added later.
-        </p>
-        <p>
-          On the flip side, Copilot Pro presents an advantage over ChatGPT Plus,
-          especially for Microsoft 365 subscribers. Copilot Pro enhances
-          applications like Word, Excel, Outlook, PowerPoint, and OneNote with
-          generative AI capabilities. This integration enables users to quickly
-          create summaries on Word, generate presentations on PowerPoint, and
-          draft AI-assisted emails in Outlook.
-        </p>
-        <p>
-          Both ChatGPT Plus and Copilot Pro allow users to generate images using
-          DALL-E, with a limit of up to 100 images per day. Additionally, both
-          models provide priority access to GPT-4 and GPT-4 Turbo during peak
-          times. Once subscribed, these services are accessible across various
-          platforms, including PC, Mac, web, Android, and iOS devices.
-        </p>
-        <p>
-          Considering the feature set, it becomes apparent that ChatGPT Plus is
-          well-suited for regular users and developers. In contrast, Copilot Pro
-          is designed for business users, particularly those who interact with
-          Office suites extensively in their daily workflows. The choice between
-          these two premium AI chatbots ultimately depends on individual needs
-          and usage scenarios.
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              Today we’re launching Copilot Pro, a new subscription for
-              individuals looking to supercharge their productivity and
-              creativity. Key features include priority access to the latest
-              models, enhanced AI image creation and the ability to build your
-              own Copilot GPT, among others.…{" "}
-              <a href="https://t.co/eMlzlAYrdn">pic.twitter.com/eMlzlAYrdn</a>
+        <div className="space-y-1.5">
+          <span className="text-xl">
+            Circle to Search: Convenient Cross-App Queries
+          </span>
+          <div className="space-y-3">
+            <p>
+              This Android feature enables searching anything on-screen without
+              switching apps. Users can simply long press the home or navigation
+              button then highlight an object with tap, circle, scribble, etc.
+              to view contextual information within the app itself.
             </p>
-            &mdash; Yusuf Mehdi (@yusuf_i_mehdi){" "}
-            <a href="https://twitter.com/yusuf_i_mehdi/status/1746996073825206567?ref_src=twsrc%5Etfw">
-              January 15, 2024
-            </a>
-          </blockquote>{" "}
-          <script async src="https://platform.twitter.com/widgets.js" />
+            <p>
+              For example, if an influencer shows untagged fashion items, circle
+              them to instantly find and shop similar styles from various
+              retailers. Once done, swipe back to the original app.
+            </p>
+            <p>
+              As per Google, AI upgrades like multisearch (text and image
+              queries) already help users grasp concepts and topics by
+              aggregating helpful web information. Circle to Search brings that
+              convenience directly into any app. It launches first on select
+              premium Android devices like the Pixel 8, Pixel 8 Pro, and Galaxy
+              S24 series.
+            </p>
+            <p>
+              &quot;Circle to Search significantly advances expressing needs
+              conveniently without changing contexts. Combined with multisearch,
+              it enables more intuitive, natural search,&quot; said Alistair
+              Pott, Google&apos;s Director of Android Search Product Management.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">AI-Powered Search Overviews</span>
+          <div className="space-y-3">
+            <p>
+              Users can now point their camera at anything, snap a picture, or
+              upload a screenshot to ask a visual question. This utilizes
+              generative AI to instantly provide overview insights.
+            </p>
+            <p>
+              Initially available in the US without needing Search Labs
+              enrollment, this feature previews in other regions by accessing
+              overviews via Circle to Search.
+            </p>
+            <p>
+              Google states this allows more nuanced visual queries to swiftly
+              obtain key information. As gen AI applications prove helpful,
+              Google will incorporate them into mainstream Search, starting with
+              multisearch results.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">Prioritizing Privacy and Security</span>
+          <div className="space-y-3">
+            <p>
+              These user-centric search innovations also employ Google&apos;s
+              data safety approach for trustworthy experiences. User data
+              remains on device until explicitly sent to Google post-selection.
+            </p>
+            <p>
+              Moreover, the last 15 minutes of search history can be easily
+              deleted for privacy and control.
+            </p>
+            <p>
+              &quot;When you activate Circle to Search, everything occurs on
+              device - we&apos;re scanning what you&apos;re viewing but it
+              remains there. Only after explicit selection is anything sent to
+              Google for search. We also enabled quickly removing the last 15
+              minutes of search history,&quot; Pott explained.
+            </p>
+          </div>
+        </div>
+        <div className="space-y-1.5">
+          <span className="text-xl">The Future of Intuitive Search</span>
+          <div className="space-y-3">
+            <p>
+              Google considers these latest natural, intuitive search
+              capabilities just the beginning. To try them out, enroll in
+              general Google Search or the Search experiment.
+            </p>
+            <p>
+              Google is leveraging AI to transform search into a more intuitive,
+              insightful, and responsible experience. While still in initial
+              stages, these innovations aim to enable people to efficiently
+              access relevant information on their own terms.
+            </p>
+          </div>
         </div>
       </div>
     ),
