@@ -14,7 +14,7 @@ const Health = () => {
           <span>health</span>
         </Link>
       </h2>
-      {[...health, ...healthHistory].slice(0, 3).map((i, j) => (
+      {[...health, ...healthHistory].slice(0, 5).map((i, j) => (
         <article
           key={i.id}
           style={{ paddingTop: j === 0 && 0 }}
