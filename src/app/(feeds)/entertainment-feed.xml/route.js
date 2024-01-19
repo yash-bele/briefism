@@ -25,6 +25,10 @@ export async function GET() {
       description: i.preArticle,
       url: `${baseUrl}/entertainment/${i.id}`,
       date: i.timestamp,
+      enclosure: {
+        url: `https://www.briefism.com/_next/image?url=${i.image}&w=1920&q=75`,
+        type: "image/jpeg",
+      },
       // author: "Yash Bele",
     });
   });
