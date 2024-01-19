@@ -2,11 +2,11 @@ import Link from "next/link";
 import Image from "next/image";
 import { data } from "@/data";
 const formatData = [
-  data.breaking[1],
   data.breaking[0],
-  data.technology[0],
-  data.technology[1],
+  data.breaking[1],
+  data.breaking[2],
   data.entertainment[0],
+  data.health[0],
 ];
 
 const BannerGrid = () => {
@@ -16,13 +16,7 @@ const BannerGrid = () => {
         <Link
           key={i.id}
           href={`/${
-            j === 2
-              ? "technology"
-              : j === 3
-              ? "technology"
-              : j === 4
-              ? "entertainment"
-              : "breaking"
+            j === 3 ? "entertainment" : j === 4 ? "health" : "breaking"
           }/${i.id}`}
           className={`relative group rounded-lg overflow-hidden bg-slate-200 ${
             j === 0 && "sm:col-span-2 sm:row-span-2"

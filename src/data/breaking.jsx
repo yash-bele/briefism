@@ -1,6 +1,151 @@
 import Image from "next/image";
 
 export const breaking = [
+  // jan-19-2024
+  // start
+  {
+    id: "ksdl-suspected-in-rs-600-crore-fake-mysore-sandal-soap-scam",
+    timestamp: "Jan 19, 2024",
+    image:
+      "/breaking/jan-19-2024/ksdl-suspected-in-rs-600-crore-fake-mysore-sandal-soap-scam.webp",
+    title: `KSDL Suspected in Rs 600 Crore Fake Mysore Sandal Soap Scam`,
+    preArticle: `Last week, the Hyderabad police made a major bust by arresting Rakesh
+          Jain and Mahaveer Jain for illegally manufacturing and selling
+          counterfeit Mysore Sandal soaps. This fraudulent operation had been
+          running for nearly a decade across Andhra Pradesh, Telangana, and the
+          Hyderabad-Karnataka region, causing estimated losses of Rs 500-600
+          crore to the Karnataka Soaps and Detergents Limited (KSDL) - the
+          legitimate producer of Mysore Sandal soap.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Last week, the Hyderabad police made a major bust by arresting Rakesh
+          Jain and Mahaveer Jain for illegally manufacturing and selling
+          counterfeit Mysore Sandal soaps. This fraudulent operation had been
+          running for nearly a decade across Andhra Pradesh, Telangana, and the
+          Hyderabad-Karnataka region, causing estimated losses of Rs 500-600
+          crore to the Karnataka Soaps and Detergents Limited (KSDL) - the
+          legitimate producer of Mysore Sandal soap.
+        </p>
+        <p>
+          The tip-off came from an anonymous message received by Karnataka
+          Industries Minister M B Patil, who also chairs the KSDL. Acting on
+          this lead, KSDL staff in Secunderabad purchased over Rs 5 lakh worth
+          of fake soaps for testing, proving they were counterfeit. However,
+          details on the manufacturers remained scant.
+        </p>
+        <p>
+          A cunning plan was hatched - a large Rs 25 lakh order was placed for
+          the fake soaps as a pretense for visiting the secret manufacturing
+          facility. This enabled the perpetrators to finally be identified and
+          arrested. Investigations suggest the counterfeit operation
+          specifically targeted religious events and tourist destinations where
+          buyers may be less discerning about product authenticity. With
+          estimated annual turnover of Rs 60 crore, it was a highly lucrative
+          business built on deceit.
+        </p>
+        <p>
+          The scam worked by offering retailers substantially higher commissions
+          than the genuine product, creating strong financial incentives to
+          peddle the fake soaps. A 75g bar of real Mysore Sandal soap earns
+          retailers minimal margin, but the counterfeits were sold at less than
+          half price, generating huge profits. Similarly, boxes of 3 x 450g
+          genuine soaps provide Rs 10 margin, but the fakes offered Rs 50 - a
+          five-fold increase.
+        </p>
+        <p>
+          Lab tests by KSDL revealed the counterfeit soaps contained dangerous
+          heavy metals that could cause cancer. Genuine boxes have holograms, so
+          lack of this security feature is a clear visual indicator of fakes.
+          The criminals had exploited relaxed scrutiny of brands at religious
+          fairs and festivals to pass off the hazardous products.
+        </p>
+        <p>
+          A political angle also emerged, with allegations that the Jain
+          brothers had links to local BJP leaders Manikant Rathod and Vittal
+          Nayak. Photographs showing the accused with UP CM Yogi Adityanath and
+          Telangana BJP MLA Raja Singh were revealed by Minister Priyank Kharge
+          at a press conference. However, the BJP leaders strongly denied any
+          connection to the crimes.
+        </p>
+        <p>
+          Interestingly, a KSDL corruption scandal surfaced last year when
+          former BJP MLA and KSDL chairman Madal Virupakshappa&apos;s son
+          Prashanth was caught collecting bribes for supply contracts. A raid on
+          his premises uncovered a massive Rs 8.20 crore of unaccounted cash.
+        </p>
+        <p>
+          The recent arrests prove more work is required to tackle the
+          counterfeit trade which allows unscrupulous businesses to profit
+          through deception and potentially harm public health. Tougher
+          penalties and consumer education may help, but eliminating corrupt
+          political connections will be key to effectively shutting down these
+          dangerous fake networks for good.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "pastor-arrested-for-sexually-assaulting-underage-boy",
+    timestamp: "Jan 19, 2024",
+    image:
+      "/breaking/jan-19-2024/pastor-arrested-for-sexually-assaulting-underage-boy.jpg",
+    title: `Pastor Arrested for Sexually Assaulting Underage Boy`,
+    preArticle: `Police in Kerala arrested a 59-year-old Pentecostal pastor on Friday
+          for the alleged sexual assault of a 13-year-old boy. The incident
+          occurred this past Wednesday in a district in the southern region of
+          the state.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Police in Kerala arrested a 59-year-old Pentecostal pastor on Friday
+          for the alleged sexual assault of a 13-year-old boy. The incident
+          occurred this past Wednesday in a district in the southern region of
+          the state.
+        </p>
+        <p>
+          According to authorities, the pastor allegedly lured the vulnerable
+          minor into a trap and sexually abused him. The young boy had been
+          abandoned by his mother and was waiting for his grandmother, who had
+          gone to the hospital, when the pastor approached him.
+        </p>
+        <p>
+          Identified as Raveendranath, the pastor invited the boy to his home
+          after gaining his trust. At the residence, the pastor allegedly served
+          the child cake before showing him pornographic images on a tablet
+          device. Raveendranath then sexually assaulted the boy, as per the
+          police complaint.
+        </p>
+        <p>
+          The accused has been booked under the Protection of Children from
+          Sexual Offences (POCSO) Act based on the child&apos;s testimony. This
+          law aims to deter and punish sexual crimes against minors.
+        </p>
+        <p>
+          After being arrested, Raveendranath was produced before a magistrate
+          who ordered he be placed in judicial custody pending trial. As the
+          allegations involve abuse of a child who had been abandoned, the
+          police will be investigating whether the pastor identified and
+          targeted the vulnerable boy in a predatory manner.
+        </p>
+        <p>
+          Faith leaders wielding influence over followers and having
+          unsupervised access to minors must uphold the highest moral and
+          ethical standards. This duty becomes even more onerous when engaging
+          with children who lack parental care or support networks. Violating
+          this trust can leave deep emotional and psychological scars, as
+          evidenced by numerous cases of clergy abuse worldwide.
+        </p>
+        <p>
+          Authorities have stated that the mental health and safety of the
+          survivor are the primary concerns during trial, and counselling will
+          be provided if required. The community must also reflect on how to
+          prevent such exploitation of society&apos;s most vulnerable members.
+        </p>
+      </div>
+    ),
+  },
+  // end
   // jan-18-2024
   {
     id: "road-rage-gunshot-to-hip-after-car-brushes-against-bike",
@@ -452,80 +597,6 @@ export const breaking = [
           male dignity. Rather, accepting a woman&apos;s decision with grace
           demonstrates strength of character. Society must reinforce such
           progressive attitudes at homes, schools and through public campaigns.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "supreme-court-orders-district-officials-in-yavatmal-and-raipur-to-prevent-hate-speeches-at-rallies",
-    timestamp: "Jan 17, 2024",
-    image:
-      "/breaking/jan-17-2024/supreme-court-orders-district-officials-in-yavatmal-and-raipur-to-prevent-hate-speeches-at-rallies.webp",
-    title: `Supreme Court Orders District Officials in Yavatmal and Raipur to Prevent Hate Speeches at Rallies`,
-    preArticle: `The Supreme Court on Wednesday issued directives to authorities in
-          Maharashtra's Yavatmal district and Chhattisgarh's Raipur district
-          regarding upcoming rallies by a Hindu group and BJP legislator. The
-          court ordered measures to prevent potential hate speeches during the
-          events over the next week.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The Supreme Court on Wednesday issued directives to authorities in
-          Maharashtra&apos;s Yavatmal district and Chhattisgarh&apos;s Raipur
-          district regarding upcoming rallies by a Hindu group and BJP
-          legislator. The court ordered measures to prevent potential hate
-          speeches during the events over the next week.
-        </p>
-        <p>
-          A bench comprising Justices Sanjiv Khanna and Dipankar Datta passed
-          the directives on a plea by Shaheen Abdulla alleging recurring hate
-          speeches across India.
-        </p>
-        <p>
-          The plea claimed a rally by the Hindu Janajagruti Samiti in Yavatmal
-          on January 18 could involve hate speech. It also cited apprehensions
-          of hate speech in Raipur during rallies by BJP MLA T. Raja Singh from
-          January 19-25.
-        </p>
-        <p>
-          The bench declined to prohibit the rallies as plea respondents were
-          absent. However, it directed district magistrates and police chiefs of
-          both districts to install CCTV cameras at rally venues to identify
-          perpetrators if hate speeches occur.
-        </p>
-        <p>
-          The CCTV footage can provide evidence for action against violators.
-          The court reiterated its existing guidelines against hate speech and
-          said authorities must ensure compliance.
-        </p>
-        <p>
-          Hate speech has become a growing concern with the potential to incite
-          communal unrest and violence. The court aims to deter its use and
-          enable accountability through surveillance of sensitive events.
-        </p>
-        <p>
-          However, critics argue banning speech, even offensive speech, is
-          legally and ethically questionable in a democracy with freedom of
-          expression. Moreover, hate speech prohibitions are sometimes misused
-          to suppress dissent.
-        </p>
-        <p>
-          But the court has sought a balanced approach—allowing events subject
-          to preventive monitoring. This upholds free speech while adding a
-          layer of caution. Authorities can now adapt security to potential
-          risks indicated by the court.
-        </p>
-        <p>
-          Much depends on strict implementation without overreach. Tolerance of
-          different ideas is vital, distinguishing hate speech from legitimate
-          criticism. Ultimately, no law or order solution can replace gradual
-          social change towards diversity acceptance.
-        </p>
-        <p>
-          Alongside deterring hate speech, active public education campaigns to
-          deconstruct prejudices and promote inclusivity are essential. The
-          state and civil society groups must collaborate on this grassroots
-          work for sustainable communal harmony.
         </p>
       </div>
     ),

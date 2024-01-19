@@ -1,7 +1,80 @@
 import Image from "next/image";
 
 export const breakingHistory = [
-  // jan-17-2024
+  {
+    id: "supreme-court-orders-district-officials-in-yavatmal-and-raipur-to-prevent-hate-speeches-at-rallies",
+    timestamp: "Jan 17, 2024",
+    image:
+      "/breaking/jan-17-2024/supreme-court-orders-district-officials-in-yavatmal-and-raipur-to-prevent-hate-speeches-at-rallies.webp",
+    title: `Supreme Court Orders District Officials in Yavatmal and Raipur to Prevent Hate Speeches at Rallies`,
+    preArticle: `The Supreme Court on Wednesday issued directives to authorities in
+          Maharashtra's Yavatmal district and Chhattisgarh's Raipur district
+          regarding upcoming rallies by a Hindu group and BJP legislator. The
+          court ordered measures to prevent potential hate speeches during the
+          events over the next week.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The Supreme Court on Wednesday issued directives to authorities in
+          Maharashtra&apos;s Yavatmal district and Chhattisgarh&apos;s Raipur
+          district regarding upcoming rallies by a Hindu group and BJP
+          legislator. The court ordered measures to prevent potential hate
+          speeches during the events over the next week.
+        </p>
+        <p>
+          A bench comprising Justices Sanjiv Khanna and Dipankar Datta passed
+          the directives on a plea by Shaheen Abdulla alleging recurring hate
+          speeches across India.
+        </p>
+        <p>
+          The plea claimed a rally by the Hindu Janajagruti Samiti in Yavatmal
+          on January 18 could involve hate speech. It also cited apprehensions
+          of hate speech in Raipur during rallies by BJP MLA T. Raja Singh from
+          January 19-25.
+        </p>
+        <p>
+          The bench declined to prohibit the rallies as plea respondents were
+          absent. However, it directed district magistrates and police chiefs of
+          both districts to install CCTV cameras at rally venues to identify
+          perpetrators if hate speeches occur.
+        </p>
+        <p>
+          The CCTV footage can provide evidence for action against violators.
+          The court reiterated its existing guidelines against hate speech and
+          said authorities must ensure compliance.
+        </p>
+        <p>
+          Hate speech has become a growing concern with the potential to incite
+          communal unrest and violence. The court aims to deter its use and
+          enable accountability through surveillance of sensitive events.
+        </p>
+        <p>
+          However, critics argue banning speech, even offensive speech, is
+          legally and ethically questionable in a democracy with freedom of
+          expression. Moreover, hate speech prohibitions are sometimes misused
+          to suppress dissent.
+        </p>
+        <p>
+          But the court has sought a balanced approach—allowing events subject
+          to preventive monitoring. This upholds free speech while adding a
+          layer of caution. Authorities can now adapt security to potential
+          risks indicated by the court.
+        </p>
+        <p>
+          Much depends on strict implementation without overreach. Tolerance of
+          different ideas is vital, distinguishing hate speech from legitimate
+          criticism. Ultimately, no law or order solution can replace gradual
+          social change towards diversity acceptance.
+        </p>
+        <p>
+          Alongside deterring hate speech, active public education campaigns to
+          deconstruct prejudices and promote inclusivity are essential. The
+          state and civil society groups must collaborate on this grassroots
+          work for sustainable communal harmony.
+        </p>
+      </div>
+    ),
+  },
   {
     id: "mahua-moitra-receives-eviction-notice-for-vacating-government-bungalow",
     timestamp: "Jan 17, 2024",
