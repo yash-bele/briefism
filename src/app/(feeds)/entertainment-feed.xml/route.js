@@ -28,6 +28,7 @@ export async function GET() {
       enclosure: {
         url: `https://www.briefism.com/_next/image?url=${i.image}&w=1920&q=75`,
         type: "image/jpeg",
+        size: 1668,
       },
       // author: "Yash Bele",
     });
