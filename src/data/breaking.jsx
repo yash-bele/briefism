@@ -4,6 +4,162 @@ export const breaking = [
   // jan-19-2024
   // start
   {
+    id: "temporary-flight-suspension-at-delhi-airport-from-on-republic-day",
+    timestamp: "Jan 19, 2024",
+    image:
+      "/breaking/jan-19-2024/temporary-flight-suspension-at-delhi-airport-from-on-republic-day.jpg",
+    title: `Temporary Flight Suspension at Delhi Airport from 10:20 am to 12:45 pm on Republic Day`,
+    preArticle: `The government has announced that no flights will be allowed to land
+          at or take off from Delhi's Indira Gandhi International Airport
+          between 10:20am and 12:45pm daily until Republic Day on January 26th.
+          This was stated in a NOTAM (Notice to Airmen) issued on Friday
+          morning.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The government has announced that no flights will be allowed to land
+          at or take off from Delhi&apos;s Indira Gandhi International Airport
+          between 10:20am and 12:45pm daily until Republic Day on January 26th.
+          This was stated in a NOTAM (Notice to Airmen) issued on Friday
+          morning.
+        </p>
+        <p>
+          Earlier reports said airspace restrictions would be in effect until
+          Republic Day and again on January 29th for the Beating Retreat
+          ceremony. Delhi airport will also be completely shut from 6am to 9pm
+          on R-Day itself as per the NOTAM. However, the restrictions will not
+          impact helicopter operations of the Air Force, Army, BSF or aircraft
+          ferrying state Governors/Chief Ministers.
+        </p>
+        <p>
+          The partial shutdown of one of the world&apos;s busiest airports is an
+          annual measure taken amid heightened security prior to R-Day
+          celebrations. Coming after weeks of fog-related flight delays,
+          diversions and cancellations, the 145-minute daily closure could
+          further disrupt airlines&apos; schedules.
+        </p>
+        <p>
+          Chaotic scenes were witnessed recently due to extreme fog, including
+          the shocking assault of an IndiGo pilot by a frustrated passenger
+          after a 13-hour delay on a Delhi-Goa flight.
+        </p>
+        <p>
+          Aviation Minister Jyotiraditya Scindia announced a 6-point plan this
+          week to mitigate fog disruptions, including new SOPs for airlines and
+          setting up &apos;war rooms&apos;.
+        </p>
+        <p>
+          India will celebrate its 75th R-Day on January 26th with French
+          President Emmanuel Macron as Chief Guest. This will be the 6th time a
+          French leader has been accorded the honour.
+        </p>
+        <p>
+          As part of security measures, Delhi Police has banned paragliders,
+          hang gliders, microlights, drones, balloons and other flying objects
+          till February 15th. Para jumping or parachuting is also prohibited.
+        </p>
+        <p>
+          The East District division held a mock anti-terror drill at Akshardham
+          Temple to evaluate readiness to handle diverse crises.
+        </p>
+        <p>
+          The R-Day restrictions aim to secure airspace in the capital during
+          the high-profile event and are as per protocol. However, authorities
+          must balance security with minimal impact on the public and air
+          travellers. The recent fog chaos has highlighted the urgent need to
+          upgrade aviation infrastructure and technology to make operations
+          all-weather resistant.
+        </p>
+        <p>
+          R-Day celebrates India&apos;s democratic spirit amidst tightened
+          security and restrictions. But citizens must retain liberty, mobility
+          and convenience to the extent possible rather than be subjected to
+          overzealous curtailments each year. Collaborative measures between
+          security forces, airports and airlines can enhance safeguards while
+          ensuring smooth operations and services.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "photo-of-ram-lalla-idol-unveiled-before-consecration-ceremony",
+    timestamp: "Jan 19, 2024",
+    image:
+      "/breaking/jan-19-2024/photo-of-ram-lalla-idol-unveiled-before-consecration-ceremony.jpeg",
+    title: `Photo of Ram Lalla Idol Unveiled Before Consecration Ceremony`,
+    preArticle: `The idol of Lord Ram was installed in Ayodhya's Ram Temple on
+          Thursday, in preparation for the consecration ceremony on Monday,
+          January 23rd.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The idol of Lord Ram was installed in Ayodhya&apos;s Ram Temple on
+          Thursday, in preparation for the consecration ceremony on Monday,
+          January 23rd.
+        </p>
+        <p>
+          The first image of the idol shared by Union Minister Shobha Karandlaje
+          depicts Lord Ram as a 5-year-old child standing upright. Sculpted by
+          Mysuru-based artist Arun Yogiraj, the black stone idol measures 51
+          inches tall.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              The dream of decades has now become a reality.
+              <br />
+              <br />
+              First glimpse of Prabhu Ram Lalla. <br />
+              Jai Shree Ram.{" "}
+              <a href="https://t.co/0wQb9IGUqJ">pic.twitter.com/0wQb9IGUqJ</a>
+            </p>
+            &mdash; Shobha Karandlaje (@ShobhaBJP){" "}
+            <a href="https://twitter.com/ShobhaBJP/status/1748231351546040828?ref_src=twsrc%5Etfw">
+              January 19, 2024
+            </a>
+          </blockquote>{" "}
+          <script async src="https://platform.twitter.com/widgets.js" />
+        </div>
+        <p>
+          Chants and prayers filled the air as the Ram Lalla idol was
+          respectfully placed in the inner sanctum. Consecration rituals
+          commenced on January 12th. Sources say PM Modi will perform the Pran
+          Pratishtha puja on the 23rd to complete the consecration rites.
+        </p>
+        <p>
+          A team of priests led by Lakshmikant Dixit will perform the main Pran
+          Pratishtha rituals. PM Modi is strictly adhering to prescribed rules
+          ahead of his participation.
+        </p>
+        <p>
+          Sources share that the PM is sleeping on the floor with just a
+          blanket, only drinking coconut water. He has asked the public not to
+          visit Ayodhya on the 22nd to avoid inconveniencing Lord Ram,
+          suggesting they come from the 23rd onwards instead.
+        </p>
+        <p>
+          PM Modi also called on every Indian household to light a diya on
+          January 22nd to be part of the ceremony spiritually. Over 11,000
+          specially invited guests from India and abroad will physically attend
+          the momentous event.
+        </p>
+        <p>
+          The idol&apos;s installation marks a key milestone in the
+          temple&apos;s construction. The consecration rites will imbue the
+          deity with divine presence. PM Modi&apos;s observance of preparatory
+          rituals reflects his commitment to tradition.
+        </p>
+        <p>
+          His appeal to celebrate nationally with diyas rather than crowding
+          Ayodhya demonstrates thoughtful leadership upholding Lord Ram&apos;s
+          ideals. The grand temple&apos;s consecration will be a historic
+          moment, fulfilling devotees&apos; centuries-long wait to offer worship
+          there.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "ksdl-suspected-in-rs-600-crore-fake-mysore-sandal-soap-scam",
     timestamp: "Jan 19, 2024",
     image:
