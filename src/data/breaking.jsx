@@ -3,6 +3,163 @@ import Image from "next/image";
 export const breaking = [
   // jan-20-2024
   {
+    id: "invitation-in-hand-you-still-require-a-pass-for-entry-in-ayodhya",
+    timestamp: "Jan 20, 2024",
+    image:
+      "/breaking/jan-20-2024/invitation-in-hand-you-still-require-a-pass-for-entry-in-ayodhya.jpg",
+    title: `Invitation in Hand? You Still Require a Pass for Entry in Ayodhya`,
+    preArticle: `Ahead of the grand opening ceremony for the new Ram Mandir in Ayodhya
+          on January 22nd, special entry protocols have been outlined by the
+          temple trust. Guests invited to the event will require more than just
+          the physical invitation card for access to the temple complex.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Ahead of the grand opening ceremony for the new Ram Mandir in Ayodhya
+          on January 22nd, special entry protocols have been outlined by the
+          temple trust. Guests invited to the event will require more than just
+          the physical invitation card for access to the temple complex.
+        </p>
+        <p>
+          The trust clarified that attendees need to use a unique QR code to
+          obtain a valid entry pass for the ceremony. Scanners will be set up at
+          the pilgrimage facility to print the passes. Pre-registration through
+          the online link sent to invitees along with their invitation, plus
+          carrying an Aadhaar card, will be mandatory.
+        </p>
+        <p>
+          Many elderly saints, seers and citizens may struggle with the online
+          registration process. To assist them, the district administration has
+          established help desks in coordination with the trust. Individuals
+          arriving with just the physical invitation will be aided by volunteers
+          at these help desks.
+        </p>
+        <p>
+          The district administration is also verifying the credentials of all
+          invitees upon their arrival in Ayodhya on or before January 22nd. This
+          additional layer of authentication ensures smooth entry for approved
+          guests on the day of the historic inauguration.
+        </p>
+        <p>
+          Meanwhile, preparations are underway to welcome Prime Minister
+          Narendra Modi to the city. Hoardings displaying central government
+          schemes will line the Ram Path and Lucknow-Ayodhya highway. Around 300
+          large hoardings will be installed between Sahadatganj and Lata Chowk
+          to showcase flagship initiatives.
+        </p>
+        <p>
+          From Saturday evening onwards, volunteers will begin decorating the
+          Janmabhoomi Path. Ongoing civil works along the path will be halted
+          from Saturday night onwards. The goal is completing all arrangements
+          in time for the high-profile ceremony on January 22nd.
+        </p>
+        <p>
+          The special security and access protocols demonstrate meticulous
+          planning by the district administration to handle the large
+          anticipated crowds. The QR code and online pre-registration
+          requirements will facilitate organized entry of approved attendees.
+        </p>
+        <p>
+          Additional steps like credential verification and assistive help desks
+          will ensure invited saintly figures and elderly guests are not
+          inconvenienced. Smooth access for VIPs like the Prime Minister has
+          also been planned.
+        </p>
+        <p>
+          It underscores the significance of making this historic occasion
+          seamless for all dignitaries as well as common devotees. With prudent
+          advanced planning, the administration hopes to make the inauguration
+          ceremony memorable and accessible for diverse attendees.
+        </p>
+        <p>
+          The occasion carries huge spiritual and symbolic meaning for Hindus
+          globally. The access protocols aim to uphold the sanctity and
+          solemnity of this once-in-a-lifetime event at the new temple site in
+          Ayodhya.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "shoaib-malik-and-pakistani-actor-sana-javed-enters-matrimony",
+    timestamp: "Jan 20, 2024",
+    image:
+      "/breaking/jan-20-2024/shoaib-malik-and-pakistani-actor-sana-javed-enters-matrimony.webp",
+    title: `Shoaib Malik and Pakistani Actor Sana Javed Enters Matrimony`,
+    preArticle: `Pakistani cricketer Shoaib Malik has announced his second marriage to
+          Pakistani actor Sana Javed. The couple confirmed the news by posting
+          photos on social media.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Pakistani cricketer Shoaib Malik has announced his second marriage to
+          Pakistani actor Sana Javed. The couple confirmed the news by posting
+          photos on social media.
+        </p>
+        <p>
+          Malik was previously married to Indian tennis star Sania Mirza. The
+          former couple have a five-year-old son named Izhaan.
+        </p>
+        <p>
+          Days before Malik&apos;s remarriage, Sania had shared a cryptic
+          Instagram quote about divorce being difficult but necessary at times.
+          It spoke about choosing your hardships wisely.
+        </p>
+        <p>
+          Sania and Malik married in 2010 and lived together in the UAE.
+          Meanwhile, Sana Javed was earlier married to singer Umar Jaswal in
+          2020 before separating in November 2021.
+        </p>
+        <p>
+          For Sania, the news comes after she retired last year from a stellar
+          20-year professional tennis career. The trailblazing Indian player
+          captured 43 WTA doubles titles and one singles title.
+        </p>
+        <p>
+          The 37-year-old is renowned for six Grand Slam championships,
+          including three women&apos;s doubles titles with Swiss great Martina
+          Hingis. Sania also won two of her three mixed doubles Slams with
+          fellow Indian Mahesh Bhupathi, and one with Bruno Soares.
+        </p>
+        <p>
+          Recently, she began a new chapter as mentor for the Royal Challengers
+          Bangalore franchise in the inaugural Women&apos;s Premier League. Her
+          retirement cemented a legacy as one of India&apos;s greatest ever
+          tennis athletes.
+        </p>
+        <p>
+          Meanwhile, Shoaib Malik continues plying his trade in T20 leagues
+          globally. The veteran has not yet retired from cricket&apos;s shortest
+          format.
+        </p>
+        <p>
+          Sania&apos;s enigmatic social media post indicates the dissolution of
+          her high-profile relationship with Malik. Her oblique reference to the
+          difficulties of divorce shows the personal challenges during this new
+          phase.
+        </p>
+        <p>
+          For both sports stars, intense media glare has long accompanied their
+          careers. This latest development will draw its own share of fevered
+          speculation around the reasons for their split after 12 years of
+          marriage.
+        </p>
+        <p>
+          However, their primary focus will be navigating this transition
+          sensitively while protecting their young son&apos;s wellbeing. For
+          Sania, who has broken barriers for female athletes, new possibilities
+          may unfold after a monumental tennis career.
+        </p>
+        <p>
+          She can reflect proudly on her trailblazing achievements on and off
+          the court. This next chapter will reveal how she approaches
+          life&apos;s complex hurdles with the same champion&apos;s resilience
+          that defined her historic sporting journey.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "microsoft-accuses-russian-state-sponsored-group-of-hacking-employees-emails-through-password-spray-attack",
     timestamp: "Jan 20, 2024",
     image:
