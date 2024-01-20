@@ -1,8 +1,204 @@
 import Image from "next/image";
 
 export const breaking = [
+  // jan-20-2024
+  {
+    id: "microsoft-accuses-russian-state-sponsored-group-of-hacking-employees-emails-through-password-spray-attack",
+    timestamp: "Jan 20, 2024",
+    image:
+      "/breaking/jan-20-2024/microsoft-accuses-russian-state-sponsored-group-of-hacking-employees-emails-through-password-spray-attack.jpg",
+    title: `Microsoft Accuses Russian State-Sponsored Group of Hacking Employees' Emails Through 'Password Spray Attack'`,
+    preArticle: `Microsoft has revealed that the same elite Russian hacking group
+          responsible for the massive SolarWinds breach in 2020-2021 has
+          recently targeted the technology giant in a new cyber espionage
+          operation.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Microsoft has revealed that the same elite Russian hacking group
+          responsible for the massive SolarWinds breach in 2020-2021 has
+          recently targeted the technology giant in a new cyber espionage
+          operation.
+        </p>
+        <p>
+          In a January 2024 blog post, Microsoft said the incursion by the
+          notorious state-sponsored Russian group dubbed Midnight Blizzard began
+          in late November 2022 and was detected on January 12th. Only a small
+          subset of Microsoft corporate accounts were breached, with some emails
+          and attachments stolen.
+        </p>
+        <p>
+          Among the compromised accounts were members of Microsoft’s senior
+          leadership and staff in cybersecurity, legal, and other key units.
+          Microsoft’s threat research team attributed the attack without doubt
+          to Midnight Blizzard, known by researchers as APT29, Nobelium, or Cozy
+          Bear.
+        </p>
+        <p>
+          The team determined the primary motive was to gain intelligence on
+          what Microsoft knew about the group&apos;s past and ongoing
+          activities. The initial entry point was a “password spray attack” in
+          November exploiting a Microsoft platform.
+        </p>
+        <p>
+          This technique involves trying a single compromised password across
+          many related accounts to sneak into a target network. Microsoft stated
+          no specific product or service vulnerability was exploited.
+        </p>
+        <p>
+          So far there is no evidence the hackers accessed customer data,
+          production systems, source code, or AI assets, the company emphasized.
+          The Russian embassy in Washington did not respond to requests for
+          comment.
+        </p>
+        <p>
+          Midnight Blizzard is linked to Russia&apos;s SVR foreign intelligence
+          service according to U.S. officials. The elite hacker group is best
+          known for infiltrating the Democratic National Committee before the
+          2016 elections.
+        </p>
+        <p>
+          Microsoft software is ubiquitous across the U.S. government, and the
+          company faced criticism last year when Chinese hackers stole senior
+          State Department officials&apos; emails due to security practices.
+        </p>
+        <p>
+          Before updating its threat naming in 2022, Microsoft called this same
+          Russian group Nobelium. Cyber firm Mandiant dubs them Cozy Bear. In
+          2021 Microsoft described the SolarWinds campaign as the most advanced
+          nation-state cyberattack ever.
+        </p>
+        <p>
+          It compromised over 100 private sector companies and government
+          agencies in addition to US Justice and Treasury departments by
+          hijacking widely-used network management software.
+        </p>
+        <p>
+          This latest electronic intrusion highlights the constant threat posed
+          by sophisticated, well-resourced nation-state hackers to all
+          organizations according to Microsoft. It demonstrates Russia’s
+          relentless drive to illegally acquire sensitive data for strategic
+          advantage.
+        </p>
+        <p>
+          Although the attack was detected and contained quickly, it underscores
+          no entity is immune from targeting by groups like Midnight Blizzard
+          with the backing of foreign governments. Continuous vigilance and
+          proactive defense is required to protect institutional networks and
+          data.
+        </p>
+        <p>
+          Microsoft was specifically picked due to its visibility into
+          cybersecurity threats and countermeasures. By understanding what and
+          how much Microsoft knew about their past operations, the hackers could
+          refine future tradecraft and targeting to avoid detection.
+        </p>
+        <p>
+          This case illustrates the Spy vs. Spy nature of nation-state cyber
+          espionage where major technology providers are both key targets and
+          threats to avoid. It also shows no organization can afford to let its
+          guard down against elite adversarial hacking given the stakes.
+        </p>
+        <p>
+          Vigilance and resilience helped Microsoft detect and respond quickly
+          to contain the latest Midnight Blizzard operation. But it remains a
+          reminder that Russia-backed groups are actively looking to penetrate
+          private and public sector networks to fulfill Kremlin intelligence
+          priorities and agendas.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "czech-court-clears-the-way-for-extradition-of-indian-national-nikhil-gupta-in-pannun-murder-conspiracy",
+    timestamp: "Jan 20, 2024",
+    image:
+      "/breaking/jan-20-2024/czech-court-clears-the-way-for-extradition-of-indian-national-nikhil-gupta-in-pannun-murder-conspiracy.jpg",
+    title: `Czech Court Clears the Way for Extradition of Indian National Nikhil Gupta in Pannun Murder Conspiracy`,
+    preArticle: `The case of Nikhil Gupta, an Indian national accused by American
+          authorities of involvement in a failed assassination plot, has taken a
+          new turn. Gupta was arrested in Prague last June and the United States
+          is seeking his extradition.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The case of Nikhil Gupta, an Indian national accused by American
+          authorities of involvement in a failed assassination plot, has taken a
+          new turn. Gupta was arrested in Prague last June and the United States
+          is seeking his extradition.
+        </p>
+        <p>
+          According to Czech judicial authorities, the Prague High Court has
+          ruled that the Czech Republic can legally extradite Gupta to the US to
+          face charges there. This judgment upholds an earlier decision by a
+          lower Czech court permitting extradition.
+        </p>
+        <p>
+          The charges against Gupta were filed in November 2022 by federal
+          prosecutors in New York. He is accused of conspiring with an Indian
+          government employee to kill Gurpatwant Singh Pannun, a separatist Sikh
+          nationalist living in the United States. Pannun holds dual American
+          and Canadian citizenship.
+        </p>
+        <p>
+          The alleged assassination plot was uncovered and prevented from being
+          carried out. Gupta has been detained in the Czech Republic since his
+          arrest while awaiting the outcome of extradition proceedings.
+        </p>
+        <p>
+          Following standard protocol, the Prague High Court&apos;s ruling will
+          now be forwarded to the Czech Justice Ministry along with the full
+          case file. Justice Minister Pavel Blažek will make the final
+          determination on whether Gupta can be extradited to America.
+        </p>
+        <p>
+          Minister Blažek could potentially have doubts about the high
+          court&apos;s decision, in which case he can ask the Supreme Court to
+          review the matter within three months. But the timeframe for a final
+          extradition decision remains uncertain.
+        </p>
+        <p>
+          According to a spokesperson, the requested person, Gupta, can be
+          expected to exploit all available legal means to halt the extradition
+          process. Earlier, Gupta&apos;s defense lawyer filed an appeal
+          contesting his client&apos;s identity and arguing the case is
+          politically motivated.
+        </p>
+        <p>
+          The appeals court has now rejected that appeal, clearing the path for
+          the justice minister to approve the extradition request. Gupta&apos;s
+          attorney has suggested they may take the case to the Constitutional
+          Court as a last resort.
+        </p>
+        <p>
+          Previously, the defense lawyer alleged human rights violations against
+          Gupta in Czech custody, including extended solitary confinement. Court
+          documents filed in January claimed Gupta was last in the United States
+          in 2017.
+        </p>
+        <p>
+          American authorities, however, believe Gupta worked with an Indian
+          government employee to hatch the failed plot against Pannun sometime
+          before his arrest last summer. The indictment alleges they conspired
+          to kill Pannun on US soil.
+        </p>
+        <p>
+          The case has generated interest given the intrigue surrounding the
+          transnational assassination plot and the involvement of intelligence
+          agencies. Gupta&apos;s ultimate fate now lies in the hands of Czech
+          judicial authorities who will decide if the evidence merits
+          extraditing him to stand trial in the United States.
+        </p>
+        <p>
+          This new development marks the latest twist in an ongoing legal saga
+          playing out across multiple countries. The final chapter remains
+          uncertain, but progress has been made towards potentially extraditing
+          Gupta to face charges relating to the alleged murder conspiracy.
+        </p>
+      </div>
+    ),
+  },
   // jan-19-2024
-  // start
   {
     id: "temporary-flight-suspension-at-delhi-airport-from-on-republic-day",
     timestamp: "Jan 19, 2024",
@@ -301,7 +497,6 @@ export const breaking = [
       </div>
     ),
   },
-  // end
   // jan-18-2024
   {
     id: "road-rage-gunshot-to-hip-after-car-brushes-against-bike",
@@ -478,281 +673,6 @@ export const breaking = [
           took some time for the staff to scrutinize the bills and confront her.
           The Indian Express reached out to the Pullman Hotel front desk and the
           complainant for their response, which is awaited.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "controversy-surrounding-karnatakas-hijab-ban-sparks-inquiry",
-    timestamp: "Jan 18, 2024",
-    image:
-      "/breaking/jan-18-2024/controversy-surrounding-karnatakas-hijab-ban-sparks-inquiry.jpeg",
-    title: `Controversy Surrounding Karnataka's Hijab Ban Sparks Inquiry`,
-    preArticle: `In December 2022, when Karnataka's Chief Minister hinted at lifting
-          the ban on hijabs in educational institutions, Muskan Khan, a Muslim
-          student who had discontinued her studies due to the ban, expressed her
-          eagerness to resume her education. Khan had made headlines earlier in
-          2022 for defiantly wearing the hijab despite attempts by some Hindu
-          boys to coerce her into removing it. After the statewide ban, she
-          dropped out rather than remove her headscarf.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In December 2022, when Karnataka&apos;s Chief Minister hinted at
-          lifting the ban on hijabs in educational institutions, Muskan Khan, a
-          Muslim student who had discontinued her studies due to the ban,
-          expressed her eagerness to resume her education. Khan had made
-          headlines earlier in 2022 for defiantly wearing the hijab despite
-          attempts by some Hindu boys to coerce her into removing it. After the
-          statewide ban, she dropped out rather than remove her headscarf.
-        </p>
-        <p>
-          While the ban was unjustified given it did not serve any legitimate
-          public interest, Khan&apos;s stance raises a bigger question - why do
-          young Muslims like her prioritize religious symbols over education,
-          even giving up the latter?
-        </p>
-        <p>
-          Reportedly, Khan has worn the hijab since childhood, perhaps from ages
-          seven or eight. At that tender age, she could not have made an
-          informed choice about religious identity markers. Her parents likely
-          decided the hijab for her, normalizing it over the years.
-        </p>
-        <p>
-          This suggests that even if courts uphold the hijab as an exercise of
-          the students&apos; right to free expression or conscience, their true
-          autonomy can be questioned. The political theorist Isaiah Berlin
-          differentiated between &quot;negative liberty&quot; - freedom from
-          external constraints, and &quot;positive liberty&quot; - the autonomy
-          to make uncoerced choices. So while courts may validate the
-          students&apos; positive liberty, their negative liberty is debatable
-          since coercion can take subtle forms beyond threats, like
-          indoctrination. As Robert Sapolsky&apos;s recent book shows, free will
-          can be distorted through various societal influences.
-        </p>
-        <p>
-          For instance, many conservative Islamic schools in South India mandate
-          the hijab as part of the uniform from primary to secondary levels.
-          Moreover, many orthodox Muslim families make even young girls wear it.
-        </p>
-        <p>
-          Problematic representations also exist, like images comparing hijabi
-          and non-hijabi women to wrapped and unwrapped candies, insinuating
-          only the &quot;wrapped&quot; women are protected from
-          &quot;flies&quot;, i.e. harassment.
-        </p>
-        <p>
-          This indicates that the conditioning of Muslim girls into the hijab
-          does occur. It raises doubts about the autonomy of students insisting
-          on it inside or outside class.
-        </p>
-        <p>
-          Significantly, the Quran does not prescribe any particular attire for
-          women except modest clothing. It instructs women to &quot;lower their
-          gaze&quot; - an instruction futile if in a full body veil.
-        </p>
-        <p>
-          Further, the word &quot;hijab&quot; occurs eight times in the Quran,
-          but never denotes a headscarf. It refers to a metaphorical divide
-          between people or things.
-        </p>
-        <p>
-          In India, the hijab gained prominence mainly through the Indian
-          Islamic scholar Abul Ala Maududi. His book &quot;Purdah and the Status
-          of Women in Islam&quot; is widely cited by Muslim conservatives.
-        </p>
-        <p>
-          Maududi insisted Muslim women cannot wear &quot;alluring&quot; clothes
-          or display their beauty, but belong inside the household doing
-          domestic duties. He blamed democracy and liberty for dissent against
-          these views.
-        </p>
-        <p>
-          Written in 1939, Maududi&apos;s shocking misconceptions have been
-          circulating for over eighty years, spawning a paradox where free
-          Muslim women use their liberty to impose patriarchal symbols in the
-          name of a religion not mandating it.
-        </p>
-        <p>
-          In conclusion, while the hijab ban was discriminatory, the bigger
-          issue is the insidious conditioning of girls into prioritizing
-          patriarchy-sanctioned attire over education in the name of religion.
-          Their autonomy is constrained by decades of misleading propaganda
-          about what Islamic principles actually entail. Upholding freedom of
-          religion must be accompanied by reforms to ensure genuine informed
-          consent.
-        </p>
-      </div>
-    ),
-  },
-  // jan-17-2024
-  {
-    id: "leader-of-karni-sena-fatally-shot-in-badaun-up-abductors-targeted-his-minor-daughter",
-    timestamp: "Jan 17, 2024",
-    image:
-      "/breaking/jan-17-2024/leader-of-karni-sena-fatally-shot-in-badaun-up-abductors-targeted-his-minor-daughter.jpg",
-    title: `Leader of Karni Sena Fatally Shot in Badaun, UP; Abductors Targeted His Minor Daughter`,
-    preArticle: `A local leader of the Rajput group Karni Sena was shot dead in Uttar
-          Pradesh's Badaun district late Monday night. The killing occurred when
-          three brothers allegedly broke into the leader's home intending to
-          abduct his 17-year-old daughter.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          A local leader of the Rajput group Karni Sena was shot dead in Uttar
-          Pradesh&apos;s Badaun district late Monday night. The killing occurred
-          when three brothers allegedly broke into the leader&apos;s home
-          intending to abduct his 17-year-old daughter.
-        </p>
-        <p>
-          According to Badaun police, the key perpetrator Somendra Singh, known
-          as Nanhe, aged 32, was arrested Tuesday morning. A manhunt is underway
-          for his two absconding brothers, Antu and Satendra, who live near the
-          victim&apos;s house in Sadaullah Ganj village.
-        </p>
-        <p>
-          The deceased, Sudhir Kumar Singh, 40, was the Badaun district vice
-          president of the Karni Sena, a conservative Rajput group.
-        </p>
-        <p>
-          Sudhir&apos;s elder brother Rajiv Singh, a farmer, filed a police
-          complaint stating the brothers infiltrated the house around 11pm while
-          family members were in different rooms. Nanhe entered by scaling the
-          wall and opened the main door to let in his brothers.
-        </p>
-        <p>
-          They tried to forcefully take away Sudhir&apos;s daughter but her
-          mother raised an alarm. Sudhir came to intervene and was overpowered
-          and shot in the right thigh. Hearing gunfire, neighbors rushed over
-          but the perpetrators had fled. Sudhir was taken to the district
-          hospital but succumbed to excessive bleeding.
-        </p>
-        <p>
-          Police said the accused and victim had a political rivalry. The
-          accused had previously tried unsuccessfully to abduct Sudhir&apos;s
-          daughter four months ago to settle scores.
-        </p>
-        <p>
-          The key accused Nanhe has been jailed while efforts are ongoing to nab
-          his absconding brothers. As a precaution, adequate police presence has
-          been deployed in the village.
-        </p>
-        <p>
-          The killing illustrates the law and order challenges persisting in
-          parts of Uttar Pradesh. Political or personal rivalries often manifest
-          in crimes like murder, abuse of women, kidnapping, etc.
-        </p>
-        <p>
-          While police claim crimes have reduced under the current government,
-          opposition parties contest this. They argue high-profile crimes
-          continue unabated while victims from marginalized communities fail to
-          get justice.
-        </p>
-        <p>
-          The Badaun murder has shades of a recent case in Lakhimpur Kheri where
-          a Union Minister&apos;s son allegedly mowed down farmers protesting
-          against the ruling party. Together, these incidents highlight
-          lingering concerns over VIP criminality and immunity.
-        </p>
-        <p>
-          However, police have acted swiftly in the Karni Sena leader&apos;s
-          murder, already arresting one culprit. This sends the right signal
-          that political affiliations or influence will not deter
-          investigations. Extending this accountability to all cases can
-          significantly improve law and order and public trust.
-        </p>
-        <p>
-          Beyond policing, addressing the root causes behind crimes of passion
-          and honor killings remains critical. Illiteracy, lack of economic
-          opportunities, patriarchal mindsets, easy access to guns are all
-          contributing factors.
-        </p>
-        <p>
-          The state government should pursue meaningful reforms on these social
-          determinants by partnering with community leaders. Eradicating VIP
-          culture around crimes is one piece of restoring law and order. But
-          creating an enabling social environment for vulnerable groups like
-          women and lower castes is equally important. A multi-pronged strategy
-          only can make Uttar Pradesh safer in the true sense.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "arrest-follows-throat-slitting-of-19-year-old-college-student-by-man",
-    timestamp: "Jan 17, 2024",
-    image:
-      "/breaking/jan-17-2024/arrest-follows-throat-slitting-of-19-year-old-college-student-by-man.jpg",
-    title: `Arrest Follows Throat Slitting of 19-Year-Old College Student by Man`,
-    preArticle: `In Mumbai, a 19-year-old college student was attacked and seriously
-          injured by a 35-year-old man she had rejected marriage proposals from
-          in the past.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In Mumbai, a 19-year-old college student was attacked and seriously
-          injured by a 35-year-old man she had rejected marriage proposals from
-          in the past.
-        </p>
-        <p>
-          The incident occurred on Monday afternoon near the victim Kulsum
-          Shaikh&apos;s home in Goregaon East. The accused Sanjay Pralhad Bayas
-          allegedly approached Shaikh from behind and slit her throat using a
-          blade when she was returning from college.
-        </p>
-        <p>
-          Bayas is a resident of the same Santosh Nagar locality as Shaikh.
-          Police said he had proposed to Shaikh before, but she had turned him
-          down. This led to quarrels between Bayas and the girl&apos;s family,
-          although things had settled later.
-        </p>
-        <p>
-          When Shaikh screamed for help after the throat slitting, Bayas escaped
-          from the scene. Shaikh was rushed to the hospital in critical
-          condition. Once she stabilized, her statement was recorded and a case
-          was registered.
-        </p>
-        <p>
-          Shaikh sustained a deep wound requiring four stitches. Police suspect
-          Bayas was intoxicated during the attack. He was arrested on Tuesday
-          and charged with attempt to murder.
-        </p>
-        <p>
-          This appears to be an instance of intimate partner violence due to
-          masculine resentment against rejection. Attacking a woman for denying
-          a romantic or matrimonial alliance points to a patriarchal mindset
-          that women&apos;s choices should be dictated by men.
-        </p>
-        <p>
-          The extreme method of slitting the throat also indicates premeditation
-          and intention to grievously hurt or kill. Shaikh is fortunate to have
-          survived the assault. Considering her young age and the trauma of this
-          experience, her emotional recovery may require time and counselling.
-        </p>
-        <p>
-          While intimate partner violence often takes place within homes, this
-          incident in a public space in broad daylight is alarming. It
-          highlights the sense of impunity emboldening perpetrators to commit
-          such crimes openly.
-        </p>
-        <p>
-          Effective law enforcement can create deterrence against gender-based
-          violence. Sensitizing the police to respond swiftly and sensitively to
-          such complaints is vital. But preventing such violence requires
-          addressing systemic social issues.
-        </p>
-        <p>
-          Maharashtra records among the highest cases of crimes against women
-          annually. While laws and policing are tightening, mindset change
-          through education and awareness is equally critical. Boys and men must
-          be oriented on respecting women&apos;s consent and choices from a
-          young age.
-        </p>
-        <p>
-          Rejecting a romantic interest or proposal does not imply an affront to
-          male dignity. Rather, accepting a woman&apos;s decision with grace
-          demonstrates strength of character. Society must reinforce such
-          progressive attitudes at homes, schools and through public campaigns.
         </p>
       </div>
     ),
