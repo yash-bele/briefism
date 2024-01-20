@@ -1,6 +1,158 @@
 export const technology = [
   // jan-20-2024
   {
+    id: "whatsapp-channels-unveil-a-range-of-new-features",
+    timestamp: "Jan 20, 2024",
+    image:
+      "/technology/jan-20-2024/whatsapp-channels-unveil-a-range-of-new-features.avif",
+    title: `WhatsApp Channels Unveil a Range of New Features`,
+    preArticle: `WhatsApp has rolled out several new capabilities for its Channels
+          feature to improve engagement between brands, celebrities, public
+          figures and their audiences on the platform. Introduced in late 2022,
+          Channels enables direct communication from these users to their
+          followers.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          WhatsApp has rolled out several new capabilities for its Channels
+          feature to improve engagement between brands, celebrities, public
+          figures and their audiences on the platform. Introduced in late 2022,
+          Channels enables direct communication from these users to their
+          followers.
+        </p>
+        <p>
+          Meta CEO Mark Zuckerberg highlighted four key additions to WhatsApp
+          Channels - voice messages, polls, multiple admins and content sharing
+          to Status. These updates, now out of testing, will be available to all
+          users soon on an unspecified date.
+        </p>
+        <p>
+          A major change allows Channel admins to send voice messages. This
+          provides a quick, personal way to share behind-the-scenes insights,
+          make announcements and directly interact with followers.
+        </p>
+        <p>
+          The addition of polls gives admins a handy tool to gather opinions and
+          feedback from their audience on various topics, driving greater
+          participation. Support for multiple Channel admins will be invaluable
+          for large brands or organizations needing active management and prompt
+          responses to incoming messages.
+        </p>
+        <p>
+          Finally, followers can now share interesting Channel updates to their
+          own WhatsApp Status. This viral feature expands the potential reach of
+          content beyond the Channel&apos;s existing followers.
+        </p>
+        <p>
+          Together, these enhancements signal WhatsApp&apos;s efforts to make
+          Channels a more engaging, interactive destination for both admins and
+          their communities. With voice, polls, co-administration and built-in
+          sharing, WhatsApp has meaningfully expanded Channels&apos;
+          capabilities since launch.
+        </p>
+        <p>
+          For public figures, brands and businesses, these features optimize
+          Channels as a controlled space to foster direct conversations with
+          followers at scale. Voice messages bring an authentic, personal touch
+          while polls provide data-driven insights into audience preferences.
+        </p>
+        <p>
+          The ability to have multiple authenticated admins prevents bottlenecks
+          in engaging active communities, while viral sharing of content helps
+          expand visibility.
+        </p>
+        <p>
+          For followers, the updates make Channels a richer source of exclusive
+          insights directly from the source. The additions encourage
+          participating rather than just observing passive content.
+        </p>
+        <p>
+          As WhatsApp continues developing Channels into a robust platform,
+          these user-empowering features will significantly boost the appeal and
+          utility for both creators and their communities seeking closer
+          connections on WhatsApp.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "early-preorders-for-apple-vision-pro-headset-surge-shipping-now-extended-to-march",
+    timestamp: "Jan 20, 2024",
+    image:
+      "/technology/jan-20-2024/early-preorders-for-apple-vision-pro-headset-surge-shipping-now-extended-to-march.webp",
+    title: `Early Pre-orders for Apple's $3,499 Vision Pro Headset Surge, Shipping Now Extended to March`,
+    preArticle: `Apple has kicked off preorders for its hotly anticipated Vision Pro
+          mixed reality headset, with early signs of robust customer demand
+          quickly exhausting initial stock of the $3,499 device, as per a
+          Bloomberg report.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Apple has kicked off preorders for its hotly anticipated Vision Pro
+          mixed reality headset, with early signs of robust customer demand
+          quickly exhausting initial stock of the $3,499 device, as per a
+          Bloomberg report.
+        </p>
+        <p>
+          The headset became available for preorder online and on Apple&apos;s
+          app at 8am Eastern time on Tuesday. Delivery dates have already been
+          pushed back to March 8-15 for orders placed today, indicating either
+          limited supplies, strong early interest, or both.
+        </p>
+        <p>
+          Rapid sellouts of in-store pickup appointments on day one at many
+          locations also suggest high demand and/or constrained inventory.
+        </p>
+        <p>
+          Expanding options for consumers, Apple unveiled two additional
+          configurations beyond the base 256GB model. A 512GB version costs
+          $3,699, while a high-end 1TB option is priced at $3,899.
+        </p>
+        <p>
+          Apple is also selling a $199 case, $199 extra batteries, and $99
+          replacement bands for the headset. However, the unique ordering
+          process requires an iPhone or iPad to scan the customer&apos;s face
+          for optimal fit and vision prescription if needed.
+        </p>
+        <p>
+          Apple has not commented on sales, which is typical for new product
+          launches. But Wall Street analysts forecast a measured start for the
+          Vision Pro.
+        </p>
+        <p>
+          UBS predicts Apple will ship 300,000-400,000 units this year,
+          generating around $1.4 billion revenue. Despite the lofty $3,499 entry
+          price, Apple seems to have modest expectations for a gradual launch.
+        </p>
+        <p>
+          Initially only available in the U.S., the headset will expand to other
+          markets including the U.K., Canada and China. Per reports, Apple
+          internally expects a strong opening weekend followed by declining
+          sales in subsequent weeks.
+        </p>
+        <p>
+          Priced much higher than Meta&apos;s latest offering, the Vision Pro is
+          positioned as a premium device befitting its cutting-edge nature.
+          However, the specialized sizing process poses challenges for sharing
+          the headset with others.
+        </p>
+        <p>
+          The unique face scan determines the ideal light seal and strap from 25
+          seal options and 2 straps for each individual user. Prescription
+          inserts cost extra too. Some testers have also cited the
+          headset&apos;s weight as uncomfortable for long-term wear.
+        </p>
+        <p>
+          While niche currently, the mixed reality market offers opportunities
+          for Apple to woo its loyal, wealthy customer base with this futuristic
+          product. The company&apos;s history of sleek design and intuitive
+          interfaces helps cement the Vision Pro as the luxe choice for early
+          adopters.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "openais-sam-altman-looks-to-raise-billions-for-venture-in-artificial-intelligence-chip-manufacturing",
     timestamp: "Jan 20, 2024",
     image:
