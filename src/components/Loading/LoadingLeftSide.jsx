@@ -1,9 +1,9 @@
-const LoadingLeftSide = () => {
+const LoadingLeftSide = ({ category }) => {
   return (
     <section className="col-span-3 lg:col-span-2">
       <div className="border-b-4 border-double border-red-100 capitalize mb-2.5">
         <span className="text-sm text-red-600">Home</span> /{" "}
-        <span className="text-base inline">.....</span>
+        <h1 className="text-base inline">{category}</h1>
       </div>
       <div className="space-y-5">
         {Array(7)
