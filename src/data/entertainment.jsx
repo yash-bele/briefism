@@ -1,6 +1,190 @@
 import Image from "next/image";
+import Script from "next/script";
 
 export const entertainment = [
+  // jan-21-2024
+  {
+    id: "rohit-shetty-reminisces-about-his-father-struggle-with-alcoholism-following-the-tragic-death-of-shatrughan-sinha-body-double-on-film-set",
+    timestamp: "Jan 21, 2024",
+    image:
+      "/entertainment/jan-21-2024/rohit-shetty-reminisces-about-his-father-struggle-with-alcoholism-following-the-tragic-death-of-shatrughan-sinha-body-double-on-film-set.jpg",
+    title: `Rohit Shetty Reminisces about His Father's Struggle with Alcoholism Following the Tragic Death of Shatrughan Sinha’s Body Double on Film Set`,
+    preArticle: `Filmmaker Rohit Shetty has recently disclosed how a stunt accident on
+          the sets of his 2013 Shah Rukh Khan-starrer Chennai Express brought
+          back traumatic memories of a fatal mishap under his late father MB
+          Shetty's supervision in the 1980 film Bombay 405 Miles.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Filmmaker Rohit Shetty has recently disclosed how a stunt accident on
+          the sets of his 2013 Shah Rukh Khan-starrer Chennai Express brought
+          back traumatic memories of a fatal mishap under his late father MB
+          Shetty&apos;s supervision in the 1980 film Bombay 405 Miles.
+        </p>
+        <p>
+          In Bombay 405 Miles, featuring Shatrughan Sinha, MB Shetty was the
+          action director. Sinha&apos;s body double Mansoor had to jump from a
+          warehouse as part of a stunt sequence involving a huge blast.
+        </p>
+        <p>
+          In an interview, Rohit Shetty recounted how during the shoot, due to
+          chaos and confusion, the blast operator and camera operator had
+          inadvertently switched positions unbeknownst to Shetty. So when
+          Mansoor jumped, Shetty signaled the blast technician assuming he was
+          the cameraman. The warehouse exploded with Mansoor inside, leading to
+          his demise.
+        </p>
+        <p>
+          Shetty was a child then and only heard about the horrific accident in
+          the evening. A year later, his father passed away as well, overcome by
+          guilt over the incident. Though MB Shetty had a strong reputation
+          among industry folks, this tragedy weighed heavily on him. He turned
+          to alcoholism, withdrew from work and remained homebound before his
+          death. The family understood his suffering led to his premature demise
+          – destiny&apos;s cruelty.
+        </p>
+        <p>
+          Shetty then described a controlled car blast scene in Chennai Express.
+          Though his team removes fuel tanks for such stunts, some petrol had
+          spilled on the chassis while prepping. Unbeknownst to them, the
+          imported car had a reserve tank. After filming the scene, a spark
+          reignited the splattered petrol, engulfing the car in flames with
+          veteran stuntman Shankar Anna inside.
+        </p>
+        <p>
+          They panicked as the flaming, overturned car trapped Shankar inside.
+          Fortunately fire brigades on standby doused the flames, broke the
+          glass and rescued him with minor burns. The chilling parallel to his
+          father&apos;s long-ago accident shook Shetty deeply before he gathered
+          himself and rushed Shankar to the hospital. He has fully recovered.
+        </p>
+        <p>
+          In the interview, Shetty called his mother Ratna a &quot;fighter&quot;
+          who raised him and his sister through immense hardship after his
+          father&apos;s death. Despite struggles and poverty, she shielded them
+          from sadness and nurtured a stoic work ethic. To support the family,
+          she resumed stunt doubling for stars, having met MB Shetty through
+          this work. If you notice the top-angle shots in Andaaz song Zindagi Ek
+          Safar, Ratna is the one sitting there!
+        </p>
+        <p>
+          After Shetty started working, Ratna stopped and their fortunes
+          changed. But he inherited her grit to face challenges head-on. Shetty
+          feels that as long as there is work, there is hope. He remains
+          eternally grateful to his mother for shielding him throughout the
+          decade-long adversity after his father&apos;s passing.
+        </p>
+        <p>
+          The director has now made his streaming debut with the Prime Video
+          series Indian Police Force starring Sidharth Malhotra, Vivek Oberoi
+          and Shilpa Shetty.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "salman-khan-graces-joy-awards-in-saudi-arabia-strikes-a-pose-alongside-anthony-hopkins",
+    timestamp: "Jan 21, 2024",
+    image:
+      "/entertainment/jan-21-2024/salman-khan-graces-joy-awards-in-saudi-arabia-strikes-a-pose-alongside-anthony-hopkins.avif",
+    title: `Salman Khan Graces Joy Awards in Saudi Arabia; Strikes a Pose alongside Anthony Hopkins`,
+    preArticle: `Actor Salman Khan recently attended the Joy Awards in Riyadh, Saudi
+          Arabia, where he presented the Lifetime Achievement Award to veteran
+          Egyptian actor Essad Youniss. A video of Salman meeting Hollywood
+          legend Anthony Hopkins at the event has gone viral on social media.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Actor Salman Khan recently attended the Joy Awards in Riyadh, Saudi
+          Arabia, where he presented the Lifetime Achievement Award to veteran
+          Egyptian actor Essad Youniss. A video of Salman meeting Hollywood
+          legend Anthony Hopkins at the event has gone viral on social media.
+        </p>
+        <p>
+          Dressed sharply in a lavender shirt and violet-grey suit, Salman
+          exuded charm in the video. He is seen posing with Hopkins, known for
+          films like The Silence of the Lambs and The Father.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet" data-media-max-width="560">
+            <p lang="en" dir="ltr">
+              What a legendary moment ❤️‍🔥🔥
+              <br />
+              Megastar{" "}
+              <a href="https://twitter.com/hashtag/SalmanKhan?src=hash&amp;ref_src=twsrc%5Etfw">
+                #SalmanKhan
+              </a>{" "}
+              with Anthony Hopkins at{" "}
+              <a href="https://twitter.com/hashtag/JoyAwards?src=hash&amp;ref_src=twsrc%5Etfw">
+                #JoyAwards
+              </a>{" "}
+              2024.
+              <a href="https://t.co/xYjKwB7IU3">pic.twitter.com/xYjKwB7IU3</a>
+            </p>
+            &mdash; MASS (@Freak4Salman){" "}
+            <a href="https://twitter.com/Freak4Salman/status/1748916541511565664?ref_src=twsrc%5Etfw">
+              January 21, 2024
+            </a>
+          </blockquote>{" "}
+          <Script
+            src="https://platform.twitter.com/widgets.js"
+            strategy="lazyOnload"
+          />
+        </div>
+        <p>
+          In another video, Salman is honoring Youniss with the Lifetime
+          Achievement Award on stage.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet" data-media-max-width="560">
+            <p lang="en" dir="ltr">
+              <a href="https://twitter.com/hashtag/SalmanKhan?src=hash&amp;ref_src=twsrc%5Etfw">
+                #SalmanKhan
+              </a>{" "}
+              honored the Egyptian actress{" "}
+              <a href="https://twitter.com/hashtag/EssadYouniss?src=hash&amp;ref_src=twsrc%5Etfw">
+                #EssadYouniss
+              </a>{" "}
+              with the Lifetime Achievement Award at the{" "}
+              <a href="https://twitter.com/hashtag/JoyAwards?src=hash&amp;ref_src=twsrc%5Etfw">
+                #JoyAwards
+              </a>{" "}
+              in{" "}
+              <a href="https://twitter.com/hashtag/Riyadh?src=hash&amp;ref_src=twsrc%5Etfw">
+                #Riyadh
+              </a>{" "}
+              <a href="https://t.co/qq9V5TjOht">pic.twitter.com/qq9V5TjOht</a>
+            </p>
+            &mdash; $@M (@SAMTHEBESTEST_){" "}
+            <a href="https://twitter.com/SAMTHEBESTEST_/status/1748962140931899437?ref_src=twsrc%5Etfw">
+              January 21, 2024
+            </a>
+          </blockquote>{" "}
+          <Script
+            src="https://platform.twitter.com/widgets.js"
+            strategy="lazyOnload"
+          />
+        </div>
+        <p>
+          Bollywood star Alia Bhatt was also present at the awards ceremony. She
+          was bestowed with the Honorary Entertainment Makers Award. In her
+          widely shared acceptance speech, Alia expressed deep love for cinema
+          and gratitude to the organizers for bringing together diverse talents.
+        </p>
+        <p>
+          She remarked that movies are her obsession and life, and spoke about
+          the magical joy of love and cinema. Alia thanked everyone for the
+          honor and love she felt in Riyadh.
+        </p>
+        <p>
+          Currently hosting the reality show Bigg Boss 17 on weekends, Salman
+          Khan&apos;s fans eagerly await his next film The Bull, produced by
+          Karan Johar&apos;s Dharma Productions and directed by Vishnu Vardhan
+          of Shershaah fame. The actor was last seen in Tiger 3.
+        </p>
+      </div>
+    ),
+  },
   // jan-20-2024
   {
     id: "review-of-indian-police-force-rohit-shetty-and-sidharth-malhotra-show-offers-superficial-appeal-with-limited-depth",
@@ -408,150 +592,6 @@ export const entertainment = [
           Set to premiere exclusively on Netflix on February 9th, the promising
           investigative drama marks another career defining performance by Bhumi
           Pednekar in the central role.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "prabhas-the-raja-saab-imdb-plot-sparks-conversation-with-director-maruthi",
-    timestamp: "Jan 18, 2024",
-    image:
-      "/entertainment/jan-18-2024/prabhas-the-raja-saab-imdb-plot-sparks-conversation-with-director-maruthi.jpg",
-    title: `Prabhas' The Raja Saab IMDb Plot Sparks Conversation with Director Maruthi`,
-    preArticle: `Prabhas surprised fans by opting for a romantic horror-comedy with
-          director Maruthi instead of a massive project like Salaar. The film's
-          poster, featuring Prabhas in a casual look with a shirt and lungi, was
-          unveiled on Sankranthi, generating curiosity among fans. The IMDb page
-          for the movie added to the excitement as it revealed the plot line.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Prabhas surprised fans by opting for a romantic horror-comedy with
-          director Maruthi instead of a massive project like Salaar. The
-          film&apos;s poster, featuring Prabhas in a casual look with a shirt
-          and lungi, was unveiled on Sankranthi, generating curiosity among
-          fans. The IMDb page for the movie added to the excitement as it
-          revealed the plot line.
-        </p>
-        <p>
-          According to the IMDb synopsis, the film revolves around a couple in
-          love who must alter their destiny due to negative energy. This
-          description sparked speculation among fans about the storyline.
-          However, the director, Maruthi, clarified the situation with a playful
-          comment on social media.
-        </p>
-        <p>
-          On a platform called X, Maruthi expressed, &quot;Ararare, I don’t know
-          this plot. So shooting with a different script. Ippudu IMDB Samajam
-          accept chestada mari (Will IMDb accept me now?)&quot;
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              Ararare I don&#39;t know this plot <br />
-              So shooting with different script <br />
-              <br />
-              Ippudu IMDB Samajam accept chestada mari 😁{" "}
-              <a href="https://t.co/gCr2gNEybV">pic.twitter.com/gCr2gNEybV</a>
-            </p>
-            &mdash; Director Maruthi (@DirectorMaruthi){" "}
-            <a href="https://twitter.com/DirectorMaruthi/status/1747561481716293839?ref_src=twsrc%5Etfw">
-              January 17, 2024
-            </a>
-          </blockquote>{" "}
-          <script async src="https://platform.twitter.com/widgets.js" />
-        </div>
-        <p>
-          This statement makes it clear that the plot mentioned on IMDb is not
-          the current focus of Prabhas and Maruthi&apos;s collaboration. Similar
-          to many high-budget projects, the details of the film&apos;s storyline
-          are likely to remain under wraps until the trailer is released, which
-          might take some time.
-        </p>
-        <p>
-          In the meantime, Prabhas is gearing up for his next major project,
-          &quot;Kalki 2898 AD,&quot; directed by Nag Ashwin. This dystopian
-          sci-fi thriller, featuring Amitabh Bachchan, Kamal Haasan, and Deepika
-          Padukone, is scheduled for release later this year.
-        </p>
-      </div>
-    ),
-  },
-  // jan-15-2024
-  {
-    id: "amitabh-bachchans-satte-pe-satta-prank-leaves-shakti-kapoor-in-tears-this-could-end-my-career",
-    timestamp: "Jan 15, 2024",
-    image:
-      "/jan-15-2024/amitabh-bachchans-satte-pe-satta-prank-leaves-shakti-kapoor-in-tears-this-could-end-my-career.webp",
-    title: `Amitabh Bachchan's Satte Pe Satta Prank Leaves Shakti Kapoor in Tears: 'This Could End My Career'`,
-    preArticle: `Veteran actor Shakti Kapoor, known for his iconic villainous and
-          humorous roles in 80s and 90s films, recently recounted an amusing
-          incident from the shooting of the 1982 movie Satte Pe Satta. In an
-          interview with Digital Commentary, Shakti disclosed that during his
-          peak in Bollywood, he was quite possessive and particular about his
-          scenes and dialogues. However, this behavior made him the target of a
-          prank engineered by Amitabh Bachchan and other actors on the Satte Pe
-          Satta set.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Veteran actor Shakti Kapoor, known for his iconic villainous and
-          humorous roles in 80s and 90s films, recently recounted an amusing
-          incident from the shooting of the 1982 movie Satte Pe Satta. In an
-          interview with Digital Commentary, Shakti disclosed that during his
-          peak in Bollywood, he was quite possessive and particular about his
-          scenes and dialogues. However, this behavior made him the target of a
-          prank engineered by Amitabh Bachchan and other actors on the Satte Pe
-          Satta set.
-        </p>
-        <p>
-          Feeling somewhat insecure being one of seven actors in the film,
-          Shakti Kapoor sought reassurance from director Raj N Sippy, who
-          vouched he was ‘as good as Amitabh Bachchan.’ Shakti had also
-          innovatively incorporated a stammer into his character&apos;s dialogue
-          delivery.
-        </p>
-        <p>
-          Narrating the prank played on him by Big B and co-stars, Shakti said,
-          “We were shooting for the song ‘Dukki Pe Dukki Ho.’ My second dialogue
-          was in the song. I was waiting for the shot when I saw Amitabh
-          Bachchan saying my dialogue instead. I thought, ‘Amitabh is saying my
-          dialogue. My career is over.’ I assumed as a star he could do
-          anything. He took my dialogue. I went to the director and complained
-          ‘this is not fair.’ All six actors were sitting behind a bush watching
-          me cry and started clapping saying, ‘We’re joking with you.’ The
-          camera wasn’t rolling. They thought Shakti Kapoor is so serious about
-          his scenes and dialogues, let’s prank him. Amitabh then told the
-          director to give me 3-4 more shots saying ‘He will die otherwise.’”
-        </p>
-        <p>
-          Satte Pe Satta, released in 1982, is a Hindi action comedy film
-          directed by Raj N Sippy and produced by Romu N Sippy. Starring Amitabh
-          Bachchan, Hema Malini, Amjad Khan and others, it revolves around seven
-          unsophisticated brothers who are civilized by Indu (Malini), wife of
-          the eldest Ravi Anand (Bachchan). The plot takes a twist when Ravi’s
-          lookalike Babu is ordered by cunning uncle Ranjit Singh (Khan) to
-          murder disabled heiress Seema Singh (Ranjeeta Kaur). Adapted from
-          Seven Brides for Seven Brothers (1954), it is regarded as a Bollywood
-          classic.
-        </p>
-        <p>
-          The behind-the-scenes anecdote provides insight into Shakti
-          Kapoor&apos;s dedication and insecurity as a character actor sharing
-          screen space with superstar Amitabh Bachchan. It also showcases the
-          playful camaraderie between co-stars on set. The prank indicates that
-          Shakti was initially perceived as an overly earnest performer by his
-          co-stars, who decided to pull his leg.
-        </p>
-        <p>
-          However, Amitabh ensuring additional shots for Shakti afterwards
-          demonstrates his graciousness and professional courtesy towards a
-          co-actor. Overall, the incident provides a humorous glimpse into the
-          personalities and equations between some of Bollywood&apos;s biggest
-          stars in their prime decades ago, especially the towering impact of an
-          icon like Bachchan. It adds another memorable moment to the rich
-          nostalgia surrounding an all-time classic like Satte Pe Satta nearly
-          four decades later.
         </p>
       </div>
     ),

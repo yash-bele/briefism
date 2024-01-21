@@ -47,7 +47,6 @@ const Id = ({ params }) => {
           </h1>
           <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden mt-2.5 mb-5">
             <Image
-              priority
               src={datum.image}
               alt={datum.id}
               fill

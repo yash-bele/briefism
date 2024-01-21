@@ -2,6 +2,150 @@ import Image from "next/image";
 
 export const entertainmentHistory = [
   {
+    id: "prabhas-the-raja-saab-imdb-plot-sparks-conversation-with-director-maruthi",
+    timestamp: "Jan 18, 2024",
+    image:
+      "/entertainment/jan-18-2024/prabhas-the-raja-saab-imdb-plot-sparks-conversation-with-director-maruthi.jpg",
+    title: `Prabhas' The Raja Saab IMDb Plot Sparks Conversation with Director Maruthi`,
+    preArticle: `Prabhas surprised fans by opting for a romantic horror-comedy with
+          director Maruthi instead of a massive project like Salaar. The film's
+          poster, featuring Prabhas in a casual look with a shirt and lungi, was
+          unveiled on Sankranthi, generating curiosity among fans. The IMDb page
+          for the movie added to the excitement as it revealed the plot line.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Prabhas surprised fans by opting for a romantic horror-comedy with
+          director Maruthi instead of a massive project like Salaar. The
+          film&apos;s poster, featuring Prabhas in a casual look with a shirt
+          and lungi, was unveiled on Sankranthi, generating curiosity among
+          fans. The IMDb page for the movie added to the excitement as it
+          revealed the plot line.
+        </p>
+        <p>
+          According to the IMDb synopsis, the film revolves around a couple in
+          love who must alter their destiny due to negative energy. This
+          description sparked speculation among fans about the storyline.
+          However, the director, Maruthi, clarified the situation with a playful
+          comment on social media.
+        </p>
+        <p>
+          On a platform called X, Maruthi expressed, &quot;Ararare, I don’t know
+          this plot. So shooting with a different script. Ippudu IMDB Samajam
+          accept chestada mari (Will IMDb accept me now?)&quot;
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              Ararare I don&#39;t know this plot <br />
+              So shooting with different script <br />
+              <br />
+              Ippudu IMDB Samajam accept chestada mari 😁{" "}
+              <a href="https://t.co/gCr2gNEybV">pic.twitter.com/gCr2gNEybV</a>
+            </p>
+            &mdash; Director Maruthi (@DirectorMaruthi){" "}
+            <a href="https://twitter.com/DirectorMaruthi/status/1747561481716293839?ref_src=twsrc%5Etfw">
+              January 17, 2024
+            </a>
+          </blockquote>{" "}
+          <script async src="https://platform.twitter.com/widgets.js" />
+        </div>
+        <p>
+          This statement makes it clear that the plot mentioned on IMDb is not
+          the current focus of Prabhas and Maruthi&apos;s collaboration. Similar
+          to many high-budget projects, the details of the film&apos;s storyline
+          are likely to remain under wraps until the trailer is released, which
+          might take some time.
+        </p>
+        <p>
+          In the meantime, Prabhas is gearing up for his next major project,
+          &quot;Kalki 2898 AD,&quot; directed by Nag Ashwin. This dystopian
+          sci-fi thriller, featuring Amitabh Bachchan, Kamal Haasan, and Deepika
+          Padukone, is scheduled for release later this year.
+        </p>
+      </div>
+    ),
+  },
+  // jan-15-2024
+  {
+    id: "amitabh-bachchans-satte-pe-satta-prank-leaves-shakti-kapoor-in-tears-this-could-end-my-career",
+    timestamp: "Jan 15, 2024",
+    image:
+      "/jan-15-2024/amitabh-bachchans-satte-pe-satta-prank-leaves-shakti-kapoor-in-tears-this-could-end-my-career.webp",
+    title: `Amitabh Bachchan's Satte Pe Satta Prank Leaves Shakti Kapoor in Tears: 'This Could End My Career'`,
+    preArticle: `Veteran actor Shakti Kapoor, known for his iconic villainous and
+          humorous roles in 80s and 90s films, recently recounted an amusing
+          incident from the shooting of the 1982 movie Satte Pe Satta. In an
+          interview with Digital Commentary, Shakti disclosed that during his
+          peak in Bollywood, he was quite possessive and particular about his
+          scenes and dialogues. However, this behavior made him the target of a
+          prank engineered by Amitabh Bachchan and other actors on the Satte Pe
+          Satta set.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Veteran actor Shakti Kapoor, known for his iconic villainous and
+          humorous roles in 80s and 90s films, recently recounted an amusing
+          incident from the shooting of the 1982 movie Satte Pe Satta. In an
+          interview with Digital Commentary, Shakti disclosed that during his
+          peak in Bollywood, he was quite possessive and particular about his
+          scenes and dialogues. However, this behavior made him the target of a
+          prank engineered by Amitabh Bachchan and other actors on the Satte Pe
+          Satta set.
+        </p>
+        <p>
+          Feeling somewhat insecure being one of seven actors in the film,
+          Shakti Kapoor sought reassurance from director Raj N Sippy, who
+          vouched he was ‘as good as Amitabh Bachchan.’ Shakti had also
+          innovatively incorporated a stammer into his character&apos;s dialogue
+          delivery.
+        </p>
+        <p>
+          Narrating the prank played on him by Big B and co-stars, Shakti said,
+          “We were shooting for the song ‘Dukki Pe Dukki Ho.’ My second dialogue
+          was in the song. I was waiting for the shot when I saw Amitabh
+          Bachchan saying my dialogue instead. I thought, ‘Amitabh is saying my
+          dialogue. My career is over.’ I assumed as a star he could do
+          anything. He took my dialogue. I went to the director and complained
+          ‘this is not fair.’ All six actors were sitting behind a bush watching
+          me cry and started clapping saying, ‘We’re joking with you.’ The
+          camera wasn’t rolling. They thought Shakti Kapoor is so serious about
+          his scenes and dialogues, let’s prank him. Amitabh then told the
+          director to give me 3-4 more shots saying ‘He will die otherwise.’”
+        </p>
+        <p>
+          Satte Pe Satta, released in 1982, is a Hindi action comedy film
+          directed by Raj N Sippy and produced by Romu N Sippy. Starring Amitabh
+          Bachchan, Hema Malini, Amjad Khan and others, it revolves around seven
+          unsophisticated brothers who are civilized by Indu (Malini), wife of
+          the eldest Ravi Anand (Bachchan). The plot takes a twist when Ravi’s
+          lookalike Babu is ordered by cunning uncle Ranjit Singh (Khan) to
+          murder disabled heiress Seema Singh (Ranjeeta Kaur). Adapted from
+          Seven Brides for Seven Brothers (1954), it is regarded as a Bollywood
+          classic.
+        </p>
+        <p>
+          The behind-the-scenes anecdote provides insight into Shakti
+          Kapoor&apos;s dedication and insecurity as a character actor sharing
+          screen space with superstar Amitabh Bachchan. It also showcases the
+          playful camaraderie between co-stars on set. The prank indicates that
+          Shakti was initially perceived as an overly earnest performer by his
+          co-stars, who decided to pull his leg.
+        </p>
+        <p>
+          However, Amitabh ensuring additional shots for Shakti afterwards
+          demonstrates his graciousness and professional courtesy towards a
+          co-actor. Overall, the incident provides a humorous glimpse into the
+          personalities and equations between some of Bollywood&apos;s biggest
+          stars in their prime decades ago, especially the towering impact of an
+          icon like Bachchan. It adds another memorable moment to the rich
+          nostalgia surrounding an all-time classic like Satte Pe Satta nearly
+          four decades later.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "shehnaaz-gill-stuns-in-gaurav-guptas-gold-bustier-blouse-and-sequined-black-saree",
     timestamp: "Jan 15, 2024",
     image:
