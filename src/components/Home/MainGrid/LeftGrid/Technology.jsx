@@ -3,7 +3,6 @@ import Link from "next/link";
 import { IoIosTimer } from "react-icons/io";
 import { HiChevronDoubleRight } from "react-icons/hi2";
 import { technology } from "@/data/technology";
-import { technologyHistory } from "@/history/technology";
 
 const Technology = () => {
   return (
@@ -16,7 +15,7 @@ const Technology = () => {
       </h2>
       <div className="flex flex-col-reverse lg:grid grid-cols-2 gap-2.5 lg:gap-5">
         <section className="flex flex-col sm:grid grid-rows-5 gap-2.5">
-          {[...technology, ...technologyHistory].slice(2, 7).map((i, j) => (
+          {technology.slice(2, 7).map((i, j) => (
             <article
               key={i.id}
               style={{ paddingTop: j === 0 && 0 }}
@@ -52,7 +51,7 @@ const Technology = () => {
           ))}
         </section>
         <section className="grid grid-rows-5 gap-2.5 h-96 lg:h-auto">
-          {[...technology, ...technologyHistory].slice(0, 2).map((i, j) => (
+          {technology.slice(0, 2).map((i, j) => (
             <Link
               key={i.id}
               href={`/technology/${i.id}`}

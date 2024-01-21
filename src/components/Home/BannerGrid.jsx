@@ -4,9 +4,9 @@ import { data } from "@/data";
 const formatData = [
   data.breaking[2],
   data.breaking[3],
-  data.entertainment[0],
-  data.entertainment[1],
+  data.technology[0],
   data.technology[1],
+  data.entertainment[0],
 ];
 
 const BannerGrid = () => {
@@ -21,11 +21,11 @@ const BannerGrid = () => {
               : j === 1
               ? "breaking"
               : j === 2
-              ? "entertainment"
-              : j === 3
-              ? "entertainment"
-              : j === 4
               ? "technology"
+              : j === 3
+              ? "technology"
+              : j === 4
+              ? "entertainment"
               : null
           }/${i.id}`}
           className={`relative group rounded-lg overflow-hidden bg-slate-200 ${
