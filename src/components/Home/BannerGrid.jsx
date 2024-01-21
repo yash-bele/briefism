@@ -2,11 +2,11 @@ import Link from "next/link";
 import Image from "next/image";
 import { data } from "@/data";
 const formatData = [
-  data.breaking[0],
-  data.breaking[1],
+  data.breaking[2],
+  data.breaking[3],
   data.entertainment[0],
   data.entertainment[1],
-  data.technology[0],
+  data.technology[1],
 ];
 
 const BannerGrid = () => {

@@ -2,6 +2,246 @@ import Image from "next/image";
 
 export const breakingHistory = [
   {
+    id: "pastor-arrested-for-sexually-assaulting-underage-boy",
+    timestamp: "Jan 19, 2024",
+    image:
+      "/breaking/jan-19-2024/pastor-arrested-for-sexually-assaulting-underage-boy.jpg",
+    title: `Pastor Arrested for Sexually Assaulting Underage Boy`,
+    preArticle: `Police in Kerala arrested a 59-year-old Pentecostal pastor on Friday
+          for the alleged sexual assault of a 13-year-old boy. The incident
+          occurred this past Wednesday in a district in the southern region of
+          the state.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Police in Kerala arrested a 59-year-old Pentecostal pastor on Friday
+          for the alleged sexual assault of a 13-year-old boy. The incident
+          occurred this past Wednesday in a district in the southern region of
+          the state.
+        </p>
+        <p>
+          According to authorities, the pastor allegedly lured the vulnerable
+          minor into a trap and sexually abused him. The young boy had been
+          abandoned by his mother and was waiting for his grandmother, who had
+          gone to the hospital, when the pastor approached him.
+        </p>
+        <p>
+          Identified as Raveendranath, the pastor invited the boy to his home
+          after gaining his trust. At the residence, the pastor allegedly served
+          the child cake before showing him pornographic images on a tablet
+          device. Raveendranath then sexually assaulted the boy, as per the
+          police complaint.
+        </p>
+        <p>
+          The accused has been booked under the Protection of Children from
+          Sexual Offences (POCSO) Act based on the child&apos;s testimony. This
+          law aims to deter and punish sexual crimes against minors.
+        </p>
+        <p>
+          After being arrested, Raveendranath was produced before a magistrate
+          who ordered he be placed in judicial custody pending trial. As the
+          allegations involve abuse of a child who had been abandoned, the
+          police will be investigating whether the pastor identified and
+          targeted the vulnerable boy in a predatory manner.
+        </p>
+        <p>
+          Faith leaders wielding influence over followers and having
+          unsupervised access to minors must uphold the highest moral and
+          ethical standards. This duty becomes even more onerous when engaging
+          with children who lack parental care or support networks. Violating
+          this trust can leave deep emotional and psychological scars, as
+          evidenced by numerous cases of clergy abuse worldwide.
+        </p>
+        <p>
+          Authorities have stated that the mental health and safety of the
+          survivor are the primary concerns during trial, and counselling will
+          be provided if required. The community must also reflect on how to
+          prevent such exploitation of society&apos;s most vulnerable members.
+        </p>
+      </div>
+    ),
+  },
+  // jan-18-2024
+  {
+    id: "road-rage-gunshot-to-hip-after-car-brushes-against-bike",
+    timestamp: "Jan 18, 2024",
+    image:
+      "/breaking/jan-18-2024/road-rage-gunshot-to-hip-after-car-brushes-against-bike.jpg",
+    title: `Road Rage: Gunshot to Hip After Car Brushes Against Bike`,
+    preArticle: `A shocking case of road rage occurred in Delhi's Janakpuri area on
+          Wednesday morning, where a 22-year-old man was shot and injured by two
+          men after his car accidentally brushed against their motorcycle.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          A shocking case of road rage occurred in Delhi&apos;s Janakpuri area
+          on Wednesday morning, where a 22-year-old man was shot and injured by
+          two men after his car accidentally brushed against their motorcycle.
+        </p>
+        <p>
+          According to police reports, the victim, Jatin Jain, was with a female
+          friend when the incident took place. While parking his car near a
+          district center, it slightly collided with a motorcycle belonging to
+          the two accused men. An intense argument broke out between Jain and
+          the men.
+        </p>
+        <p>
+          Later, when Jain and his friend crossed the road on her scooter, the
+          accused allegedly followed them and demanded they stop. Another heated
+          exchange occurred, after which one of the men pulled out a pistol and
+          fired at Jain, with the bullet striking his left hip. Jain&apos;s
+          friend fortunately escaped unharmed.
+        </p>
+        <p>
+          One of the accused, identified as Vishal Rai, was arrested at the
+          scene by a nearby police patrol that rushed over after hearing the
+          gunshot. However, Rai&apos;s associate managed to flee initially and
+          was absconding.
+        </p>
+        <p>
+          According to the Deputy Commissioner of Police (West) Vichitra Veer,
+          locals also hurried to help the injured Jain as his friend screamed
+          for assistance, providing cover from the hostile men. Police recovered
+          the pistol used in the attack from the site.
+        </p>
+        <p>
+          Officials revealed Rai has a criminal background with over eight prior
+          cases related to arms and ammunition, theft, and robbery charges. The
+          injured Jain was transported to a hospital for treatment, while police
+          registered a case of attempted murder.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "bilkis-bano-case-supreme-court-accepts-convicts-pleas-for-extended-surrender-time",
+    timestamp: "Jan 18, 2024",
+    image:
+      "/breaking/jan-18-2024/bilkis-bano-case-supreme-court-accepts-convicts-pleas-for-extended-surrender-time.webp",
+    title: `Bilkis Bano Case: Supreme Court Accepts Convicts' Pleas for Extended Surrender Time`,
+    preArticle: `The Supreme Court on Thursday agreed to hear applications filed by
+          convicts sentenced to life imprisonment for the 2002 gangrape of
+          Bilkis Bano and murder of her family during the Gujarat riots. The
+          convicts are seeking an extension of time to surrender to authorities.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The Supreme Court on Thursday agreed to hear applications filed by
+          convicts sentenced to life imprisonment for the 2002 gangrape of
+          Bilkis Bano and murder of her family during the Gujarat riots. The
+          convicts are seeking an extension of time to surrender to authorities.
+        </p>
+        <p>
+          A bench headed by Justice BV Nagarathna, before whom the pleas were
+          mentioned, directed the registry to get orders from the Chief Justice
+          of India DY Chandrachud for reconstituting the original bench that
+          heard the case.
+        </p>
+        <p>
+          The original case was decided by Justices Nagarathna and Ujjal Bhuyan.
+          However, Justice Nagarathna was sitting with Justice Sanjay Karol on
+          Thursday.
+        </p>
+        <p>
+          On January 8, the Supreme Court had quashed the remission granted to
+          the 11 convicts by the Gujarat government. The court had ordered them
+          to surrender to jail authorities within two weeks.
+        </p>
+        <p>
+          With the January 21 deadline approaching, three convicts have now
+          moved the Supreme Court seeking more time to surrender, citing
+          personal reasons.
+        </p>
+        <p>
+          On Thursday, their counsel urged the court to list the matter on
+          Friday, January 19 given the looming deadline. The counsel added that
+          though only three pleas have been filed currently, more may be
+          submitted during the day.
+        </p>
+        <p>
+          The court agreed to their request in view of the deadline. Justice
+          Nagarathna&apos;s bench directed the registry to get orders from the
+          CJI to reconstitute the original bench that heard the case.
+        </p>
+        <p>
+          The court said the listing is required urgently since the surrender
+          deadline expires on January 21, 2024.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "woman-swindles-rs-7-lakh-from-5-star-hotel-using-fake-upi-receipts-apprehended-during-escape-attempt",
+    timestamp: "Jan 18, 2024",
+    image:
+      "/breaking/jan-18-2024/woman-swindles-rs-7-lakh-from-5-star-hotel-using-fake-upi-receipts-apprehended-during-escape-attempt.avif",
+    title: `Woman Swindles Rs 7 Lakh from 5-Star Hotel Using Fake UPI Receipts, Apprehended during Escape Attempt`,
+    preArticle: `A 37-year-old woman is in trouble with the Delhi Police for allegedly
+          deceiving a five-star hotel in Aerocity by staying in a suite for two
+          weeks, faking UPI payments amounting to Rs 5-7 lakh, and attempting to
+          leave without settling her bills. The incident occurred at Pullman
+          Hotel, and the accused, hailing from Rajahmundry, Andhra Pradesh, is
+          now under police scrutiny.`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          A 37-year-old woman is in trouble with the Delhi Police for allegedly
+          deceiving a five-star hotel in Aerocity by staying in a suite for two
+          weeks, faking UPI payments amounting to Rs 5-7 lakh, and attempting to
+          leave without settling her bills. The incident occurred at Pullman
+          Hotel, and the accused, hailing from Rajahmundry, Andhra Pradesh, is
+          now under police scrutiny.
+        </p>
+        <p>
+          The woman arrived in Delhi alone on December 30 to celebrate New
+          Year&apos;s Eve and checked into the hotel. During her stay until
+          January 13, she reportedly utilized the spa and other amenities,
+          incurring an additional cost of Rs 2.11 lakh. To avoid being linked to
+          the charges, she allegedly used a fake name when availing these
+          services.
+        </p>
+        <p>
+          The FIR, filed on January 13 based on the complaint of a Pullman Hotel
+          staff member, reveals that the woman was evasive during police
+          questioning. Initially claiming to be a lawyer, suspicions arose about
+          her actual occupation, with an officer suggesting she may run a gift
+          shop.
+        </p>
+        <p>
+          The woman purportedly attempted to feign payment for the services
+          using fake UPI receipts. She showcased transactions on a bank&apos;s
+          UPI mobile application, but upon verification, it was revealed that
+          the bank had not received any payment. The investigation also
+          disclosed that she had utilized the hotel&apos;s spa and fitness
+          center under a false identity, accumulating services worth Rs 2.11
+          lakh. The FIR alleges that when confronted about the fraudulent bank
+          transactions, she hesitated to present the actual bank statement and
+          later tried to escape with her bags from the hotel lobby.
+        </p>
+        <p>
+          Upon being stopped by the hotel&apos;s security staff, she reportedly
+          engaged in aggressive behavior, including scratching and abusing the
+          staff. The police were called, and she was taken to the IGI Airport
+          police station, where she was questioned and a case of cheating was
+          registered against her.
+        </p>
+        <p>
+          While the accused has been granted bail due to the bailable nature of
+          the charges, the police are now collaborating with Andhra Pradesh
+          authorities to gather information about her job, profile, and any
+          potential criminal history.
+        </p>
+        <p>
+          The hotel staff was reportedly deceived for over two weeks as the
+          woman presented different UPI and bank transaction receipts, and it
+          took some time for the staff to scrutinize the bills and confront her.
+          The Indian Express reached out to the Pullman Hotel front desk and the
+          complainant for their response, which is awaited.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "controversy-surrounding-karnatakas-hijab-ban-sparks-inquiry",
     timestamp: "Jan 18, 2024",
     image:
