@@ -4,9 +4,9 @@ import { data } from "@/data";
 const formatData = [
   data.breaking[2],
   data.breaking[3],
-  data.technology[0],
-  data.technology[1],
   data.entertainment[0],
+  data.entertainment[1],
+  data.entertainment[2],
 ];
 
 const BannerGrid = () => {
@@ -21,9 +21,9 @@ const BannerGrid = () => {
               : j === 1
               ? "breaking"
               : j === 2
-              ? "technology"
+              ? "entertainment"
               : j === 3
-              ? "technology"
+              ? "entertainment"
               : j === 4
               ? "entertainment"
               : null

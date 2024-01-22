@@ -1,4 +1,4 @@
-import LeftSide from "./components/LeftSide";
+import DynamicLeftSide from "./components/DynamicLeftSide";
 import RightSide from "./components/RightSide";
 
 export const metadata = {
@@ -8,7 +8,7 @@ export const metadata = {
 const Category = () => {
   return (
     <main className="grid grid-cols-3 mb-10">
-      <LeftSide />
+      <DynamicLeftSide />
       <RightSide />
     </main>
   );
