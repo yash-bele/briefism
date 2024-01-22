@@ -1,7 +1,253 @@
 import Image from "next/image";
+import Script from "next/script";
 
 export const breaking = [
   // jan-22-2024
+  {
+    id: "one-year-after-the-monterey-park-and-half-moon-bay-shootings-joe-biden-pays-tribute-to-the-victims-and-advocates-for-gun-control-measures",
+    timestamp: "Jan 22, 2024",
+    image: `/breaking/jan-22-2024/one-year-after-the-monterey-park-and-half-moon-bay-shootings-joe-biden-pays-tribute-to-the-victims-and-advocates-for-gun-control-measures.jpeg`,
+    title: `One year after the Monterey Park and Half Moon Bay shootings, Joe Biden pays tribute to the victims and advocates for gun control measures`,
+    preArticle: `On the solemn one-year mark of the tragic Monterey Park mass shooting, President Joe Biden paid tribute to the 11 lives lost when a gunman opened fire during Lunar New Year celebrations. He also remembered the 7 killed in Half Moon Bay just two days later in January 2022. A 72-year-old suspect, Hu`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          On the solemn one-year mark of the tragic Monterey Park mass shooting,
+          President Joe Biden paid tribute to the 11 lives lost when a gunman
+          opened fire during Lunar New Year celebrations. He also remembered the
+          7 killed in Half Moon Bay just two days later in January 2022.{" "}
+        </p>
+        <p>
+          A 72-year-old suspect, Huu Can Tran, unleashed the attack at the Star
+          Dance Studio in Monterey Park before dying by suicide during a
+          standoff with police in Torrance. Two days later, 67-year-old Chunli
+          Zhao murdered 7 at two nurseries in Half Moon Bay before being taken
+          into custody.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              One year ago today, during Lunar New Year celebrations in Monterey
+              Park, 11 people were killed in a heinous act of gun violence.
+              <br />
+              <br />
+              Two days later, the tragedy was compounded, as a gunman killed
+              seven people in Half Moon Bay.
+              <br />
+              <br />
+              Jill and I pray for the families of the victims.{" "}
+              <a href="https://t.co/W31PIr2qbR">pic.twitter.com/W31PIr2qbR</a>
+            </p>
+            &mdash; President Biden (@POTUS){" "}
+            <a href="https://twitter.com/POTUS/status/1749152399933985131?ref_src=twsrc%5Etfw">
+              January 21, 2024
+            </a>
+          </blockquote>{" "}
+          <Script src="https://platform.twitter.com/widgets.js" />
+        </div>
+        <p>
+          &quot;Jill and I pray for the families of the victims,&quot; Biden
+          wrote in a Twitter thread, marking the painful anniversary.{" "}
+        </p>
+        <p>
+          He noted that in the aftermath, he had announced executive actions to
+          address America&apos;s gun violence epidemic. This included launching
+          the first-ever White House Office of Gun Violence Prevention and
+          implementing the bipartisan Safer Communities Act.{" "}
+        </p>
+        <p>
+          Biden urged Congress to take further steps like banning assault
+          weapons and high-capacity magazines, removing liability protections
+          for gun manufacturers, enacting red flag laws, mandating universal
+          background checks and safe storage requirements.{" "}
+        </p>
+        <p>
+          In an extended statement from the White House, Biden recalled how the
+          back-to-back shootings had &quot;shocked the conscience of our
+          nation.&quot; He highlighted honoring the heroism of Brandon Tsay, who
+          disarmed the Monterey Park shooter, during his State of the Union
+          address.
+        </p>
+        <p>
+          Biden also noted his visit to grieving families in Monterey Park and
+          his new executive actions on gun reform announced there.{" "}
+        </p>
+        <p>
+          He praised California&apos;s response, including passing over 20 new
+          gun laws and investing in violence intervention programs. Biden urged
+          other states to follow this example.
+        </p>
+        <p>
+          The statement underscores that a year on, the wounds from the
+          unconscionable loss of life remain fresh. While executive actions and
+          state laws reflect progress, the need for congressional action on gun
+          safety remains urgent.{" "}
+        </p>
+        <p>
+          The Monterey Park and Half Moon Bay families deserve to see real
+          change emerge from their anguish. Only by working together across all
+          levels of government can the scourge of gun violence be meaningfully
+          addressed, as Biden reiterated on this solemn anniversary.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "joe-biden-ridicules-donald-trump-for-mistaking-nikki-haley-with-nancy-pelosi",
+    timestamp: "Jan 22, 2024",
+    image: `/breaking/jan-22-2024/joe-biden-ridicules-donald-trump-for-mistaking-nikki-haley-with-nancy-pelosi.jpg`,
+    title: ` Joe Biden ridicules Donald Trump for mistaking Nikki Haley with Nancy Pelosi`,
+    preArticle: `President Biden recently mocked former President Donald Trump on X for mixing up Nikki Haley and Nancy Pelosi during a speech. Biden posted a video highlighting Haley's comments at a January 20th rally and Trump's speech the day before where he erroneously named Haley instead of Pelosi. "Last nigh`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          President Biden recently mocked former President Donald Trump on X for
+          mixing up Nikki Haley and Nancy Pelosi during a speech. Biden posted a
+          video highlighting Haley&apos;s comments at a January 20th rally and
+          Trump&apos;s speech the day before where he erroneously named Haley
+          instead of Pelosi.{" "}
+        </p>
+        <p>
+          &quot;Last night, Trump is at a rally going on and on about me but got
+          confused and said he was running against Obama. He never ran against
+          Obama. Don&apos;t put our country at risk like this,&quot; Haley is
+          heard saying in Biden&apos;s video.{" "}
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              I don’t agree with Nikki Haley on everything, but we agree on this
+              much: She is not Nancy Pelosi.{" "}
+              <a href="https://t.co/hjNgmcrwAP">pic.twitter.com/hjNgmcrwAP</a>
+            </p>
+            &mdash; Joe Biden (@JoeBiden){" "}
+            <a href="https://twitter.com/JoeBiden/status/1749131121114091648?ref_src=twsrc%5Etfw">
+              January 21, 2024
+            </a>
+          </blockquote>{" "}
+          <Script src="https://platform.twitter.com/widgets.js" />
+        </div>
+        <p>
+          &quot;I don&apos;t agree with Nikki Haley on everything, but we agree
+          on this much: She is not Nancy Pelosi,&quot; Biden captioned the
+          snippet.
+        </p>
+        <p>
+          After Trump&apos;s gaffe, Haley took a dig at his mental fitness at a
+          Keene rally, saying &quot;We can&apos;t have someone else that we
+          question whether they&apos;re mentally fit to do this.&quot;
+        </p>
+        <p>
+          Trump, however, claimed at a Manchester rally that he &quot;aced&quot;
+          a cognitive test, boasting &quot;I feel my mind is stronger now than
+          it was 25 years ago. Is that possible?&quot;{" "}
+        </p>
+        <p>
+          The test Trump referred to is the Montreal Cognitive Assessment
+          administered in 2018 by then-White House physician Ronny Jackson. It
+          screens for mild cognitive issues. At the time, Jackson said Trump
+          scored 30/30 and was &quot;mentally very sharp, very intact.&quot;
+        </p>
+        <p>
+          The video exchange underscores the debate around Trump&apos;s mental
+          acuity as he mounts another presidential bid. While supporters insist
+          he remains as sharp as ever, critics have consistently questioned if
+          he&apos;s shown signs of decline.
+        </p>
+        <p>
+          Biden seems eager to stoke doubts by highlighting Trump&apos;s
+          occasional confused statements. But weaponizing such gaffes for
+          political attacks also risks ableism around age-related mental
+          decline.{" "}
+        </p>
+        <p>
+          Ultimately, fitness for the immense pressures of the presidency merits
+          serious discussion. But any claims of impairment must be grounded in a
+          non-partisan medical assessment rather than cherry-picked errors.
+          Voters will soon render their verdict on whether Trump still possesses
+          the judgment to potentially lead the country again.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "influencer-michelle-young-34-us-army-soldier-tragically-dies-by-suicide-shortly-after-her-daughters-12th-birthday",
+    timestamp: "Jan 22, 2024",
+    image: `/breaking/jan-22-2024/influencer-michelle-young-34-us-army-soldier-tragically-dies-by-suicide-shortly-after-her-daughters-12th-birthday.avif`,
+    title: `Influencer Michelle Young, 34, a U.S. Army soldier, tragically dies by suicide shortly after her daughter's 12th birthday`,
+    preArticle: `Staff Sergeant Michelle Young, a 34-year-old US Army soldier and popular fitness influencer with over 100,000 Instagram followers, tragically died by suicide recently just days after her daughter's 12th birthday. Young had served in the army for 16 years after enlisting at age 18. She completed tw`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Staff Sergeant Michelle Young, a 34-year-old US Army soldier and
+          popular fitness influencer with over 100,000 Instagram followers,
+          tragically died by suicide recently just days after her
+          daughter&apos;s 12th birthday.{" "}
+        </p>
+        <p>
+          Young had served in the army for 16 years after enlisting at age 18.
+          She completed two demanding tours in Afghanistan during her
+          distinguished military career.{" "}
+        </p>
+        <p>
+          In the days prior to her death, Young had posted a heartwarming
+          birthday message for her daughter, writing &quot;Happy birthday to the
+          sweetest girl I&apos;ve ever known. The best part about my life is
+          being your momma.&quot;
+        </p>
+        <p>
+          Beyond her army service, Young was passionate about volunteering
+          during her free time. She worked as a crisis and trauma response
+          volunteer, drawing from her own grief after her brother&apos;s
+          suicide. She also volunteered at a local women&apos;s and
+          children&apos;s homeless shelter.{" "}
+        </p>
+        <p>
+          On her Instagram, Young often modeled athletic apparel from a company
+          focused on female veterans. She was a vocal advocate for improving
+          mental health treatment for veterans struggling with trauma. The exact
+          circumstances that led to her tragic suicide remain unclear.{" "}
+        </p>
+        <p>
+          Young shared an extremely close bond with her 12-year-old daughter
+          Gracie. The two had recently dressed up together as NFL star Travis
+          Kelce and singer Taylor Swift. Her latest birthday post shows no hint
+          of the inner turmoil Young must have been facing.
+        </p>
+        <p>
+          A GoFundMe page has been launched following Young&apos;s passing to
+          support her daughter&apos;s future. &quot;Michelle was a beautiful
+          soul, an amazing friend, a single mother, a soldier, and is proof you
+          never know what someone is going through or what demons they may be
+          fighting,&quot; it states.
+        </p>
+        <p>
+          &quot;NOTHING can replace her mother, but the purpose of this is to
+          help her daughter Gracie with anything she may need. We know Michelle
+          would appreciate us all looking out for her now,&quot; the campaign
+          adds.
+        </p>
+        <p>
+          Staff Sergeant Young&apos;s tragic death is a reminder that even
+          seemingly happy, accomplished people can be fighting inner battles
+          without outward signs. Her loss is devastating, especially for her
+          beloved daughter.
+        </p>
+        <p>
+          While her motivation remains unclear, her passing highlights the
+          urgent need to provide better mental health support for veterans
+          dealing with the aftereffects of trauma. If someone like Young can
+          succumb to darkness, it shows much work remains to be done.
+        </p>
+        <p>
+          As her friends said, Young was an inspiration to many. Honoring her
+          memory means being proactive in checking on the wellbeing of veterans
+          and offering help before it&apos;s too late. Preventing even one
+          suicide would be the greatest tribute to her life of selfless service.
+        </p>
+      </div>
+    ),
+  },
   {
     id: "ayodhya-adorned-for-festive-celebrations-as-the-stage-is-prepared-for-today-s-consecration-ceremony-of-the-ram-temple",
     timestamp: "Jan 22, 2024",
@@ -283,433 +529,6 @@ In attendance were the Chief`,
           lives of 14 of her family members including her three-year-old
           daughter. By ordering the men to surrender, the Supreme Court has
           provided a measure of justice to Bano after nearly two decades.
-        </p>
-      </div>
-    ),
-  },
-  // jan-21-2024
-  {
-    id: "provision-of-field-hospitals-and-first-aid-booths-as-devotees-flock-to-town",
-    timestamp: "Jan 21, 2024",
-    image:
-      "/breaking/jan-21-2024/provision-of-field-hospitals-and-first-aid-booths-as-devotees-flock-to-town.webp",
-    title: `Provision of Field Hospitals and First-Aid Booths as Devotees Flock to Town`,
-    preArticle: `Ahead of the Pran Pratishtha ceremony on January 22nd in Ayodhya, the
-          Union Health Ministry and Uttar Pradesh government have instituted
-          medical preparedness measures expecting lakhs of devotees.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Ahead of the Pran Pratishtha ceremony on January 22nd in Ayodhya, the
-          Union Health Ministry and Uttar Pradesh government have instituted
-          medical preparedness measures expecting lakhs of devotees.
-        </p>
-        <p>
-          Officials estimate hundreds of thousands of devotees and 8,000
-          invitees will attend the Monday event.
-        </p>
-        <p>
-          There will be two fully equipped field hospitals - a 20-bed facility
-          at Tulsi Udyan and a 10-bed facility at Tent City - along with 16
-          first-aid booths for devotees. A control room will also be set up in
-          the area.
-        </p>
-        <p>
-          A team from Delhi&apos;s AIIMS trauma centre has trained healthcare
-          workers deployed in Ayodhya in basic life support, CPR and triage
-          techniques.
-        </p>
-        <p>
-          The Union Health Secretary and Director General of Health Services
-          recently visited to inspect and bolster medical infrastructure.
-        </p>
-        <p>
-          Vector control and disease surveillance measures have been implemented
-          to prevent any outbreaks. While mosquito-borne illnesses like dengue
-          are uncommon in winter, respiratory infections from Covid-19 and
-          influenza have risen across Indian cities.
-        </p>
-        <p>
-          In addition to on-site facilities, the bed capacity at the local
-          medical college has been increased from 350 to 550 beds as backup.
-        </p>
-        <p>
-          The government&apos;s portable Arogya Maitri BHISM emergency hospital
-          with medical cubes is on standby if required.
-        </p>
-        <p>
-          Hospitals in Uttar Pradesh, Delhi and neighbouring states have been
-          alerted to remain on standby for unforeseen emergencies. A designated
-          team is ready for rapid deployment, the Health Ministry stated.
-        </p>
-        <p>
-          The ministry is also enhancing health facilities at the Ayodhya
-          airport.
-        </p>
-        <p>
-          In summary, elaborate medical arrangements including field hospitals,
-          first-aid booths, disease surveillance, backup beds, portable
-          emergency infrastructure and trained personnel have been deployed in
-          Ayodhya ahead of the high-profile temple ceremony expecting massive
-          crowds.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "mohan-bhagwat-january-22-marks-the-start-to-end-bitterness",
-    timestamp: "Jan 21, 2024",
-    image:
-      "/breaking/jan-21-2024/mohan-bhagwat-january-22-marks-the-start-to-end-bitterness.jpg",
-    title: `Mohan Bhagwat: January 22 Marks the Start to End Bitterness`,
-    preArticle: `RSS chief Mohan Bhagwat has appealed for an end to the "bitterness",
-          "dispute" and "conflict" surrounding the issue. "The conflict that has arisen for and against the dispute should now
-          end. The bitterness that has come up in the meantime should also end.
-          Enlightened members of society must ensure the dispute is resolved
-          completely. Ayodhya means a city free from war and conflict," he
-          stated.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          RSS chief Mohan Bhagwat has appealed for an end to the
-          &quot;bitterness&quot;, &quot;dispute&quot; and &quot;conflict&quot;
-          surrounding the issue.
-        </p>
-        <p>
-          &quot;The conflict that has arisen for and against the dispute should
-          now end. The bitterness that has come up in the meantime should also
-          end. Enlightened members of society must ensure the dispute is
-          resolved completely. Ayodhya means a city free from war and
-          conflict,&quot; he stated.
-        </p>
-        <p>
-          Bhagwat said the temple consecration marks the &quot;beginning of
-          rebuilding Bharatvarsh&quot;. Along with reconstructing the temple, we
-          have pledged to rebuild India and thereby pave the way to reconstruct
-          the entire world, he added.
-        </p>
-        <p>
-          Blaming &quot;politics of appeasement&quot;, he said that after
-          independence, the unanimous renovation of Somnath temple sparked
-          discussions about other places of worship. A similar consensus could
-          have been reached regarding Ram Janmabhoomi, but politics took a
-          different turn with the rise of discrimination and appeasement. So the
-          issue remained unresolved.
-        </p>
-        <p>
-          Successive governments disregarded the wishes and sentiments of Hindus
-          on this matter. Instead they tried to thwart initiatives taken by
-          society. The legal battle dating back to pre-independence times
-          continued. The mass movement demanding liberation of Ram&apos;s
-          birthplace began in the 1980s and went on for 30 years, he pointed
-          out.
-        </p>
-        <p>
-          Bhagwat said India&apos;s history is one of constant struggle against
-          invaders for the past 1500 years. Attacks by Islamist forces from the
-          West brought utter destruction and fractured society. Destroying
-          native religious sites was key to demoralizing the nation and
-          community. Foreign conquerors razed temples in India repeatedly for
-          this purpose.
-        </p>
-        <p>
-          Demolishing Ram temple in Ayodhya had the same motive of subjugating
-          India by weakening society, he stated. However the strategy did not
-          succeed. Faith, commitment and morale of Indians never diminished.
-          Resistance continued. Repeated attempts were made to regain the
-          birthplace and rebuild the temple, through many wars and sacrifices.
-          The Ram Janmabhoomi issue remained etched in Hindu minds, Bhagwat
-          emphasized.
-        </p>
-        <p>
-          Recalling that Hindus and Muslims jointly fought the British in 1857,
-          he said there was a chance for reconciliation by banning cow slaughter
-          and freeing Ram&apos;s birthplace. Bahadur Shah Zafar guaranteed a cow
-          slaughter ban, uniting society against the British. Though the war
-          failed, the temple struggle persisted.
-        </p>
-        <p>
-          Bhagwat recounted that Ram&apos;s idol appeared at the site in 1949.
-          The temple was unlocked by court order in 1986. The Hindu
-          society&apos;s campaigns and efforts went on, culminating in the
-          balanced Supreme Court verdict of 2019 after 134 years of legal
-          battle. Now, on January 22nd, the installation ceremony will be held,
-          he stated.
-        </p>
-        <p>
-          The temple marks the revival of national pride and modern society
-          accepting Ram&apos;s values, he said. Bhagwat urged adopting
-          Ram&apos;s virtues - integrity, bravery with forgiveness, sincerity,
-          humility, compassion, duty focussed strictness. This will require
-          honest hard work from all.
-        </p>
-        <p>
-          In summary, the RSS chief hailed the temple while calling for communal
-          harmony, saying Ram embodied virtues that all should imbibe. He
-          recounted the history of temple struggles and court battles. The
-          consecration marks cultural reawakening and upholding values,
-          according to him.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "postponement-of-viewing-ancient-idol-marks-ram-temple-consecration-unveiling-set-for-tomorrow",
-    timestamp: "Jan 21, 2024",
-    image:
-      "/breaking/jan-21-2024/postponement-of-viewing-ancient-idol-marks-ram-temple-consecration-unveiling-set-for-tomorrow.avif",
-    title: `Postponement of Viewing Ancient Idol Marks Ram Temple Consecration; Unveiling Set for Tomorrow`,
-    preArticle: `Less than 48 hours before the scheduled consecration on January 22nd,
-          an elaborate set of rituals involving the new 51-inch idol of Ram
-          Lalla were completed on Saturday.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Less than 48 hours before the scheduled consecration on January 22nd,
-          an elaborate set of rituals involving the new 51-inch idol of Ram
-          Lalla were completed on Saturday.
-        </p>
-        <p>
-          The eyes of the new idol, still covered in cloth, underwent various
-          &quot;adhivas&quot; rituals which involved draping the entire frame
-          with a variety of flowers brought from across India including Tamil
-          Nadu, Maharashtra and Kolkata, according to sources involved.
-        </p>
-        <p>
-          These flowers, estimated at 50 kg, included lotus, rose, jasmine and
-          chrysanthemum.
-        </p>
-        <p>
-          In a 3 hour ritual called &quot;snapan&quot;, the inner sanctum was
-          also washed with water from 81 &quot;Kalash&quot; or urns sourced from
-          various religious sites and rivers across India, including Sitamarhi
-          in Bihar and Nepal, regarded as Sita&apos;s birthplace. Some urns
-          contained medicated water with cow urine and juices of select fruits.
-        </p>
-        <p>
-          In preparation for Monday, public viewing or &quot;darshan&quot; of
-          the old Ram Lalla idol at the makeshift temple was halted. It will be
-          moved to the inner sanctum on Sunday evening and its viewing is likely
-          to resume from January 23rd along with that of the new idol, stated
-          Satyendra Das, priest of Ram Lalla.
-        </p>
-        <p>
-          The rituals on Sunday included &quot;Shakradhivas&quot;,
-          &quot;Phaladhivas&quot; and &quot;Pushpadhivas&quot;, offering the
-          idol sugar and sweets, fruits and then flowers respectively.
-        </p>
-        <p>
-          Meanwhile, the ritual fire ceremony that began on Friday continued
-          into the evening around the mandap, about 100 meters from the temple
-          site.
-        </p>
-        <p>
-          In summary, elaborate rituals were completed around the new Ram Lalla
-          idol less than 48 hours before its consecration. Public viewing of the
-          old idol was stopped in preparation for installing the new idol on
-          January 22nd. The rituals involved bathing, as well as offerings of
-          flowers, fruits and sweets to the deity.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "overlooked-torture-of-five-civilians-in-poonch-jk-police-initiates-probe-into-medical-records",
-    timestamp: "Jan 21, 2024",
-    image:
-      "/breaking/jan-21-2024/overlooked-torture-of-five-civilians-in-poonch-jk-police-initiates-probe-into-medical-records.jpg",
-    title: `Overlooked Torture of Five Civilians in Poonch; J&K Police Initiates Probe into Medical Records`,
-    preArticle: `The day following the December 21st terrorist attack on an army convoy
-          in Poonch, where four soldiers lost their lives, reports have emerged
-          of alleged detention and torture of civilians by security personnel.
-          As per sources, eight residents of Topa Pir village in Poonch were
-          picked up, with three dying subsequently and five being admitted for
-          treatment at a government medical facility in Rajouri. An additional
-          five civilians from the same village have claimed they endured torture
-          and unlawful detention as well.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The day following the December 21st terrorist attack on an army convoy
-          in Poonch, where four soldiers lost their lives, reports have emerged
-          of alleged detention and torture of civilians by security personnel.
-          As per sources, eight residents of Topa Pir village in Poonch were
-          picked up, with three dying subsequently and five being admitted for
-          treatment at a government medical facility in Rajouri. An additional
-          five civilians from the same village have claimed they endured torture
-          and unlawful detention as well.
-        </p>
-        <p>
-          The incidents occurred despite assurances of justice by high ranking
-          officials like Defense Minister Rajnath Singh and Army Chief Manoj
-          Pande during visits to the region.
-        </p>
-        <p>
-          It is understood that the Jammu and Kashmir police have requested the
-          army to furnish medical documents concerning the five hospitalized men
-          - Riaz (25) and his brother Farooq (19), along with Israel (20),
-          Jameel (18) and Irfan (18). A senior police officer stated that the
-          records are required to produce the victims before a judicial
-          magistrate and document their statements, as part of the investigation
-          into the deaths. The five men are considered eyewitnesses, as they
-          were reportedly detained alongside the deceased.
-        </p>
-        <p>
-          Wazir Hussain, father of Riaz and Farooq, revealed that his family
-          received Rs 2.5 lakhs in compensation for each son – Rs 1 lakh from
-          the civil administration and Rs 1.5 lakhs from the army when they were
-          discharged.
-        </p>
-        <p>
-          Mehmood Bhat, the former village head of Topa Pir, corroborated that
-          he assisted the families in obtaining compensation cheques from the
-          authorities. The army spokesperson declined to comment regarding the
-          five hospitalized men.
-        </p>
-        <p>
-          The ambush of army vehicles occurred between Dehra Ki Gali and Bufliaz
-          on the Mughal road. The following morning, eight civilians were
-          allegedly detained from Topa Pir in the Bufliaz area of Poonch
-          district, along with five more from Thanamandi in Rajouri district.
-        </p>
-        <p>
-          Of the eight people from Topa Pir, three – Shabir Ahmed (30), Safeer
-          Ahmed (45) and Mohammad Showkat (22) – passed away due to injuries
-          purportedly sustained from torture. After pleas from locals that the
-          others would die without medical intervention, they were admitted to a
-          hospital.
-        </p>
-        <p>
-          According to reports, Israel, one of the five detainees from Topa Pir,
-          claimed he received a summons to report to an army post around 11:30
-          am on December 22nd. He alleged being stripped and beaten with batons
-          and iron rods until losing consciousness.
-        </p>
-        <p>
-          Israel stated that Showkat, Shabir, Safeer and Riaz were already
-          detained at the camp, while Farooq, Jameel and Irfan were brought in
-          later. “We were dragged outside and revived with water before more
-          torture,” he recounted, adding they were finally moved to an army
-          facility where he regained consciousness that night.
-        </p>
-        <p>
-          Like the others, Israel maintained he was given Rs 1 lakh by the
-          Poonch District Collector and Rs 1.5 lakhs by the army upon discharge.
-        </p>
-        <p>
-          Wazir Hussain alleged his sons’ skin had darkened from the abuse. He
-          said he bought them new clothes and shoes in Surankote since they had
-          been stripped prior to the ill-treatment and lacked garments when
-          hospitalized. &quot;Their current attire was donated by others,&quot;
-          he added.
-        </p>
-        <p>
-          On December 27th, Defense Minister Singh and Army Chief General Pande
-          visited Rajouri district and met with the families of the deceased
-          civilians. As per the bereaved, the Minister promised justice would be
-          served.
-        </p>
-        <p>
-          Later, addressing troops, Singh remarked that along with defending the
-          nation, they also shoulder the huge responsibility of winning the
-          hearts of countrymen.
-        </p>
-        <p>
-          Rajnath had additionally interacted with the five detainees from
-          Thanamandi at the Government Medical College, Rajouri. Discharged
-          between January 2nd and 6th, they were identified as Mohammad Ashraf
-          (52), Farooq Ahmed (45), Fazal Hussain (50) and his nephews Mohammad
-          Betab (25) and a 15-year-old. Each received Rs 3 lakhs in
-          compensation.
-        </p>
-        <p>
-          The J&K administration announced Rs 20 lakhs in compensation for
-          families of the deceased, along with a land parcel and government job
-          for one member. The army provided Rs 10 lakhs ex-gratia.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "taliban-diplomat-attends-republic-day-celebration-in-abu-dhabi-amidst-thaw-in-relations",
-    timestamp: "Jan 21, 2024",
-    image:
-      "/breaking/jan-21-2024/taliban-diplomat-attends-republic-day-celebration-in-abu-dhabi-amidst-thaw-in-relations.jpg",
-    title: `Taliban Diplomat Attends Republic Day Celebration in Abu Dhabi Amidst Thaw in Relations`,
-    preArticle: `The Indian Embassy in the United Arab Emirates (UAE) has invited
-          Badruddin Haqqani, the envoy for the Taliban, to attend the Republic
-          Day celebrations in Abu Dhabi.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The Indian Embassy in the United Arab Emirates (UAE) has invited
-          Badruddin Haqqani, the envoy for the Taliban, to attend the Republic
-          Day celebrations in Abu Dhabi.
-        </p>
-        <p>
-          Badruddin Haqqani, one of the sons of Jalaluddin Haqqani, was
-          appointed as Ambassador in October 2023. His brother, Sirajuddin
-          Haqqani, serves as the Interior Minister of Afghanistan.
-        </p>
-        <p>
-          The Haqqani network, comprised of prominent Taliban leaders, was
-          involved in several terrorist attacks including the 2008 attack on the
-          Indian Embassy in Kabul.
-        </p>
-        <p>
-          A copy of the invitation, issued by Indian Ambassador to UAE Sunjay
-          Sudhir, was shared on Twitter by Afghan journalist Bilal Sarwary, now
-          based outside of Afghanistan.
-        </p>
-        <p>
-          New Delhi&apos;s perspective is that the Indian government has been
-          engaging with the Taliban since it sent a technical team and reopened
-          the Indian Embassy in Kabul. Thus, inviting Badruddin Haqqani aligns
-          with that approach, sources said.
-        </p>
-        <p>
-          Sources said the invitation was addressed to the envoy of the
-          &quot;Islamic Republic of Afghanistan.&quot; The Taliban refers to
-          itself as the &quot;Islamic Emirate of Afghanistan;&quot; the
-          &quot;Islamic Republic of Afghanistan&quot; was represented by former
-          President Ashraf Ghani.
-        </p>
-        <p>
-          Carefully navigating the issue, India has been engaging with the
-          Taliban in Kabul but has not yet granted diplomatic recognition to the
-          Taliban regime. The Indian government is following the template of the
-          international community - engaging with the Taliban without officially
-          recognizing them per UN standards.
-        </p>
-        <p>
-          Afghanistan&apos;s Consuls General in Mumbai and Hyderabad announced
-          in November 2022 that they would keep the Afghan Embassy in New Delhi
-          open and operational – its closure was announced by Farid Mamundzay,
-          the ousted government’s Ambassador to India, who termed the Consuls
-          General as Taliban representatives. Given this, India is examining
-          three key indicators that do not amount to India&apos;s de facto
-          recognition of the Taliban regime:
-        </p>
-        <p>
-          First, the new leadership will continue flying the Islamic Republic of
-          Afghanistan&apos;s tricolor flag, not the Taliban&apos;s white flag.
-        </p>
-        <p>
-          Second, the Embassy will retain the old name - the Islamic Republic of
-          Afghanistan, instead of the Taliban’s Islamic Emirate of Afghanistan.
-        </p>
-        <p>
-          Third, no new Taliban-appointed diplomats will join the Afghan Embassy
-          in Delhi or the consulates in Mumbai and Hyderabad.
-        </p>
-        <p>
-          India’s red lines were conveyed to the new team, and the Afghan
-          Consuls General have promised officials in India&apos;s Ministry of
-          External Affairs that they will comply.
-        </p>
-        <p>
-          India has been cautious, not labeling them Taliban representatives if
-          they adhere to these commitments.
         </p>
       </div>
     ),
