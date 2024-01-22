@@ -55,7 +55,7 @@ const Technology = () => {
             <Link
               key={i.id}
               href={`/technology/${i.id}`}
-              className={`relative group w-full h-full overflow-hidden cursor-pointer rounded-xl bg-black/50 ${
+              className={`relative group w-full h-full overflow-hidden cursor-pointer rounded-xl bg-slate-200 ${
                 j === 0 ? "row-span-3" : "row-span-2"
               }`}
             >
