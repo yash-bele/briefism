@@ -3,7 +3,7 @@ import dynamic from "next/dynamic";
 import LoadingLeftSide from "@/components/Loading/LoadingLeftSide";
 const LeftSide = dynamic(() => import("./LeftSide"), {
   ssr: false,
-  loading: () => <LoadingLeftSide category={"entertainment"} />,
+  loading: () => <LoadingLeftSide category={"technology"} />,
 });
 
 const DynamicLeftSide = () => {
