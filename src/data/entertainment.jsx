@@ -2,6 +2,254 @@ import Image from "next/image";
 import Script from "next/script";
 
 export const entertainment = [
+  {
+    id: "rick-harrison-of-pawn-stars-condemns-border-crisis-after-son-s-fatal-overdose-says-nothing-is-being-done",
+    timestamp: "Jan 23, 2024",
+    image: `/entertainment/jan-23-2024/rick-harrison-of-pawn-stars-condemns-border-crisis-after-son-s-fatal-overdose-says-nothing-is-being-done.webp`,
+    title: `Rick Harrison of 'Pawn Stars' Condemns Border Crisis After Son's Fatal Overdose, Says 'Nothing is Being Done'`,
+    preArticle: `Rick Harrison, star of the hit show Pawn Stars, spoke out against the border crisis after it was revealed his son Adam Harrison died from a fentanyl overdose at age 39.  "Yes, I can confirm Adam died from a fentanyl overdose," the 58-year-old Rick told the New York Post. "The fentanyl crisis in thi`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Rick Harrison, star of the hit show Pawn Stars, spoke out against the
+          border crisis after it was revealed his son Adam Harrison died from a
+          fentanyl overdose at age 39.{" "}
+        </p>
+        <p>
+          &quot;Yes, I can confirm Adam died from a fentanyl overdose,&quot; the
+          58-year-old Rick told the New York Post. &quot;The fentanyl crisis in
+          this country must be taken more seriously. It seems it is just flowing
+          over the borders and nothing is being done about it. We must do
+          better.&quot;
+        </p>
+        <p>
+          Rick broke his silence on Instagram, posting a photo with Adam and
+          writing &quot;You will always be in my heart! I love you Adam.&quot;
+          The family previously said in a statement they were &quot;extremely
+          saddened&quot; and asked for privacy to grieve Adam&apos;s tragic
+          loss.{" "}
+        </p>
+        <p>
+          His death is being investigated by Las Vegas police. While Rick&apos;s
+          older son Corey was featured on Pawn Stars, Adam notably never
+          appeared on the show.
+        </p>
+        <p>
+          Adam&apos;s passing comes as drug overdose deaths surpassed 112,000
+          nationwide in 2023 for the first time ever, per reports. The spike is
+          driven by the synthetic opioid fentanyl flowing into the U.S. across
+          borders.{" "}
+        </p>
+        <p>
+          Experts say substantive solutions will require complex, costly and
+          time-intensive healthcare reforms, expanded access to housing and
+          mental health programs, and improved border security. But so far,
+          promises by politicians to stop fentanyl smuggling have lacked
+          actionable plans.
+        </p>
+        <p>
+          By speaking out, Rick Harrison aims to draw attention to the
+          devastating human toll of the border crisis that claimed his own
+          son&apos;s life. Adam&apos;s story underscores that behind the
+          statistics are real families suffering immense loss.
+        </p>
+        <p>
+          While the Harrison family grieves privately, Rick hopes Adam&apos;s
+          overdose spurs urgency in fighting the fentanyl epidemic destroying
+          lives and communities across America. His emotional plea captured both
+          the heartbreak of losing a child and the anger that more hasn&apos;t
+          been done to prevent such tragedies.
+        </p>
+        <p>
+          For the Pawn Stars patriarch, Adam&apos;s death encapsulates the total
+          failure to address border problems. By calling for real solutions,
+          Rick gives voice to the experiences of too many families who have
+          endured pain and loss from a crisis that keeps escalating out of
+          control. His activism transforms personal tragedy into a rallying cry
+          for officials to do better before more lives are senselessly lost.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "madhur-bhandarkar-visits-ram-mandir-in-ayodhya-says-everyone-was-in-tears-when-door-to-shree-ram-opened",
+    timestamp: "Jan 23, 2024",
+    image: `/entertainment/jan-23-2024/madhur-bhandarkar-visits-ram-mandir-in-ayodhya-says-everyone-was-in-tears-when-door-to-shree-ram-opened.avif`,
+    title: `Madhur Bhandarkar Visits Ram Mandir in Ayodhya, Says Everyone Was in Tears When Door to Shree Ram Opened`,
+    preArticle: `Filmmaker Madhur Bhandarkar was among the select few from Bollywood privileged to witness the historic inauguration at the Ram Mandir in Ayodhya on January 22nd. Speaking from Ayodhya, he described the incredible energy and euphoria amongst the crowds there.  Bhandarkar said the vibe was vibrant an`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Filmmaker Madhur Bhandarkar was among the select few from Bollywood
+          privileged to witness the historic inauguration at the Ram Mandir in
+          Ayodhya on January 22nd. Speaking from Ayodhya, he described the
+          incredible energy and euphoria amongst the crowds there.{" "}
+        </p>
+        <p>
+          Bhandarkar said the vibe was vibrant and the emotion of everyone
+          present was on another level. He called it a remarkable moment for all
+          Indians, especially when the temple doors finally opened and Ram Lalla
+          was revealed. People were overwhelmed and unable to control their
+          emotions, with many moved to tears according to the director.
+        </p>
+        <p>
+          When the doors opened, Bhandarkar said the crowds erupted in chants of
+          &quot;Jai Shree Ram&quot;, clapping and cheering at getting the first
+          glimpse of the idol. He called the experience emotional and
+          overwhelming for everyone present.
+        </p>
+        <p>
+          The 55-year-old felt honored and privileged to be among the few from
+          Bollywood included in the historic event, alongside esteemed actors,
+          cricketers, filmmakers and industrialists. He said witnessing the
+          inauguration was a once in a lifetime moment that he couldn&apos;t
+          miss for the world.{" "}
+        </p>
+        <p>
+          Having eagerly looked forward to it for weeks, Bhandarkar expressed
+          joy at being part of the ceremony and said it was a surreal moment he
+          would cherish his whole life.
+        </p>
+        <p>
+          According to the filmmaker, the most memorable part of the event was
+          when rose petals were showered by helicopters overhead. He said seeing
+          Ram Lalla&apos;s inner sanctum open as everyone cried was incredible
+          beyond words.
+        </p>
+        <p>
+          While Bhandarkar couldn&apos;t meet Prime Minister Modi, he said the
+          PM looked very happy, as did the entire Bollywood contingent present
+          during the celebrations.{" "}
+        </p>
+        <p>
+          The director also shared a viral selfie with his Fashion co-star
+          Kangana Ranaut, who he called a very good friend and talented actress.
+          He said they talked and clicked pictures together while seated near
+          each other at the ceremony.
+        </p>
+        <p>
+          Overall, Bhandarkar conveyed his awe at experiencing such a
+          significant spiritual and cultural milestone for India first-hand. As
+          one of the few Bollywood guests present, he described the inclusive
+          atmosphere and shared emotional reaction that made it a once in a
+          lifetime memory to cherish.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "siddharth-anand-explains-deepika-padukones-absence-from-fighter-promotions-we-cant-do-without-her",
+    timestamp: "Jan 23, 2024",
+    image: `/entertainment/jan-23-2024/siddharth-anand-explains-deepika-padukones-absence-from-fighter-promotions-we-cant-do-without-her.webp`,
+    title: `Siddharth Anand Explains Deepika Padukone's Absence From Fighter Promotions: 'We Can't Do Without Her'`,
+    preArticle: `Deepika Padukone has been noticeably absent from promotions for her upcoming film Fighter, including skipping the trailer launch event earlier this month. In a recent interview with Bollywood Hungama, director Siddharth Anand addressed the speculation around Deepika's lack of visibility and explaine`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Deepika Padukone has been noticeably absent from promotions for her
+          upcoming film Fighter, including skipping the trailer launch event
+          earlier this month. In a recent interview with Bollywood Hungama,
+          director Siddharth Anand addressed the speculation around
+          Deepika&apos;s lack of visibility and explained it is part of their
+          promotional strategy.
+        </p>
+        <p>
+          When asked about Deepika&apos;s absence and the chatter about it on
+          social media, Siddharth said people often make conjectures but this
+          was a deliberate decision. He revealed Deepika was meant to attend the
+          trailer launch but fell ill, and would now be &quot;everywhere&quot;
+          in promotions from Tuesday onwards.{" "}
+        </p>
+        <p>
+          Siddharth emphasized that doing promotions for Fighter without Deepika
+          made no sense. He said, &quot;Obviously we can&apos;t do without
+          Deepika...Deepika and Hrithik&apos;s pair is one of the major
+          highlights. As a filmmaker, seeing them together is hugely exciting so
+          I can only imagine the audience is also waiting for it.&quot;
+        </p>
+        <p>
+          According to the director, holding back on showing too much of Deepika
+          and Hrithik before release was intentional. He wanted audiences to
+          enjoy their chemistry and magic unfold on the big screen without
+          reaching a saturation point.
+        </p>
+        <p>
+          Earlier, some reports had claimed Deepika unfollowed Siddharth on
+          Instagram, hinting at possible tensions. But the director clarified it
+          was always the plan to have Deepika join promotions close to release.
+        </p>
+        <p>
+          Fighter stars Hrithik Roshan as Squadron Leader Shamsher Pathania,
+          Deepika Padukone as Squadron Leader Minal Rathore and Anil Kapoor as
+          Group Captain Rakesh Jai Singh. It revolves around the elite Air
+          Dragons unit and their internal and external battles.{" "}
+        </p>
+        <p>
+          The high-octane action film marks Deepika and Hrithik&apos;s first
+          on-screen collaboration. It is also Deepika&apos;s third project with
+          director Siddharth Anand after Bachna Ae Haseeno and Pathaan.{" "}
+        </p>
+        <p>
+          With two of Bollywood&apos;s biggest stars paired up for the first
+          time, anticipation for Fighter is sky-high. Siddharth&apos;s comments
+          indicate they plan to capitalize on that buzz with Deepika front and
+          center of promotions in the final run-up to release. Her millions of
+          fans will undoubtedly be glad to finally see their favorite star
+          highlighting the film they&apos;ve eagerly awaited.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "amitabh-bachchan-shares-photos-of-ram-lalla-after-visiting-ram-mandir-in-ayodhya-says-faith-is-beyond-words",
+    timestamp: "Jan 23, 2024",
+    image: `/entertainment/jan-23-2024/amitabh-bachchan-shares-photos-of-ram-lalla-after-visiting-ram-mandir-in-ayodhya-says-faith-is-beyond-words.avif`,
+    title: `Amitabh Bachchan Shares Photos of Ram Lalla After Visiting Ram Mandir in Ayodhya, Says Faith is Beyond Words`,
+    preArticle: `Veteran actor Amitabh Bachchan shared photos on his blog from his visit to the Ram Mandir in Ayodhya for the Pran Pratishtha ceremony of Ram Lalla. He attended the special event on Monday before returning to Mumbai late at night.  The megastar posted pictures of the Ram Lalla deity inside the new t`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Veteran actor Amitabh Bachchan shared photos on his blog from his
+          visit to the Ram Mandir in Ayodhya for the Pran Pratishtha ceremony of
+          Ram Lalla. He attended the special event on Monday before returning to
+          Mumbai late at night.{" "}
+        </p>
+        <p>
+          The megastar posted pictures of the Ram Lalla deity inside the new
+          temple, as well as exterior shots of the magnificent structure. He
+          included a photo of himself with folded hands, seeking blessings on
+          the spiritually significant occasion. Amitabh opted for traditional
+          attire and a shawl for the ceremony.{" "}
+        </p>
+        <p>
+          Describing it as a day filled with divine relevance, he wrote “Back
+          from the Pran Pratishtha ceremony at Ayodhya.” Amitabh was accompanied
+          to Ayodhya by his son and fellow actor Abhishek Bachchan.{" "}
+        </p>
+        <p>
+          After the ceremony, Amitabh and Abhishek also met with Prime Minister
+          Narendra Modi and Uttar Pradesh Chief Minister Yogi Adityanath. Photos
+          show Amitabh greeting CM Adityanath with folded hands and conversing,
+          before Abhishek joined them. PM Modi also welcomed Amitabh with folded
+          hands, which the screen icon returned respectfully.
+        </p>
+        <p>
+          Interestingly, Amitabh recently purchased a 10,000 square foot plot of
+          land in Ayodhya, further showing his deep connection to the holy city.
+          The registrar confirmed the ₹9 crore transaction for the property was
+          completed, with Amitabh&apos;s lawyer executing the agreement on his
+          behalf.
+        </p>
+        <p>
+          In addition to the Bachchans, many other Bollywood celebrities like
+          Ranbir Kapoor, Alia Bhatt, Anupam Kher, Kangana Ranaut, and Sonu Nigam
+          attended the momentous Ram Mandir ceremony. With approximately 8,000
+          invitees including 1,500 VIP guests, the event featured stunning
+          visuals of army helicopters showering flowers on the new temple.
+        </p>
+      </div>
+    ),
+  },
   // jan-22-2024
   {
     id: "fighter-pre-bookings-deepika-padukone-and-hrithik-roshan-starrer-surpasses-80000-tickets-nearing-the-rs-3crore-mark",
@@ -210,346 +458,6 @@ export const entertainment = [
           unique and compelling stories. Perhaps Telugu cinema is maturing
           towards scripts mattering as much as scales and stars.
         </p>
-      </div>
-    ),
-  },
-  {
-    id: "box-office-update-pankaj-tripathi-film-main-atal-hoon-gains-momentum",
-    timestamp: "Jan 22, 2024",
-    image: `/entertainment/jan-22-2024/box-office-update-pankaj-tripathi-film-main-atal-hoon-gains-momentum.webp`,
-    title: `Box Office Update: Pankaj Tripathi's film "Main Atal Hoon" gains momentum, raking in Rs 5.65 crore on day 3`,
-    preArticle: `The recently released biopic 'Main Atal Hoon' starring Pankaj Tripathi as former Prime Minister Atal Bihari Vajpayee had a slow start at the box office despite the lead actor's popularity. 
-
-The film earned only Rs 1.15 crore on its opening day, Friday. But it picked up pace over the weekend, collec`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The recently released biopic &apos;Main Atal Hoon&apos; starring
-          Pankaj Tripathi as former Prime Minister Atal Bihari Vajpayee had a
-          slow start at the box office despite the lead actor&apos;s popularity.{" "}
-        </p>
-        <p>
-          The film earned only Rs 1.15 crore on its opening day, Friday. But it
-          picked up pace over the weekend, collecting Rs 2.1 crore on Saturday
-          and an estimated Rs 2.40 crore on Sunday. This takes its total
-          domestic box office earnings so far to around Rs 5.65 crore. The film
-          recorded a 15.81% Hindi occupancy on Sunday.
-        </p>
-        <p>
-          Directed by National Award winner Ravi Jadhav, &apos;Main Atal
-          Hoon&apos; is co-written by Jadhav and Rishi Virmani. The cast
-          includes Pankaj Tripathi in the lead along with Piyush Mishra, Raja
-          Rameshkumar Sevak, Daya Shankar Pandey, Payal Nair, Paula McGlynn and
-          Gauri Sukhtankar.{" "}
-        </p>
-        <p>
-          Despite Pankaj Tripathi&apos;s strong performance, the film has
-          received mixed reviews from critics so far. Film critic Shubhra Gupta
-          of Indian Express gave it 2 stars. She praised Tripathi as &quot;born
-          to play this part&quot; with his command over Hindi and speech rhythms
-          being &quot;so hypnotic.&quot;{" "}
-        </p>
-        <p>
-          However, she felt even an actor of Tripathi&apos;s caliber could not
-          do much with such a reductive script. She remarked that instead of a
-          rounded portrait, what we get is a narrative of Vajpayee as a budding
-          politician who shaped the Jan Sangh, Janata Party and the current BJP.
-        </p>
-        <p>
-          More positive reviews highlighted Tripathi&apos;s brilliant mimicry
-          and how he compellingly captured Vajpayee&apos;s mannerisms. But many
-          agreed the script tended to hero-worship Vajpayee rather than
-          critically analyze his lengthy political journey.{" "}
-        </p>
-        <p>
-          The mixed response indicates that while Indian audiences are eager for
-          more political biopics, there is also greater demand now for nuanced
-          storytelling rather than hagiographies. For &apos;Main Atal Hoon&apos;
-          to pick up pace at the box office, it may need strong word of mouth
-          based on Tripathi&apos;s performance.
-        </p>
-      </div>
-    ),
-  },
-  // jan-21-2024
-  {
-    id: "rohit-shetty-reminisces-about-his-father-struggle-with-alcoholism-following-the-tragic-death-of-shatrughan-sinha-body-double-on-film-set",
-    timestamp: "Jan 21, 2024",
-    image:
-      "/entertainment/jan-21-2024/rohit-shetty-reminisces-about-his-father-struggle-with-alcoholism-following-the-tragic-death-of-shatrughan-sinha-body-double-on-film-set.jpg",
-    title: `Rohit Shetty Reminisces about His Father's Struggle with Alcoholism Following the Tragic Death of Shatrughan Sinha’s Body Double on Film Set`,
-    preArticle: `Filmmaker Rohit Shetty has recently disclosed how a stunt accident on
-          the sets of his 2013 Shah Rukh Khan-starrer Chennai Express brought
-          back traumatic memories of a fatal mishap under his late father MB
-          Shetty's supervision in the 1980 film Bombay 405 Miles.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Filmmaker Rohit Shetty has recently disclosed how a stunt accident on
-          the sets of his 2013 Shah Rukh Khan-starrer Chennai Express brought
-          back traumatic memories of a fatal mishap under his late father MB
-          Shetty&apos;s supervision in the 1980 film Bombay 405 Miles.
-        </p>
-        <p>
-          In Bombay 405 Miles, featuring Shatrughan Sinha, MB Shetty was the
-          action director. Sinha&apos;s body double Mansoor had to jump from a
-          warehouse as part of a stunt sequence involving a huge blast.
-        </p>
-        <p>
-          In an interview, Rohit Shetty recounted how during the shoot, due to
-          chaos and confusion, the blast operator and camera operator had
-          inadvertently switched positions unbeknownst to Shetty. So when
-          Mansoor jumped, Shetty signaled the blast technician assuming he was
-          the cameraman. The warehouse exploded with Mansoor inside, leading to
-          his demise.
-        </p>
-        <p>
-          Shetty was a child then and only heard about the horrific accident in
-          the evening. A year later, his father passed away as well, overcome by
-          guilt over the incident. Though MB Shetty had a strong reputation
-          among industry folks, this tragedy weighed heavily on him. He turned
-          to alcoholism, withdrew from work and remained homebound before his
-          death. The family understood his suffering led to his premature demise
-          – destiny&apos;s cruelty.
-        </p>
-        <p>
-          Shetty then described a controlled car blast scene in Chennai Express.
-          Though his team removes fuel tanks for such stunts, some petrol had
-          spilled on the chassis while prepping. Unbeknownst to them, the
-          imported car had a reserve tank. After filming the scene, a spark
-          reignited the splattered petrol, engulfing the car in flames with
-          veteran stuntman Shankar Anna inside.
-        </p>
-        <p>
-          They panicked as the flaming, overturned car trapped Shankar inside.
-          Fortunately fire brigades on standby doused the flames, broke the
-          glass and rescued him with minor burns. The chilling parallel to his
-          father&apos;s long-ago accident shook Shetty deeply before he gathered
-          himself and rushed Shankar to the hospital. He has fully recovered.
-        </p>
-        <p>
-          In the interview, Shetty called his mother Ratna a &quot;fighter&quot;
-          who raised him and his sister through immense hardship after his
-          father&apos;s death. Despite struggles and poverty, she shielded them
-          from sadness and nurtured a stoic work ethic. To support the family,
-          she resumed stunt doubling for stars, having met MB Shetty through
-          this work. If you notice the top-angle shots in Andaaz song Zindagi Ek
-          Safar, Ratna is the one sitting there!
-        </p>
-        <p>
-          After Shetty started working, Ratna stopped and their fortunes
-          changed. But he inherited her grit to face challenges head-on. Shetty
-          feels that as long as there is work, there is hope. He remains
-          eternally grateful to his mother for shielding him throughout the
-          decade-long adversity after his father&apos;s passing.
-        </p>
-        <p>
-          The director has now made his streaming debut with the Prime Video
-          series Indian Police Force starring Sidharth Malhotra, Vivek Oberoi
-          and Shilpa Shetty.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "salman-khan-graces-joy-awards-in-saudi-arabia-strikes-a-pose-alongside-anthony-hopkins",
-    timestamp: "Jan 21, 2024",
-    image:
-      "/entertainment/jan-21-2024/salman-khan-graces-joy-awards-in-saudi-arabia-strikes-a-pose-alongside-anthony-hopkins.avif",
-    title: `Salman Khan Graces Joy Awards in Saudi Arabia; Strikes a Pose alongside Anthony Hopkins`,
-    preArticle: `Actor Salman Khan recently attended the Joy Awards in Riyadh, Saudi
-          Arabia, where he presented the Lifetime Achievement Award to veteran
-          Egyptian actor Essad Youniss. A video of Salman meeting Hollywood
-          legend Anthony Hopkins at the event has gone viral on social media.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Actor Salman Khan recently attended the Joy Awards in Riyadh, Saudi
-          Arabia, where he presented the Lifetime Achievement Award to veteran
-          Egyptian actor Essad Youniss. A video of Salman meeting Hollywood
-          legend Anthony Hopkins at the event has gone viral on social media.
-        </p>
-        <p>
-          Dressed sharply in a lavender shirt and violet-grey suit, Salman
-          exuded charm in the video. He is seen posing with Hopkins, known for
-          films like The Silence of the Lambs and The Father.
-        </p>
-        <div>
-          <blockquote className="twitter-tweet" data-media-max-width="560">
-            <p lang="en" dir="ltr">
-              What a legendary moment ❤️‍🔥🔥
-              <br />
-              Megastar{" "}
-              <a href="https://twitter.com/hashtag/SalmanKhan?src=hash&amp;ref_src=twsrc%5Etfw">
-                #SalmanKhan
-              </a>{" "}
-              with Anthony Hopkins at{" "}
-              <a href="https://twitter.com/hashtag/JoyAwards?src=hash&amp;ref_src=twsrc%5Etfw">
-                #JoyAwards
-              </a>{" "}
-              2024.
-              <a href="https://t.co/xYjKwB7IU3">pic.twitter.com/xYjKwB7IU3</a>
-            </p>
-            &mdash; MASS (@Freak4Salman){" "}
-            <a href="https://twitter.com/Freak4Salman/status/1748916541511565664?ref_src=twsrc%5Etfw">
-              January 21, 2024
-            </a>
-          </blockquote>{" "}
-          <Script
-            src="https://platform.twitter.com/widgets.js"
-            strategy="lazyOnload"
-          />
-        </div>
-        <p>
-          In another video, Salman is honoring Youniss with the Lifetime
-          Achievement Award on stage.
-        </p>
-        <div>
-          <blockquote className="twitter-tweet" data-media-max-width="560">
-            <p lang="en" dir="ltr">
-              <a href="https://twitter.com/hashtag/SalmanKhan?src=hash&amp;ref_src=twsrc%5Etfw">
-                #SalmanKhan
-              </a>{" "}
-              honored the Egyptian actress{" "}
-              <a href="https://twitter.com/hashtag/EssadYouniss?src=hash&amp;ref_src=twsrc%5Etfw">
-                #EssadYouniss
-              </a>{" "}
-              with the Lifetime Achievement Award at the{" "}
-              <a href="https://twitter.com/hashtag/JoyAwards?src=hash&amp;ref_src=twsrc%5Etfw">
-                #JoyAwards
-              </a>{" "}
-              in{" "}
-              <a href="https://twitter.com/hashtag/Riyadh?src=hash&amp;ref_src=twsrc%5Etfw">
-                #Riyadh
-              </a>{" "}
-              <a href="https://t.co/qq9V5TjOht">pic.twitter.com/qq9V5TjOht</a>
-            </p>
-            &mdash; $@M (@SAMTHEBESTEST_){" "}
-            <a href="https://twitter.com/SAMTHEBESTEST_/status/1748962140931899437?ref_src=twsrc%5Etfw">
-              January 21, 2024
-            </a>
-          </blockquote>{" "}
-          <Script
-            src="https://platform.twitter.com/widgets.js"
-            strategy="lazyOnload"
-          />
-        </div>
-        <p>
-          Bollywood star Alia Bhatt was also present at the awards ceremony. She
-          was bestowed with the Honorary Entertainment Makers Award. In her
-          widely shared acceptance speech, Alia expressed deep love for cinema
-          and gratitude to the organizers for bringing together diverse talents.
-        </p>
-        <p>
-          She remarked that movies are her obsession and life, and spoke about
-          the magical joy of love and cinema. Alia thanked everyone for the
-          honor and love she felt in Riyadh.
-        </p>
-        <p>
-          Currently hosting the reality show Bigg Boss 17 on weekends, Salman
-          Khan&apos;s fans eagerly await his next film The Bull, produced by
-          Karan Johar&apos;s Dharma Productions and directed by Vishnu Vardhan
-          of Shershaah fame. The actor was last seen in Tiger 3.
-        </p>
-      </div>
-    ),
-  },
-  // jan-20-2024
-  {
-    id: "review-of-indian-police-force-rohit-shetty-and-sidharth-malhotra-show-offers-superficial-appeal-with-limited-depth",
-    timestamp: "Jan 20, 2024",
-    image:
-      "/entertainment/jan-20-2024/review-of-indian-police-force-rohit-shetty-and-sidharth-malhotra-show-offers-superficial-appeal-with-limited-depth.avif",
-    title: `Review of Indian Police Force: Rohit Shetty and Sidharth Malhotra's Show Offers Superficial Appeal with Limited Depth`,
-    preArticle: `With his first foray into the OTT space, filmmaker Rohit Shetty brings
-          his signature crash-bang formulaic cop drama to the streaming universe
-          with 'Indian Police Force'. Teaming up with co-director Sushwanth
-          Prakash, Shetty packs the 7-episode show with the over-the-top tropes
-          and tactics seen in his box office hit franchises.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          With his first foray into the OTT space, filmmaker Rohit Shetty brings
-          his signature crash-bang formulaic cop drama to the streaming universe
-          with &apos;Indian Police Force&apos;. Teaming up with co-director
-          Sushwanth Prakash, Shetty packs the 7-episode show with the
-          over-the-top tropes and tactics seen in his box office hit franchises.
-        </p>
-        <p>
-          Fans of the director&apos;s &apos;Singham&apos; and &apos;Simmba&apos;
-          films won&apos;t find surprises here. The series stays squarely in
-          Shetty&apos;s wheelhouse, cramming in evil Muslim terrorists countered
-          by valiant Muslim officers, contrived plots threatening innocents, and
-          vehicles spinning wildly through the air. Romantic song interludes
-          between the lead pair stretch the runtime.
-        </p>
-        <p>
-          References to his previous cop heroes Singham and Simmba reinforce
-          we&apos;re in familiar territory, transplanted to Delhi though largely
-          realized through obvious CGI landmarks. It&apos;s a greatest hits of
-          elements from Shetty&apos;s cinematic cop sagas, now extended into an
-          episodic streaming iteration.
-        </p>
-        <p>
-          With his heavy-hitter lead stars Akshay Kumar, Ajay Devgn and Ranveer
-          Singh unavailable, Shetty casts Sidharth Malhotra, Vivek Oberoi and
-          Shilpa Shetty as the khaki-clad officers. They sport the mandatory
-          sculpted midriffs and tough guy Ray-Ban glares synonymous with the
-          director&apos;s testosterone-fueled style.
-        </p>
-        <p>
-          Vivek Oberoi is compelling but underutilized as the washed-up
-          inspector reinstated for one last case. Sidharth Malhotra&apos;s
-          wide-eyed sincerity sits oddly with the brute force his character
-          employs. But Shilpa Shetty seems to relish playing the badass officer
-          known simply by her surname, getting in on the kicking and punching
-          action. Here&apos;s hoping she sees more of that in a likely second
-          season.
-        </p>
-        <p>
-          With the freedom of streaming, Shetty delivers his signature bells and
-          whistles without the price of a theater ticket. Logic, nuance and
-          detail are beside the point in this turbo-charged spectacle. The
-          director&apos;s steadfast formula marches on, now reaching fans&apos;
-          screens at home.
-        </p>
-        <p>
-          &apos;Indian Police Force&apos; relies on familiar devices like
-          misdirection and sleight of hand rather than air-tight plotting to
-          propel its thin story. The cast is decorative, tasked with modeling
-          police apparel and dodging explosions rather than embodying
-          characters. Fans seeking high-octane stunts and mindless entertainment
-          will get their fill.
-        </p>
-        <p>
-          But those expecting evolution or innovation in Shetty&apos;s
-          storytelling may be disappointed. The show brings his high-decibel cop
-          anthems to OTT largely unchanged. For devotees of the director&apos;s
-          campy maximalism, it&apos;s a familiar fast food fix now delivered via
-          streaming. With a captive audience at home, seasoning is optional when
-          serving more of the same.
-        </p>
-        <p>
-          The debut season amounts to an all-you-can-eat Rohit Shetty cop drama
-          buffet. Logical restraint and nuance won&apos;t be on the menu. But
-          stunts will be super-sized along with the pyrotechnics. So viewers
-          craving adventures in Shetty&apos;s OTT universe can have their
-          expectations met by this platter of the director&apos;s greatest hits.
-          &apos;Indian Police Force&apos; offers a tried and tested sensory
-          overload feast for fans seeking familiar flavor.
-        </p>
-        <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-          <li>
-            Indian Police Force cast: Sidharth Malhotra, Vivek Oberoi, Shilpa
-            Shetty, Mrinal Kulkarni, Sharad Kelkar, Mukesh Rishi, Mayyank
-            Tandon, Vaidehi Parshurami, Isha Talwar, Shweta Tiwari, and Shruti
-            Panwar
-          </li>
-          <li>
-            Indian Police Force directors: Rohit Shetty and Sushwanth Prakash
-          </li>
-          <li>Indian Police Force rating: 1.5 stars</li>
-        </ul>
       </div>
     ),
   },
