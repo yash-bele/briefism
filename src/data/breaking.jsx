@@ -2,6 +2,362 @@ import Image from "next/image";
 import Script from "next/script";
 
 export const breaking = [
+  // jan-23-2024
+  {
+    id: "manipur-legislators-demand-suspension-of-ceasefires-accountability-for-assam-rifles-after-outbreak-of-violence",
+    timestamp: "Jan 23, 2024",
+    image: `/breaking/jan-23-2024/manipur-legislators-demand-suspension-of-ceasefires-accountability-for-assam-rifles-after-outbreak-of-violence.avif`,
+    title: `Manipur Legislators Demand Suspension of Ceasefires, Accountability for Assam Rifles After Outbreak of Violence`,
+    preArticle: `Following recent outbreaks of violence, 32 of the 60 members of the Manipur Legislative Assembly came together on Sunday to unanimously adopt several resolutions. These included calls to immediately revoke Suspension of Operations (SoO) agreements with armed militant groups accused of killing civili`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Following recent outbreaks of violence, 32 of the 60 members of the
+          Manipur Legislative Assembly came together on Sunday to unanimously
+          adopt several resolutions. These included calls to immediately revoke
+          Suspension of Operations (SoO) agreements with armed militant groups
+          accused of killing civilians, and to replace the Assam Rifles
+          paramilitary force.{" "}
+        </p>
+        <p>
+          The joint statement and demands come as a special delegation from the
+          Union Home Ministry arrived in Manipur to hold talks between the
+          Meitei and Kuki ethnic communities. Tensions between the groups have
+          been high since clashes began in May of last year.
+        </p>
+        <p>
+          The legislators argued that the immunity provided by SoO ceasefire
+          pacts with Kuki militants is enabling unchecked violence and a
+          “never-ending cycle” of attacks on civilians. They stated that any
+          militant signatories found to be “indulging in killing of innocent
+          civilians and violation of ground rules” should have their SoO
+          protections abruptly terminated.{" "}
+        </p>
+        <p>
+          Further, the lawmakers said that SoO agreements set to expire on
+          February 29, 2024 should not be renewed for separatist groups also
+          engaging in anti-state activities.{" "}
+        </p>
+        <p>
+          In addition, the joint statement called for a “complete disarmament”
+          of all unauthorized weapons across Manipur by central and state
+          security forces. It described recent RPG attacks on Indian soil and
+          citizens by Myanmar-based militants as unacceptable and damaging to
+          India’s prestige if allowed to continue.
+        </p>
+        <p>
+          The legislators also accused the Assam Rifles paramilitary force of
+          being unresponsive and acting as “mute spectators” during frequent
+          civilian shootings. They argued the Assam Rifles leadership should be
+          held accountable and considered replacing the force with units willing
+          to return fire when civilians are under attack.
+        </p>
+        <p>
+          According to the lawmakers, the lack of appropriate reaction by
+          current forces to safeguard Manipuri civilians has shattered public
+          faith and trust. They urged the central government to take action
+          promptly, warning they will consult the public on next steps if
+          demands go unheeded.
+        </p>
+        <p>
+          The strongly-worded resolution underscores the Manipur Assembly’s
+          mounting frustration with worsening law and order. The unified front
+          presented by lawmakers across party lines sends a clear signal that
+          the state government will not tolerate further violence from
+          militants.{" "}
+        </p>
+        <p>
+          Their call for revoking SoO immunity agreements suggests existing
+          ceasefire pacts have failed, only enabling separatists without
+          supporting peace. Meanwhile, criticism of Assam Rifles highlights
+          perceived security failures that have left civilians vulnerable amidst
+          the unrest.
+        </p>
+        <p>
+          As tensions threaten to spiral further out of control, the lawmakers’
+          tough stance aims to reinforce that peacebuilding must remain on
+          track. Their demands compel both militant groups and central forces to
+          uphold their duties in protecting innocent lives. With Manipur’s
+          leadership speaking as one, the onus now falls on New Delhi to respond
+          decisively to early signs of a dangerous breakdown in stability.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "israeli-forces-raid-gaza-hospital-leaving-50-dead-us-calls-for-protection-of-civilians",
+    timestamp: "Jan 23, 2024",
+    image: `/breaking/jan-23-2024/israeli-forces-raid-gaza-hospital-leaving-50-dead-us-calls-for-protection-of-civilians.avif`,
+    title: `Israeli Forces Raid Gaza Hospital Leaving 50 Dead; US Calls for Protection of Civilians`,
+    preArticle: `Israeli forces launched a major offensive in Gaza overnight, with airstrikes, ground troops and naval bombardments targeting the southern city of Khan Younis. At least 50 Palestinians were killed in the heavy fighting, marking the deadliest clashes so far this month as Israel expands its incursion i`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Israeli forces launched a major offensive in Gaza overnight, with
+          airstrikes, ground troops and naval bombardments targeting the
+          southern city of Khan Younis. At least 50 Palestinians were killed in
+          the heavy fighting, marking the deadliest clashes so far this month as
+          Israel expands its incursion into the Gaza Strip.{" "}
+        </p>
+        <p>
+          According to residents and journalists, Israeli troops stormed the
+          Al-Khair hospital in Khan Younis, arresting medical staff and leaving
+          the wounded without access to urgent trauma care. Forces also
+          surrounded another hospital, al-Amal, cutting it off from contact.
+          Last week, Israel began a major push to capture Khan Younis which it
+          says is the main base for Hamas militants who were behind rocket
+          attacks on southern Israel in October that killed 1200 Israelis.
+        </p>
+        <p>
+          The intense bombardment forced thousands of terrified Palestinian
+          families to flee south along the coastal road. Many had to abandon
+          their homes and possessions, loading whatever they could carry onto
+          donkey carts or vehicles. The United Nations estimates 85% of
+          Gaza&apos;s 2.3 million residents have now been displaced, with a
+          quarter facing starvation.{" "}
+        </p>
+        <p>
+          Israel&apos;s Prime Minister Benjamin Netanyahu has vowed to continue
+          the offensive until there is &quot;complete victory&quot; over Hamas.
+          He also aims to secure the return of around 100 Israeli hostages still
+          being held captive in Gaza. However, Netanyahu faces growing pressure
+          from relatives of the hostages to negotiate a prisoner swap deal with
+          Hamas.{" "}
+        </p>
+        <p>
+          The United States called on Israel to take measures to protect
+          innocent civilians, medical staff and patients as it conducts
+          operations in Gaza. White House spokesperson John Kirby acknowledged
+          Israel&apos;s right to self-defense but emphasized the need to act
+          lawfully and avoid harm to hospitals and people seeking care.
+        </p>
+        <p>
+          According to reports, Israel recently put forward a proposal to pause
+          military action for up to two months in exchange for a phased release
+          of the remaining 136 Israeli hostages held in Gaza. The offer was
+          reportedly submitted through Egyptian and Qatari mediators. While it
+          does not fully meet Hamas’ demand to end the war, it goes further than
+          previous Israeli proposals.
+        </p>
+        <p>
+          The US Middle East envoy Brett McGurk was in the region this week
+          holding talks aimed at advancing a hostage exchange deal.
+          Communication services in Gaza have been severely disrupted due to the
+          fighting, cutting off residents from the outside world.{" "}
+        </p>
+        <p>
+          A group of relatives of the Israeli hostages stormed a parliamentary
+          session in Jerusalem demanding more action to free their loved ones.
+          Around 20 family members held up photos, signalling growing domestic
+          pressure on Netanyahu four months into the conflict with Hamas.
+        </p>
+        <p>
+          Saudi Arabia’s Foreign Minister Prince Faisal bin Farhan stated the
+          kingdom will not normalize ties with Israel or fund Gaza’s
+          reconstruction without a credible path forward for Palestinian
+          statehood. His remarks underscored tensions between Israel and allies
+          like Saudi Arabia and the US over the Gaza crisis and Netanyahu’s
+          rejection of a two-state solution.{" "}
+        </p>
+        <p>
+          As the civilian death toll rises, Israel faces heavy international
+          criticism over the Gaza offensive. But Netanyahu has remained
+          steadfast, arguing military control is the only path forward despite
+          the toll on Gazans. With no end in sight, the standoff has damaged
+          Israel’s alliances. Saudi condemnation highlights how the ongoing
+          impasse over Gaza’s future has strained even its staunchest regional
+          partners.
+        </p>
+        <p>
+          With pressure mounting on all sides, the coming weeks could prove
+          decisive. Israelis demand the safe return of hostages held in Gaza but
+          lack confidence in the government’s approach. Gazans urgently need
+          humanitarian relief but remain subject to devastating Israeli
+          bombardment. And the US and allies like Saudi Arabia are losing
+          patience with Netanyahu’s hardline strategy. Compromise to end the
+          bloodshed seems elusive but a tipping point may soon be reached,
+          forcing all sides toward a resolution.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "trumps-defamation-trial-postponed-to-tomorrow-due-to-covid-worries",
+    timestamp: "Jan 23, 2024",
+    image: `/breaking/jan-23-2024/trumps-defamation-trial-postponed-to-tomorrow-due-to-covid-worries.webp`,
+    title: `Trump's Defamation Trial Postponed to Tomorrow Due to COVID Worries`,
+    preArticle: `Former president Donald Trump is now set to testify on Wednesday in writer E. Jean Carroll's ongoing civil defamation trial in Manhattan federal court. The trial was postponed for two days earlier this week due to COVID-19 concerns after one juror fell ill and Trump's lawyer, Alina Habba, came down`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Former president Donald Trump is now set to testify on Wednesday in
+          writer E. Jean Carroll&apos;s ongoing civil defamation trial in
+          Manhattan federal court. The trial was postponed for two days earlier
+          this week due to COVID-19 concerns after one juror fell ill and
+          Trump&apos;s lawyer, Alina Habba, came down with a fever after
+          potential exposure.{" "}
+        </p>
+        <p>
+          The case focuses on Trump&apos;s public denial in June 2019 of
+          Carroll&apos;s claim that he sexually assaulted and raped her in a
+          Bergdorf Goodman dressing room in the mid 1990s. A separate jury
+          previously found Trump liable for defamation and awarded Carroll $5
+          million in damages related to a similar denial he made in October
+          2022.
+        </p>
+        <p>
+          In the current trial, the nine jurors will only decide how much
+          additional money, if any, Trump should pay Carroll for defamation.
+          Carroll, now 80 years old, is seeking at least $10 million in
+          compensation.
+        </p>
+        <p>
+          Before the COVID-related delay, Habba stated Trump had planned to
+          testify after Carroll&apos;s legal team finished presenting their
+          case. Trump was also scheduled to be in New Hampshire on Tuesday for
+          the state&apos;s Republican presidential primary, where he has been
+          leading in early polls.{" "}
+        </p>
+        <p>
+          The GOP nominee will likely go on to challenge current president Joe
+          Biden, the expected Democratic candidate, in the 2024 election this
+          November.{" "}
+        </p>
+        <p>
+          Carroll&apos;s lawyer Roberta Kaplan, who is not related to the judge,
+          said her team only had a small amount of additional testimony left to
+          present before resting their case. Both Habba and her co-counsel
+          Michael Madaio have since tested negative for the virus, though
+          neither they nor Trump wore masks in court previously.
+        </p>
+        <p>
+          Through his lawyers and in a post on his Truth Social platform, Trump
+          has continued vigorously denying Carroll&apos;s accusations and
+          maintained he knows nothing about her. He dismissed the trial as a
+          &quot;Crooked Joe Biden-inspired Witch Hunt.&quot; The former
+          president has also pleaded not guilty in several other ongoing
+          criminal cases related to his attempts to overturn the 2020 election
+          results.
+        </p>
+        <p>
+          Earlier in the trial, Judge Lewis Kaplan rejected Trump&apos;s request
+          for a mistrial based on Carroll discussing threats she received after
+          publicly accusing Trump of assault. While Trump did attend jury
+          selection and the start of the second trial, he is not required to
+          testify if he chooses not to.{" "}
+        </p>
+        <p>
+          Carroll&apos;s attorneys have argued Trump may try to cause
+          unnecessary chaos if he does testify, perhaps believing it could help
+          him politically. Last week, after Carroll&apos;s lawyer claimed jurors
+          may have overheard Trump loudly decrying the trial as a &quot;witch
+          hunt&quot; and &quot;con job&quot; in the courthouse, Judge Kaplan
+          cautioned that he could be removed from court for disruptive behavior.
+          Trump responded that he would &quot;love it,&quot; to which Kaplan
+          simply replied, &quot;I know you would.&quot;
+        </p>
+        <p>
+          Now that Trump is slated to take the stand, all eyes will be on
+          whether he maintains his adamant denial of Carroll&apos;s story under
+          oath or causes an outburst. His testimony may prove pivotal in the
+          jury&apos;s decision regarding further financial penalties. For
+          Carroll and her lawyers, it marks a long-awaited chance to directly
+          confront Trump about his alleged sexual assault and the ensuing
+          defamation.
+        </p>
+        <p>
+          Regardless of the outcome, the case represents an important milestone
+          in Carroll&apos;s multi-year quest to hold Trump publicly accountable
+          and fight back against what she sees as his use of power and platform
+          to evade consequences and silence victims. Though a polarizing public
+          figure, Carroll has underscored that all women deserve justice when
+          coming forward with harassment claims, no matter the accused&apos;s
+          status or politics.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "dexter-king-martin-luther-king-jrs-younger-son-has-passed-away-at-the-age-of-62",
+    timestamp: "Jan 23, 2024",
+    image: `/breaking/jan-23-2024/dexter-king-martin-luther-king-jrs-younger-son-has-passed-away-at-the-age-of-62.webp`,
+    title: `Dexter King, Martin Luther King Jr.'s younger son, has passed away at the age of 62`,
+    preArticle: `Dexter Scott King, the younger son of renowned civil rights activist Dr. Martin Luther King Jr. and Coretta Scott King, passed away on Monday at the age of 62 after a battle with prostate cancer. His wife, Leah Weber King, shared that he died peacefully in his sleep at their home in Malibu, Californ`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Dexter Scott King, the younger son of renowned civil rights activist
+          Dr. Martin Luther King Jr. and Coretta Scott King, passed away on
+          Monday at the age of 62 after a battle with prostate cancer. His wife,
+          Leah Weber King, shared that he died peacefully in his sleep at their
+          home in Malibu, California. She expressed that despite the challenges
+          of his illness, he faced it with strength and courage until the end.{" "}
+        </p>
+        <p>
+          Dexter King was born in Atlanta, Georgia on January 30, 1961 and named
+          after the Dexter Avenue Baptist Church in Montgomery, Alabama where
+          his father served as pastor early in his career. He was only 7 years
+          old when his father was assassinated in 1968 in Memphis, Tennessee.
+          The shocking loss of his influential father at such a young age deeply
+          impacted Dexter.
+        </p>
+        <p>
+          In a statement, his sister Dr. Bernice A. King, who now serves as CEO
+          of the King Center founded by their parents, expressed her profound
+          heartbreak at losing another sibling. She said she is praying for
+          strength during this incredibly difficult time.{" "}
+        </p>
+        <p>
+          Like his father before him, Dexter King attended Morehouse College in
+          Atlanta after graduating high school. At the time of his passing, he
+          had taken up leadership roles at institutions that preserve his
+          father&apos;s legacy, serving as Chairman of the King Center and
+          President of the King Estate.{" "}
+        </p>
+        <p>
+          Dexter had also followed in his father&apos;s footsteps as an activist
+          and leader in the civil rights movement. He lent his voice and
+          influence to important causes and helped ensure new generations could
+          learn about and be inspired by Dr. King&apos;s vision for equity and
+          justice.
+        </p>
+        <p>
+          Beyond his civil rights activism, Dexter King was also an actor and
+          portrayed his father in the 2002 TV movie &quot;The Rosa Parks
+          Story,&quot; allowing him to deeply connect with his father&apos;s
+          story and further share it with the world.
+        </p>
+        <p>
+          Reverend Al Sharpton, prominent civil rights leader and founder of the
+          National Action Network, shared a heartfelt statement honoring Dexter
+          King. He remarked on the incredible pain Dexter experienced losing his
+          father and role model at such a young age. However, instead of letting
+          the tragedy break him, Dexter found meaning and purpose in carrying on
+          his father&apos;s dreams - dedicating his life to making Dr. King and
+          Coretta Scott King&apos;s hopes for the future into reality.
+        </p>
+        <p>
+          Dexter King was preceded in death by his parents and two of his
+          siblings, sister Yolanda King who died in 2007, and younger brother
+          Martin Luther King III who died in 1968 at only 10 months old.{" "}
+        </p>
+        <p>
+          He is survived by his wife Leah, daughter Yolanda Renee King, sister
+          Dr. Bernice King, brother Martin Luther King III, and other family
+          members. The loss of his light at only 62 years old is deeply felt by
+          all those who knew and loved him.
+        </p>
+        <p>
+          While mourning his passing, Dexter King&apos;s family, friends and all
+          who were touched by his work honoring his father&apos;s memory find
+          solace in knowing his spirit lives on. The dream he worked so
+          tirelessly for will continue on through new generations he inspired,
+          reminding us that Dr. King&apos;s fight for justice and equality
+          remains as relevant and vital today as ever.
+        </p>
+      </div>
+    ),
+  },
   // jan-22-2024
   {
     id: "the-supreme-court-reprimands-the-tamil-nadu-government-for-restricting-the-telecast-of-the-ram-temple-event",
@@ -218,313 +574,6 @@ export const breaking = [
           message that such trigger-happy violence will not be tolerated. Beyond
           that, there needs to be sensible reform to prevent such needless
           tragedies recurring.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "assam-cm-takes-jibe-at-rahul-gandhi-on-ram-temple-inauguration-day",
-    timestamp: "Jan 22, 2024",
-    image: `/breaking/jan-22-2024/assam-cm-takes-jibe-at-rahul-gandhi-on-ram-temple-inauguration-day.jpg`,
-    title: ` Assam CM takes jibe at Rahul Gandhi on Ram temple inauguration day`,
-    preArticle: `Assam Chief Minister Himanta Biswa Sarma responded with a Ramayana reference when asked today why Rahul Gandhi was not invited to the Ram Mandir inauguration ceremony. Sarma said "Why talk of Ravan today? Let's talk of Ram on this auspicious day." The remark alluded to the BJP's attacks comparing`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Assam Chief Minister Himanta Biswa Sarma responded with a Ramayana
-          reference when asked today why Rahul Gandhi was not invited to the Ram
-          Mandir inauguration ceremony. Sarma said &quot;Why talk of Ravan
-          today? Let&apos;s talk of Ram on this auspicious day.&quot;{" "}
-        </p>
-        <p>
-          The remark alluded to the BJP&apos;s attacks comparing Congress to the
-          demon king Ravan after its top leaders declined invites. Sarma added
-          that after 500 years, this was a good day to talk of Lord Ram and not
-          Ravan.
-        </p>
-        <p>
-          Rahul Gandhi did not receive an invite to the consecration event led
-          by PM Modi in Ayodhya. Instead, invites went to Congress president
-          Mallikarjun Kharge, Sonia Gandhi and parliamentary leader Adhir Ranjan
-          Chowdhury, who declined citing politicization ahead of elections.{" "}
-        </p>
-        <p>
-          Earlier, Rahul had termed it a &quot;Narendra Modi function&quot;
-          organized by the BJP and RSS. He said it was difficult for Congress to
-          attend what was a political event designed around the PM and RSS. This
-          drew sharp criticism from BJP leaders.
-        </p>
-        <p>
-          The BJP has been slamming those who declined the invite as
-          &apos;anti-Hindu&apos; and said the people will punish them
-          electorally. Sarma&apos;s remark continues that narrative on the day
-          of the historic ceremony.
-        </p>
-        <p>
-          However, Congress has maintained it respects the significance of the
-          temple but cannot partake in what it sees as an event hijacked for
-          political gains. Rahul claimed the function was organized around PM
-          Modi, not Lord Ram.
-        </p>
-        <p>
-          The war of words underscores how religious events have also become
-          political battlegrounds. Both sides are seeking to claim the legacy of
-          Ayodhya.
-        </p>
-        <p>
-          But beyond the politics, this historic moment has deep cultural and
-          spiritual resonance for millions of Hindus worldwide. The consecration
-          ceremonies mark the culmination of a long and emotional journey for
-          Ram devotees.{" "}
-        </p>
-        <p>
-          The attendance of top dignitaries signifies Ayodhya&apos;s restoration
-          as a preeminent place of faith and pilgrimage. However, keeping the
-          sanctity of the occasion should take priority over scoring political
-          points.
-        </p>
-        <p>
-          On this auspicious occasion, reconciliation rather than recrimination
-          can better heal past divides. The temple carries a universal message
-          of unity and justice that transcends any single ideology or party.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "a-newly-discovered-ancient-cat-species-roamed-spain-15-million-years-ago",
-    timestamp: "Jan 22, 2024",
-    image: `/breaking/jan-22-2024/a-newly-discovered-ancient-cat-species-roamed-spain-15-million-years-ago.avif`,
-    title: ` A newly discovered ancient cat species roamed Spain 15 million years ago`,
-    preArticle: `A new ancient cat species dubbed Magerifelis peignei has been identified after its fossilized remains were discovered in Madrid, Spain. The small feline lived approximately 15.5 million years ago during the Middle Miocene epoch. Lead author Dr. Manuel Salesa and colleagues from the National Museum `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          A new ancient cat species dubbed Magerifelis peignei has been
-          identified after its fossilized remains were discovered in Madrid,
-          Spain. The small feline lived approximately 15.5 million years ago
-          during the Middle Miocene epoch.
-        </p>
-        <p>
-          Lead author Dr. Manuel Salesa and colleagues from the National Museum
-          of Natural Sciences-CSIC announced the findings. Magerifelis belonged
-          to the Felinae subfamily, possessing a bony hyoid that allowed purring
-          but not roaring.{" "}
-        </p>
-        <p>
-          The exceptionally well-preserved fossils were found at the Principe
-          Pio-2 site in 2007. They comprised a nearly complete lower jaw with
-          most teeth intact except the incisors. This remarkable specimen
-          provides valuable insights into the paleoecology of these primitive
-          cats.
-        </p>
-        <p>
-          &quot;We recovered a practically complete jaw that preserved almost
-          all of its teeth in exceptional condition,&quot; said co-author Dr.
-          Siliceo. Uniquely, it had a tiny lower second molar absent in all
-          living and extinct felids except Proailurus.
-        </p>
-        <p>
-          Magerifelis is estimated to have weighed around 7.6 kg, comparable to
-          female modern lynx, servals and caracals. Comparison of its lower jaw
-          shows it was larger than today&apos;s wildcats but smaller than lynx
-          species when adjusted for mandibular length.{" "}
-        </p>
-        <p>
-          However, its teeth were smaller than modern counterparts of similar
-          jaw size. This indicates a more robust build with a relatively higher
-          jaw, similar to the much larger Eurasian lynx.
-        </p>
-        <p>
-          According to the researchers, this powerful bite force would have
-          enabled Magerifelis to potentially hunt relatively large prey compared
-          to its size. Dentition analysis suggests its diet included small
-          mammals, reptiles, birds and insects.
-        </p>
-        <p>
-          Other Miocene cat fossils have been found across Eurasia and Africa.
-          But Magerifelis provides the first clear evidence of primitive felids
-          in the Iberian Peninsula. The discovery sheds new light on cat
-          evolution and dispersion during the Middle Miocene.
-        </p>
-        <p>
-          Analysis shows it was an agile tree-climber well-adapted to mixed
-          habitats of forests, wetlands and open spaces. As an early felid, it
-          represents a pivotal transitional stage between the extinct
-          Pseudaelurus and modern cats like lynxes and wildcats.{" "}
-        </p>
-        <p>
-          The serendipitous urban discovery highlights the scientific value of
-          fossil sites even in busy city settings. The researchers say further
-          excavation could uncover more Magerifelis remains and offer deeper
-          insight into primitive cats.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "one-year-after-the-monterey-park-and-half-moon-bay-shootings-joe-biden-pays-tribute-to-the-victims-and-advocates-for-gun-control-measures",
-    timestamp: "Jan 22, 2024",
-    image: `/breaking/jan-22-2024/one-year-after-the-monterey-park-and-half-moon-bay-shootings-joe-biden-pays-tribute-to-the-victims-and-advocates-for-gun-control-measures.jpeg`,
-    title: `One year after the Monterey Park and Half Moon Bay shootings, Joe Biden pays tribute to the victims and advocates for gun control measures`,
-    preArticle: `On the solemn one-year mark of the tragic Monterey Park mass shooting, President Joe Biden paid tribute to the 11 lives lost when a gunman opened fire during Lunar New Year celebrations. He also remembered the 7 killed in Half Moon Bay just two days later in January 2022. A 72-year-old suspect, Hu`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          On the solemn one-year mark of the tragic Monterey Park mass shooting,
-          President Joe Biden paid tribute to the 11 lives lost when a gunman
-          opened fire during Lunar New Year celebrations. He also remembered the
-          7 killed in Half Moon Bay just two days later in January 2022.{" "}
-        </p>
-        <p>
-          A 72-year-old suspect, Huu Can Tran, unleashed the attack at the Star
-          Dance Studio in Monterey Park before dying by suicide during a
-          standoff with police in Torrance. Two days later, 67-year-old Chunli
-          Zhao murdered 7 at two nurseries in Half Moon Bay before being taken
-          into custody.
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              One year ago today, during Lunar New Year celebrations in Monterey
-              Park, 11 people were killed in a heinous act of gun violence.
-              <br />
-              <br />
-              Two days later, the tragedy was compounded, as a gunman killed
-              seven people in Half Moon Bay.
-              <br />
-              <br />
-              Jill and I pray for the families of the victims.{" "}
-              <a href="https://t.co/W31PIr2qbR">pic.twitter.com/W31PIr2qbR</a>
-            </p>
-            &mdash; President Biden (@POTUS){" "}
-            <a href="https://twitter.com/POTUS/status/1749152399933985131?ref_src=twsrc%5Etfw">
-              January 21, 2024
-            </a>
-          </blockquote>{" "}
-          <Script src="https://platform.twitter.com/widgets.js" />
-        </div>
-        <p>
-          &quot;Jill and I pray for the families of the victims,&quot; Biden
-          wrote in a Twitter thread, marking the painful anniversary.{" "}
-        </p>
-        <p>
-          He noted that in the aftermath, he had announced executive actions to
-          address America&apos;s gun violence epidemic. This included launching
-          the first-ever White House Office of Gun Violence Prevention and
-          implementing the bipartisan Safer Communities Act.{" "}
-        </p>
-        <p>
-          Biden urged Congress to take further steps like banning assault
-          weapons and high-capacity magazines, removing liability protections
-          for gun manufacturers, enacting red flag laws, mandating universal
-          background checks and safe storage requirements.{" "}
-        </p>
-        <p>
-          In an extended statement from the White House, Biden recalled how the
-          back-to-back shootings had &quot;shocked the conscience of our
-          nation.&quot; He highlighted honoring the heroism of Brandon Tsay, who
-          disarmed the Monterey Park shooter, during his State of the Union
-          address.
-        </p>
-        <p>
-          Biden also noted his visit to grieving families in Monterey Park and
-          his new executive actions on gun reform announced there.{" "}
-        </p>
-        <p>
-          He praised California&apos;s response, including passing over 20 new
-          gun laws and investing in violence intervention programs. Biden urged
-          other states to follow this example.
-        </p>
-        <p>
-          The statement underscores that a year on, the wounds from the
-          unconscionable loss of life remain fresh. While executive actions and
-          state laws reflect progress, the need for congressional action on gun
-          safety remains urgent.{" "}
-        </p>
-        <p>
-          The Monterey Park and Half Moon Bay families deserve to see real
-          change emerge from their anguish. Only by working together across all
-          levels of government can the scourge of gun violence be meaningfully
-          addressed, as Biden reiterated on this solemn anniversary.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "joe-biden-ridicules-donald-trump-for-mistaking-nikki-haley-with-nancy-pelosi",
-    timestamp: "Jan 22, 2024",
-    image: `/breaking/jan-22-2024/joe-biden-ridicules-donald-trump-for-mistaking-nikki-haley-with-nancy-pelosi.jpg`,
-    title: ` Joe Biden ridicules Donald Trump for mistaking Nikki Haley with Nancy Pelosi`,
-    preArticle: `President Biden recently mocked former President Donald Trump on X for mixing up Nikki Haley and Nancy Pelosi during a speech. Biden posted a video highlighting Haley's comments at a January 20th rally and Trump's speech the day before where he erroneously named Haley instead of Pelosi. "Last nigh`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          President Biden recently mocked former President Donald Trump on X for
-          mixing up Nikki Haley and Nancy Pelosi during a speech. Biden posted a
-          video highlighting Haley&apos;s comments at a January 20th rally and
-          Trump&apos;s speech the day before where he erroneously named Haley
-          instead of Pelosi.{" "}
-        </p>
-        <p>
-          &quot;Last night, Trump is at a rally going on and on about me but got
-          confused and said he was running against Obama. He never ran against
-          Obama. Don&apos;t put our country at risk like this,&quot; Haley is
-          heard saying in Biden&apos;s video.{" "}
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              I don’t agree with Nikki Haley on everything, but we agree on this
-              much: She is not Nancy Pelosi.{" "}
-              <a href="https://t.co/hjNgmcrwAP">pic.twitter.com/hjNgmcrwAP</a>
-            </p>
-            &mdash; Joe Biden (@JoeBiden){" "}
-            <a href="https://twitter.com/JoeBiden/status/1749131121114091648?ref_src=twsrc%5Etfw">
-              January 21, 2024
-            </a>
-          </blockquote>{" "}
-          <Script src="https://platform.twitter.com/widgets.js" />
-        </div>
-        <p>
-          &quot;I don&apos;t agree with Nikki Haley on everything, but we agree
-          on this much: She is not Nancy Pelosi,&quot; Biden captioned the
-          snippet.
-        </p>
-        <p>
-          After Trump&apos;s gaffe, Haley took a dig at his mental fitness at a
-          Keene rally, saying &quot;We can&apos;t have someone else that we
-          question whether they&apos;re mentally fit to do this.&quot;
-        </p>
-        <p>
-          Trump, however, claimed at a Manchester rally that he &quot;aced&quot;
-          a cognitive test, boasting &quot;I feel my mind is stronger now than
-          it was 25 years ago. Is that possible?&quot;{" "}
-        </p>
-        <p>
-          The test Trump referred to is the Montreal Cognitive Assessment
-          administered in 2018 by then-White House physician Ronny Jackson. It
-          screens for mild cognitive issues. At the time, Jackson said Trump
-          scored 30/30 and was &quot;mentally very sharp, very intact.&quot;
-        </p>
-        <p>
-          The video exchange underscores the debate around Trump&apos;s mental
-          acuity as he mounts another presidential bid. While supporters insist
-          he remains as sharp as ever, critics have consistently questioned if
-          he&apos;s shown signs of decline.
-        </p>
-        <p>
-          Biden seems eager to stoke doubts by highlighting Trump&apos;s
-          occasional confused statements. But weaponizing such gaffes for
-          political attacks also risks ableism around age-related mental
-          decline.{" "}
-        </p>
-        <p>
-          Ultimately, fitness for the immense pressures of the presidency merits
-          serious discussion. But any claims of impairment must be grounded in a
-          non-partisan medical assessment rather than cherry-picked errors.
-          Voters will soon render their verdict on whether Trump still possesses
-          the judgment to potentially lead the country again.
         </p>
       </div>
     ),
