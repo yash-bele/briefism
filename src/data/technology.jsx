@@ -1,6 +1,303 @@
 import Script from "next/script";
 
 export const technology = [
+  // jan-23-2024
+  {
+    id: "samsung-competes-with-apple-in-advancing-noninvasive-glucose-monitoring",
+    timestamp: "Jan 23, 2024",
+    image: `/technology/jan-23-2024/samsung-competes-with-apple-in-advancing-noninvasive-glucose-monitoring.webp`,
+    title: `Samsung Competes with Apple in Advancing Noninvasive Glucose Monitoring`,
+    preArticle: `Samsung is actively pursuing the development of cutting-edge health sensors to rival Apple, as reported by Bloomberg's Mark Gurman. The company's goal is to incorporate noninvasive blood glucose monitoring and continuous blood pressure tracking across its product range. This initiative is part of S`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Samsung is actively pursuing the development of cutting-edge health
+          sensors to rival Apple, as reported by Bloomberg&apos;s Mark Gurman.
+          The company&apos;s goal is to incorporate noninvasive blood glucose
+          monitoring and continuous blood pressure tracking across its product
+          range.
+        </p>
+        <p>
+          This initiative is part of Samsung&apos;s broader strategy to
+          integrate advanced health features, exemplified by the recently
+          unveiled Galaxy Ring smart ring. Hon Pak, a Samsung executive leading
+          the health technology initiative, envisions providing consumers with a
+          comprehensive overview of their well-being through sensors deployed on
+          various body parts and within the home environment.
+        </p>
+        <p>
+          During an interview, Pak emphasized the significance of achieving
+          continuous blood pressure and glucose monitoring, recognizing it as a
+          pivotal advancement. He stated, &quot;If we can do continuous blood
+          pressure and glucose, we&apos;re in a whole different ballgame. I
+          think that&apos;s where everyone is trying to get to. We&apos;re
+          putting significant investment toward that.&quot;
+        </p>
+        <p>
+          It&apos;s crucial to note that Apple has been actively working for
+          years on developing a noninvasive glucose reader, a technology that
+          holds immense potential benefits for diabetics. However, Pak refrains
+          from providing a specific timeline for Samsung&apos;s
+          technology&apos;s market debut, expressing optimism that some form of
+          noninvasive glucose monitoring could become a reality within the next
+          five years.
+        </p>
+        <p>
+          The Galaxy Ring, recently introduced by Samsung and set for release by
+          the end of 2024, will initially focus on tracking activity and sleep.
+          Additional health features are planned for future updates. The
+          discreet form factor of the ring may appeal to individuals seeking
+          health tracking in a less conspicuous device compared to smartwatches.
+          While pricing details are yet to be finalized, the Galaxy Ring is
+          expected to lack iPhone compatibility, unlike Samsung&apos;s watches.
+        </p>
+        <p>
+          Gurman highlights the challenges associated with creating a
+          noninvasive blood sugar monitor, noting Apple&apos;s struggles despite
+          a decade of effort. Samsung is also working on enhancing blood
+          pressure tracking on its smartwatches, aiming for reduced calibration
+          requirements. Pak underscores the goal of providing blood pressure
+          assessments that focus more on indicating cardiovascular risk rather
+          than providing precise values.
+        </p>
+        <p>
+          In addition to smart rings and watches, Samsung is exploring the
+          integration of new sensors into earbuds. These sensors could track
+          temperature and heart rate, leveraging the ear canal&apos;s proximity
+          to the heart for more accurate measurements. The data from earbuds,
+          combined with wrist-based measurements and environmental factors, aims
+          to offer a more holistic health overview.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "apple-ios-unveils-stolen-device-protection-collaborative-playlists-and-enhanced-features",
+    timestamp: "Jan 23, 2024",
+    image: `/technology/jan-23-2024/apple-ios-unveils-stolen-device-protection-collaborative-playlists-and-enhanced-features.png`,
+    title: `Apple iOS 17.3 Unveils Stolen Device Protection, Collaborative Playlists, and Enhanced Features`,
+    preArticle: `Apple is releasing the iOS 17.3 update, introducing notable features such as 'Stolen Device Protection' and 'Collaborative Apple Music Playlists.' This update aims to enhance security measures and offer new avenues for interactive music experiences. Let's delve into the key highlights of iOS 17.3. `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Apple is releasing the iOS 17.3 update, introducing notable features
+          such as &apos;Stolen Device Protection&apos; and &apos;Collaborative
+          Apple Music Playlists.&apos; This update aims to enhance security
+          measures and offer new avenues for interactive music experiences.
+          Let&apos;s delve into the key highlights of iOS 17.3.
+        </p>
+        <p>
+          <span className="text-xl block">Stolen Device Protection:</span>{" "}
+          Addressing iPhone theft concerns, Apple introduces the &apos;Stolen
+          Device Protection&apos; feature. This security enhancement imposes
+          additional safeguards when the device is in locations outside of
+          trusted environments like home or work.
+        </p>
+        <p>
+          Beyond the device passcode, the feature incorporates biometric
+          authentication requirements for tasks such as accessing iCloud-stored
+          passwords, making Safari purchases, disabling Lost Mode, changing
+          Apple ID credentials, altering the iPhone passcode, and initiating
+          device data erasure. To activate this feature, users can navigate to
+          the &apos;Face ID & Passcode&apos; section within device settings and
+          enable the &apos;Stolen Device Protection&apos; toggle. This valuable
+          security layer is applicable to all iPhones running iOS 17.
+        </p>
+        <p>
+          <span className="text-xl block">
+            Collaborative Apple Music Playlists:
+          </span>{" "}
+          iOS 17.3 introduces the much-awaited feature of collaborative
+          playlists on Apple Music. This functionality, previously available in
+          beta versions, empowers users to create playlists or leverage existing
+          ones and invite friends or family to contribute songs.
+        </p>
+        <p>
+          To engage in this collaborative music experience, users can launch
+          Apple Music, access a playlist, and tap on the person icon. This
+          action generates a shareable link, enabling others to join and add
+          songs to the playlist. Additionally, users listening to collaborative
+          playlists can express reactions with emojis, such as hearts or thumbs
+          up, which animate when the corresponding song is played.
+        </p>
+        <p>
+          <span className="text-xl block">AirPlay Support for Hotels:</span> In
+          a move to enhance user experiences in select hotels, iOS 17.3
+          introduces AirPlay support. Users with updated devices can now
+          seamlessly stream content from Apple devices like iPads, iPhones, and
+          Macs in hotels deemed compatible with AirPlay by Apple. This
+          functionality enables users to enjoy content from various streaming
+          platforms on larger screens within the hotel environment, using their
+          individual credentials.
+        </p>
+        <p>
+          <span className="text-xl block">AppleCare Coverage Display:</span>{" "}
+          Another notable addition in iOS 17.3 is the display of AppleCare
+          coverage for all devices associated with a user&apos;s Apple account.
+          This information is conveniently accessible under the &apos;AppleCare
+          and Warranty&apos; section within the &apos;General&apos; tab in the
+          Settings app. This feature provides users with a comprehensive
+          overview of AppleCare coverage for all their signed-in devices.
+        </p>
+        <p>
+          In conclusion, the iOS 17.3 update signifies Apple&apos;s commitment
+          to enhancing user security, collaboration in music experiences, and
+          seamless content streaming in select hotel environments. With these
+          new features, Apple continues to refine and enrich the user experience
+          across its range of devices.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "samsung-galaxy-s24-vs-apple-iphone-15-comparing-two-exceptional-base-model-flagships-to-help-you-decide",
+    timestamp: "Jan 23, 2024",
+    image: `/technology/jan-23-2024/samsung-galaxy-s24-vs-apple-iphone-15-comparing-two-exceptional-base-model-flagships-to-help-you-decide.webp`,
+    title: `Samsung Galaxy S24 vs. Apple iPhone 15: Comparing Two Exceptional Base Model Flagships to Help You Decide`,
+    preArticle: `For those seeking a compact phone with flagship features at a more affordable price, the choice between the Apple iPhone 15 and the Samsung Galaxy S24 can be challenging. In this comparison, we'll explore key aspects to assist you in making an informed decision. Both the base models of the Galaxy S`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          For those seeking a compact phone with flagship features at a more
+          affordable price, the choice between the Apple iPhone 15 and the
+          Samsung Galaxy S24 can be challenging. In this comparison, we&apos;ll
+          explore key aspects to assist you in making an informed decision.
+        </p>
+        <p>
+          Both the base models of the Galaxy S24 series and the iPhone 15 series
+          feature flat displays with aluminum frames, maintaining consistency
+          with their predecessors. However, design distinctions emerge, with the
+          Galaxy S24 sporting a punch-hole display and the iPhone 15 adopting
+          the Dynamic Island from the iPhone 14 Pro series. Back designs also
+          differ, with Samsung opting for individual cutouts for each camera
+          lens, while Apple employs a sizable camera island in the top left
+          corner. Despite these differences, both phones exhibit similarities to
+          their predecessors.
+        </p>
+        <p>
+          The Galaxy S24, slightly lighter than the iPhone 15 by 4 grams, boasts
+          a marginally larger 6.2-inch screen compared to the iPhone&apos;s 6.1
+          inches. Both displays exhibit brightness under direct sunlight, but
+          the Galaxy S24 gains an edge in scrolling responsiveness with its high
+          refresh rate 120Hz display, surpassing the iPhone 15&apos;s 60Hz
+          screen.
+        </p>
+        <p>
+          Choosing between the two depends on user experience preferences. If
+          you are already entrenched in the Apple ecosystem, the iPhone 15 may
+          better suit your needs. Software-wise, the devices run on different
+          operating systems, reflecting a matter of personal preference.
+          Notably, the Galaxy S24&apos;s AI-powered features and a seven-year
+          update policy, compared to the iPhone&apos;s five-year policy, offer
+          potential advantages for Samsung users. Additionally, the Galaxy S24
+          features an always-on display, leveraging its LTPO screen to conserve
+          battery when enabled.
+        </p>
+        <p>
+          In terms of functionality, while the iPhone 15 maintains familiarity
+          with previous models, the Galaxy S24 introduces AI-powered
+          capabilities such as live call translation, &apos;Chat Assist,&apos;
+          and &apos;Circle to Search&apos; through Galaxy AI.
+        </p>
+        <p>
+          Performance-wise, the Galaxy S24, equipped with the Exynos 2400
+          chipset (benchmarks pending), competes with the iPhone 15 featuring
+          Apple&apos;s A16 Bionic chipset. Although real-world performance
+          remains to be seen, both phones are expected to handle multitasking
+          without noticeable lag.
+        </p>
+        <p>
+          The camera setups vary, with the Galaxy S24 featuring a 50MP primary
+          camera, a 12MP ultrawide, and a 10MP telephoto with 3x optical zoom.
+          The iPhone 15 opts for a 48MP main camera, a 12MP ultrawide, but lacks
+          a dedicated telephoto lens. The choice may hinge on personal
+          preference for portrait shots or consideration for video recording
+          capabilities, with the Galaxy S24 supporting 8K recording compared to
+          the iPhone 15&apos;s 4K limit.
+        </p>
+        <p>
+          Despite a larger on-paper battery capacity in the Galaxy S24,
+          Apple&apos;s software optimization may result in similar screen-on
+          times. Both phones offer comparable charging speeds, claiming a 50%
+          charge in 30 minutes. Wireless charging and reverse wireless charging
+          at 15W and 4.5W, respectively, provide additional flexibility for both
+          devices.
+        </p>
+        <p>
+          Pricing-wise, the Galaxy S24 and iPhone 15 fall within the same
+          bracket, with the former priced at Rs 79,999 and the latter starting
+          from Rs 79,990. Choosing between them depends on individual needs and
+          preferences.
+        </p>
+        <p>
+          In the enduring Android vs. iOS debate, the Galaxy S24 stands out for
+          those desiring generative AI features and frequent software updates.
+          On the other hand, the iPhone 15 presents an excellent choice for
+          Apple enthusiasts seeking value for money. Ultimately, the decision
+          hinges on whether advanced AI capabilities or brand loyalty guides
+          your smartphone preferences.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "riot-games-reduces-workforce-by-11-due-to-market-challenges",
+    timestamp: "Jan 23, 2024",
+    image: `/technology/jan-23-2024/riot-games-reduces-workforce-by-11-due-to-market-challenges.jpg`,
+    title: `Riot Games Reduces Workforce by 11% Due to Market Challenges`,
+    preArticle: `Riot Games, renowned for creating League of Legends and Valorant, declared on Monday its decision to terminate approximately 530 jobs, constituting 11% of its workforce. This strategic move aligns with a broader trend in the gaming industry and tech sector, where major companies are downsizing speci`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Riot Games, renowned for creating League of Legends and Valorant,
+          declared on Monday its decision to terminate approximately 530 jobs,
+          constituting 11% of its workforce. This strategic move aligns with a
+          broader trend in the gaming industry and tech sector, where major
+          companies are downsizing specific divisions to address escalating
+          costs.
+        </p>
+        <p>
+          In a blog post, Riot Games CEO Dylan Jadeja explained the rationale
+          behind the layoffs. He emphasized that the company&apos;s rapid
+          expansion in recent years, more than doubling its headcount, led to
+          efforts being spread thin across numerous projects. The lack of clear
+          prioritization prompted the need for adjustments to refocus on
+          initiatives with the greatest impact on player experience while
+          cutting investments in less crucial areas.
+        </p>
+        <p>
+          The impact of the layoffs will be most significant in teams outside of
+          core development. Riot Games remains committed to prioritizing its
+          core live games, including League of Legends, Valorant, Teamfight
+          Tactics, and Wild Rift, along with associated esports and events.
+          However, the company will halt new game development under Riot Forge
+          and trim features in Legends of Runeterra, citing its underperformance
+          relative to expectations.
+        </p>
+        <p>
+          While expressing pride in past achievements, particularly in bringing
+          stories to life, Jadeja emphasized the necessity to redirect efforts
+          toward Riot&apos;s ongoing ambitious projects. Riot Games, a
+          subsidiary of the Chinese tech giant Tencent, has gained recognition
+          for its esports-centric popular franchises. In addition to game
+          development, Riot expanded its reach into entertainment with the
+          production of the Arcane TV show on Netflix. The company,
+          headquartered in Los Angeles, boasts a workforce of over 4,500
+          employees.
+        </p>
+        <p>
+          The decision to reduce staff at Riot Games coincides with recent
+          layoffs at tech giants like Google and Amazon. The trend of downsizing
+          has affected prominent developers such as ByteDance, Niantic, Epic
+          Games, and Ubisoft. Analysts foresee further job cuts in the tech
+          sector, with an estimated 7,500 positions eliminated since the
+          beginning of the year. The evolving landscape indicates a broader
+          industry response to economic challenges and shifting priorities
+          within the gaming and tech sectors.
+        </p>
+      </div>
+    ),
+  },
   // jan-21-2024
   {
     id: "palworld-the-pokemon-with-guns-game-achieves-over-3million-sales-in-just-40hours-post-launch",
@@ -277,383 +574,6 @@ export const technology = [
           utility for both creators and their communities seeking closer
           connections on WhatsApp.
         </p>
-      </div>
-    ),
-  },
-  {
-    id: "early-preorders-for-apple-vision-pro-headset-surge-shipping-now-extended-to-march",
-    timestamp: "Jan 20, 2024",
-    image:
-      "/technology/jan-20-2024/early-preorders-for-apple-vision-pro-headset-surge-shipping-now-extended-to-march.webp",
-    title: `Early Pre-orders for Apple's $3,499 Vision Pro Headset Surge, Shipping Now Extended to March`,
-    preArticle: `Apple has kicked off preorders for its hotly anticipated Vision Pro
-          mixed reality headset, with early signs of robust customer demand
-          quickly exhausting initial stock of the $3,499 device, as per a
-          Bloomberg report.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Apple has kicked off preorders for its hotly anticipated Vision Pro
-          mixed reality headset, with early signs of robust customer demand
-          quickly exhausting initial stock of the $3,499 device, as per a
-          Bloomberg report.
-        </p>
-        <p>
-          The headset became available for preorder online and on Apple&apos;s
-          app at 8am Eastern time on Tuesday. Delivery dates have already been
-          pushed back to March 8-15 for orders placed today, indicating either
-          limited supplies, strong early interest, or both.
-        </p>
-        <p>
-          Rapid sellouts of in-store pickup appointments on day one at many
-          locations also suggest high demand and/or constrained inventory.
-        </p>
-        <p>
-          Expanding options for consumers, Apple unveiled two additional
-          configurations beyond the base 256GB model. A 512GB version costs
-          $3,699, while a high-end 1TB option is priced at $3,899.
-        </p>
-        <p>
-          Apple is also selling a $199 case, $199 extra batteries, and $99
-          replacement bands for the headset. However, the unique ordering
-          process requires an iPhone or iPad to scan the customer&apos;s face
-          for optimal fit and vision prescription if needed.
-        </p>
-        <p>
-          Apple has not commented on sales, which is typical for new product
-          launches. But Wall Street analysts forecast a measured start for the
-          Vision Pro.
-        </p>
-        <p>
-          UBS predicts Apple will ship 300,000-400,000 units this year,
-          generating around $1.4 billion revenue. Despite the lofty $3,499 entry
-          price, Apple seems to have modest expectations for a gradual launch.
-        </p>
-        <p>
-          Initially only available in the U.S., the headset will expand to other
-          markets including the U.K., Canada and China. Per reports, Apple
-          internally expects a strong opening weekend followed by declining
-          sales in subsequent weeks.
-        </p>
-        <p>
-          Priced much higher than Meta&apos;s latest offering, the Vision Pro is
-          positioned as a premium device befitting its cutting-edge nature.
-          However, the specialized sizing process poses challenges for sharing
-          the headset with others.
-        </p>
-        <p>
-          The unique face scan determines the ideal light seal and strap from 25
-          seal options and 2 straps for each individual user. Prescription
-          inserts cost extra too. Some testers have also cited the
-          headset&apos;s weight as uncomfortable for long-term wear.
-        </p>
-        <p>
-          While niche currently, the mixed reality market offers opportunities
-          for Apple to woo its loyal, wealthy customer base with this futuristic
-          product. The company&apos;s history of sleek design and intuitive
-          interfaces helps cement the Vision Pro as the luxe choice for early
-          adopters.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "openais-sam-altman-looks-to-raise-billions-for-venture-in-artificial-intelligence-chip-manufacturing",
-    timestamp: "Jan 20, 2024",
-    image:
-      "/technology/jan-20-2024/openais-sam-altman-looks-to-raise-billions-for-venture-in-artificial-intelligence-chip-manufacturing.webp",
-    title: `OpenAI's Sam Altman Looks to Raise Billions for Venture in Artificial Intelligence Chip Manufacturing`,
-    preArticle: `OpenAI's CEO, Sam Altman, is actively pursuing the mobilization of
-          billions of dollars to establish a network of Artificial Intelligence
-          (AI) chip factories dedicated to semiconductor production, as reported
-          by Bloomberg on Friday. In the latest developments, Altman has
-          initiated discussions with major potential investors, including the
-          Abu Dhabi-based G42 and Japan's SoftBank Group. However, the
-          negotiations are still in the early stages, and a comprehensive list
-          of potential partners and contributors to the venture is yet to be
-          finalized.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          OpenAI&apos;s CEO, Sam Altman, is actively pursuing the mobilization
-          of billions of dollars to establish a network of Artificial
-          Intelligence (AI) chip factories dedicated to semiconductor
-          production, as reported by Bloomberg on Friday. In the latest
-          developments, Altman has initiated discussions with major potential
-          investors, including the Abu Dhabi-based G42 and Japan&apos;s SoftBank
-          Group. However, the negotiations are still in the early stages, and a
-          comprehensive list of potential partners and contributors to the
-          venture is yet to be finalized.
-        </p>
-        <p>
-          In a separate development, Altman expressed his views on the rapid
-          evolution of artificial intelligence during an interview with Axios at
-          Davos. He emphasized that AI products must evolve to allow extensive
-          individual customization, even if it means causing discomfort to
-          certain individuals.
-        </p>
-        <p>
-          Altman articulated, &quot;If the country said, you know, all gay
-          people should be killed on sight, then no ...that is well out of
-          bounds. But there are probably other things that I don&apos;t
-          personally agree with, but a different culture might. …We have to be
-          somewhat uncomfortable as a tool builder with some of the uses of our
-          tools,&quot; addressing the ethical considerations surrounding AI
-          applications.
-        </p>
-        <p>
-          The creator of ChatGPT also offered insights into the future
-          capabilities of AI. Altman suggested that, in the near future, users
-          might have the ability to query AI about the most significant emails
-          received throughout the day, enabling AI to provide concise summaries.
-          This potential integration of AI into daily tasks offers a glimpse
-          into the evolving landscape of AI applications, showcasing its
-          increasing role in enhancing efficiency and convenience for users.
-        </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">
-            Exploring Sam Altman&apos;s New Chip Venture:
-          </span>
-          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>
-              Sam Altman, who experienced a brief removal from OpenAI in
-              November, swiftly reinstated, is endeavoring to secure substantial
-              funding for the establishment of chip fabrication plants, commonly
-              known as ‘fabs.’
-            </li>
-            <li>
-              The production of chips incurs significant expenses, not only in
-              terms of funding but also due to the substantial amounts of
-              natural resources involved.
-            </li>
-            <li>
-              According to Bloomberg&apos;s report, Altman&apos;s innovative
-              project envisions collaboration with leading chip manufacturers,
-              intending to create a global network of chip factories.
-            </li>
-            <li>
-              Notable entities such as Intel, Taiwanese chipmaker Taiwan
-              Semiconductor Manufacturing Co, and Samsung Electronics have been
-              identified as potential partners for OpenAI in this pioneering
-              venture.
-            </li>
-            <li>
-              While the current status of discussions with G42 and SoftBank
-              Group remains unclear, the report suggests that G42, Altman&apos;s
-              partner since October of the previous year, is concentrating on
-              securing a substantial financial backing ranging between eight to
-              ten billion dollars for the chip venture.
-            </li>
-          </ul>
-        </div>
-      </div>
-    ),
-  },
-  // jan-18-2024
-  {
-    id: "samsung-galaxy-s24-series-launching-today-live-stream-expected-price-and-more",
-    timestamp: "Jan 18, 2024",
-    image:
-      "/technology/jan-18-2024/samsung-galaxy-s24-series-launching-today-live-stream-expected-price-and-more.avif",
-    title: `Samsung Galaxy S24 Series Launching Today: Live Stream, Expected Price, and More`,
-    preArticle: `The highly anticipated Samsung Galaxy Unpacked event is taking place
-          today in San Jose, where the tech giant is expected to unveil its most
-          advanced lineup of smartphones yet - the Galaxy S24 series. This new
-          generation of Galaxy S devices promises major upgrades and
-          improvements over their predecessors, making them Samsung's most
-          powerful smartphones to date.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The highly anticipated Samsung Galaxy Unpacked event is taking place
-          today in San Jose, where the tech giant is expected to unveil its most
-          advanced lineup of smartphones yet - the Galaxy S24 series. This new
-          generation of Galaxy S devices promises major upgrades and
-          improvements over their predecessors, making them Samsung&apos;s most
-          powerful smartphones to date.
-        </p>
-        <p>
-          The event is being held at the SAP Center in San Jose, California and
-          starts at 1 PM EST for US audiences, while Indian viewers can tune in
-          from 11:30 PM IST onwards. Samsung is live streaming the launch on
-          their official YouTube channel and social media platforms like
-          Facebook, ensuring global accessibility.
-        </p>
-        <p>
-          Those interested in following the event through Samsung&apos;s
-          official website have the chance to win a INR 5,000 voucher to spend
-          on Samsung products. Additionally, by pre-paying INR 1,999, you can
-          reserve a spot to be one of the first to purchase the new Galaxy S24
-          smartphones.
-        </p>
-        <p>
-          Rumors suggest that the Galaxy S24+ may be priced between INR 1,04,999
-          and INR 1,05,999 for the base 12GB RAM and 256GB storage model. This
-          indicates a significant price jump of over INR 10,000 compared to last
-          year&apos;s Galaxy S23+ which was priced at INR 94,999.
-        </p>
-        <p>
-          The top-of-the-line Galaxy S24 Ultra is speculated to cost between INR
-          1,34,999 and INR 1,35,999 for the same configuration. Again, this is
-          approximately INR 10,000 more than the S23 Ultra&apos;s starting price
-          of INR 1,24,999. Samsung appears to be considering a price hike for
-          its flagship S series, although leaked information implies the company
-          may retain existing prices. We will have to wait for official
-          confirmation during the launch event.
-        </p>
-        <p>
-          There is no available information yet regarding the pricing of the
-          standard Galaxy S24. For reference, the S23 was launched at INR 74,999
-          last year. Samsung may continue the same starting price for the base
-          S24 model, limiting the price increases to the S24+ and S24 Ultra
-          only. This mirrors Apple&apos;s strategy with its recent iPhone 15
-          lineup.
-        </p>
-        <p>
-          In India, pre-reservations for the Galaxy S24 series have already
-          commenced on Samsung&apos;s official website. With powerful upgrades,
-          new AI capabilities, and potentially higher prices, Samsung aims to
-          position the S24 series as its most premium smartphone range ever.
-        </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">Key highlights expected include:</span>
-          <ul className="space-y-1.5 list-outside list-disc marker:text-slate-400 ml-4">
-            <li>
-              Enhanced camera systems with new 200MP sensor on Ultra model
-            </li>
-            <li>Latest Snapdragon 8 Gen 2 processor for maximum performance</li>
-            <li>Brighter, more dynamic displays with higher refresh rates</li>
-            <li>Larger batteries for extended battery life</li>
-            <li>New privacy and security features</li>
-            <li>Refined design with potential new colors</li>
-            <li>S Pen support on Ultra model</li>
-            <li>OneUI 5.1 based on Android 13</li>
-          </ul>
-        </div>
-        <p>
-          With online reservations already open, stay tuned to Samsung
-          India&apos;s social channels and the Galaxy Unpacked livestream to
-          catch all the official Galaxy S24 details as they are announced. This
-          highly anticipated launch promises significant upgrades that once
-          again set the bar for premium smartphones this year.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "google-introduces-circle-for-search-a-novel-approach-to-searching-anywhere-anytime",
-    timestamp: "Jan 18, 2024",
-    image:
-      "/technology/jan-18-2024/google-introduces-circle-for-search-a-novel-approach-to-searching-anywhere-anytime.webp",
-    title: `Google Introduces Circle for Search: A Novel Approach to Searching Anywhere, Anytime`,
-    preArticle: `Google has long been pioneering search technology, leveraging speed,
-          diverse information, and relevance to transform how people explore the
-          internet. Recently, Google introduced two new search features powered
-          by Artificial Intelligence that provide more accessible and meaningful
-          ways for users to engage with search. These additions demonstrate
-          Google's commitment to investing in AI that helps people express needs
-          naturally and obtain relevant insights instantly.`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Google has long been pioneering search technology, leveraging speed,
-          diverse information, and relevance to transform how people explore the
-          internet. Recently, Google introduced two new search features powered
-          by Artificial Intelligence that provide more accessible and meaningful
-          ways for users to engage with search. These additions demonstrate
-          Google&apos;s commitment to investing in AI that helps people express
-          needs naturally and obtain relevant insights instantly.
-        </p>
-        <div className="space-y-1.5">
-          <span className="text-xl">
-            Circle to Search: Convenient Cross-App Queries
-          </span>
-          <div className="space-y-3">
-            <p>
-              This Android feature enables searching anything on-screen without
-              switching apps. Users can simply long press the home or navigation
-              button then highlight an object with tap, circle, scribble, etc.
-              to view contextual information within the app itself.
-            </p>
-            <p>
-              For example, if an influencer shows untagged fashion items, circle
-              them to instantly find and shop similar styles from various
-              retailers. Once done, swipe back to the original app.
-            </p>
-            <p>
-              As per Google, AI upgrades like multisearch (text and image
-              queries) already help users grasp concepts and topics by
-              aggregating helpful web information. Circle to Search brings that
-              convenience directly into any app. It launches first on select
-              premium Android devices like the Pixel 8, Pixel 8 Pro, and Galaxy
-              S24 series.
-            </p>
-            <p>
-              &quot;Circle to Search significantly advances expressing needs
-              conveniently without changing contexts. Combined with multisearch,
-              it enables more intuitive, natural search,&quot; said Alistair
-              Pott, Google&apos;s Director of Android Search Product Management.
-            </p>
-          </div>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">AI-Powered Search Overviews</span>
-          <div className="space-y-3">
-            <p>
-              Users can now point their camera at anything, snap a picture, or
-              upload a screenshot to ask a visual question. This utilizes
-              generative AI to instantly provide overview insights.
-            </p>
-            <p>
-              Initially available in the US without needing Search Labs
-              enrollment, this feature previews in other regions by accessing
-              overviews via Circle to Search.
-            </p>
-            <p>
-              Google states this allows more nuanced visual queries to swiftly
-              obtain key information. As gen AI applications prove helpful,
-              Google will incorporate them into mainstream Search, starting with
-              multisearch results.
-            </p>
-          </div>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">Prioritizing Privacy and Security</span>
-          <div className="space-y-3">
-            <p>
-              These user-centric search innovations also employ Google&apos;s
-              data safety approach for trustworthy experiences. User data
-              remains on device until explicitly sent to Google post-selection.
-            </p>
-            <p>
-              Moreover, the last 15 minutes of search history can be easily
-              deleted for privacy and control.
-            </p>
-            <p>
-              &quot;When you activate Circle to Search, everything occurs on
-              device - we&apos;re scanning what you&apos;re viewing but it
-              remains there. Only after explicit selection is anything sent to
-              Google for search. We also enabled quickly removing the last 15
-              minutes of search history,&quot; Pott explained.
-            </p>
-          </div>
-        </div>
-        <div className="space-y-1.5">
-          <span className="text-xl">The Future of Intuitive Search</span>
-          <div className="space-y-3">
-            <p>
-              Google considers these latest natural, intuitive search
-              capabilities just the beginning. To try them out, enroll in
-              general Google Search or the Search experiment.
-            </p>
-            <p>
-              Google is leveraging AI to transform search into a more intuitive,
-              insightful, and responsible experience. While still in initial
-              stages, these innovations aim to enable people to efficiently
-              access relevant information on their own terms.
-            </p>
-          </div>
-        </div>
       </div>
     ),
   },
