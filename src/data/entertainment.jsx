@@ -2,6 +2,327 @@ import Image from "next/image";
 import Script from "next/script";
 
 export const entertainment = [
+  // jan-24-2024
+  {
+    id: "laapataa-ladies-trailer-kiran-rao-and-aamir-khan-film-unveils-a-significant-tale-with-humorous-touch",
+    timestamp: "Jan 24, 2024",
+    image: `/entertainment/jan-24-2024/laapataa-ladies-trailer-kiran-rao-and-aamir-khan-film-unveils-a-significant-tale-with-humorous-touch.jpg`,
+    title: `"Laapataa Ladies" Trailer: Kiran Rao and Aamir Khan's Film Unveils a Significant Tale with Humorous Touch`,
+    preArticle: `After a hiatus spanning 13 years, Kiran Rao has made a triumphant return to the director's chair with "Laapataa Ladies," her latest project following the critically acclaimed "Dhobi Ghat." The film's trailer, jointly produced by Kiran's ex-husband and actor Aamir Khan along with Jyoti Deshpande, was`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          After a hiatus spanning 13 years, Kiran Rao has made a triumphant
+          return to the director&apos;s chair with &quot;Laapataa Ladies,&quot;
+          her latest project following the critically acclaimed &quot;Dhobi
+          Ghat.&quot; The film&apos;s trailer, jointly produced by Kiran&apos;s
+          ex-husband and actor Aamir Khan along with Jyoti Deshpande, was
+          unveiled on Wednesday. Leading roles in the film are portrayed by
+          Pratibha Ranta, Sparsh Shrivastav, and Nitanshi Goel.
+        </p>
+        <p>
+          Set in the rural landscapes of India, &quot;Laapataa Ladies&quot;
+          revolves around the captivating tale of two young brides inadvertently
+          exchanged on a train. The trailer unfolds the story of Deepak Kumar,
+          played by Sparsh Shrivastav, the groom on a frantic quest to find his
+          real bride. Seeking assistance in his search, he encounters a police
+          officer portrayed by Ravi Kishan. As the investigation progresses, the
+          police officer becomes suspicious of the bride who was mistakenly
+          exchanged with Deepak Kumar&apos;s wife, leading to a series of
+          confusion, chaos, and moments of laughter.
+        </p>
+        <p>
+          Having premiered at the Toronto International Film Festival (TIFF) in
+          September 2023, &quot;Laapataa Ladies&quot; received a standing
+          ovation at the prestigious festival. Produced under the banners of
+          Aamir Khan Productions and Kindling Productions, the film is based on
+          an award-winning story by Biplab Goswami. The screenplay and dialogue
+          have been skillfully crafted by Sneha Desai, with additional
+          contributions to the dialogues by Divyanidhi Sharma. The eagerly
+          anticipated movie is slated for release on March 1, 2024.
+        </p>
+        <p>
+          This collaborative venture marks the first project between Kiran Rao
+          and Aamir Khan since the announcement of their separation in 2021.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "hrithik-roshan-maintains-no-cheat-days-for-months-while-vicky-kaushal-thrives-on-minimal-sleep-says-celebrity-trainer-kris-gethin",
+    timestamp: "Jan 24, 2024",
+    image: `/entertainment/jan-24-2024/hrithik-roshan-maintains-no-cheat-days-for-months-while-vicky-kaushal-thrives-on-minimal-sleep-says-celebrity-trainer-kris-gethin.avif`,
+    title: `Hrithik Roshan Maintains No Cheat Days for Months, While Vicky Kaushal Thrives on Minimal Sleep, Says Celebrity Trainer Kris Gethin`,
+    preArticle: `Hrithik Roshan's upcoming film "Fighter" has garnered widespread acclaim for his impressive look, revealed his trainer Kris Gethin. According to Gethin, Hrithik embarked on an intensive training regimen almost 5-6 months prior to the film's shoot, maintaining a demanding schedule that excluded any c`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Hrithik Roshan&apos;s upcoming film &quot;Fighter&quot; has garnered
+          widespread acclaim for his impressive look, revealed his trainer Kris
+          Gethin. According to Gethin, Hrithik embarked on an intensive training
+          regimen almost 5-6 months prior to the film&apos;s shoot, maintaining
+          a demanding schedule that excluded any cheat days for several months.
+        </p>
+        <p>
+          Gethin, who has been Hrithik&apos;s trainer for over a decade,
+          reminisced about the initial contact with the actor&apos;s team in
+          2011. He admitted to not knowing much about Hrithik at the time but
+          emphasized the special connection they formed when they met. Despite
+          being 50 years old, Hrithik&apos;s physique for &quot;Fighter&quot;
+          exhibited a remarkable ability to &quot;change and adapt like it did
+          12-13 years ago,&quot; appearing as if his body hadn&apos;t aged.
+          Gethin attributed this to Hrithik&apos;s unwavering focus on achieving
+          a healthier body, emphasizing that prioritizing health naturally leads
+          to aesthetic goals.
+        </p>
+        <p>
+          Regarding Hrithik&apos;s disciplined diet, Gethin revealed that the
+          actor abstains from consuming any &quot;bad food&quot; for extended
+          periods. Even on cheat days, Hrithik indulges in larger portions of
+          his usual &quot;clean food.&quot; Gethin recounted an incident during
+          a New Year&apos;s trip to Dubai, where Hrithik retired to bed by 9:30
+          pm instead of joining the festivities. The following morning, he was
+          up and engaged in beach running by 6 am.
+        </p>
+        <p>
+          Gethin also shared insights into his training sessions with Vicky
+          Kaushal, describing him as a &quot;high achiever&quot; who approaches
+          his work and workouts with utmost seriousness. Despite operating on
+          minimal sleep due to hectic shoot schedules and workouts, Vicky&apos;s
+          dedication is unwavering, and he has not complained about the
+          demanding routine, according to Gethin.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "in-the-film-industry-individuals-treat-you-well-only-when-they-perceive-you-to-be-beneath-them-remarks-actor-rj-balaji-from-the-movie-singapore-saloon",
+    timestamp: "Jan 24, 2024",
+    image: `/entertainment/jan-24-2024/in-the-film-industry-individuals-treat-you-well-only-when-they-perceive-you-to-be-beneath-them-remarks-actor-rj-balaji-from-the-movie-singapore-saloon.jpg`,
+    title: `'In the film industry, individuals treat you well only when they perceive you to be beneath them,' remarks actor RJ Balaji from the movie 'Singapore Saloon'`,
+    preArticle: `After earning acclaim for his role in Jiyen Krishnakumar's action thriller "Run Baby Run" last year, the Tamil actor Balaji Patturaj, more commonly known as RJ Balaji, is gearing up for his first release of 2024, titled "Singapore Saloon." Directed by Gokul, this coming-of-age film features Meenaksh`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          After earning acclaim for his role in Jiyen Krishnakumar&apos;s action
+          thriller &quot;Run Baby Run&quot; last year, the Tamil actor Balaji
+          Patturaj, more commonly known as RJ Balaji, is gearing up for his
+          first release of 2024, titled &quot;Singapore Saloon.&quot; Directed
+          by Gokul, this coming-of-age film features Meenakshi Chaudhary,
+          Sathyaraj, and Lal in pivotal roles.
+        </p>
+        <p>
+          The recently unveiled trailer provides a glimpse into the movie,
+          showcasing the journey of a young man with aspirations of becoming an
+          exceptional hairstylist, inspired by his grandfather&apos;s legacy.
+          Described as &quot;the untold story of a barber with perseverance,
+          endurance, and resilience,&quot; the film boasts special appearances
+          by director Lokesh Kanagaraj and actor Jiiva.
+        </p>
+        <p>
+          As an outsider with no industry connections prior to entering the
+          cinema, Balaji adheres to a personal philosophy, treating his work as
+          his calling card.
+        </p>
+        <p>
+          &quot;For an outsider who has struggled to enter the industry, a
+          couple of failures may end their chances. On the other hand, an
+          insider can survive even after delivering ten flops in ten years and
+          still have two films in hand in the eleventh year,&quot; he remarked
+          during a conversation with Film Companion.
+        </p>
+        <p>
+          Reflecting on the industry dynamics, Balaji expressed his perspective.
+          &quot;I watched Ananya Pandey&apos;s &apos;Kho Gaye Hum Kahan&apos; on
+          Netflix. I thought she did a good job, but consider someone from
+          outside getting such an opportunity after not having worked on notable
+          films before. Since my radio days, I&apos;ve been taught to treat
+          every segment as if it&apos;s my last. This philosophy guides my work
+          on films; I give my best to secure future opportunities without having
+          to ask for them,&quot; he explained.
+        </p>
+        <p>
+          Discussing the challenges faced by outsiders in the film industry,
+          Balaji drew parallels with the unpredictable nature of politics.
+          &quot;In cinema, much like in politics, they say there are no
+          permanent friends. People are good to you as long as they think you
+          are beneath them. Once you treat them as equals, they struggle to
+          accept it. This holds true in every sphere. While I&apos;m not placing
+          blame, people often find comfort in certain roles, making it
+          challenging for them to accept changes in dynamics. However, I prefer
+          to distance myself from those who hold such views,&quot; Balaji
+          remarked.
+        </p>
+        <p>
+          &quot;Singapore Saloon&quot; is scheduled for release on January 25.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "shruti-haasan-takes-over-samantha-ruth-prabhus-role-in-the-indian-uk-co-production-chennai-story",
+    timestamp: "Jan 24, 2024",
+    image: `/entertainment/jan-24-2024/shruti-haasan-takes-over-samantha-ruth-prabhus-role-in-the-indian-uk-co-production-chennai-story.jpg`,
+    title: `Shruti Haasan takes over Samantha Ruth Prabhu's role in the Indian-UK co-production "Chennai Story"`,
+    preArticle: `Shruti Haasan is set to take the lead in "Chennai Story," a collaborative venture between India and the UK, which was initially poised to feature Samantha Ruth Prabhu. According to Variety, Samantha's replacement by Shruti Haasan is attributed to undisclosed reasons, with speculation suggesting Sama`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Shruti Haasan is set to take the lead in &quot;Chennai Story,&quot; a
+          collaborative venture between India and the UK, which was initially
+          poised to feature Samantha Ruth Prabhu. According to Variety,
+          Samantha&apos;s replacement by Shruti Haasan is attributed to
+          undisclosed reasons, with speculation suggesting Samantha&apos;s
+          withdrawal from the film due to her year-long sabbatical. The film, an
+          adaptation of Timeri N. Murari&apos;s 2004 novel &quot;The
+          Arrangements of Love,&quot; is directed by Philip John, a
+          BFTA-nominated director renowned for his work on &quot;Downton
+          Abbey.&quot; In the movie, Shruti Haasan will portray a private
+          detective, and joining her in the cast is Viveik Kalra, known for
+          &quot;Blinded By The Light.&quot;
+        </p>
+        <p>
+          &quot;Chennai Story&quot; unfolds as a coming-of-age drama centered
+          around a detective in India. Although the narrative revolves around a
+          Tamil detective, the film predominantly features English with numerous
+          Tamil dialogues. Co-authored by Philip John and Sri Lankan
+          actor-filmmaker Nimmi Harasgama, the film explores universal themes
+          through the prism of an international collaboration.
+        </p>
+        <p>
+          Expressing her enthusiasm for the project, Shruti Haasan conveyed to
+          Variety the personal significance of depicting the diversity and
+          uniqueness of Chennai on a global platform. Hailing from Chennai
+          herself, she emphasized the excitement of collaborating with Phil and
+          contributing to the storytelling of global yet culturally grounded
+          narratives through international partnerships.
+        </p>
+        <p>
+          Produced by Guru Films (India), Ripple World Pictures (UK), and Wales
+          Ie Ie Productions, &quot;Chennai Story&quot; has the support of the
+          British Film Institute. This project marks Shruti Haasan&apos;s
+          continued foray into international cinema, following her role in the
+          British psychological thriller &quot;The Eye&quot; (2023), which
+          premiered at the London Independent Film Festival and the Greek
+          International Film Festival.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "vijay-sethupathi-reveals-first-look-poster-for-bejoy-nambiars-tamil-hindi-bilingual-por",
+    timestamp: "Jan 24, 2024",
+    image: `/entertainment/jan-24-2024/vijay-sethupathi-reveals-first-look-poster-for-bejoy-nambiars-tamil-hindi-bilingual-por.avif`,
+    title: `Vijay Sethupathi Reveals First-Look Poster for Bejoy Nambiar's Tamil-Hindi Bilingual "Por"`,
+    preArticle: `Actor Vijay Sethupathi recently unveiled the first-look posters for director Bejoy Nambiar's forthcoming film, titled "Por" in Tamil and "Dange" in Hindi, translating to "War." The shared posters present the faces of the lead actors with the intriguing tagline, "Pick a side," hinting at a conflict b`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Actor Vijay Sethupathi recently unveiled the first-look posters for
+          director Bejoy Nambiar&apos;s forthcoming film, titled &quot;Por&quot;
+          in Tamil and &quot;Dange&quot; in Hindi, translating to
+          &quot;War.&quot; The shared posters present the faces of the lead
+          actors with the intriguing tagline, &quot;Pick a side,&quot; hinting
+          at a conflict between the two protagonists.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              Happy to share{" "}
+              <a href="https://twitter.com/hashtag/Dange?src=hash&amp;ref_src=twsrc%5Etfw">
+                #Dange
+              </a>{" "}
+              &amp;{" "}
+              <a href="https://twitter.com/hashtag/POR?src=hash&amp;ref_src=twsrc%5Etfw">
+                #POR
+              </a>{" "}
+              first look posters. Congrats{" "}
+              <a href="https://twitter.com/nambiarbejoy?ref_src=twsrc%5Etfw">
+                @nambiarbejoy
+              </a>{" "}
+              &amp; team.
+              <br />
+              <br />
+              @harsh16dec{" "}
+              <a href="https://twitter.com/itsEhanBhat?ref_src=twsrc%5Etfw">
+                @itsEhanBhat
+              </a>{" "}
+              <a href="https://twitter.com/nikifyinglife?ref_src=twsrc%5Etfw">
+                @nikifyinglife
+              </a>{" "}
+              <a href="https://twitter.com/TJBhanuOfficial?ref_src=twsrc%5Etfw">
+                @TJBhanuOfficial
+              </a>{" "}
+              <a href="https://twitter.com/iam_arjundas?ref_src=twsrc%5Etfw">
+                @iam_arjundas
+              </a>{" "}
+              <a href="https://twitter.com/kalidas700?ref_src=twsrc%5Etfw">
+                @kalidas700
+              </a>{" "}
+              <a href="https://twitter.com/sanchana_n?ref_src=twsrc%5Etfw">
+                @sanchana_n
+              </a>{" "}
+              <a href="https://twitter.com/hashtag/ShivChanana?src=hash&amp;ref_src=twsrc%5Etfw">
+                #ShivChanana
+              </a>{" "}
+              <a href="https://twitter.com/NeerajKalyan_24?ref_src=twsrc%5Etfw">
+                @neerajkalyan_24
+              </a>{" "}
+              <a href="https://twitter.com/madhualex?ref_src=twsrc%5Etfw">
+                @madhualex
+              </a>{" "}
+              <a href="https://twitter.com/TSeries?ref_src=twsrc%5Etfw">
+                @TSeries
+              </a>{" "}
+              <a href="https://twitter.com/hashtag/GetawayPictures?src=hash&amp;ref_src=twsrc%5Etfw">
+                #GetawayPictures
+              </a>{" "}
+              @Rooxmedia{" "}
+              <a href="https://t.co/Qwp2r3vMZu">pic.twitter.com/Qwp2r3vMZu</a>
+            </p>
+            &mdash; VijaySethupathi (@VijaySethuOffl){" "}
+            <a href="https://twitter.com/VijaySethuOffl/status/1750031638141304832?ref_src=twsrc%5Etfw">
+              January 24, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+        </div>
+        <p>
+          Bejoy Nambiar, a former assistant of renowned director Mani Ratnam,
+          has consistently ventured into films catering to both Tamil and Hindi
+          markets, much like his mentor. Notably, Bejoy goes beyond the
+          conventional approach of dubbing and often features distinct casts for
+          the Tamil and Hindi versions of his films. This approach was evident
+          in his third film, &quot;David,&quot; where Vikram and Jiiva led the
+          Tamil version, while the Hindi rendition starred Neil Nitin Mukesh and
+          Vinay.
+        </p>
+        <p>
+          The same strategy is being applied to his upcoming project,
+          &quot;Por&quot; (titled &quot;Dange&quot; in Hindi). Arjun Das and
+          Kalidas Jayaram will play the lead roles in the Tamil version, while
+          Harshavardhan and Ehan Bhatt will replace them in the Hindi
+          adaptation. The film is set against the backdrop of a college campus,
+          depicting the conflicts between two rival factions while addressing
+          significant social issues.
+        </p>
+        <p>
+          In addition to the lead actors, the movie features acclaimed
+          performers such as Sanjana Natarajan from &quot;Sarpatta
+          Parambarai,&quot; TJ Bhanu of &quot;Vaazhl,&quot; and Nikita Dutta in
+          pivotal roles. As of now, details about the film&apos;s music composer
+          and release date are yet to be disclosed. The first-look posters, with
+          their compelling tagline, have already generated anticipation and
+          curiosity among the audience, making &quot;Por&quot; a film to watch
+          out for in both Tamil and Hindi cinema circuits.
+        </p>
+      </div>
+    ),
+  },
   // jan-23-2024
   {
     id: "rick-harrison-of-pawn-stars-condemns-border-crisis-after-son-s-fatal-overdose-says-nothing-is-being-done",
@@ -134,330 +455,6 @@ export const entertainment = [
           one of the few Bollywood guests present, he described the inclusive
           atmosphere and shared emotional reaction that made it a once in a
           lifetime memory to cherish.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "siddharth-anand-explains-deepika-padukones-absence-from-fighter-promotions-we-cant-do-without-her",
-    timestamp: "Jan 23, 2024",
-    image: `/entertainment/jan-23-2024/siddharth-anand-explains-deepika-padukones-absence-from-fighter-promotions-we-cant-do-without-her.webp`,
-    title: `Siddharth Anand Explains Deepika Padukone's Absence From Fighter Promotions: 'We Can't Do Without Her'`,
-    preArticle: `Deepika Padukone has been noticeably absent from promotions for her upcoming film Fighter, including skipping the trailer launch event earlier this month. In a recent interview with Bollywood Hungama, director Siddharth Anand addressed the speculation around Deepika's lack of visibility and explaine`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Deepika Padukone has been noticeably absent from promotions for her
-          upcoming film Fighter, including skipping the trailer launch event
-          earlier this month. In a recent interview with Bollywood Hungama,
-          director Siddharth Anand addressed the speculation around
-          Deepika&apos;s lack of visibility and explained it is part of their
-          promotional strategy.
-        </p>
-        <p>
-          When asked about Deepika&apos;s absence and the chatter about it on
-          social media, Siddharth said people often make conjectures but this
-          was a deliberate decision. He revealed Deepika was meant to attend the
-          trailer launch but fell ill, and would now be &quot;everywhere&quot;
-          in promotions from Tuesday onwards.{" "}
-        </p>
-        <p>
-          Siddharth emphasized that doing promotions for Fighter without Deepika
-          made no sense. He said, &quot;Obviously we can&apos;t do without
-          Deepika...Deepika and Hrithik&apos;s pair is one of the major
-          highlights. As a filmmaker, seeing them together is hugely exciting so
-          I can only imagine the audience is also waiting for it.&quot;
-        </p>
-        <p>
-          According to the director, holding back on showing too much of Deepika
-          and Hrithik before release was intentional. He wanted audiences to
-          enjoy their chemistry and magic unfold on the big screen without
-          reaching a saturation point.
-        </p>
-        <p>
-          Earlier, some reports had claimed Deepika unfollowed Siddharth on
-          Instagram, hinting at possible tensions. But the director clarified it
-          was always the plan to have Deepika join promotions close to release.
-        </p>
-        <p>
-          Fighter stars Hrithik Roshan as Squadron Leader Shamsher Pathania,
-          Deepika Padukone as Squadron Leader Minal Rathore and Anil Kapoor as
-          Group Captain Rakesh Jai Singh. It revolves around the elite Air
-          Dragons unit and their internal and external battles.{" "}
-        </p>
-        <p>
-          The high-octane action film marks Deepika and Hrithik&apos;s first
-          on-screen collaboration. It is also Deepika&apos;s third project with
-          director Siddharth Anand after Bachna Ae Haseeno and Pathaan.{" "}
-        </p>
-        <p>
-          With two of Bollywood&apos;s biggest stars paired up for the first
-          time, anticipation for Fighter is sky-high. Siddharth&apos;s comments
-          indicate they plan to capitalize on that buzz with Deepika front and
-          center of promotions in the final run-up to release. Her millions of
-          fans will undoubtedly be glad to finally see their favorite star
-          highlighting the film they&apos;ve eagerly awaited.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "amitabh-bachchan-shares-photos-of-ram-lalla-after-visiting-ram-mandir-in-ayodhya-says-faith-is-beyond-words",
-    timestamp: "Jan 23, 2024",
-    image: `/entertainment/jan-23-2024/amitabh-bachchan-shares-photos-of-ram-lalla-after-visiting-ram-mandir-in-ayodhya-says-faith-is-beyond-words.avif`,
-    title: `Amitabh Bachchan Shares Photos of Ram Lalla After Visiting Ram Mandir in Ayodhya, Says Faith is Beyond Words`,
-    preArticle: `Veteran actor Amitabh Bachchan shared photos on his blog from his visit to the Ram Mandir in Ayodhya for the Pran Pratishtha ceremony of Ram Lalla. He attended the special event on Monday before returning to Mumbai late at night.  The megastar posted pictures of the Ram Lalla deity inside the new t`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Veteran actor Amitabh Bachchan shared photos on his blog from his
-          visit to the Ram Mandir in Ayodhya for the Pran Pratishtha ceremony of
-          Ram Lalla. He attended the special event on Monday before returning to
-          Mumbai late at night.{" "}
-        </p>
-        <p>
-          The megastar posted pictures of the Ram Lalla deity inside the new
-          temple, as well as exterior shots of the magnificent structure. He
-          included a photo of himself with folded hands, seeking blessings on
-          the spiritually significant occasion. Amitabh opted for traditional
-          attire and a shawl for the ceremony.{" "}
-        </p>
-        <p>
-          Describing it as a day filled with divine relevance, he wrote “Back
-          from the Pran Pratishtha ceremony at Ayodhya.” Amitabh was accompanied
-          to Ayodhya by his son and fellow actor Abhishek Bachchan.{" "}
-        </p>
-        <p>
-          After the ceremony, Amitabh and Abhishek also met with Prime Minister
-          Narendra Modi and Uttar Pradesh Chief Minister Yogi Adityanath. Photos
-          show Amitabh greeting CM Adityanath with folded hands and conversing,
-          before Abhishek joined them. PM Modi also welcomed Amitabh with folded
-          hands, which the screen icon returned respectfully.
-        </p>
-        <p>
-          Interestingly, Amitabh recently purchased a 10,000 square foot plot of
-          land in Ayodhya, further showing his deep connection to the holy city.
-          The registrar confirmed the ₹9 crore transaction for the property was
-          completed, with Amitabh&apos;s lawyer executing the agreement on his
-          behalf.
-        </p>
-        <p>
-          In addition to the Bachchans, many other Bollywood celebrities like
-          Ranbir Kapoor, Alia Bhatt, Anupam Kher, Kangana Ranaut, and Sonu Nigam
-          attended the momentous Ram Mandir ceremony. With approximately 8,000
-          invitees including 1,500 VIP guests, the event featured stunning
-          visuals of army helicopters showering flowers on the new temple.
-        </p>
-      </div>
-    ),
-  },
-  // jan-22-2024
-  {
-    id: "fighter-pre-bookings-deepika-padukone-and-hrithik-roshan-starrer-surpasses-80000-tickets-nearing-the-rs-3crore-mark",
-    timestamp: "Jan 22, 2024",
-    image: `/entertainment/jan-22-2024/fighter-pre-bookings-deepika-padukone-and-hrithik-roshan-starrer-surpasses-80000-tickets-nearing-the-rs-3crore-mark.avif`,
-    title: `"Fighter" Pre-Bookings: Deepika Padukone and Hrithik Roshan starrer surpasses 80,000 tickets, nearing the Rs 3 crore mark`,
-    preArticle: `The highly anticipated action film 'Fighter' starring Deepika Padukone and Hrithik Roshan is generating immense buzz ahead of its release on January 25th. The film about Indian Air Force pilots has already recorded massive advance bookings of 86,516 tickets worth ₹2.84 crores for day one, as per ind`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The highly anticipated action film &apos;Fighter&apos; starring
-          Deepika Padukone and Hrithik Roshan is generating immense buzz ahead
-          of its release on January 25th. The film about Indian Air Force pilots
-          has already recorded massive advance bookings of 86,516 tickets worth
-          ₹2.84 crores for day one, as per industry tracker Sacnilk.{" "}
-        </p>
-        <p>
-          The bookings comprise 33,624 tickets for 2D Hindi, 46,790 for 3D,
-          4,881 for IMAX 3D, and 1,221 for 4DX 3D. Major contribution has come
-          from Delhi (₹67.39 lakhs), Maharashtra (₹75.02 lakhs), Telangana
-          (₹40.73 lakhs) and Karnataka (₹43.54 lakhs).{" "}
-        </p>
-        <p>
-          &apos;Fighter&apos; is said to be inspired by the 2019 Pulwama attack
-          and India&apos;s response. The 2 hour 46 minute film has received a
-          U/A certificate from CBFC.{" "}
-        </p>
-        <p>
-          According to the synopsis, it revolves around an elite IAF unit called
-          Air Dragons created to tackle militancy in Srinagar. Comprising the
-          best combat aviators, they are the first responders against hostile
-          activity. The story shows their struggles in balancing duty and
-          personal lives while serving the nation.{" "}
-        </p>
-        <p>
-          Directed by Siddharth Anand, &apos;Fighter&apos; stars Hrithik Roshan,
-          Deepika Padukone and Anil Kapoor in lead roles, supported by Karan
-          Singh Grover, Akshay Oberoi and Talat Aziz. Centered on the lives of
-          IAF officers, the film releases on January 25th.{" "}
-        </p>
-        <p>
-          The incredible advance booking numbers testify to the star power of
-          Hrithik-Deepika and the hype around their first film together. Their
-          sizzling on-screen chemistry has fans thrilled.{" "}
-        </p>
-        <p>
-          Moreover, the patriotic and action-packed storyline has struck a chord
-          after the success of &apos;Uri: The Surgical Strike&apos; recently.
-          &apos;Fighter&apos; seems poised to provide a realistic glimpse into
-          the exploits of our brave air force pilots.{" "}
-        </p>
-        <p>
-          With zero competition at the box office currently, the film is
-          expected to take off to a flying start. The Republic Day weekend will
-          give it an extended opening of almost 5 days. If the content lives up
-          to expectations, &apos;Fighter&apos; could be the first blockbuster of
-          2023.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "ram-mandir-inauguration-ranbir-kapoor-dons-a-dhoti-accompanying-alia-bhatt-to-ayodhya-while-jai-shri-ram-illuminates-mukesh-ambanis-residence-antilia",
-    timestamp: "Jan 22, 2024",
-    image: `/entertainment/jan-22-2024/ram-mandir-inauguration-ranbir-kapoor-dons-a-dhoti-accompanying-alia-bhatt-to-ayodhya-while-jai-shri-ram-illuminates-mukesh-ambanis-residence-antilia.webp`,
-    title: `Ram Mandir Inauguration: Ranbir Kapoor dons a dhoti, accompanying Alia Bhatt to Ayodhya, while 'Jai Shri Ram' illuminates Mukesh Ambani's residence, Antilia`,
-    preArticle: `Actors Ranbir Kapoor and Alia Bhatt, along with filmmaker Rohit Shetty left for Ayodhya on Monday to attend the Ram Mandir consecration ceremony. Ranbir, who will play Lord Ram in Nitesh Tiwari's upcoming Ramayana film, was seen in a dhoti kurta exiting his car and greeting Shetty. Alia then joined `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Actors Ranbir Kapoor and Alia Bhatt, along with filmmaker Rohit Shetty
-          left for Ayodhya on Monday to attend the Ram Mandir consecration
-          ceremony. Ranbir, who will play Lord Ram in Nitesh Tiwari&apos;s
-          upcoming Ramayana film, was seen in a dhoti kurta exiting his car and
-          greeting Shetty. Alia then joined them dressed in a saree as the trio
-          posed for photographers.{" "}
-        </p>
-        <p>
-          Ranbir and Alia had received invites to the historic ceremony earlier
-          this month. Visuals also emerged of Mukesh Ambani&apos;s Mumbai
-          residence Antilia lit up with a &apos;Jai Shri Ram&apos; hologram in
-          Hindi covering the 27-storey building.
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              One of Richest Man in World, Mukesh Ambani&#39;s house
-              &#39;Antilia&#39; is all decked up before Ram Lala&#39;s Pran
-              Pratishtha{" "}
-              <a href="https://t.co/pPN8ZvQdbR">pic.twitter.com/pPN8ZvQdbR</a>
-            </p>
-            &mdash; Megh Updates 🚨™ (@MeghUpdates){" "}
-            <a href="https://twitter.com/MeghUpdates/status/1748993503932436792?ref_src=twsrc%5Etfw">
-              January 21, 2024
-            </a>
-          </blockquote>{" "}
-          <Script
-            src="https://platform.twitter.com/widgets.js"
-            strategy="lazyOnload"
-          />
-        </div>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="ca" dir="ltr">
-              Ambani&#39;s Antila 🚩{" "}
-              <a href="https://t.co/AP6LdxBKGp">pic.twitter.com/AP6LdxBKGp</a>
-            </p>
-            &mdash; Divya Gandotra Tandon (@divya_gandotra){" "}
-            <a href="https://twitter.com/divya_gandotra/status/1749143736930685421?ref_src=twsrc%5Etfw">
-              January 21, 2024
-            </a>
-          </blockquote>{" "}
-          <Script
-            src="https://platform.twitter.com/widgets.js"
-            strategy="lazyOnload"
-          />
-        </div>
-        <p>
-          The Ayodhya festivities began on January 16th and will culminate today
-          with the idol installation, open to the public after PM Modi&apos;s
-          rituals. The temple complex spans 70 acres.{" "}
-        </p>
-        <p>
-          The temple trust has invited over 7,000 people including politicians,
-          celebrities, cricketers, industrialists and more. Rajinikanth,
-          Dhanush, Kangana Ranaut, Shefali Shah, Anupam Kher and others have
-          already arrived.{" "}
-        </p>
-        <p>
-          Expected later today are Amitabh Bachchan, Madhuri Dixit, Sanjay Leela
-          Bhansali, Sunny Deol, Tiger Shroff, Rajkumar Hirani, Ayushmann
-          Khurrana, Ajay Devgn, Prabhas, Chiranjeevi, Mohanlal, Yash, Rishab
-          Shetty among other luminaries.{" "}
-        </p>
-        <p>
-          All distinguished guests will receive special gifts at the
-          consecration ceremony for the idol of Ram Lalla. The high-profile
-          attendees highlight the significance of this historic moment for the
-          Hindu community after decades of struggle.{" "}
-        </p>
-        <p>
-          The grand temple is seen as a testament to their unwavering faith and
-          perseverance. While opinions may differ on the temple from a legal and
-          political lens, its cultural and spiritual symbolism for devotees
-          cannot be denied.{" "}
-        </p>
-        <p>
-          The presence of top movie stars also underlines how deeply Lord Ram
-          and his ethos resonate through Indian arts and literature. As the
-          auspicious rituals commence, they will likely echo the joy and pride
-          of millions of devotees across India and worldwide.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "box-office-update-teja-sajja-superhero-film-hanu-man-surpasses-mahesh-babu-guntur-kaaram-by-a-significant-margin",
-    timestamp: "Jan 22, 2024",
-    image: `/entertainment/jan-22-2024/box-office-update-teja-sajja-superhero-film-hanu-man-surpasses-mahesh-babu-guntur-kaaram-by-a-significant-margin.avif`,
-    title: `Box Office Update: Teja Sajja's superhero film "HanuMan" surpasses Mahesh Babu's "Guntur Kaaram" by a significant margin on its 10th day`,
-    preArticle: `The Sankranti 2023 box office results have surprised the Telugu film industry. The festival period usually sees a clash between big star releases vying for audience attention. This year, all eyes were on Mahesh Babu's 'Guntur Kaaram', his collaboration with hitmaker Trivikram Srinivas after 'Ala Vai`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The Sankranti 2023 box office results have surprised the Telugu film
-          industry. The festival period usually sees a clash between big star
-          releases vying for audience attention. This year, all eyes were on
-          Mahesh Babu&apos;s &apos;Guntur Kaaram&apos;, his collaboration with
-          hitmaker Trivikram Srinivas after &apos;Ala Vaikunthapurramuloo&apos;.
-          But a relatively smaller film, &apos;HanuMan&apos; starring Teja
-          Sajja, has emerged as the unlikely winner.
-        </p>
-        <p>
-          &apos;Guntur Kaaram&apos; saw an upswing over the weekend but
-          continued lagging behind &apos;HanuMan&apos;. On Day 9, it collected
-          ₹3.25 crores domestically. Despite a jump in footfalls on Day 10, the
-          film could only manage ₹3.50 crores. Its total now stands at ₹118
-          crores. In contrast, &apos;HanuMan&apos; earned ₹14.6 crores on Day 9
-          and a huge ₹16.50 crores on Day 10. Its domestic total has crossed
-          ₹130 crores, far ahead of Mahesh Babu&apos;s film.{" "}
-        </p>
-        <p>
-          The other Sankranti releases - Nagarjuna&apos;s &apos;Naa Saami
-          Ranga&apos; and Venkatesh&apos;s &apos;Sanidhav&apos; - have collected
-          ₹26 crores and ₹14 crores respectively. Clearly, the underdog
-          &apos;HanuMan&apos; has won over the audience.{" "}
-        </p>
-        <p>
-          This outcome has surprised many since Mahesh Babu typically has a huge
-          fan following. The producer of &apos;Guntur Kaaram&apos;, Naga Vamsi,
-          acknowledged issues with the film&apos;s promotion. He said late night
-          1am shows sent the wrong signal for a family entertainer unlike an
-          action film. Release strategies need to suit the genre, he admitted.
-        </p>
-        <p>
-          Critics have pointed to the film&apos;s predictable storyline and lack
-          of freshness as reasons for the lukewarm response.
-          &apos;HanuMan&apos;, in contrast, garnered praise for its novel
-          superhero premise and CGI effects. Word-of-mouth has been a key factor
-          in its rise.{" "}
-        </p>
-        <p>
-          The Sankranti battle shows the power of content over star power. For
-          veteran stars like Mahesh Babu, their brand value can drive openings
-          but the film needs to offer more. Underdog films can triumph with
-          unique and compelling stories. Perhaps Telugu cinema is maturing
-          towards scripts mattering as much as scales and stars.
         </p>
       </div>
     ),
