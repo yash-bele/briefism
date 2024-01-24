@@ -2,11 +2,11 @@ import Link from "next/link";
 import Image from "next/image";
 import { data } from "@/data";
 const formatData = [
+  data.breaking[2],
   data.breaking[3],
+  data.breaking[4],
   data.entertainment[0],
-  data.entertainment[1],
   data.technology[0],
-  data.technology[2],
 ];
 
 const BannerGrid = () => {
@@ -19,11 +19,11 @@ const BannerGrid = () => {
             j === 0
               ? "breaking"
               : j === 1
-              ? "entertainment"
+              ? "breaking"
               : j === 2
-              ? "entertainment"
+              ? "breaking"
               : j === 3
-              ? "technology"
+              ? "entertainment"
               : j === 4
               ? "technology"
               : null
