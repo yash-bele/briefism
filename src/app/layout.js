@@ -18,7 +18,7 @@ const montserrat = Montserrat({
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`select-none ${montserrat.className}`}>
+      <body className={`text-slate-700 select-none ${montserrat.className}`}>
         <Navbar />
         <main className="max-w-7xl mx-auto mt-[calc(48px+20px)] px-5 lg:px-0">
           {children}
