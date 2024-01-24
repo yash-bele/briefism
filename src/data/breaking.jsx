@@ -4,6 +4,309 @@ import Script from "next/script";
 export const breaking = [
   // jan-24-2024
   {
+    id: "trump-secures-victory-in-new-hampshire-nearing-republican-nomination",
+    timestamp: "Jan 24, 2024",
+    image: `/breaking/jan-24-2024/trump-secures-victory-in-new-hampshire-nearing-republican-nomination.jpg`,
+    title: `Trump Secures Victory in New Hampshire, Nearing Republican Nomination`,
+    preArticle: `In a significant victory, Donald Trump has emerged as the clear winner in the New Hampshire Republican primary, securing over 54% of the vote. His closest rival, Nikki Haley, trailed behind with just over 43% of the vote. This win positions Trump one step closer to clinching the Republican nominatio`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In a significant victory, Donald Trump has emerged as the clear winner
+          in the New Hampshire Republican primary, securing over 54% of the
+          vote. His closest rival, Nikki Haley, trailed behind with just over
+          43% of the vote. This win positions Trump one step closer to clinching
+          the Republican nomination for the upcoming US presidential election.
+        </p>
+        <p>
+          The primary allowed both registered Republicans and independents to
+          participate in the voting process. Trump&apos;s decisive victory
+          effectively halted Haley&apos;s pursuit of the nomination. Despite her
+          acknowledgment of Trump&apos;s win, Haley asserted that New Hampshire
+          was just the beginning of the primaries and shifted her focus to South
+          Carolina, her home state, where the primaries are scheduled for
+          February 27.
+        </p>
+        <p>
+          However, Trump expressed his irritation at Haley&apos;s decision to
+          continue in the race, labeling her as an &quot;imposter&quot; who
+          behaved as if she had won. Exit polls revealed that Trump secured more
+          votes across various demographics, including men, women, different age
+          groups, and geographical regions, showcasing his enduring influence
+          over the core Republican Party base.
+        </p>
+        <p>
+          Following Trump&apos;s triumph in Iowa last week, where he garnered
+          more votes than his closest competitors combined, Ron DeSantis, Haley,
+          and Vivek Ramaswamy, both DeSantis and Ramaswamy withdrew from the
+          race and endorsed Trump. In contrast, Haley persisted, relying on
+          independent voters and an aggressive campaign against Trump. Despite
+          her victories in certain segments, such as college graduates and
+          independent voters, Trump overwhelmingly dominated every other
+          demographic.
+        </p>
+        <p>
+          After the Associated Press declared Trump the winner on Tuesday night,
+          Haley addressed her supporters, congratulating Trump but asserting
+          that the race was far from over. She emphasized that New Hampshire was
+          just the first of many primaries, with dozens of states yet to hold
+          their elections. Haley highlighted her resilience, describing herself
+          as a fighter and expressing determination to continue alongside Trump.
+        </p>
+        <p>
+          Haley acknowledged agreement with many of Trump&apos;s policies,
+          having voted for him and served in his administration. However, she
+          emphasized the need to move beyond what she characterized as
+          &quot;negativity and chaos&quot; associated with Trump&apos;s
+          candidacy. Haley also questioned Trump&apos;s electability, pointing
+          to losses in the previous four elections under his leadership. She
+          suggested that it was an open secret that Democrats preferred Trump as
+          the Republican candidate, viewing him as Biden&apos;s best chance of
+          regaining the presidency.
+        </p>
+        <p>
+          Turning her attention to South Carolina, Haley&apos;s home state,
+          where she served as governor, she positioned herself as a viable
+          candidate. However, recent polls indicate a significant lead for Trump
+          in South Carolina, enjoying support from the state&apos;s senators and
+          governor.
+        </p>
+        <p>
+          In Trump&apos;s victory speech, he criticized Haley for behaving as if
+          she had won and urged her to acknowledge her loss. He reiterated his
+          focus on turning around the economy, securing the border, cutting
+          taxes, removing regulations, and defeating Biden in the upcoming
+          elections.
+        </p>
+        <p>
+          With the Republican battle shifting to Nevada, US Virgin Islands, and
+          then South Carolina, Haley&apos;s chances of securing the nomination
+          appear challenging. While a strong performance in her home state could
+          prolong her candidacy, analysts see New Hampshire as her best
+          opportunity, given the state&apos;s electorate, primary rules, and her
+          investments, making her nomination increasingly unlikely.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "republic-day-2024-updated-schedule-for-delhi-metro-on-january-26-disclosed",
+    timestamp: "Jan 24, 2024",
+    image: `/breaking/jan-24-2024/republic-day-2024-updated-schedule-for-delhi-metro-on-january-26-disclosed.webp`,
+    title: `Republic Day 2024: Updated Schedule for Delhi Metro on January 26 Disclosed`,
+    preArticle: `The Delhi Metro Rail Corporation (DMRC) has declared that its services will commence at 4 am on January 26, facilitating commuters to utilize metro trains for reaching Kartavya Path to attend the Republic Day parade. Through X (formerly Twitter), DMRC shared information about service timings and spe`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The Delhi Metro Rail Corporation (DMRC) has declared that its services
+          will commence at 4 am on January 26, facilitating commuters to utilize
+          metro trains for reaching Kartavya Path to attend the Republic Day
+          parade. Through X (formerly Twitter), DMRC shared information about
+          service timings and specified stations for alighting based on the
+          entry gates used by passengers to access the parade.
+        </p>
+        <p>
+          In the announcement, DMRC stated, “Delhi Metro will commence its
+          services at 4:00 AM on all its Lines to facilitate the public to reach
+          Kartavya Path to witness the Republic Day ceremony on 26th January
+          2024 (Friday). Train services will be available at a headway of 30
+          minutes till 06:00 AM and thereafter, a regular timetable will be
+          followed for the rest of the day.”
+        </p>
+        <p>
+          Passengers holding e-invitation cards or e-tickets for the Republic
+          Day ceremony will be provided with coupons upon presenting a valid
+          government-issued photo identity card at stations. These coupons will
+          permit exits exclusively from the Central Secretariat and Udyog Bhawan
+          metro stations to reach Kartavya Path. A similar coupon will also be
+          applicable for the return journey, exclusively from these two
+          stations.
+        </p>
+        <p>
+          For passengers alighting at stations based on their assigned enclosure
+          numbers, the Delhi Metro has issued specific guidelines. Passengers
+          with enclosure numbers 1 to 9, VI & V2 are instructed to alight at
+          Udyog Bhawan Metro Station. Similarly, individuals with enclosure
+          numbers 10 to 24 and VN are recommended to exit at the Central
+          Secretariat Metro Station. DMRC assured that regular announcements
+          inside the trains will inform passengers about this to facilitate
+          smooth access to their enclosures.
+        </p>
+        <p>
+          In preparation for this year&apos;s parade, which anticipates 77,000
+          invitees at Kartavya Path, extensive security measures have been
+          implemented, according to the police, as reported by PTI. Special
+          Commissioner of Police (Security) Dependra Pathak emphasized the
+          implementation of professional, robust, and impeccable security
+          measures throughout Delhi for Republic Day.
+        </p>
+        <p>
+          &quot;We have divided the New Delhi district, where the parade will
+          take place, into 28 zones to ensure security. Senior officers head
+          these zones,&quot; Tiwari was quoted as saying by PTI.
+        </p>
+        <p>
+          To enhance security measures, booths for missing persons, help desks,
+          first-aid kiosks, and separate facilitation booths for depositing
+          vehicle keys before the parade have been established. Tiwari urged
+          attendees to arrive promptly at the venue and cooperate with security
+          personnel during the comprehensive security checks that will be
+          conducted.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "netflix-experiences-a-surge-of-new-paid-subscribers-amidst-intensified-measures-against-password-sharing",
+    timestamp: "Jan 24, 2024",
+    image: `/breaking/jan-24-2024/netflix-experiences-a-surge-of-new-paid-subscribers-amidst-intensified-measures-against-password-sharing.webp`,
+    title: `Netflix experiences a surge of 13.1 million new paid subscribers amidst intensified measures against password-sharing`,
+    preArticle: `In the last quarter of 2023, Netflix experienced a significant surge in its subscriber base, adding 13.1 million new subscriptions. This growth exceeded earlier estimates of 8.97 million subscribers and stands as the streaming giant's most substantial expansion since the beginning of the pandemic. T`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In the last quarter of 2023, Netflix experienced a significant surge
+          in its subscriber base, adding 13.1 million new subscriptions. This
+          growth exceeded earlier estimates of 8.97 million subscribers and
+          stands as the streaming giant&apos;s most substantial expansion since
+          the beginning of the pandemic. The boost in sign-ups at the close of
+          the year is attributed to the company&apos;s initiative to tackle
+          password-sharing by encouraging individual account creation.
+        </p>
+        <p>
+          The streaming platform&apos;s stock witnessed a 10% surge, instilling
+          confidence among investors, fueled by robust subscriber growth.
+        </p>
+        <p>
+          Netflix&apos;s success in the streaming landscape has been
+          highlighted, with Pivotal Research Group analyst Jeffrey Wlodarczak
+          stating, &quot;Netflix has already won the streaming wars, and this
+          type of strong result/guidance, especially relative to its streaming
+          peers, is what winning looks like,&quot; according to Reuters.
+        </p>
+        <p>
+          As reported by Reuters, some analysts argue that Netflix&apos;s
+          valuation is justifiable, especially with other streaming companies
+          increasingly prioritizing profitability. This trend may lead these
+          companies to license more content to Netflix, potentially boosting
+          subscriber numbers and average revenue per user.
+        </p>
+        <p>
+          Netflix&apos;s stock maintains a premium position compared to its
+          competitors, trading at nearly 30 times its 12-month forward earnings,
+          in contrast to Walt Disney Co&apos;s 20.41, according to LSEG data.
+        </p>
+        <p>
+          In an ironic twist, considering its historical reluctance to sell ads,
+          Netflix&apos;s gains have come at a time when it previously resisted
+          incorporating ads due to concerns about compromising viewer experience
+          and potential privacy risks.
+        </p>
+        <p>
+          Facing a dip in subscribers and profits in the first half of 2022,
+          Netflix sought innovative strategies to attract new viewers and
+          generate additional revenue. &quot;We largely put price increases on
+          hold as we rolled out paid sharing. Now that we&apos;re through that,
+          we&apos;re able to resume our standard approach,&quot; said co-chief
+          executive Greg Peters, as reported by BBC.
+        </p>
+        <p>
+          The introduction of a more affordable plan that includes
+          advertisements saw significant adoption among new Netflix members. In
+          the 12 countries where ads were introduced, including major markets
+          like the UK and the US, this particular plan constituted 40% of new
+          subscriptions.
+        </p>
+        <p>
+          This growth signifies a significant shift for a company that long
+          opposed ad sales, citing potential negative impacts on viewer
+          experience and complications for its business due to privacy risks and
+          other concerns.
+        </p>
+        <p>
+          Netflix has allocated up to $17 billion for content this year,
+          responding to disruptions caused by dual Hollywood strikes involving
+          actors and writers in the previous year. Additionally, the company is
+          placing increased emphasis on live programming, as demonstrated by a
+          recent announcement of a rights deal exceeding $5 billion. This deal
+          aims to secure exclusive rights to World Wrestling
+          Entertainment&apos;s “Raw” and other content for their platform
+          starting January 2025.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "israel-alleges-hamas-receives-12-million-monthly-in-donations-for-financial-jihad",
+    timestamp: "Jan 24, 2024",
+    image: `/breaking/jan-24-2024/israel-alleges-hamas-receives-12-million-monthly-in-donations-for-financial-jihad.jpg`,
+    title: `Israel alleges Hamas receives $12 million monthly in donations for 'Financial Jihad'`,
+    preArticle: `Recent reports indicate that Hamas, the Palestinian militant group controlling Gaza, has seen a significant increase in its funding from online donations over the past few months. According to Israeli financial intelligence officials speaking to Bloomberg, Hamas is estimated to be receiving between `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Recent reports indicate that Hamas, the Palestinian militant group
+          controlling Gaza, has seen a significant increase in its funding from
+          online donations over the past few months. According to Israeli
+          financial intelligence officials speaking to Bloomberg, Hamas is
+          estimated to be receiving between $8 to $12 million per month from
+          online fundraising campaigns run by organizations posing as charities
+          to assist civilians in Gaza. This marks a major uptick from the
+          group&apos;s pre-conflict levels of online fundraising. The US
+          government is said to concur with the Israeli assessment regarding the
+          scale of Hamas&apos; current online funding streams.{" "}
+        </p>
+        <p>
+          Tracking and disrupting Hamas&apos; funding has long posed challenges
+          given the group&apos;s extensive experience evading sanctions and
+          scrutiny. Matthew Levitt, an expert at the Washington Institute for
+          Near East Policy, noted that while there has been a pronounced surge
+          in legitimate and illegitimate charitable donations to Palestinians
+          since the outbreak of hostilities, this also provides cover for Hamas
+          fundraising. He pointed out that some charities previously designated
+          by the US as fronts have re-emerged using new names, alongside many
+          new entities whose intent is unclear.{" "}
+        </p>
+        <p>
+          Prior to recent escalations, Hamas financing often flowed through
+          charities, with funds eventually reaching the group through mechanisms
+          like aid convoys, according to Israeli officials. Hamas also utilizes
+          trade-based schemes, pressuring Gazan business owners to
+          surreptitiously transmit payments. However, definitively ascertaining
+          whether a purported charity genuinely intends to aid civilians or
+          covertly back Hamas poses an enduring obstacle, the officials say.{" "}
+        </p>
+        <p>
+          Moreover, Hamas leverages organizations in third countries without
+          overt ties to the militant faction to raise capital, per Israeli and
+          US authorities. The group&apos;s officials have openly appealed for
+          monetary &quot;gifts&quot; to assist their fight against Israel,
+          framing it as a form of virtuous struggle.
+        </p>
+        <p>
+          This comes as Israel has pledged to militarily dismantle Hamas after
+          it fired barrages of rockets into southern Israel from Gaza, resulting
+          in around 1,200 Israeli fatalities. Over 25,000 Palestinians have been
+          killed since the outbreak of hostilities as Israel struck back
+          forcefully at Gaza. With tensions still simmering, the influx of
+          funding provides Hamas with resources to potentially sustain and
+          expand military capabilities directed against Israel.
+        </p>
+        <p>
+          Overall, the recent conflict has catalyzed a surge in online donations
+          to alleged Gaza aid efforts, with Israeli and US officials contending
+          that Hamas is siphoning off a significant fraction of these funds for
+          its own purposes. However, the opacity around some fundraising
+          initiatives and Hamas&apos; experience obscuring financial flows
+          continue to pose challenges to restricting its access to capital. The
+          scale of the purported uptick in Hamas financing illustrates the
+          complexity of impeding resources from reaching armed factions during
+          times of active conflict and humanitarian crisis.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "nikki-haley-declines-marriage-proposal-from-donald-trump-supporter",
     timestamp: "Jan 24, 2024",
     image: `/breaking/jan-24-2024/nikki-haley-declines-marriage-proposal-from-donald-trump-supporter.webp`,
