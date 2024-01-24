@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Script from "next/script";
 
 export const breakingHistory = [
   // jan-23-2024
@@ -758,7 +757,7 @@ export const breakingHistory = [
               January 21, 2024
             </a>
           </blockquote>{" "}
-          <Script src="https://platform.twitter.com/widgets.js" />
+          <script async src="https://platform.twitter.com/widgets.js" />
         </div>
         <p>
           &quot;Jill and I pray for the families of the victims,&quot; Biden
@@ -840,7 +839,7 @@ export const breakingHistory = [
               January 21, 2024
             </a>
           </blockquote>{" "}
-          <Script src="https://platform.twitter.com/widgets.js" />
+          <script async src="https://platform.twitter.com/widgets.js" />
         </div>
         <p>
           &quot;I don&apos;t agree with Nikki Haley on everything, but we agree
