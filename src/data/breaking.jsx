@@ -1,763 +1,485 @@
 import Image from "next/image";
 
 export const breaking = [
-  // jan-24-2024
+  // jan-25-2024
   {
-    id: "trump-secures-victory-in-new-hampshire-nearing-republican-nomination",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/trump-secures-victory-in-new-hampshire-nearing-republican-nomination.jpg`,
-    title: `Trump Secures Victory in New Hampshire, Nearing Republican Nomination`,
-    preArticle: `In a significant victory, Donald Trump has emerged as the clear winner in the New Hampshire Republican primary, securing over 54% of the vote. His closest rival, Nikki Haley, trailed behind with just over 43% of the vote. This win positions Trump one step closer to clinching the Republican nominatio`,
+    id: "maldives-opposition-raises-concerns-over-mohamed-muizzu-governments-shift-away-from-india-long-time-ally-at-risk",
+    timestamp: "Jan 25, 2024",
+    image: `/breaking/jan-25-2024/maldives-opposition-raises-concerns-over-mohamed-muizzu-governments-shift-away-from-india-long-time-ally-at-risk.webp`,
+    title: `Maldives Opposition Raises Concerns Over Mohamed Muizzu Government's Shift Away from India: 'Long-Time Ally at Risk...'`,
+    preArticle: `In the latest episode of the diplomatic dispute between India and Maldives, the island nation's two primary Opposition parties, the Maldivian Democratic Party (MDP) and the Democrats, have expressed serious reservations regarding President Mohamed Muizzu's perceived 'anti-India' stance. These partie`,
     article: (
       <div className="space-y-6">
         <p>
-          In a significant victory, Donald Trump has emerged as the clear winner
-          in the New Hampshire Republican primary, securing over 54% of the
-          vote. His closest rival, Nikki Haley, trailed behind with just over
-          43% of the vote. This win positions Trump one step closer to clinching
-          the Republican nomination for the upcoming US presidential election.
+          In the latest episode of the diplomatic dispute between India and
+          Maldives, the island nation&apos;s two primary Opposition parties, the
+          Maldivian Democratic Party (MDP) and the Democrats, have expressed
+          serious reservations regarding President Mohamed Muizzu&apos;s
+          perceived &apos;anti-India&apos; stance. These parties, labeling India
+          as their &quot;most long-standing ally,&quot; voiced their support for
+          India just one day after the Maldivian government granted permission
+          for a Chinese research and survey ship to dock at a Maldivian port for
+          replenishment.
         </p>
         <p>
-          The primary allowed both registered Republicans and independents to
-          participate in the voting process. Trump&apos;s decisive victory
-          effectively halted Haley&apos;s pursuit of the nomination. Despite her
-          acknowledgment of Trump&apos;s win, Haley asserted that New Hampshire
-          was just the beginning of the primaries and shifted her focus to South
-          Carolina, her home state, where the primaries are scheduled for
-          February 27.
+          President Mohamed Muizzu, known for his pro-China inclinations, chose
+          to visit China instead of following the tradition of an initial visit
+          to India after assuming office. This departure from established norms
+          added fuel to the controversy sparked by &apos;derogatory&apos;
+          remarks made by three Maldivian ministers about Prime Minister
+          Narendra Modi and his visit to Lakshadweep.
         </p>
         <p>
-          However, Trump expressed his irritation at Haley&apos;s decision to
-          continue in the race, labeling her as an &quot;imposter&quot; who
-          behaved as if she had won. Exit polls revealed that Trump secured more
-          votes across various demographics, including men, women, different age
-          groups, and geographical regions, showcasing his enduring influence
-          over the core Republican Party base.
+          In their joint assessment of the Maldivian government&apos;s foreign
+          policy direction, the MDP and the Democrats expressed concern over
+          what they perceive as a significant shift towards an
+          &apos;anti-India&apos; position. They emphasized the potential harm of
+          alienating a crucial development partner, particularly one with a
+          longstanding alliance. The Opposition parties highlighted the
+          importance of maintaining stable and secure conditions in the Indian
+          Ocean for the overall stability and security of the Maldives.
         </p>
         <p>
-          Following Trump&apos;s triumph in Iowa last week, where he garnered
-          more votes than his closest competitors combined, Ron DeSantis, Haley,
-          and Vivek Ramaswamy, both DeSantis and Ramaswamy withdrew from the
-          race and endorsed Trump. In contrast, Haley persisted, relying on
-          independent voters and an aggressive campaign against Trump. Despite
-          her victories in certain segments, such as college graduates and
-          independent voters, Trump overwhelmingly dominated every other
-          demographic.
+          During a joint news conference, MDP&apos;s chairperson and former
+          Minister Fayyaz Ismail, Deputy Speaker of the Parliament MP Ahmed
+          Saleem, along with Democrats party president MP Hassan Latheef and
+          Parliamentary Group Leader MP Ali Azim, shared their apprehensions
+          about the current administration&apos;s foreign policy. They
+          underscored the need for consecutive governments to collaborate with
+          all development partners, as has been the traditional approach in the
+          Maldives.
         </p>
         <p>
-          After the Associated Press declared Trump the winner on Tuesday night,
-          Haley addressed her supporters, congratulating Trump but asserting
-          that the race was far from over. She emphasized that New Hampshire was
-          just the first of many primaries, with dozens of states yet to hold
-          their elections. Haley highlighted her resilience, describing herself
-          as a fighter and expressing determination to continue alongside Trump.
+          The Opposition parties, which collectively hold 55 seats in the
+          87-member house, pledged to collaborate on various governance-related
+          issues while expressing broader concerns, including the lack of
+          transparency in the state&apos;s financial status and the undisclosed
+          details of Memoranda of Understanding (MOUs) and Agreements signed by
+          the government with foreign entities. Although the joint statement did
+          not specify countries, it indicated unease about the undisclosed
+          engagements with foreign parties.
         </p>
         <p>
-          Haley acknowledged agreement with many of Trump&apos;s policies,
-          having voted for him and served in his administration. However, she
-          emphasized the need to move beyond what she characterized as
-          &quot;negativity and chaos&quot; associated with Trump&apos;s
-          candidacy. Haley also questioned Trump&apos;s electability, pointing
-          to losses in the previous four elections under his leadership. She
-          suggested that it was an open secret that Democrats preferred Trump as
-          the Republican candidate, viewing him as Biden&apos;s best chance of
-          regaining the presidency.
-        </p>
-        <p>
-          Turning her attention to South Carolina, Haley&apos;s home state,
-          where she served as governor, she positioned herself as a viable
-          candidate. However, recent polls indicate a significant lead for Trump
-          in South Carolina, enjoying support from the state&apos;s senators and
-          governor.
-        </p>
-        <p>
-          In Trump&apos;s victory speech, he criticized Haley for behaving as if
-          she had won and urged her to acknowledge her loss. He reiterated his
-          focus on turning around the economy, securing the border, cutting
-          taxes, removing regulations, and defeating Biden in the upcoming
-          elections.
-        </p>
-        <p>
-          With the Republican battle shifting to Nevada, US Virgin Islands, and
-          then South Carolina, Haley&apos;s chances of securing the nomination
-          appear challenging. While a strong performance in her home state could
-          prolong her candidacy, analysts see New Hampshire as her best
-          opportunity, given the state&apos;s electorate, primary rules, and her
-          investments, making her nomination increasingly unlikely.
+          Additionally, the Opposition criticized the Mohamed Muizzu
+          government&apos;s actions aimed at censoring the media and impinging
+          on press freedom. These concerns, encompassing transparency issues,
+          foreign policy direction, and media freedom, were conveyed through a
+          joint press conference and disseminated on the official websites and
+          social media handles of both Maldivian Opposition parties.
         </p>
       </div>
     ),
   },
   {
-    id: "republic-day-2024-updated-schedule-for-delhi-metro-on-january-26-disclosed",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/republic-day-2024-updated-schedule-for-delhi-metro-on-january-26-disclosed.webp`,
-    title: `Republic Day 2024: Updated Schedule for Delhi Metro on January 26 Disclosed`,
-    preArticle: `The Delhi Metro Rail Corporation (DMRC) has declared that its services will commence at 4 am on January 26, facilitating commuters to utilize metro trains for reaching Kartavya Path to attend the Republic Day parade. Through X (formerly Twitter), DMRC shared information about service timings and spe`,
+    id: "canada-expands-investigation-into-election-interference-now-includes-india-in-formal-inquiry",
+    timestamp: "Jan 25, 2024",
+    image: `/breaking/jan-25-2024/canada-expands-investigation-into-election-interference-now-includes-india-in-formal-inquiry.avif`,
+    title: `Canada Expands Investigation into Election Interference, Now Includes India in Formal Inquiry`,
+    preArticle: `Canada's ongoing public inquiry into foreign interference is set to examine allegations of India's involvement in recent national elections, potentially heightening tensions between the two nations, as reported by Bloomberg. The inquiry, initiated by Prime Minister Justin Trudeau in response to lea`,
     article: (
       <div className="space-y-6">
         <p>
-          The Delhi Metro Rail Corporation (DMRC) has declared that its services
-          will commence at 4 am on January 26, facilitating commuters to utilize
-          metro trains for reaching Kartavya Path to attend the Republic Day
-          parade. Through X (formerly Twitter), DMRC shared information about
-          service timings and specified stations for alighting based on the
-          entry gates used by passengers to access the parade.
+          Canada&apos;s ongoing public inquiry into foreign interference is set
+          to examine allegations of India&apos;s involvement in recent national
+          elections, potentially heightening tensions between the two nations,
+          as reported by Bloomberg.
         </p>
         <p>
-          In the announcement, DMRC stated, “Delhi Metro will commence its
-          services at 4:00 AM on all its Lines to facilitate the public to reach
-          Kartavya Path to witness the Republic Day ceremony on 26th January
-          2024 (Friday). Train services will be available at a headway of 30
-          minutes till 06:00 AM and thereafter, a regular timetable will be
-          followed for the rest of the day.”
+          The inquiry, initiated by Prime Minister Justin Trudeau in response to
+          leaked intelligence documents suggesting Chinese interference in
+          Canada&apos;s elections, is scheduled to commence public hearings next
+          week. The inquiry commissioner is tasked with investigating potential
+          interference in Canada&apos;s 2019 and 2021 elections by China,
+          Russia, and various state and non-state entities. While specific
+          countries are not explicitly named, national security officials have
+          hinted at India and Iran being significant sources of potential
+          foreign meddling.
         </p>
         <p>
-          Passengers holding e-invitation cards or e-tickets for the Republic
-          Day ceremony will be provided with coupons upon presenting a valid
-          government-issued photo identity card at stations. These coupons will
-          permit exits exclusively from the Central Secretariat and Udyog Bhawan
-          metro stations to reach Kartavya Path. A similar coupon will also be
-          applicable for the return journey, exclusively from these two
-          stations.
+          The commission confirmed on Wednesday that the government of Prime
+          Minister Narendra Modi will be subject to investigation. The inquiry
+          has requested information and documents related to alleged election
+          interference without specifying the nature of the allegations.
         </p>
         <p>
-          For passengers alighting at stations based on their assigned enclosure
-          numbers, the Delhi Metro has issued specific guidelines. Passengers
-          with enclosure numbers 1 to 9, VI & V2 are instructed to alight at
-          Udyog Bhawan Metro Station. Similarly, individuals with enclosure
-          numbers 10 to 24 and VN are recommended to exit at the Central
-          Secretariat Metro Station. DMRC assured that regular announcements
-          inside the trains will inform passengers about this to facilitate
-          smooth access to their enclosures.
+          In September, Trudeau made headlines by asserting that India was
+          behind the murder of a Sikh activist on Canadian soil. The victim,
+          Hardeep Singh Nijjar, was labeled a terrorist by India due to his
+          advocacy for an independent Sikh nation called Khalistan. This
+          allegation strained Canada-India relations, leading to a forceful
+          denial by Modi&apos;s administration, temporary visa suspensions for
+          Canadians, and threats to revoke the immunity of Canadian diplomats in
+          India. Trade talks between the countries have been stalled for months.
         </p>
         <p>
-          In preparation for this year&apos;s parade, which anticipates 77,000
-          invitees at Kartavya Path, extensive security measures have been
-          implemented, according to the police, as reported by PTI. Special
-          Commissioner of Police (Security) Dependra Pathak emphasized the
-          implementation of professional, robust, and impeccable security
-          measures throughout Delhi for Republic Day.
+          In November, the credibility of Canada&apos;s claim seemed to gain
+          support when US federal prosecutors accused an Indian government agent
+          of directing a thwarted plot to kill a Sikh separatist in New York.
+          India took a more cooperative stance with the US, forming a committee
+          to investigate the allegations.
         </p>
         <p>
-          &quot;We have divided the New Delhi district, where the parade will
-          take place, into 28 zones to ensure security. Senior officers head
-          these zones,&quot; Tiwari was quoted as saying by PTI.
+          The foreign interference inquiry is expected to strain Canada&apos;s
+          relationships with both India and China. Trudeau and Chinese President
+          Xi Jinping expelled one diplomat each in a reciprocal response to last
+          year&apos;s interference allegations. China has urged Canada to
+          &quot;stop hyping up China-related lies and false information.&quot;
         </p>
         <p>
-          To enhance security measures, booths for missing persons, help desks,
-          first-aid kiosks, and separate facilitation booths for depositing
-          vehicle keys before the parade have been established. Tiwari urged
-          attendees to arrive promptly at the venue and cooperate with security
-          personnel during the comprehensive security checks that will be
-          conducted.
+          The initial hearings of the inquiry will focus on the challenges of
+          disclosing classified national security intelligence to the public.
+          Notable speakers, including David Vigneault, the director of the
+          Canadian Security Intelligence Agency, and Dominic LeBlanc,
+          Canada&apos;s Public Safety Minister, are scheduled to address this
+          aspect of the investigation.
         </p>
       </div>
     ),
   },
   {
-    id: "netflix-experiences-a-surge-of-new-paid-subscribers-amidst-intensified-measures-against-password-sharing",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/netflix-experiences-a-surge-of-new-paid-subscribers-amidst-intensified-measures-against-password-sharing.webp`,
-    title: `Netflix experiences a surge of 13.1 million new paid subscribers amidst intensified measures against password-sharing`,
-    preArticle: `In the last quarter of 2023, Netflix experienced a significant surge in its subscriber base, adding 13.1 million new subscriptions. This growth exceeded earlier estimates of 8.97 million subscribers and stands as the streaming giant's most substantial expansion since the beginning of the pandemic. T`,
+    id: "faa-puts-a-stop-to-boeings-737-max-production-plans",
+    timestamp: "Jan 25, 2024",
+    image: `/breaking/jan-25-2024/faa-puts-a-stop-to-boeings-737-max-production-plans.jpg`,
+    title: `FAA Puts a Stop to Boeing's 737 Max Production Plans`,
+    preArticle: `US aviation regulators have instructed Boeing to halt any further increases in production rates for its 737 Max aircraft. This decision comes alongside the approval of inspection procedures necessary for the 737 Max's return to service after being grounded by the Federal Aviation Administration (FAA`,
     article: (
       <div className="space-y-6">
         <p>
-          In the last quarter of 2023, Netflix experienced a significant surge
-          in its subscriber base, adding 13.1 million new subscriptions. This
-          growth exceeded earlier estimates of 8.97 million subscribers and
-          stands as the streaming giant&apos;s most substantial expansion since
-          the beginning of the pandemic. The boost in sign-ups at the close of
-          the year is attributed to the company&apos;s initiative to tackle
-          password-sharing by encouraging individual account creation.
+          US aviation regulators have instructed Boeing to halt any further
+          increases in production rates for its 737 Max aircraft. This decision
+          comes alongside the approval of inspection procedures necessary for
+          the 737 Max&apos;s return to service after being grounded by the
+          Federal Aviation Administration (FAA) earlier this month. The
+          FAA&apos;s action restricts Boeing from augmenting the output of its
+          lucrative jetliners in the near term, a critical development as
+          airlines are eager for new aircraft to meet the surging demand for air
+          travel. The decision comes just before Boeing&apos;s CEO, Dave
+          Calhoun, is set to announce annual targets for 737 deliveries on
+          January 31.
         </p>
         <p>
-          The streaming platform&apos;s stock witnessed a 10% surge, instilling
-          confidence among investors, fueled by robust subscriber growth.
+          Boeing had been working to stabilize 737 production at 38 jets per
+          month before an incident involving an Alaska Airlines Max 9, where a
+          door plug detached mid-flight, prompted a temporary halt. While the
+          company had indicated plans to accelerate production in the first
+          quarter, the FAA&apos;s recent decision puts a damper on these
+          efforts. Additionally, the FAA is suspending work on Boeing&apos;s
+          intended new 737 final assembly line at its widebody plant in Everett.
         </p>
         <p>
-          Netflix&apos;s success in the streaming landscape has been
-          highlighted, with Pivotal Research Group analyst Jeffrey Wlodarczak
-          stating, &quot;Netflix has already won the streaming wars, and this
-          type of strong result/guidance, especially relative to its streaming
-          peers, is what winning looks like,&quot; according to Reuters.
+          FAA Administrator Mike Whitaker emphasized that Boeing would not be
+          granted any expansion in production until the identified quality
+          control issues were satisfactorily addressed. This decision adds to
+          the challenges Boeing faces following the Alaska Airlines incident,
+          which triggered intense scrutiny from regulators, customers, and the
+          public.
         </p>
         <p>
-          As reported by Reuters, some analysts argue that Netflix&apos;s
-          valuation is justifiable, especially with other streaming companies
-          increasingly prioritizing profitability. This trend may lead these
-          companies to license more content to Netflix, potentially boosting
-          subscriber numbers and average revenue per user.
+          Boeing&apos;s aim to return 737 production to pre-COVID levels by
+          mid-decade, critical for managing its debt, is now hampered by the
+          FAA&apos;s restrictions. The company had been installing a fourth
+          final assembly line in its Everett factory to accommodate higher
+          production rates. This line, situated outside the traditional
+          narrowbody manufacturing hub in Renton, was expected to play a key
+          role in increasing output.
         </p>
         <p>
-          Netflix&apos;s stock maintains a premium position compared to its
-          competitors, trading at nearly 30 times its 12-month forward earnings,
-          in contrast to Walt Disney Co&apos;s 20.41, according to LSEG data.
+          In response to the FAA&apos;s decision, Boeing&apos;s shares
+          experienced a decline of up to 4.5% in after-hours trading. Meanwhile,
+          operators of the Max 9, such as United Airlines Holdings Inc. and
+          Alaska Air Group Inc., are allowed to resume flights after
+          inspections. Alaska Airlines plans to return its first Max 9 to
+          service on January 26, with inspections on its full fleet completed by
+          February 2. United is set to resume Max 9 flights starting January 28.
         </p>
         <p>
-          In an ironic twist, considering its historical reluctance to sell ads,
-          Netflix&apos;s gains have come at a time when it previously resisted
-          incorporating ads due to concerns about compromising viewer experience
-          and potential privacy risks.
-        </p>
-        <p>
-          Facing a dip in subscribers and profits in the first half of 2022,
-          Netflix sought innovative strategies to attract new viewers and
-          generate additional revenue. &quot;We largely put price increases on
-          hold as we rolled out paid sharing. Now that we&apos;re through that,
-          we&apos;re able to resume our standard approach,&quot; said co-chief
-          executive Greg Peters, as reported by BBC.
-        </p>
-        <p>
-          The introduction of a more affordable plan that includes
-          advertisements saw significant adoption among new Netflix members. In
-          the 12 countries where ads were introduced, including major markets
-          like the UK and the US, this particular plan constituted 40% of new
-          subscriptions.
-        </p>
-        <p>
-          This growth signifies a significant shift for a company that long
-          opposed ad sales, citing potential negative impacts on viewer
-          experience and complications for its business due to privacy risks and
-          other concerns.
-        </p>
-        <p>
-          Netflix has allocated up to $17 billion for content this year,
-          responding to disruptions caused by dual Hollywood strikes involving
-          actors and writers in the previous year. Additionally, the company is
-          placing increased emphasis on live programming, as demonstrated by a
-          recent announcement of a rights deal exceeding $5 billion. This deal
-          aims to secure exclusive rights to World Wrestling
-          Entertainment&apos;s “Raw” and other content for their platform
-          starting January 2025.
+          The FAA&apos;s confidence in proceeding with inspections and
+          maintenance is based on an exhaustive review conducted over several
+          weeks, according to Whitaker. The FAA&apos;s decision marks a
+          significant development in Boeing&apos;s efforts to navigate the
+          aftermath of the Max 9 incident and restore confidence in the safety
+          of its aircraft.
         </p>
       </div>
     ),
   },
   {
-    id: "israel-alleges-hamas-receives-12-million-monthly-in-donations-for-financial-jihad",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/israel-alleges-hamas-receives-12-million-monthly-in-donations-for-financial-jihad.jpg`,
-    title: `Israel alleges Hamas receives $12 million monthly in donations for 'Financial Jihad'`,
-    preArticle: `Recent reports indicate that Hamas, the Palestinian militant group controlling Gaza, has seen a significant increase in its funding from online donations over the past few months. According to Israeli financial intelligence officials speaking to Bloomberg, Hamas is estimated to be receiving between `,
+    id: "traffic-restrictions-declared-by-noida-and-greater-noida-police-for-prime-ministers-visit-to-bulandshahr-during-2024-lok-sabha-polls",
+    timestamp: "Jan 25, 2024",
+    image: `/breaking/jan-25-2024/traffic-restrictions-declared-by-noida-and-greater-noida-police-for-prime-ministers-visit-to-bulandshahr-during-2024-lok-sabha-polls.webp`,
+    title: `Traffic Restrictions Declared by Noida and Greater Noida Police for Prime Minister's Visit to Bulandshahr During 2024 Lok Sabha Polls`,
+    preArticle: `Noida and Greater Noida police have implemented traffic restrictions in anticipation of Prime Minister Modi's visit to Bulandshahr on January 25. The Prime Minister, gearing up for the 2024 Lok Sabha elections, is scheduled to hold his first electoral rally in Uttar Pradesh's Bulandshahr, according `,
     article: (
       <div className="space-y-6">
         <p>
-          Recent reports indicate that Hamas, the Palestinian militant group
-          controlling Gaza, has seen a significant increase in its funding from
-          online donations over the past few months. According to Israeli
-          financial intelligence officials speaking to Bloomberg, Hamas is
-          estimated to be receiving between $8 to $12 million per month from
-          online fundraising campaigns run by organizations posing as charities
-          to assist civilians in Gaza. This marks a major uptick from the
-          group&apos;s pre-conflict levels of online fundraising. The US
-          government is said to concur with the Israeli assessment regarding the
-          scale of Hamas&apos; current online funding streams.{" "}
+          Noida and Greater Noida police have implemented traffic restrictions
+          in anticipation of Prime Minister Modi&apos;s visit to Bulandshahr on
+          January 25. The Prime Minister, gearing up for the 2024 Lok Sabha
+          elections, is scheduled to hold his first electoral rally in Uttar
+          Pradesh&apos;s Bulandshahr, according to BJP sources cited by news
+          agency ANI.
         </p>
         <p>
-          Tracking and disrupting Hamas&apos; funding has long posed challenges
-          given the group&apos;s extensive experience evading sanctions and
-          scrutiny. Matthew Levitt, an expert at the Washington Institute for
-          Near East Policy, noted that while there has been a pronounced surge
-          in legitimate and illegitimate charitable donations to Palestinians
-          since the outbreak of hostilities, this also provides cover for Hamas
-          fundraising. He pointed out that some charities previously designated
-          by the US as fronts have re-emerged using new names, alongside many
-          new entities whose intent is unclear.{" "}
+          In addition to the political event, the prime minister is slated to
+          unveil development projects valued at over ₹19,100 crore in
+          Bulandshahr today, as reported by news agency PTI. During a virtual
+          ceremony, he will inaugurate the 173-km-long double-line electrified
+          section between New Khurja and New Rewari on the dedicated freight
+          corridor (DFC), marking the commencement of goods trains from the two
+          stations. Furthermore, the prime minister is expected to inaugurate
+          the fourth rail line connecting Mathura-Palwal and Chipiyana
+          Buzurg-Dadri sections, along with several road development projects.
+          Among these projects is the inauguration of Indian Oil&apos;s
+          Tundla-Gawaria pipeline and the &quot;integrated industrial township
+          at Greater Noida&quot; (IITGN), aligned with the prime minister’s
+          vision of coordinated implementation of infrastructure connectivity
+          projects under PM-GatiShakti.
         </p>
         <p>
-          Prior to recent escalations, Hamas financing often flowed through
-          charities, with funds eventually reaching the group through mechanisms
-          like aid convoys, according to Israeli officials. Hamas also utilizes
-          trade-based schemes, pressuring Gazan business owners to
-          surreptitiously transmit payments. However, definitively ascertaining
-          whether a purported charity genuinely intends to aid civilians or
-          covertly back Hamas poses an enduring obstacle, the officials say.{" "}
+          Concurrently, the Gautam Buddh Nagar police have issued a traffic
+          advisory, warning commuters of potential diversions on the
+          Noida-Greater Noida Expressway and the Yamuna Expressway on January
+          25.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="hi" dir="ltr">
+              🚨यातायात निर्देशिका🚨
+              <br />
+              दिनांक 25.01.24 को जनपद बुलंदशहर में अतिविशिष्ट महानुभाव का
+              आगमन/भ्रमण कार्यक्रम प्रस्तावित है जिसके दृष्टिगत कमिश्नरेट
+              गौतमबुधनगर में आकस्मिक स्थिति में नोएडा–ग्रेटर नोएडा एक्सप्रेस–वे
+              व यमुना एक्सप्रेस–वे पर अल्प समय के लिए यातायात डायवर्जन किया
+              जायेगा...{" "}
+              <a href="https://t.co/tZTtISgsJX">https://t.co/tZTtISgsJX</a>{" "}
+              <a href="https://t.co/uJsklI63pb">pic.twitter.com/uJsklI63pb</a>
+            </p>
+            &mdash; Noida Traffic Police (@noidatraffic){" "}
+            <a href="https://twitter.com/noidatraffic/status/1750144047371739144?ref_src=twsrc%5Etfw">
+              January 24, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+        </div>
+      </div>
+    ),
+  },
+  {
+    id: "north-korea-affirms-south-koreas-assertion-conducts-trial-of-novel-strategic-cruise-missile-pulhwasal-3-31",
+    timestamp: "Jan 25, 2024",
+    image: `/breaking/jan-25-2024/north-korea-affirms-south-koreas-assertion-conducts-trial-of-novel-strategic-cruise-missile-pulhwasal-3-31.jpg`,
+    title: `North Korea Affirms South Korea's Assertion, Conducts Trial of Novel Strategic Cruise Missile 'Pulhwasal-3-31'`,
+    preArticle: `North Korea announced the successful testing of its new strategic cruise missile, as reported by state media KCNA on Thursday, thereby corroborating the South Korean military's statement from the previous day. The missile, named "Pulhwasal-3-31," is presently in the developmental phase, and the tes`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          North Korea announced the successful testing of its new strategic
+          cruise missile, as reported by state media KCNA on Thursday, thereby
+          corroborating the South Korean military&apos;s statement from the
+          previous day.
         </p>
         <p>
-          Moreover, Hamas leverages organizations in third countries without
-          overt ties to the militant faction to raise capital, per Israeli and
-          US authorities. The group&apos;s officials have openly appealed for
-          monetary &quot;gifts&quot; to assist their fight against Israel,
-          framing it as a form of virtuous struggle.
+          The missile, named &quot;Pulhwasal-3-31,&quot; is presently in the
+          developmental phase, and the test launch did not pose any security
+          threat to neighboring countries, according to state media. The report
+          emphasized that the test was unrelated to the regional situation and
+          was part of the ongoing process to enhance the country&apos;s weapon
+          system, as mentioned by The Missile Administration.
         </p>
         <p>
-          This comes as Israel has pledged to militarily dismantle Hamas after
-          it fired barrages of rockets into southern Israel from Gaza, resulting
-          in around 1,200 Israeli fatalities. Over 25,000 Palestinians have been
-          killed since the outbreak of hostilities as Israel struck back
-          forcefully at Gaza. With tensions still simmering, the influx of
-          funding provides Hamas with resources to potentially sustain and
-          expand military capabilities directed against Israel.
+          On Wednesday, South Korea&apos;s Joint Chiefs of Staff disclosed that
+          North Korea had launched multiple cruise missiles towards the sea off
+          its west coast at approximately 7 a.m. (2200 GMT on Tuesday). In
+          response, Seoul&apos;s defense minister, Shin Won-sik, condemned the
+          launches, characterizing them as a significant threat to South Korea.
         </p>
         <p>
-          Overall, the recent conflict has catalyzed a surge in online donations
-          to alleged Gaza aid efforts, with Israeli and US officials contending
-          that Hamas is siphoning off a significant fraction of these funds for
-          its own purposes. However, the opacity around some fundraising
-          initiatives and Hamas&apos; experience obscuring financial flows
-          continue to pose challenges to restricting its access to capital. The
-          scale of the purported uptick in Hamas financing illustrates the
-          complexity of impeding resources from reaching armed factions during
-          times of active conflict and humanitarian crisis.
+          The term &quot;strategic&quot; in this context typically implies the
+          potential for nuclear capabilities in the weapons being referred to.
+        </p>
+        <p>
+          This event marks North Korea&apos;s second test of a cruise missile
+          with potential nuclear strike capabilities, following the first test
+          conducted in September 2021. Cruise missiles, while not explicitly
+          prohibited by any U.N. Security Council resolutions, have garnered
+          less international attention than ballistic missiles. However,
+          analysts argue that intermediate-range, land-attack cruise missiles
+          possess a threat comparable to ballistic missiles and represent a
+          significant capability for North Korea.
+        </p>
+        <p>
+          The ambiguity surrounding the warhead of cruise missiles and
+          short-range ballistic missiles, which can be armed with either
+          conventional or nuclear payloads, is viewed as a destabilizing factor
+          in the event of a conflict. The uncertainty about the nature of the
+          warhead increases the potential for miscalculation and escalation
+          during hostilities.
         </p>
       </div>
     ),
   },
   {
-    id: "nikki-haley-declines-marriage-proposal-from-donald-trump-supporter",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/nikki-haley-declines-marriage-proposal-from-donald-trump-supporter.webp`,
-    title: `Nikki Haley Declines Marriage Proposal from Donald Trump Supporter`,
-    preArticle: `GOP Presidential hopeful Nikki Haley encountered an unexpected moment during a rally in New Hampshire on Monday when a supporter of Donald Trump disrupted her speech with an impromptu marriage proposal. The incident took place at the Artisan Hotel in Salem, where the 52-year-old presidential contend`,
+    id: "carbon-tax-poses-a-challenge-yet-wont-stall-free-trade-negotiations",
+    timestamp: "Jan 25, 2024",
+    image: `/breaking/jan-25-2024/carbon-tax-poses-a-challenge-yet-wont-stall-free-trade-negotiations.jpg`,
+    title: `Carbon Tax Poses a Challenge, Yet Won't Stall Free Trade Negotiations`,
+    preArticle: `India's ongoing free trade negotiations with the UK and the European Union (EU) may potentially exclude discussions on the contentious carbon tax issue in a bid to expedite the trade agreements, according to three individuals familiar with the matter. The lack of consensus on the carbon border adju`,
     article: (
       <div className="space-y-6">
         <p>
-          GOP Presidential hopeful Nikki Haley encountered an unexpected moment
-          during a rally in New Hampshire on Monday when a supporter of Donald
-          Trump disrupted her speech with an impromptu marriage proposal. The
-          incident took place at the Artisan Hotel in Salem, where the
-          52-year-old presidential contender was addressing her supporters about
-          the significance of the upcoming election on the eve of the New
-          Hampshire primary.
+          India&apos;s ongoing free trade negotiations with the UK and the
+          European Union (EU) may potentially exclude discussions on the
+          contentious carbon tax issue in a bid to expedite the trade
+          agreements, according to three individuals familiar with the matter.
         </p>
         <p>
-          While discussing key election issues, a man from the crowd interrupted
-          Haley with the question, &quot;Will you marry me?&quot; The
-          unanticipated proposal elicited laughter from the audience, including
-          Haley herself. Responding in a composed manner, the former South
-          Carolina governor, who is already married to Maj. Michael Haley,
-          countered by asking the man if he would vote for her.
+          The lack of consensus on the carbon border adjustment mechanism (CBAM)
+          raises concerns for Indian steel exports to the region, as it could
+          increase export costs and diminish profits. India is actively engaged
+          in separate free trade agreement (FTA) negotiations with both the UK
+          and the EU.
         </p>
         <p>
-          In a brief pause, the man declared his allegiance to Trump, drawing
-          disapproval from fellow rally attendees. Unfazed by the response,
-          Haley straightforwardly told the man to &quot;get out,&quot;
-          expressing her displeasure at the interruption.
+          One of the anonymous sources mentioned a sense of urgency in
+          finalizing these FTAs due to the impending conclusion of the
+          government&apos;s term. Talks on the CBAM would be conducted
+          independently by the steel and external affairs ministries with their
+          foreign counterparts.
         </p>
         <p>
-          Meanwhile, in the New Hampshire presidential primary held the
-          following day, Haley secured the second position after former US
-          President Donald Trump. Trump emerged victorious in the Republican
-          presidential primary, consolidating his position as the leading
-          candidate for the Republican Party. Despite not actively campaigning,
-          current US President Joe Biden secured the win for the Democrats in
-          New Hampshire.
+          As of now, the ministries of commerce and steel have not responded to
+          queries on this matter.
         </p>
         <p>
-          With Trump&apos;s consecutive wins, he began to solidify his standing
-          as the frontrunner for the Republican Presidential candidacy, shaping
-          the political landscape leading up to the election.
+          The EU&apos;s CBAM, along with a parallel policy in the UK, aims to
+          impose a carbon tax on imports of iron and steel, aluminum, cement,
+          ceramics, fertilizer, glass, and hydrogen into the region starting
+          January 2026. The purpose of the levy, as stated by the UK and EU, is
+          to establish a fair price for carbon emitted during the production of
+          these goods outside the region and protect local producers from price
+          disadvantages.
+        </p>
+        <p>
+          Indian steelmakers have been actively advocating for concessions on
+          CBAM as part of the ongoing FTA discussions. However, with the
+          exclusion of this topic from the discussions, it introduces
+          uncertainty for Indian steel exporters. Queries directed to the Indian
+          Steel Association, the primary lobby for the domestic steel industry,
+          have not been answered.
+        </p>
+        <p>
+          An industry executive suggested that the exclusion of CBAM from FTA
+          negotiations might be a strategic move by India. The executive noted
+          concerns about the lack of transparency in the EU or the UK&apos;s
+          emission calculation mechanism and likened integrating CBAM into the
+          FTAs at this stage to surrendering a valuable tool without gaining
+          clarity on the matter.
+        </p>
+        <p>
+          According to an analysis by Icra Ltd., CBAM compliance requirements
+          could lead to a reduction in profits for Indian steel exports to the
+          EU by $60-165/tonne between 2026 and 2034. A similar impact is
+          anticipated for exports to the UK. Indian steelmakers view CBAM as a
+          trade barrier, emphasizing the need for considerations of historical
+          emissions of developed nations in these discussions.
+        </p>
+        <p>
+          Prabodha Acharya, Chief Sustainability Officer at JSW Group, a leading
+          steel exporter, expressed concerns about CBAM&apos;s potential
+          negative impact on trade balance and emphasized that it should not be
+          a mandate in FTA negotiations.
+        </p>
+        <p>
+          The exclusion of CBAM from discussions could significantly affect
+          Indian steel exporters. In 2023, India exported about 3.6 million
+          tonnes of finished steel to Europe and 0.4 million tonnes to the UK,
+          accounting for nearly half of India&apos;s total steel exports,
+          according to data from SteelMint.
         </p>
       </div>
     ),
   },
   {
-    id: "trump-and-biden-triumph-in-new-hampshire-primaries-setting-the-stage-for-a-potential-2024-rematch",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/trump-and-biden-triumph-in-new-hampshire-primaries-setting-the-stage-for-a-potential-2024-rematch.webp`,
-    title: `Trump and Biden Triumph in New Hampshire Primaries, Setting the Stage for a Potential 2024 Rematch`,
-    preArticle: `In the recent New Hampshire primaries, former US President Donald Trump secured a victory in the Republican presidential primary, marking his second consecutive win after Iowa. Despite not actively campaigning, current US President Joe Biden emerged victorious for the Democrats, positioning both lea`,
+    id: "fox-allowed-to-contest-defamation-lawsuit-by-smartmatic-regarding-2020-election",
+    timestamp: "Jan 25, 2024",
+    image: `/breaking/jan-25-2024/fox-allowed-to-contest-defamation-lawsuit-by-smartmatic-regarding-2020-election.jpg`,
+    title: `Fox Allowed to Contest $2.7 Billion Defamation Lawsuit by Smartmatic Regarding 2020 Election`,
+    preArticle: `Fox Corp. has been granted the opportunity to challenge Smartmatic Corp.'s $2.7 billion defamation lawsuit, which Fox argues excessively inflates the financial harm it endured due to broadcasts falsely accusing it of manipulating the 2020 US election. New York Judge David B. Cohen rejected Smartmati`,
     article: (
       <div className="space-y-6">
         <p>
-          In the recent New Hampshire primaries, former US President Donald
-          Trump secured a victory in the Republican presidential primary,
-          marking his second consecutive win after Iowa. Despite not actively
-          campaigning, current US President Joe Biden emerged victorious for the
-          Democrats, positioning both leaders for a potential rematch in the
-          November 2024 presidential election.
+          Fox Corp. has been granted the opportunity to challenge Smartmatic
+          Corp.&apos;s $2.7 billion defamation lawsuit, which Fox argues
+          excessively inflates the financial harm it endured due to broadcasts
+          falsely accusing it of manipulating the 2020 US election. New York
+          Judge David B. Cohen rejected Smartmatic&apos;s request to dismiss
+          Fox&apos;s counterclaims, ruling that Fox can assert Smartmatic is
+          attempting to curb its free speech rights through the substantial
+          lawsuit.
         </p>
         <p>
-          With Trump&apos;s win in Iowa and New Hampshire, a re-match with his
-          Democratic counterpart, Biden, becomes increasingly likely. Former
-          South Carolina governor Nikki Haley, a rival to Trump, aimed to
-          disrupt the political landscape in the crucial state but ultimately
-          finished second.
+          Justice Cohen is expected to soon make a decision on Fox&apos;s motion
+          to dismiss Smartmatic&apos;s defamation suit outright. At present,
+          both Smartmatic&apos;s lawsuit, accusing Fox of engaging in a
+          &quot;disinformation campaign&quot; to promote Donald Trump&apos;s
+          vote-rigging theory, and Fox&apos;s counterclaims will progress
+          simultaneously.
         </p>
         <p>
-          Edison Research reported that Trump secured 52.3% of the vote compared
-          to Haley&apos;s 46.6% after tallying 14% of the votes, according to
-          Reuters.
+          This ruling follows Fox&apos;s agreement less than a year ago to pay
+          $787.5 million to settle a $1.6 billion defamation suit brought by
+          another voting machine firm, Dominion Voting Systems Inc., which
+          leveled similar accusations. Former President Trump continues to
+          falsely claim that the 2020 election was stolen as he campaigns for a
+          return to the White House.
         </p>
         <p>
-          Biden&apos;s win in the New Hampshire Democratic primary, achieved as
-          a write-in candidate without campaigning or appearing on the ballot,
-          defied party rules, as the primary in the key state preceded South
-          Carolina&apos;s, according to the Associated Press.
+          In Tuesday&apos;s ruling, Cohen dismissed Smartmatic&apos;s argument
+          that Fox&apos;s settlement with Dominion, combined with significant
+          rulings against Fox in that case, justified the dismissal of
+          Fox&apos;s counterclaims. Instead, the judge concluded that Fox&apos;s
+          specific argument regarding exaggerated damages needs to be addressed
+          in court.
         </p>
         <p>
-          Trump&apos;s victories in Iowa and New Hampshire marked the first time
-          a Republican accomplished a sweep in these states since 1976, setting
-          the stage for the top candidates to contend for the White House.
+          The ruling represents a significant setback for Smartmatic, which
+          asserts that its reputation suffered severe damage when Fox News hosts
+          and guests continued to amplify the election conspiracy theory despite
+          widespread debunking. Guests, including Rudy Giuliani, falsely alleged
+          that Smartmatic colluded with Dominion and foreign hackers to
+          manipulate millions of votes away from Trump.
         </p>
         <p>
-          The New Hampshire primary witnessed the first one-on-one faceoff
-          between Trump and Haley after Florida Governor Ron DeSantis, initially
-          considered Trump&apos;s challenger, withdrew and endorsed the former
-          president.
+          Smartmatic has not immediately responded to a request for comment on
+          the ruling.
         </p>
         <p>
-          Despite the setback in New Hampshire, Haley is determined to mount a
-          robust challenge in the upcoming primary in her home state, South
-          Carolina, scheduled for February 24. Previously finishing third in
-          Iowa, Haley is anticipated to present a formidable opposition,
-          possibly offering a chance to defeat Trump and secure a state victory.
+          In its counterclaims, Fox contends that Smartmatic&apos;s $2.7 billion
+          demand is &quot;fanciful&quot; and accuses the voting machine company
+          of inflating its financial harm by falsely claiming it &quot;stood to
+          make nearly $2 billion in annual revenue in 2025.&quot; According to
+          Fox, this figure is over four times Smartmatic&apos;s highest reported
+          revenues within the past nine years.
         </p>
         <p>
-          However, despite Trump&apos;s success in New Hampshire, exit polls
-          indicate potential challenges in his election campaign. Facing
-          multiple criminal charges, including attempts to overturn the 2020
-          election and payments to an adult star for silence, Trump may
-          encounter obstacles. Edison&apos;s exit poll revealed that nearly half
-          of Republican primary voters questioned Trump&apos;s fitness to serve
-          if convicted.
+          Fox argues that these alleged exaggerations violate New York&apos;s
+          anti-SLAPP law (Strategic Lawsuits Against Public Participation),
+          designed to prevent the filing of cases intended to stifle free
+          speech.
         </p>
         <p>
-          Conversely, while Edison predicted Biden&apos;s triumph in the New
-          Hampshire Democratic primary, over two-thirds of Republican primary
-          voters expressed dissatisfaction with the American economy, citing it
-          as either poor or not good, according to Reuters.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "pakistan-court-reinstates-imran-khans-bail-in-seven-cases-ahead-of-general-elections",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/pakistan-court-reinstates-imran-khans-bail-in-seven-cases-ahead-of-general-elections.jpg`,
-    title: `Pakistan Court Reinstates Imran Khan's Bail in Seven Cases Ahead of General Elections`,
-    preArticle: `On Tuesday, a Pakistani court reinstated the bail of former Prime Minister Imran Khan in seven cases related to the May 9 violence on military installations. The Lahore High Court's decision may not offer respite to the 71-year-old leader of the Pakistan Tehreek-e-Insaaf (PTI) ahead of the upcoming `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          On Tuesday, a Pakistani court reinstated the bail of former Prime
-          Minister Imran Khan in seven cases related to the May 9 violence on
-          military installations. The Lahore High Court&apos;s decision may not
-          offer respite to the 71-year-old leader of the Pakistan
-          Tehreek-e-Insaaf (PTI) ahead of the upcoming general polls on February
-          8.
+          Despite facing legal challenges related to the 2020 election, Fox has
+          maintained its denial of wrongdoing, asserting that its journalists
+          were reporting objectively on claims made by a sitting president and
+          his allies regarding the fraudulent nature of the election.
         </p>
         <p>
-          This legal development follows the Supreme Court of Pakistan&apos;s
-          January 13 decision to strip the PTI of its signature cricket
-          &apos;bat&apos; election symbol. Consequently, individuals contesting
-          elections under the PTI banner must now run as independent candidates.
-          The election commission of Pakistan has already rejected nomination
-          papers for Khan and several of his party associates.
-        </p>
-        <p>
-          A two-judge bench comprising Justice Aalia Neelum and Justice Farooq
-          Haider at the Lahore High Court heard Khan&apos;s petition challenging
-          the Anti-Terrorism Court&apos;s (ATC) decision to dismiss his
-          pre-arrest bail petitions in the May 9 cases. This dismissal occurred
-          subsequent to Khan&apos;s arrest and conviction in the Toshakhana
-          case, related to the national treasury gifts.
-        </p>
-        <p>
-          During Tuesday&apos;s hearing, Khan&apos;s counsel, Barrister Salman
-          Safdar, argued that the trial court had wrongfully dismissed his
-          client&apos;s bail petitions in his absence, citing imprisonment as
-          the reason for non-appearance. Safdar contended that Imran Khan, being
-          incarcerated at the time, should have been summoned from jail before
-          the trial court made decisions on his bail petitions.
-        </p>
-        <p>
-          Safdar urged the court to overturn the trial court&apos;s order and
-          instruct it to evaluate the bail petition based on its merits. Law
-          officer Farhad Ali Shah opposed the petition, asserting that the trial
-          court had correctly dismissed Imran Khan&apos;s bail.
-        </p>
-        <p>
-          Contrary to expectations, the bench delivered a verdict in favor of
-          Khan, restoring his pre-arrest bail petitions. Additionally, the
-          Lahore High Court directed the trial court to register Khan&apos;s
-          attendance via video link from jail and evaluate his bail petitions on
-          their merits.
-        </p>
-        <p>
-          The Anti-Terrorism Court had previously dismissed Khan&apos;s
-          pre-arrest bail in seven cases linked to the May 9 riots, including
-          attacks on the Lahore Corps Commander’s House. On that day, PTI
-          supporters vandalized numerous military installations, such as the
-          Jinnah House (Lahore Corps Commander House), Mianwali Airbase, and the
-          ISI building in Faisalabad. The incident marked the first time the mob
-          attacked the Army headquarters (GHQ) in Rawalpindi.
-        </p>
-        <p>
-          Imran Khan contends that the May 9 violence targeted his party and
-          alleges a conspiracy outlined in the &apos;London agreement,&apos;
-          suggesting that the powerful Pakistan Army is favoring Pakistan Muslim
-          League-Nawaz (PML-N) chief Nawaz Sharif.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "trinamool-leader-faces-another-enforcement-directorate-raid-now-under-tight-security",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/trinamool-leader-faces-another-enforcement-directorate-raid-now-under-tight-security.jpg`,
-    title: `Trinamool Leader Faces Another Enforcement Directorate Raid, Now Under Tight Security`,
-    preArticle: `A team from the Enforcement Directorate has arrived at the residence of Shahjahan Sheikh, a Trinamool Congress leader in Sandeshkhali, West Bengal, for a new series of raids related to an alleged ration distribution scam. The central agency is conducting the raids with heightened security, including`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          A team from the Enforcement Directorate has arrived at the residence
-          of Shahjahan Sheikh, a Trinamool Congress leader in Sandeshkhali, West
-          Bengal, for a new series of raids related to an alleged ration
-          distribution scam. The central agency is conducting the raids with
-          heightened security, including the presence of one company of the
-          CRPF, and has deployed over 24 cars for the operation. Local police
-          are also on the scene to provide assistance during the raids.
-        </p>
-        <p>
-          This comes after a previous incident on January 5, when several
-          members of the Enforcement Directorate were attacked by a mob in
-          Sandeshkhali while en route to Shahjahan&apos;s residence for raids.
-          More than 200 locals surrounded the officials&apos; vehicles and
-          vandalized them. In connection with this attack, four individuals have
-          been arrested from Basirhat, a town in North 24 Parganas, based on
-          surveillance footage.
-        </p>
-        <p>
-          The Bengal Police initiated three FIRs related to the incident,
-          including one filed by locals alleging that Enforcement Directorate
-          officials were causing disturbances. The Calcutta High Court
-          subsequently issued a stay on the police investigation against the
-          probe agency officials until March 31.
-        </p>
-        <p>
-          Meanwhile, another Trinamool Congress leader, Shankar Adhya, former
-          Bongaon Municipality Chairman and a co-accused in the alleged ration
-          distribution scam, was arrested earlier this month. He was taken into
-          Enforcement Directorate custody following searches at his residence in
-          Simultola, Bongaon, and properties associated with him and his family.
-        </p>
-        <p>
-          During Shankar Adhya&apos;s hearing, the Enforcement Directorate
-          claimed widespread corruption amounting to at least Rs 10,000 crore in
-          the ration distribution scam. The agency further alleged that
-          approximately Rs 2,000 crore of this sum was illegally funneled to
-          Dubai through Shankar Adhya&apos;s company.
-        </p>
-        <p>
-          The involvement of Shankar Adhya came to light through a letter from
-          the arrested former Bengal Food Minister, Jyotipriya Mallick, who is
-          also implicated in the ration corruption case, according to the probe
-          agency.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "australian-ambassador-welcomes-india-s-increased-confidence",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/australian-ambassador-welcomes-india-s-increased-confidence.webp`,
-    title: `Australian Ambassador Welcomes India's Increased Confidence`,
-    preArticle: `Australian High Commissioner to India, Philip Green, expressed his perspective on the evolving strategic partnership between India and Australia, noting the emergence of a "more confident India." Green welcomed this development, emphasizing the substantial cooperation expected between the two nation`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Australian High Commissioner to India, Philip Green, expressed his
-          perspective on the evolving strategic partnership between India and
-          Australia, noting the emergence of a &quot;more confident India.&quot;
-          Green welcomed this development, emphasizing the substantial
-          cooperation expected between the two nations in the coming years.
-        </p>
-        <p>
-          In his first interview with India Today, Green highlighted the shift
-          from occasional senior officials&apos; meetings with no fixed agenda
-          to now having annual leaders&apos; meetings, structured agendas, and
-          dedicated working groups addressing issues systematically. Reflecting
-          on the past four to five years, he underscored the significant
-          development of the Quad, describing it as a dramatic transformation in
-          the regional dynamics.
-        </p>
-        <p>
-          Green echoed External Affairs Minister S Jaishankar&apos;s recent
-          statement that &quot;India today is much more confident than
-          before.&quot; Regarding the Khalistan issue, he reiterated
-          Australia&apos;s support for the democratic right to peaceful protest
-          while emphasizing the commitment to safeguarding the
-          &quot;security&quot; and &quot;dignity&quot; of Indian diplomats and
-          missions.
-        </p>
-        <p>
-          Addressing diplomatic relations with China, Green advocated for
-          dialogue and diplomacy as the preferred approach to maintain
-          stability. While emphasizing the importance of preserving the
-          &quot;status quo&quot; along the India-China border, he underscored
-          the need to avoid unilateral changes. Green stressed the significance
-          of engaging in dialogue with China to navigate bilateral issues within
-          established rules and norms.
-        </p>
-        <p>
-          Responding to queries about the scheduled Quad meeting around Republic
-          Day (January 26), the Australian High Commissioner deferred to the
-          Indian Prime Minister&apos;s discretion, acknowledging India&apos;s
-          chairmanship of the Quad this year. Green affirmed his Prime
-          Minister&apos;s strong commitment to the Quad and expressed
-          flexibility regarding the meeting&apos;s timing and location, leaving
-          the decision entirely to the Indian Prime Minister, who holds the
-          chairmanship.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "pm-modi-acknowledges-karpoori-thakur-as-a-genuine-peoples-leader-expresses-gratitude",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/pm-modi-acknowledges-karpoori-thakur-as-a-genuine-peoples-leader-expresses-gratitude.jpg`,
-    title: `PM Modi Acknowledges Karpoori Thakur as a Genuine People's Leader, Expresses Gratitude`,
-    preArticle: `Today marks the centenary of Jan Nayak Karpoori Thakur Ji, a stalwart whose unwavering commitment to social justice left an indelible impact on millions of lives. Although I never had the opportunity to meet Karpoori Ji, I've heard about him from Kailashpati Mishra Ji, who closely collaborated with `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Today marks the centenary of Jan Nayak Karpoori Thakur Ji, a stalwart
-          whose unwavering commitment to social justice left an indelible impact
-          on millions of lives. Although I never had the opportunity to meet
-          Karpoori Ji, I&apos;ve heard about him from Kailashpati Mishra Ji, who
-          closely collaborated with him. Hailing from the Nai Samaj, one of the
-          most backward sections of society, Karpoori Ji overcame numerous
-          hurdles, achieving significant milestones for societal betterment.
-        </p>
-        <p>
-          Karpoori Thakur Ji&apos;s life was characterized by simplicity and a
-          relentless pursuit of social justice. His modest lifestyle and humble
-          demeanor resonated with the common people until his last breath.
-          Anecdotes abound, illustrating his simplicity, like his preference to
-          use personal funds for his daughter&apos;s wedding. During his tenure
-          as Bihar&apos;s Chief Minister, a decision to build a colony for
-          political leaders was made, yet he declined any allocation of land or
-          money for himself. When he passed away in 1988, leaders visiting his
-          village were moved to tears witnessing the simplicity of his home.
-        </p>
-        <p>
-          In 1977, shortly after assuming office as Bihar&apos;s CM, Karpoori Ji
-          attended a Janata leaders&apos; gathering in Patna to commemorate
-          Loknayak JP’s birthday. Despite his torn kurta, he declined assistance
-          from Chandrashekhar Ji, opting to donate the contributed money to the
-          CM Relief Fund.
-        </p>
-        <p>
-          Social justice was Karpoori Thakur Ji&apos;s paramount concern. His
-          political journey reflected monumental efforts to create a society
-          where resources were equitably distributed, offering opportunities to
-          all, irrespective of social standing. He took an anti-Congress stance
-          early on, convinced that the party had deviated from its founding
-          principles.
-        </p>
-        <p>
-          Initiating his electoral career in the early 1950s, Karpoori Ji became
-          a formidable voice for the working class, laborers, small farmers, and
-          youth. Education was a cause close to his heart, driving initiatives
-          to improve educational facilities for the underprivileged. As Chief
-          Minister, he implemented measures for senior citizens&apos; welfare.
-        </p>
-        <p>
-          Democracy, debate, and discussion were integral to Karpoori Ji’s
-          personality, evident in his involvement in the Quit India movement and
-          resistance against the Emergency. His unique perspectives garnered
-          admiration from leaders like JP, Dr Lohia, and Charan Singh Ji.
-        </p>
-        <p>
-          Karpoori Thakur Ji&apos;s significant contribution to India included
-          strengthening affirmative action for backward classes, challenging
-          opposition to provide deserved representation and opportunities.
-          Despite facing heavy resistance, he stood firm, implementing policies
-          that laid the foundation for a more inclusive society. His lack of
-          bitterness despite belonging to the most backward strata showcased
-          true greatness.
-        </p>
-        <p>
-          Over the last decade, our government has followed in Karpoori Ji’s
-          path, reflecting transformative empowerment in our schemes and
-          policies. While social justice remained a mere political slogan for
-          many, inspired by Karpoori Ji&apos;s vision, we implemented it as an
-          effective governance model. Achievements, including uplifting 25 crore
-          people from poverty and ensuring 100% coverage in various schemes,
-          align with his commitment to social welfare.
-        </p>
-        <p>
-          The economic independence achieved through MUDRA Loans for
-          entrepreneurs from OBC, SC, and ST communities fulfills Karpoori
-          Thakur Ji’s vision. Our government extended reservations for SC, ST,
-          and OBC, establishing the OBC Commission to work in line with Karpoori
-          Ji&apos;s ideals. The PM-Vishwakarma Scheme promises prosperity for
-          OBC communities across India.
-        </p>
-        <p>
-          As someone from the backward classes, I owe much to Jan Nayak Karpoori
-          Thakur Ji. Although he left us at the young age of 64, his legacy
-          lives on in the hearts and minds of millions. He was truly a Jan
-          Nayak!
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "india-places-strategic-bets-on-africas-ascendance-says-jaishankar-on-shifting-global-dynamics",
-    timestamp: "Jan 24, 2024",
-    image: `/breaking/jan-24-2024/india-places-strategic-bets-on-africas-ascendance-says-jaishankar-on-shifting-global-dynamics.webp`,
-    title: `India Places Strategic Bets on Africa's Ascendance," says S. Jaishankar on Shifting Global Dynamics`,
-    preArticle: `Addressing the Nigeria-India Business Council (NIBC), External Affairs Minister S Jaishankar emphasized India's commitment to fostering ties with Nigeria, aiming to elevate the partnership to a "higher level." Jaishankar, who recently attended the Non-Aligned Movement (NAM) Summit in Uganda, highlig`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Addressing the Nigeria-India Business Council (NIBC), External Affairs
-          Minister S Jaishankar emphasized India&apos;s commitment to fostering
-          ties with Nigeria, aiming to elevate the partnership to a &quot;higher
-          level.&quot; Jaishankar, who recently attended the Non-Aligned
-          Movement (NAM) Summit in Uganda, highlighted the evolving global order
-          and the crucial role of Africa&apos;s economic rise in reshaping it.
-        </p>
-        <p>
-          Jaishankar asserted that the rebalancing and reordering of the global
-          order hinge on Africa&apos;s economic ascent. He stressed that for
-          Africa to play its due role, it must not merely serve as a market or
-          resource provider but actively participate in the global economic
-          landscape. India, he affirmed, is placing its bets on Africa&apos;s
-          rise, considering the continent&apos;s demographic potential, abundant
-          resources, ambitious aspirations, and evolving policy alignments.
-        </p>
-        <p>
-          The minister acknowledged the shared history and solidarity between
-          India and Africa, underscoring the importance of Africa taking its
-          rightful place in the changing global order for true multipolarity. He
-          identified digital public infrastructure, green and clean growth,
-          water, agricultural sustainability, security, and the blue economy as
-          key areas for collaboration between India and Africa.
-        </p>
-        <p>
-          Jaishankar outlined the existing trade ties between India and Nigeria,
-          with an annual trade value of USD 13 to 15 billion and India
-          committing nearly USD 30 billion in investments. He urged stakeholders
-          not to be complacent, emphasizing the untapped potential for increased
-          trade between the two nations. Nigeria, he emphasized, holds a premier
-          position as India&apos;s economic partner in Africa.
-        </p>
-        <p>
-          During the Nigeria-India Joint Commission (NIJC) meeting, Jaishankar
-          discussed the expansion of economic cooperation, highlighting
-          opportunities in energy, power, renewables, transport, healthcare,
-          fintech, agriculture, and security. The minister acknowledged the
-          challenges faced by Nigerian students in visa renewals, and consular
-          matters were addressed, seeking resolutions through diplomatic
-          channels.
-        </p>
-        <p>
-          In Lagos, Jaishankar spoke at the Nigerian Institute Of International
-          Affairs (NIIA), emphasizing the importance of the Global South&apos;s
-          advancement for planetary progress. He characterized the Global South
-          as a mindset, solidarity, and self-reliance, emphasizing its role in
-          promoting rebalancing and multipolarity on the global stage.
-        </p>
-        <p>
-          Concluding his visit to Nigeria, Jaishankar expressed gratitude for
-          the hospitality and affirmed his commitment to elevating India-Nigeria
-          ties. He recognized the significant role of trade and investment in
-          the partnership and commended those driving it forward.
+          The case is Smartmatic USA Corp. v. Fox Corp., 151136/2021, New York
+          State Supreme Court, New York County (Manhattan).
         </p>
       </div>
     ),
