@@ -1,5 +1,3 @@
-import Script from "next/script";
-
 export const technology = [
   // jan-26-2024
   {

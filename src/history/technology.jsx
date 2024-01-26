@@ -201,10 +201,7 @@ export const technologyHistory = [
               January 21, 2024
             </a>
           </blockquote>
-          <Script
-            src="https://platform.twitter.com/widgets.js"
-            strategy="lazyOnload"
-          />
+          <script async src="https://platform.twitter.com/widgets.js" />
         </div>
         <p>
           Beyond the single-player mode, Palworld has a multiplayer mode
@@ -277,10 +274,7 @@ export const technologyHistory = [
               January 19, 2024
             </a>
           </blockquote>
-          <Script
-            src="https://platform.twitter.com/widgets.js"
-            strategy="lazyOnload"
-          />
+          <script async src="https://platform.twitter.com/widgets.js" />
         </div>
         <p>
           The Astrobiotic mission was intended to be the first American soft
