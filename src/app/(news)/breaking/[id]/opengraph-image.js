@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { ImageResponse } from "next/og";
 import { breaking } from "@/data/breaking";
 import { breakingHistory } from "@/history/breaking";
@@ -17,7 +16,10 @@ export default async function og({ params }) {
   return new ImageResponse(
     (
       <div tw="relative flex items-center justify-center">
-        <Image src={datum.image} alt={datum.id} />
+        <img
+          src={`https://www.briefism.com/_next/image?url=${datum.image}&w=1920&q=75`}
+          alt={datum.id}
+        />
       </div>
     ),
     size
