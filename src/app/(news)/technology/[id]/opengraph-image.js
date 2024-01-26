@@ -1,4 +1,4 @@
-import { ImageResponse } from "next/server";
+import { ImageResponse } from "next/og";
 import { technology } from "@/data/technology";
 import { technologyHistory } from "@/history/technology";
 const formatData = [...technology, ...technologyHistory];
