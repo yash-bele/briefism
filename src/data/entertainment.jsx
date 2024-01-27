@@ -1,7 +1,303 @@
 import Image from "next/image";
-import Script from "next/script";
 
 export const entertainment = [
+  // jan-27-2024
+  {
+    id: "review-of-expats-nicole-kidman-heads-stellar-cast-in-prime-videos-poignant-miniseries",
+    timestamp: "Jan 27, 2024",
+    image: `/entertainment/jan-27-2024/review-of-expats-nicole-kidman-heads-stellar-cast-in-prime-videos-poignant-miniseries.webp`,
+    title: `Review of Expats: Nicole Kidman Heads Stellar Cast in Prime Video's Poignant Miniseries`,
+    preArticle: `Expats, a new miniseries on Prime Video created and directed by Lulu Wang, delves into the complex dynamics of women versus husbands, children versus parents, and men battling internal conflicts. Drawing inspiration from Janice YK Lee's novel, the show unfolds in contemporary Hong Kong, exploring th`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Expats, a new miniseries on Prime Video created and directed by Lulu
+          Wang, delves into the complex dynamics of women versus husbands,
+          children versus parents, and men battling internal conflicts. Drawing
+          inspiration from Janice YK Lee&apos;s novel, the show unfolds in
+          contemporary Hong Kong, exploring the lives of privileged characters
+          grappling with their identities amid societal upheaval.
+        </p>
+        <p>
+          Lulu Wang, known for her acclaimed film &quot;The Farewell,&quot;
+          weaves a narrative against the political backdrop of Hong Kong. The
+          series navigates a dual narrative, oscillating between a poignant
+          exploration of grief and forgiveness and a thrilling plot reminiscent
+          of &quot;Big Little Lies,&quot; featuring star and executive producer
+          Nicole Kidman.
+        </p>
+        <p>
+          Kidman portrays Margaret, an affluent American living with her family
+          in Hong Kong. Her neighbor, Hilary, an Indian-American in an unhappy
+          marriage to an Englishman named David, connects with Margaret through
+          unforeseen circumstances involving Mercy, a young Korean-American
+          seeking solace in Hong Kong.
+        </p>
+        <p>
+          The series unfolds with an incident at a boat party, leading to Gus,
+          Margaret&apos;s youngest child, getting lost in a night market under
+          Mercy&apos;s care. Episode one sets the stage with scandalous
+          dynamics, leaving viewers questioning the strained relationship
+          between Margaret and Hilary, Mercy&apos;s unexpected role, and Clarke,
+          Margaret&apos;s husband, displaying emotional vulnerability.
+        </p>
+        <p>
+          As the narrative unravels, episode two shifts tone, grounding the
+          drama. The standout episode, number five, provides a cinematic
+          perspective lasting an hour and 40 minutes. It adopts the viewpoint of
+          housemaids, often background characters, who, like their employers,
+          are expatriates with limited resources. Wang skillfully explores
+          complex dynamics, such as Margaret&apos;s guilt over her
+          children&apos;s attachment to their help, Essie, prompting her
+          decision to hire Mercy.
+        </p>
+        <p>
+          The characters&apos; emotional struggles are symbolically confined
+          within physical spaces, intensifying their inner turmoil. Noteworthy
+          episodes feature Hilary and her Punjabi mother trapped in a lift,
+          revisiting past trauma, and Margaret grappling with her beliefs during
+          a rainy evening with a pastor. Despite expressions of gratitude toward
+          their helps, an invisible wall persists between the characters and
+          their domestic staff.
+        </p>
+        <p>
+          Expats unfolds with six gripping episodes, skillfully written by Wang,
+          revealing a nuanced and compelling exploration of complex
+          relationships and internal conflicts within the expatriate community
+          in Hong Kong.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "bobby-deol-kept-busy-with-running-drumming-and-bike-riding-while-awaiting-debut-i-started-shooting-at-22-released-at-26",
+    timestamp: "Jan 27, 2024",
+    image: `/entertainment/jan-27-2024/bobby-deol-kept-busy-with-running-drumming-and-bike-riding-while-awaiting-debut-i-started-shooting-at-22-released-at-26.jpg`,
+    title: `Bobby Deol Kept Busy with Running, Drumming, and Bike Riding While Awaiting Debut: 'I Started Shooting at 22, Released at 26'`,
+    preArticle: `As Bobby Deol celebrates his 55th birthday, the success of Sandeep Reddy Vanga's "Animal" has added to the joy. While the actor has earned acclaim for various films, his debut in "Barsaat" holds a special place. The film, however, faced challenges in reaching the big screen, experiencing a tumultuou`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          As Bobby Deol celebrates his 55th birthday, the success of Sandeep
+          Reddy Vanga&apos;s &quot;Animal&quot; has added to the joy. While the
+          actor has earned acclaim for various films, his debut in
+          &quot;Barsaat&quot; holds a special place. The film, however, faced
+          challenges in reaching the big screen, experiencing a tumultuous
+          journey from inception to release. Bobby revealed that the initial
+          director, Shekhar Kapur, abandoned the project after 27 days of
+          shooting, leaving the film in limbo for four years.
+        </p>
+        <p>
+          Shekhar Kapur&apos;s departure resulted from an offer to direct
+          &quot;Bandit Queen,&quot; leading to changes in the script that left
+          Bobby frustrated. The delay prompted his father, Dharmendra, to
+          intervene and initiate discussions with Shekhar. At the Jagran Film
+          Festival, Bobby shared, &quot;I started shooting for the film very
+          early, and Shekhar Kapur was the director. We shot for the film for 27
+          days. He then got an offer from Hollywood to make &apos;Bandit
+          Queen.&apos; Shekhar said, ‘I will do &apos;Bandit Queen&apos; and
+          come back to do &apos;Barsaat.&apos;&apos; But my father told him that
+          he didn’t want to delay it. He told Shekhar, ‘You go do your film, I
+          will find somebody else.’ And I think Rajkumar Santoshi was waiting to
+          direct my film. I got lucky with him.&quot;
+        </p>
+        <p>
+          Despite the stroke of luck with a new director, the script underwent
+          significant changes, leading to confusion and exhaustion for Bobby.
+          The actor, who was 26 when the film finally released, faced a
+          prolonged journey from the age of 22 when shooting began. The script
+          alterations compelled Bobby to take up running, playing drums, bike
+          riding, and other activities to adapt to evolving character
+          requirements. Reflecting on the experience, he expressed, &quot;It was
+          frustrating.&quot;
+        </p>
+        <p>
+          &quot;Barsaat,&quot; co-starring Twinkle Khanna, was shot in various
+          national and international locations, including London, Manali, and
+          Italy. Notably, one scene features Bobby fighting a tiger. Recounting
+          the daring sequence, Bobby shared, &quot;We shot it in Italy. We
+          learned there was someone who had trained Siberian tigers. He had a
+          small zoo of his own. I did the fight with the tiger there. They had
+          just trimmed his nails. They would have a piece of meat close to my
+          neck, so the tiger jumps on you and goes for the meat. I had to stop
+          him with my hand. His paws were so heavy that when he would get tired,
+          he would place his paws on me, and I would get pushed down.&quot;
+        </p>
+        <p>
+          Bobby&apos;s career encompasses diverse films like &quot;Gupt: The
+          Hidden Truth,&quot; &quot;Soldier,&quot; &quot;Dillagi,&quot; and
+          &quot;Ajnabi.&quot; Intriguingly, the actor now expresses interest in
+          exploring South Indian film industries. His upcoming projects include
+          Suriya&apos;s Tamil period film &quot;Kanguva&quot; and Telugu films
+          &quot;Hari Hara Veeru Mallu&quot; and an untitled project with
+          Nandamuri Balakrishna.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "niharika-konidela-discusses-her-separation-from-chaitanya-jv-relying-on-the-wrong-person-is-not-feasible",
+    timestamp: "Jan 27, 2024",
+    image: `/entertainment/jan-27-2024/niharika-konidela-discusses-her-separation-from-chaitanya-jv-relying-on-the-wrong-person-is-not-feasible.webp`,
+    title: `Niharika Konidela discusses her separation from Chaitanya JV: 'Relying on the wrong person is not feasible'`,
+    preArticle: `Niharika Konidela, the niece of megastar Chiranjeevi, recently discussed her divorce from Chaitanya JV in a podcast with Nikhil Vijayendra Simha. The couple, who had a fairy-tale wedding in Udaipur in 2020, announced their divorce in July 2023 after rumors of their separation emerged a year later. N`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Niharika Konidela, the niece of megastar Chiranjeevi, recently
+          discussed her divorce from Chaitanya JV in a podcast with Nikhil
+          Vijayendra Simha. The couple, who had a fairy-tale wedding in Udaipur
+          in 2020, announced their divorce in July 2023 after rumors of their
+          separation emerged a year later. Niharika opened up about the
+          emotional pain she experienced after the divorce, emphasizing the
+          importance of being independent and focusing on self-growth before
+          entering into a new relationship.
+        </p>
+        <p>
+          In a podcast clip shared by Nikhil, Niharika expressed, &quot;I am at
+          a stage in life where I want to focus on myself, I also want to be
+          there for my parents. You can’t be dependent on the wrong person. I’ve
+          been divorced for almost two years now, only I know how much it hurt
+          me.&quot; She acknowledged the support of her father Nagababu, who
+          encouraged her to prioritize her happiness and highlighted the lessons
+          her divorce taught her about the value of family.
+        </p>
+        <p>
+          Adding to her perspective, Niharika, who is 30 years old, emphasized
+          that while she hasn&apos;t closed off her heart to love, she wants to
+          be independent and work on herself before committing to a new
+          relationship. She stated that, for now, she is single.
+        </p>
+        <p>
+          Following the podcast, Chaitanya responded to the discussion by
+          advising the podcast host not to present only one point of view. He
+          appreciated the effort to address unfair negativity surrounding
+          Niharika but urged against using the platform to indirectly attach
+          tags of victimhood or causality to their marriage. Chaitanya
+          emphasized the shared pain of the separation and the healing process
+          for both parties, suggesting that discussions about the aftermath and
+          healing are acceptable but should not involve indirect implications or
+          one-sided narratives.
+        </p>
+        <p>
+          Chaitanya concluded his comment by expressing the need for a
+          comprehensive understanding of the situation and discouraging judgment
+          without knowledge of the complete picture. His response garnered
+          support from numerous netizens.
+        </p>
+        <p>
+          The public exchange sheds light on the challenges and emotions
+          involved in navigating a high-profile divorce, with both Niharika and
+          Chaitanya sharing their perspectives on the separation and its
+          aftermath. The open discussion brings attention to the complexities of
+          personal relationships and the importance of respecting privacy and
+          healing during such challenging times.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "hanuman-director-prashanth-varma-expresses-discomfort-with-specific-scenes-in-adipurush",
+    timestamp: "Jan 27, 2024",
+    image: `/entertainment/jan-27-2024/hanuman-director-prashanth-varma-expresses-discomfort-with-specific-scenes-in-adipurush.avif`,
+    title: `HanuMan director Prashanth Varma expresses discomfort with specific scenes in Adipurush, stating, "I would never include such elements"`,
+    preArticle: `HanuMan director Prashanth Varma has achieved remarkable success with his recent release, surpassing the challenges faced by Telugu stars Prabhas and Om Raut in their film Adipurush. Despite the significant difference in scale, HanuMan has emerged as a massive hit. In a recent interview, Prashanth s`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          HanuMan director Prashanth Varma has achieved remarkable success with
+          his recent release, surpassing the challenges faced by Telugu stars
+          Prabhas and Om Raut in their film Adipurush. Despite the significant
+          difference in scale, HanuMan has emerged as a massive hit. In a recent
+          interview, Prashanth shared his perspective on Adipurush, not holding
+          back his opinions.
+        </p>
+        <p>
+          Adipurush faced criticism for its visual effects and dialogues. When
+          asked if he considered Adipurush a lesson in what not to do in his own
+          film, Prashanth Varma responded, &quot;Not at all. Whether that film
+          happened or not, I would have made HanuMan just the way it is now.
+          Those are the mistakes I would never make, irrespective of that film.
+          That&apos;s not my style of filmmaking, and it&apos;s not in line with
+          who I am as a person. Adipurush didn&apos;t affect my filmmaking
+          process at all.&quot;
+        </p>
+        <p>
+          He emphasized, &quot;I would never do that.&quot; When questioned
+          further about whether Adipurush had any impact on him, Prashanth
+          explained, &quot;To be frank, there were a few sequences in the film
+          where I went &apos;woah&apos;... they were so good. I could never have
+          done this. Credit should be given for that. At the same time, there
+          were sequences that hurt me. I thought, &apos;I would have done it
+          differently.&apos; Every filmmaker feels that way. As an audience, I
+          couldn&apos;t agree with some aspects, but there were also some
+          brilliant sequences.&quot;
+        </p>
+        <p>
+          HanuMan, starring Teja Sajja and Amirtha Iyer in lead roles, has
+          achieved tremendous success at the box office, surpassing Rs 230 crore
+          in just 13 days. Its box office performance has even surpassed that of
+          Mahesh Babu&apos;s Guntur Kaaram, surprising the industry. Prashanth
+          Varma has already initiated the pre-production for the sequel to
+          HanuMan, envisioning it as a major franchise.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "fighter-box-office-hrithik-roshans-action-film-witnesses-significant-surge-on-republic-day",
+    timestamp: "Jan 27, 2024",
+    image: `/entertainment/jan-27-2024/fighter-box-office-hrithik-roshans-action-film-witnesses-significant-surge-on-republic-day.jpg`,
+    title: `"Fighter" Box Office: Hrithik Roshan's Action Film Witnesses Significant Surge on Republic Day, Approaching Rs 100 Crore Mark Rapidly on Day 2`,
+    preArticle: `Following a substantial but not exceptional opening day collection of Rs 24 crore, the high-budget film "Fighter," starring Hrithik Roshan, experienced a significant surge on its second day. Benefiting from positive reviews regarding the film's aerial action sequences, Fighter is estimated to have w`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Following a substantial but not exceptional opening day collection of
+          Rs 24 crore, the high-budget film &quot;Fighter,&quot; starring
+          Hrithik Roshan, experienced a significant surge on its second day.
+          Benefiting from positive reviews regarding the film&apos;s aerial
+          action sequences, Fighter is estimated to have witnessed a surge of
+          over 70%, earning Rs 39 crore on its second day of release, which
+          coincided with Republic Day. This brings the film&apos;s two-day
+          domestic total to Rs 61 crore, and it is anticipated to achieve a
+          domestic opening weekend collection ranging from Rs 120 crore to Rs
+          150 crore.
+        </p>
+        <p>
+          Directed by Siddharth Anand, Fighter is a patriotic action film that
+          explores the lives of Air Force fighter pilots during a period of
+          conflict. Deepika Padukone and Anil Kapoor play supporting roles,
+          along with Karan Singh Grover and Akshay Oberoi. According to Sacnilk,
+          Fighter reported a 41% occupancy for the standard 2D version and a 42%
+          occupancy for the 3D version. Evening shows attracted the most viewers
+          for both versions of the film. Mumbai and the Delhi NCR region
+          reported an occupancy of around 50%, while Chennai reported over 80%
+          occupancy but from very limited shows. Despite recent trends, Fighter
+          is not being marketed as a pan-India film.
+        </p>
+        <p>
+          While the opening day collections of the film did not reach the high
+          standards set by Hrithik in his recent career – his two previous films
+          with Siddharth Anand had larger debuts – they signaled a return to
+          form for the star, whose last release, Vikram Vedha, was perceived as
+          underperforming. Vikram Vedha concluded its domestic run with around
+          Rs 80 crore, a figure that Fighter is expected to surpass on day
+          three.
+        </p>
+        <p>
+          Hrithik&apos;s highest opening remains War, which earned Rs 53 crore
+          in 2019 and went on to gross around Rs 470 crore worldwide. Bang Bang
+          debuted with Rs 27 crore and grossed over Rs 350 crore globally.
+          Siddharth, Deepika, and Anil Kapoor are all coming off major hits.
+          While Siddharth and Deepika also collaborated on the Shah Rukh
+          Khan-starrer Pathaan, Anil was recently featured in the controversial
+          blockbuster Animal. Fighter is anticipated to maintain its strong
+          performance over the weekend.
+        </p>
+      </div>
+    ),
+  },
   // jan-25-2024
   {
     id: "deepinder-goyal-criticizes-startup-founders-for-mistakes-in-shark-tank-india-pitch-fans-compare-to-ashneer-grovers-return",
@@ -113,326 +409,6 @@ export const entertainment = [
           In addition to &quot;Shaitaan,&quot; Ajay Devgn is set to appear in
           Rohit Shetty’s &quot;Singham Again&quot; and Amit Sharma’s
           &quot;Maidaan&quot; later this year.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "early-reports-on-day-1-box-office-collection-of-fighter-hrithik-roshans-aerial-action-film-set-to-debut-at-rs25-crore-less-than-half-of-wars-opening",
-    timestamp: "Jan 25, 2024",
-    image: `/entertainment/jan-25-2024/early-reports-on-day-1-box-office-collection-of-fighter-hrithik-roshans-aerial-action-film-set-to-debut-at-rs25-crore-less-than-half-of-wars-opening.jpg`,
-    title: `Early Reports on Day 1 Box Office Collection of "Fighter": Hrithik Roshan's Aerial Action Film Set to Debut at Rs 25 Crore, Less Than Half of War's Opening`,
-    preArticle: `Hrithik Roshan is pinning his hopes on "Fighter," a high-budget aerial action film directed by Siddharth Anand, to reclaim lost momentum at the box office. The movie, also featuring Anil Kapoor and Deepika Padukone, hit theaters on January 25, just ahead of the Republic Day holiday weekend. Accordin`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Hrithik Roshan is pinning his hopes on &quot;Fighter,&quot; a
-          high-budget aerial action film directed by Siddharth Anand, to reclaim
-          lost momentum at the box office. The movie, also featuring Anil Kapoor
-          and Deepika Padukone, hit theaters on January 25, just ahead of the
-          Republic Day holiday weekend. According to industry tracker Sacnilk,
-          &quot;Fighter&quot; is anticipated to rake in Rs 25 crore on its
-          opening day. While this would be considered one of Hrithik&apos;s top
-          debuts, it falls short of the record set by his biggest hit, Siddharth
-          Anand&apos;s &quot;War,&quot; which made double that amount on its
-          first day at the same time last year.
-        </p>
-        <p>
-          Directed by Siddharth, &quot;Fighter&quot; managed to secure over Rs
-          8.4 crore in advance ticket sales prior to its release and is reported
-          to have been produced with a budget of Rs 250 crore. Hrithik and
-          Siddharth have previously collaborated on successful projects such as
-          &quot;Bang Bang!&quot; and &quot;War,&quot; both of which delivered
-          Hrithik&apos;s top debuts. &quot;Fighter&quot; has the potential to
-          join this list, with box office earnings expected to surge on Republic
-          Day, a national holiday falling on Friday.
-        </p>
-        <p>
-          In 2014, &quot;Bang Bang!&quot; achieved an opening day collection of
-          Rs 27 crore, while &quot;War&quot; set a new record with Rs 53 crore
-          on its first day, a record that has since been surpassed. If
-          &quot;Fighter&quot; manages to exceed the Rs 25.5 crore opening of
-          &quot;Krrish 3&quot; from a decade ago by just Rs 50 lakh, it will
-          secure the position as Hrithik&apos;s third-highest debut.
-          Siddharth&apos;s personal best remains &quot;Pathaan,&quot; which
-          earned Rs 57 crore on its opening day around the same time last year.
-        </p>
-        <p>
-          Since the blockbuster success of &quot;War&quot; in 2019, Hrithik has
-          appeared in only one film, &quot;Vikram Vedha,&quot; a gangster drama
-          co-starring Saif Ali Khan. Despite being considered an under-performer
-          with earnings below Rs 80 crore in India, Hrithik&apos;s star power in
-          the pre-pandemic era helped films like &quot;Super 30&quot; and
-          &quot;Kaabil&quot; cross the coveted Rs 100 crore mark domestically.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "rahat-fateh-ali-khan-severs-ties-with-promoter-entrusts-control-to-wife-and-brother-in-law-promoter-claims-responsibility-for-managing-3-marriages-and-children",
-    timestamp: "Jan 25, 2024",
-    image: `/entertainment/jan-25-2024/rahat-fateh-ali-khan-severs-ties-with-promoter-entrusts-control-to-wife-and-brother-in-law-promoter-claims-responsibility-for-managing-3-marriages-and-children.jpg`,
-    title: `Rahat Fateh Ali Khan Severs Ties with Promoter, Entrusts Control to Wife and Brother-in-law; Promoter Claims Responsibility for Managing 3 Marriages and Children`,
-    preArticle: `Renowned musician Rahat Fateh Ali Khan recently held a press conference to announce a change in his management, handing over the reins to his wife, Nida Rahat, and other family members. This decision marks a departure from his previous management led by music and concert producer Salman Ahmed. Khan `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Renowned musician Rahat Fateh Ali Khan recently held a press
-          conference to announce a change in his management, handing over the
-          reins to his wife, Nida Rahat, and other family members. This decision
-          marks a departure from his previous management led by music and
-          concert producer Salman Ahmed. Khan shared this update on social
-          media, urging clients not to make payments to his former management.
-        </p>
-        <p>
-          In the video of the press conference shared on social media, Khan
-          stated, “RFAK (his music company in Pakistan) is merging with NRK,
-          whose president is my wife and her brother Mohd Baqa Niazi, who is in
-          New Jersey. My brothers Ashar Anwar, Maroof Ali Khan, and Raja Umair
-          Hussain are working with me locally in Pakistan. We have parted ways
-          with our previous management in a peaceful and lovely way.”
-        </p>
-        <p>
-          However, alongside this announcement, the music maestro cautioned his
-          clients against making payments to his previous management. He
-          emphasized, “I will request our clients not to make any payments to
-          our previous management. I would like them to make payments only if
-          they have my signature on the receiving end. Earlier, I didn’t pay
-          attention to these things, and a lot of clients, who were associated
-          with me because of their love for me, have been trapped because of
-          these payments. Such episodes should not be repeated, and this is one
-          of the main reasons that I have conducted this press conference.”
-        </p>
-        <p>
-          Salman Ahmed, who managed Rahat Fateh Ali Khan for the past 12 years,
-          responded to the singer&apos;s allegations, dismissing them as false.
-          He asserted that he has documentation for all transactions and is
-          prepared to present it to Pakistan’s Federal Bureau of Revenue (FBR)
-          and the Federal Investigation Agency (FIA).
-        </p>
-        <p>
-          Ahmed stated, “Only 5 days before the press conference, the maestro
-          had asked me to meet him and finalize his UK tour and other dates
-          which he had committed with me.” He went on to claim that over the
-          past decade, he handled not only Khan’s business affairs, managing
-          three marriages and children, but also served as a protective shield.
-          Ahmed expressed disappointment in the baseless allegations and
-          emphasized that Rahat Fateh Ali Khan undervalued his sincerity. He
-          concluded, “It is show time now. The world will see the reality.”
-        </p>
-        <p>
-          Before gaining international acclaim, Rahat Fateh Ali Khan was a
-          prominent singer in Pakistan. He has lent his voice to numerous Hindi
-          film songs, including &quot;O Re Piya&quot; (Aaja Nachle), &quot;Teri
-          Ore&quot; (Singh Is Kinng), &quot;Dil Toh Bachcha Hai Ji&quot;
-          (Ishqiya), &quot;Sanu Ek Pal Chain&quot; (Raid), and many others.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "sanjay-gupta-the-director-of-kaante-requested-amitabh-bachchan-to-speak-more-naturally-to-which-the-legendary-actor-responded-with-a-perplexed-expression",
-    timestamp: "Jan 25, 2024",
-    image: `/entertainment/jan-25-2024/sanjay-gupta-the-director-of-kaante-requested-amitabh-bachchan-to-speak-more-naturally-to-which-the-legendary-actor-responded-with-a-perplexed-expression.jpg`,
-    title: `Sanjay Gupta, the director of Kaante, requested Amitabh Bachchan to 'speak more naturally,' to which the legendary actor responded with a perplexed expression`,
-    preArticle: `Amitabh Bachchan, renowned for his distinctive baritone, presented an unexpected challenge for director Sanjay Gupta during the production of the film Kaante. In a recent interview, Gupta disclosed that Kaante marked a significant departure for Bachchan as it was likely his first film shot entirely `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Amitabh Bachchan, renowned for his distinctive baritone, presented an
-          unexpected challenge for director Sanjay Gupta during the production
-          of the film Kaante. In a recent interview, Gupta disclosed that Kaante
-          marked a significant departure for Bachchan as it was likely his first
-          film shot entirely in sync sound.
-        </p>
-        <p>
-          During a conversation with Siddharth Kannan, Sanjay reminisced,
-          &quot;I remember when I started shooting for Kaante… Kaante was
-          sync-sound, and everybody had to be in their natural space. And I
-          don’t think Amit ji had ever done anything in sync-sound before
-          that.&quot; He recounted a specific rehearsal for a scene involving
-          Big B, Suniel Shetty, and Kumar Gaurav, where everyone, excluding
-          Amitabh, was instructed to speak in their normal, conversational tone.
-        </p>
-        <p>
-          Following the rehearsal, Sanjay Gupta and Sanjay Dutt shared a knowing
-          look, acknowledging the need to address Amitabh Bachchan&apos;s unique
-          vocal style. &quot;When the rehearsal happened, me and Sanju exchanged
-          looks and I was thinking, now who bells the cat?&quot; Gupta
-          humorously recalled. The decision was made to approach Bachchan and
-          delicately suggest modifying his vocal delivery to better align with
-          the sync sound requirements.
-        </p>
-        <p>
-          In a one-on-one discussion with Bachchan, Gupta conveyed the
-          intricacies of sync sound and the impact of vocal delivery on the
-          overall audio dynamics of the film. &quot;I remember I sat down with
-          him. I said ‘Sir, I just wanted to tell you something. I just heard
-          the recording…’ I hadn’t listened to anything by then. I told him that
-          his voice was getting distorted, so he had to (gestures to lower it
-          down) because the rest of them are speaking softly. He asked ‘you want
-          me to take it softer?’ I said ‘yes, more natural.’ He gave me that
-          look ‘what do you mean more natural?’ But after that, everything was a
-          piece of cake,&quot; Gupta shared, emphasizing the collaborative and
-          adaptable nature of the interaction.
-        </p>
-        <p>
-          This candid exchange highlighted the importance of effective
-          communication between a director and actor in navigating challenges
-          during the filmmaking process. The adjustment made during that
-          discussion allowed for a more harmonious blending of voices in sync
-          sound, ultimately enhancing the overall cinematic experience.
-        </p>
-        <p>
-          In the same interview, Gupta offered insights into the early planning
-          stages of Kaante. Initially conceived as a film featuring newcomers,
-          the creative direction took a turn after discussions with Sanjay Dutt.
-          Dutt&apos;s encouragement led Gupta to envision Kaante as a
-          large-scale cinematic endeavor, departing from the initial plan. The
-          film drew significant inspiration from Quentin Tarantino&apos;s iconic
-          work, &quot;Reservoir Dogs.&quot;
-        </p>
-        <p>
-          Released in 2002, Kaante presented a narrative revolving around a
-          group of convicts planning a major heist, exploring themes of loyalty,
-          betrayal, and camaraderie. The film&apos;s ensemble cast, including
-          Amitabh Bachchan, Sanjay Dutt, Suniel Shetty, Kumar Gaurav, Lucky Ali,
-          and Mahesh Manjrekar, delivered impactful performances that resonated
-          with the audience.
-        </p>
-        <p>
-          Despite the initial challenge posed by the shift to sync sound and the
-          need for adjustments in Bachchan&apos;s vocal delivery, Kaante emerged
-          as a unique cinematic offering that seamlessly blended action, drama,
-          and heist elements. The collaborative efforts of the cast and crew,
-          coupled with Gupta&apos;s visionary direction, resulted in a film that
-          left an indelible mark on Bollywood.
-        </p>
-        <p>
-          The Kaante experience serves as a testament to the adaptive skills of
-          seasoned actors like Amitabh Bachchan and the collaborative spirit
-          within the film industry. It underscores the commitment to delivering
-          authentic performances and the willingness to embrace new techniques
-          for the betterment of the cinematic craft. As Bachchan&apos;s baritone
-          adapted to the nuances of sync sound, it added another layer to his
-          illustrious career, showcasing his versatility and dedication to his
-          craft.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "bigg-boss-17-vicky-jain-throws-party-for-ayesha-khan-and-isha-malviya-ankita-lokhande-to-review-home-cctv-footage",
-    timestamp: "Jan 25, 2024",
-    image: `/entertainment/jan-25-2024/bigg-boss-17-vicky-jain-throws-party-for-ayesha-khan-and-isha-malviya-ankita-lokhande-to-review-home-cctv-footage.avif`,
-    title: `Bigg Boss 17: Vicky Jain Throws Party for Ayesha Khan and Isha Malviya, Ankita Lokhande to Review Home CCTV Footage`,
-    preArticle: `Vicky Jain, who faced eviction from Bigg Boss 17 just days before the grand finale, is making headlines for hosting a party with other ousted contestants. Despite enjoying his post-eviction celebrations, suspicions are rising with his wife, Ankita Lokhande, expressing concerns. Ankita has even discu`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Vicky Jain, who faced eviction from Bigg Boss 17 just days before the
-          grand finale, is making headlines for hosting a party with other
-          ousted contestants. Despite enjoying his post-eviction celebrations,
-          suspicions are rising with his wife, Ankita Lokhande, expressing
-          concerns. Ankita has even discussed her plan to scrutinize the CCTV
-          footage from their home to identify the attendees of the party during
-          her absence.
-        </p>
-        <p>
-          In the recent episode, Ankita greeted the morning by saying,
-          &apos;good morning Vicku.&apos; Abhishek Kumar responded, &quot;He
-          must be going to sleep now, after partying.&quot; Ankita concurred,
-          stating, &quot;I also feel like he must be partying a lot. No one is
-          even allowed at my house. I will watch the entire recording after
-          going back to see who all came.&quot;
-        </p>
-        <p>
-          Mannara Chopra appeared puzzled and questioned Ankita about whether
-          she would genuinely review the footage. Ankita responded, &quot;I will
-          if I have my doubts.&quot;
-        </p>
-        <p>
-          Vicky Jain recently organized a lively house party with friends and
-          former contestants Isha Malviya, Ayesha Khan, and Sana Raees Khan.
-          Pictures from the gathering, taken at Vicky and Ankita&apos;s
-          residence, are circulating on the internet. Vicky&apos;s sister,
-          Khushi Jain, also joined in for a selfie with Isha and Sana.
-        </p>
-        <p>
-          As the grand finale approaches over the weekend, the top five
-          contestants include Mannara, Ankita, Munawar Faruqi, Arun Mahashetty,
-          and Abhishek.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "sanjay-gupta-supports-sandeep-reddy-vanga-in-animal-debate-claims-javed-akhtar-is-resistant-to-societal-changes",
-    timestamp: "Jan 25, 2024",
-    image: `/entertainment/jan-25-2024/sanjay-gupta-supports-sandeep-reddy-vanga-in-animal-debate-claims-javed-akhtar-is-resistant-to-societal-changes.avif`,
-    title: `'Sanjay Gupta supports Sandeep Reddy Vanga in Animal debate, claims Javed Akhtar is resistant to societal changes'`,
-    preArticle: `Sanjay Gupta, known for directing films like Kaante, Jazbaa, and Kaabil, recently lent his support to director Sandeep Reddy Vanga amid the controversy surrounding his film, Animal. Sanjay commended Sandeep's conviction, noting that he has successfully unsettled many, contributing to the film's impa`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Sanjay Gupta, known for directing films like Kaante, Jazbaa, and
-          Kaabil, recently lent his support to director Sandeep Reddy Vanga amid
-          the controversy surrounding his film, Animal. Sanjay commended
-          Sandeep&apos;s conviction, noting that he has successfully unsettled
-          many, contributing to the film&apos;s impact. Additionally, Sanjay
-          expressed reservations about Javed Akhtar&apos;s criticism of Animal,
-          suggesting that the veteran screenwriter views the world through a
-          lens of nostalgia and is resistant to acknowledging societal changes.
-        </p>
-        <p>
-          During a conversation with Siddharth Kannan on his YouTube channel,
-          Sanjay praised Sandeep for disrupting the conventional narrative.
-          &quot;He has made a lot of people very uncomfortable. We are the land
-          of the Kamasutra and Khajuraho, and we still don&apos;t talk about sex
-          education. We are inherently a hypocritical race,&quot; Sanjay
-          remarked. He discussed a recent meeting with Anurag Kashyap and
-          Vikramaditya Motwane, where they acknowledged that Animal had
-          significantly impacted the film industry. &quot;Recently, I had gone
-          for the trial of a film and there I met Anurag Kashyap, Vikramaditya
-          Motwane, and a few others. Animal is all anyone can talk about right
-          now. Now life is pre and post Animal,&quot; he said. Sanjay also
-          mentioned that his upcoming script has been influenced by Animal,
-          thinking about what Sandeep Vanga would do in certain scenes.
-        </p>
-        <p>
-          Sanjay revealed that there were sequences in Animal reminiscent of his
-          film Zinda, released in 2006 and starring Sanjay Dutt and John
-          Abraham. Zinda, an unofficial adaptation of Oldboy, featured scenes
-          similar to those found in Animal, specifically involving a hammer and
-          a large-scale fight. &quot;There are sequences in Animal which we have
-          shot in Zinda, almost 20 years ago in 2004. The exact same sequences,
-          with the hammer and 30 people fighting,&quot; Sanjay disclosed.
-        </p>
-        <p>
-          Regarding Javed Akhtar&apos;s criticism of Animal, Sanjay acknowledged
-          that Javed might have a point but argued that he is viewing the world
-          through &quot;rose-tinted glasses.&quot; According to Sanjay, Javed is
-          reluctant to accept that society has evolved. &quot;He is not
-          accepting that the society has already changed. We are not the same
-          people we were 10 years ago. We don&apos;t have the same compassion.
-          We don&apos;t have the same patience,&quot; Sanjay remarked. He
-          pointed out the media manipulation and societal changes, emphasizing
-          that blaming the film for societal issues or vice versa is not
-          justified. At the 9th Ajanta-Ellora International Film Festival, Javed
-          Akhtar had labeled Animal as &quot;dangerous&quot; and criticized its
-          content.
-        </p>
-        <p>
-          Sanjay also expressed support for Anurag Kashyap, who defended Sandeep
-          Reddy Vanga publicly. &quot;Anurag is defending Vanga, and he is very
-          right. He is saying criticize the film, not the filmmaker. In Animal,
-          people have a problem with Sandeep Vanga,&quot; Sanjay said.
-        </p>
-        <p>
-          Despite facing criticism for its violent and misogynistic content,
-          Animal managed to surpass Rs 900 crore at the worldwide box office.
-          The film&apos;s success highlighted the audience&apos;s willingness to
-          engage with unconventional narratives.
         </p>
       </div>
     ),

@@ -1,6 +1,323 @@
 import Image from "next/image";
 
 export const breaking = [
+  // jan-27-2024
+  {
+    id: "encounter-indian-origin-chess-prodigies-making-waves-in-britain",
+    timestamp: "Jan 27, 2024",
+    image: `/breaking/jan-27-2024/encounter-indian-origin-chess-prodigies-making-waves-in-britain.webp`,
+    title: `Encounter Indian-Origin Chess Prodigies Making Waves in Britain`,
+    preArticle: `In August of the previous year, British Prime Minister Rishi Sunak, on the brink of unveiling a significant financial package for chess in the UK, extended an invitation to two young chess prodigies to 10 Downing Street. These prodigies were eight-year-old Bodhana Sivanandan and 14-year-old Shreyas `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In August of the previous year, British Prime Minister Rishi Sunak, on
+          the brink of unveiling a significant financial package for chess in
+          the UK, extended an invitation to two young chess prodigies to 10
+          Downing Street. These prodigies were eight-year-old Bodhana Sivanandan
+          and 14-year-old Shreyas Royal, both British citizens of Indian origin,
+          akin to Sunak himself.
+        </p>
+        <p>
+          Despite India gaining prominence as a hub of young chess talents
+          during the pandemic, these Indian-origin prodigies have carved out a
+          niche for themselves in England. Bodhana secured victory in the
+          under-8 category at the World Cadet Championship last year, also
+          holding the title of World Youth Champion and presently holding the
+          30th rank in England&apos;s women&apos;s category. Shreyas currently
+          stands at the 19th position among active players in England.
+        </p>
+        <p>
+          Over the span of two months, Bodhana achieved notable victories
+          against three International Masters, including Lorin D&apos;Costa at
+          the European Blitz Championship in Zagreb and Lela Javakhishvili and
+          Nurgyul Salimova at the European Women&apos;s Blitz Championship in
+          Monaco. Shreyas also made waves at the London Chess tournament in
+          December 2023, defeating GM Jules Moussard and drawing with players
+          like India&apos;s Gukesh.
+        </p>
+        <p>
+          While both Bodhana and Shreyas hold British citizenship, their
+          families are first-generation migrants. Bodhana&apos;s parents lived
+          in Tamil Nadu&apos;s Trichy, while Shreyas was born in Bengaluru.
+        </p>
+        <p>
+          Bodhana&apos;s father, Sivanandan Velayutham, revealed that they moved
+          to the UK in 2007 as economic migrants. Bodhana, born and raised in
+          London, started playing chess at the age of five, stumbling upon a
+          chess board at home. Initially, her father, with limited knowledge of
+          chess, downloaded Chess.com to help her learn by watching videos.
+          Despite initially considering it a passing interest, Bodhana continued
+          playing and soon began winning medals and trophies from online
+          tournaments.
+        </p>
+        <p>
+          While Bodhana receives acclaim in the chess community for her
+          achievements, her parents remain cautious about ensuring she stays
+          grounded. With a current rating of 1856, she still has a long way to
+          go to achieve the 2500 rating required for the Grandmaster title.
+        </p>
+        <p>
+          As a school student in London&apos;s Harrow, Bodhana faces time
+          constraints and cannot fully immerse herself in chess like Indian GMs
+          did early in their careers. On weekdays, she dedicates about an hour
+          to chess, with additional time spent on weekends for practice and
+          tournaments.
+        </p>
+        <p>
+          Shreyas, at Bodhana&apos;s age, gained attention in England due to his
+          exceptional chess talent. His father, Jitendra, shared that their plan
+          to move to Norway was halted when the chess community in the UK
+          lobbied British MPs to allow Shreyas to stay due to his talent. The UK
+          Home Secretary Sajid Javid agreed to adjust visa norms, enabling
+          Shreyas to remain in England.
+        </p>
+        <p>
+          Shreyas spends five to six hours daily on chess, coming close to
+          earning the Grandmaster title. He remains optimistic about overcoming
+          the final hurdles and acknowledges that while playing for England
+          might be a loss for India, the country already boasts numerous chess
+          prodigies.
+        </p>
+        <p></p>
+      </div>
+    ),
+  },
+  {
+    id: "surge-in-war-risk-premiums-for-shipments-amid-heightened-tensions-in-the-red-sea",
+    timestamp: "Jan 27, 2024",
+    image: `/breaking/jan-27-2024/surge-in-war-risk-premiums-for-shipments-amid-heightened-tensions-in-the-red-sea.jpeg`,
+    title: `Surge in War Risk Premiums for Shipments Amid Heightened Tensions in the Red Sea`,
+    preArticle: `The surge in war risk insurance premiums for cargo ships has been prompted by the tense situation in the Red Sea, leading several insurance companies to hesitate in covering cargo voyages through the region. War risk premiums, which initially rose from 0.05% to 0.7% in early December, spiked to one`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The surge in war risk insurance premiums for cargo ships has been
+          prompted by the tense situation in the Red Sea, leading several
+          insurance companies to hesitate in covering cargo voyages through the
+          region.
+        </p>
+        <p>
+          War risk premiums, which initially rose from 0.05% to 0.7% in early
+          December, spiked to one percent of the ship&apos;s value approximately
+          a week ago. For instance, if a ship is valued at $200 million, the
+          corresponding premium for shipping firms would be $2 million.
+          Insurance officials in Mumbai anticipate further increases if the
+          situation escalates.
+        </p>
+        <p>
+          Saurabh Verma, Managing Director of Global Insurance Brokers,
+          explained that the Red Sea scenario falls under the war risk category
+          for marine insurance. The Joint War Committee in London monitors
+          geopolitics and determines insurance rates based on their assessments.
+          In a warlike situation, such as the one in the Red Sea, reinsurance is
+          assessed to cover war or similar perils, leading to adjustments in
+          premium rates based on changes in risk levels.
+        </p>
+        <p>
+          Recent attacks in the Red Sea have tripled marine insurance rates for
+          war risks, and tanker forward freight agreements are trading higher
+          due to elevated shipping risks, according to S&P Global.
+        </p>
+        <p>
+          Some insurance companies are now reluctant to cover cargo on voyages
+          through the Red Sea route, aiming to avoid the risk of high-value
+          claims. There are reports of insurers retracting existing policies for
+          shipments in high-risk areas, providing a 30-day notice option for
+          both parties involved.
+        </p>
+        <p>
+          Houthi rebels have targeted vessels suspected of links to Israel in
+          the Red Sea, prompting the Joint War Committee to extend the Red Sea
+          war risk territory. The London insurance market now classifies the
+          southern Red Sea as a high-risk area, requiring ships to notify
+          insurers when sailing through and pay additional premiums for a
+          seven-day cover period.
+        </p>
+        <p>
+          Analysts predict a further rise in transportation costs in the region,
+          with increased insurance premiums contributing to higher expenses. The
+          perceived risk may lead vessels to bypass the region, opting for
+          longer routes like circumnavigating the Horn of Africa. However, this
+          would elevate cargo costs, contributing to price increases during a
+          period when countries such as India and the United States are trying
+          to control inflation.
+        </p>
+        <p>
+          Sobel Network Shipping Co notes that ships sailing under the Bahamas
+          flag registry have been targets in various attacks. The Bahamas
+          delegation characterized the situation as a &quot;deliberate attack on
+          international shipping&quot; in a crucial region.
+        </p>
+        <p>
+          Fitch Ratings highlights that about 12% of global oil seaborne trade
+          in the first half of 2023 relied on total oil shipments via the Suez
+          Canal, the SUMED pipeline, and the Bab-el-Mandeb Strait. Attacks by
+          Houthi rebels have concentrated primarily in the narrow Bab-el-Mandeb
+          Strait. Some major shippers, including BP, Shell, and QatarEnergy,
+          have halted transit through the Suez Canal, rerouting around Africa,
+          temporarily tightening oil and gas markets. The alternative route,
+          taking about a fortnight longer, is not expected to have a significant
+          impact on prices.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "white-house-alarmed-by-spurious-online-taylor-swift-images",
+    timestamp: "Jan 27, 2024",
+    image: `/breaking/jan-27-2024/white-house-alarmed-by-spurious-online-taylor-swift-images.webp`,
+    title: `White House Alarmed by Spurious Online Taylor Swift Images`,
+    preArticle: `On Friday, the White House expressed deep concern over the proliferation of counterfeit online images featuring pop sensation Taylor Swift. The administration underscored the crucial role social media platforms must assume in upholding their rules to curb the dissemination of such misleading content`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          On Friday, the White House expressed deep concern over the
+          proliferation of counterfeit online images featuring pop sensation
+          Taylor Swift. The administration underscored the crucial role social
+          media platforms must assume in upholding their rules to curb the
+          dissemination of such misleading content.
+        </p>
+        <p>
+          Throughout the week, fabricated sexually explicit images of Swift
+          inundated various social media channels. Notably, one such image
+          circulated on X, formerly known as Twitter, garnered a staggering 47
+          million views before the account responsible was suspended, as
+          reported by The New York Times.
+        </p>
+        <p>
+          Addressing the issue at a press briefing, White House Press Secretary
+          Karine Jean-Pierre emphasized the gravity of the situation. She
+          pledged proactive measures to address the alarming trend and advocated
+          for legislative action by Congress to tackle the matter
+          comprehensively.
+        </p>
+        <p>
+          Highlighting the lax enforcement against misleading images,
+          Jean-Pierre raised the possibility that artificial intelligence (AI)
+          could be behind the creation of such content. She underscored the
+          disproportionate impact on women, noting that these incidents are all
+          too common.
+        </p>
+        <p>
+          While acknowledging the autonomy of social media companies in managing
+          content, Jean-Pierre asserted the administration&apos;s belief in
+          their pivotal role in enforcing regulations. Specifically, she urged
+          these platforms to take robust actions to prevent the dissemination of
+          misinformation and non-consensual, intimate imagery involving real
+          individuals.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "two-fatalities-in-noida-as-family-uses-gas-room-heater-while-sleeping",
+    timestamp: "Jan 27, 2024",
+    image: `/breaking/jan-27-2024/two-fatalities-in-noida-as-family-uses-gas-room-heater-while-sleeping.jpg`,
+    title: `Two Fatalities in Noida as Family Uses Gas Room Heater While Sleeping`,
+    preArticle: `Tragedy struck in the Chhijarasi colony of Sector-63 police station area in Noida, where two family members, including a three-month-old infant, lost their lives allegedly due to suffocation caused by a gas room heater left on overnight, as reported by the police on Friday. The victims, identified a`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Tragedy struck in the Chhijarasi colony of Sector-63 police station
+          area in Noida, where two family members, including a three-month-old
+          infant, lost their lives allegedly due to suffocation caused by a gas
+          room heater left on overnight, as reported by the police on Friday.
+          The victims, identified as 35-year-old Sammu Khan and his infant
+          daughter, are believed to have inhaled toxic smoke emitted by the
+          heater.
+        </p>
+        <p>
+          According to preliminary investigations, the family had slept with the
+          gas room heater on amid cold weather conditions. The police
+          spokesperson stated, &quot;The man and his daughter died due to
+          suffocation caused by the heater. The deceased bodies have been sent
+          for postmortem, and further legal action is underway.&quot;
+        </p>
+        <p>
+          Sammu Khan, originally from Pilibhit district in Uttar Pradesh, had
+          been residing in Noida on rent with his wife, Ujma, and their
+          three-month-old daughter. Sammu worked as a tailor to make ends meet.
+        </p>
+        <p>
+          As the tragic incident unfolded, Ujma Khan was rushed to SJM Hospital
+          in Noida. Medical professionals have described her condition as
+          critical, and she is currently on a ventilator, receiving intensive
+          care. Authorities are actively pursuing legal measures to address the
+          situation.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "bharat-ratna-to-karpoori-thakur-bjps-appropriation-of-the-social-justice-agenda",
+    timestamp: "Jan 27, 2024",
+    image: `/breaking/jan-27-2024/bharat-ratna-to-karpoori-thakur-bjps-appropriation-of-the-social-justice-agenda.jpg`,
+    title: `Bharat Ratna to Karpoori Thakur: BJP's Appropriation of the Social Justice Agenda`,
+    preArticle: `The timing of the Union government's announcement conferring Bharat Ratna on the late Karpoori Thakur, a day after the Ayodhya temple inauguration, may appear coincidental. However, with Thakur's centenary falling on January 24 and the customary national awards announcement preceding Republic Day, t`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The timing of the Union government&apos;s announcement conferring
+          Bharat Ratna on the late Karpoori Thakur, a day after the Ayodhya
+          temple inauguration, may appear coincidental. However, with
+          Thakur&apos;s centenary falling on January 24 and the customary
+          national awards announcement preceding Republic Day, the convergence
+          of events prompts scrutiny in the lead-up to the impending Lok Sabha
+          elections.
+        </p>
+        <p>
+          The overarching question arises: Can the Hindutva agenda secure
+          victory by assimilating the social justice agenda? In essence, can the
+          drive to construct and weaponize a unified Hindu identity overcome the
+          ingrained hierarchies of Hindu caste divisions?
+        </p>
+        <p>
+          This query gains significance in light of the fact that the current
+          influence of the Hindutva agenda hinges on state power. The pursuit of
+          electoral majorities through elections remains the primary avenue to
+          secure and legitimize this power. Traditionally, the Hindu
+          &quot;upper&quot; castes have constituted the core constituency for
+          Hindutva, but given their status as a demographic minority, the
+          numerical support of the so-called lower-caste Hindus is crucial for
+          electoral success.
+        </p>
+        <p>
+          The strategic move to confer Bharat Ratna on Thakur holds symbolic
+          value, aligning with the ideological legacy of leaders like Nitish
+          Kumar and Lalu Prasad. Thakur&apos;s political influence played a
+          pivotal role in their rise to power, emphasizing the BJP&apos;s
+          representation of backward castes without making substantial
+          concessions.
+        </p>
+        <p>
+          A closer look at Thakur&apos;s political agenda in the 1970s reveals a
+          stark contrast with the current BJP narrative. Thakur pursued a
+          popular-leftist caste agenda aimed at breaking the monopoly of the
+          upper castes in Bihar. In contrast, the BJP attempts to recruit
+          various castes to support an essentially upper-caste political
+          program, camouflaging it as a populist initiative for electoral gain.
+        </p>
+        <p>
+          Another divergence lies in Thakur&apos;s stance on the official
+          language, aligning with a multilingual approach to promote Indian
+          languages and national integration. This stands in contrast to the
+          BJP&apos;s emphasis on Hindi and its reluctance to accommodate
+          linguistic diversity.
+        </p>
+        <p>
+          In summary, Thakur&apos;s Bharat Ratna serves the BJP&apos;s interests
+          by appropriating ideological capital without aligning with
+          Thakur&apos;s original leftist caste agenda. If a Bharat Ratna were to
+          be awarded for the advancement of backward castes, Devaraj Urs, with
+          his development-centric social justice agenda, could be a more fitting
+          candidate. Urs, as the chief minister of Karnataka in the 1970s,
+          forged alliances across communities without promoting communal hatred,
+          making his contribution to social justice more substantial.
+        </p>
+      </div>
+    ),
+  },
   // jan-26-2024
   {
     id: "why-has-the-united-states-opted-for-nitrogen-gas-execution-over-lethal-injection",
@@ -132,379 +449,6 @@ export const breaking = [
           processes. This collaboration signifies a significant step toward
           integrating advanced AI capabilities into higher education, marking a
           milestone in the evolution of learning technologies.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "australias-cyclone-kirrily-power-outages-affect-thousands-during-intense-rainfall",
-    timestamp: "Jan 26, 2024",
-    image: `/breaking/jan-26-2024/australias-cyclone-kirrily-power-outages-affect-thousands-during-intense-rainfall.avif`,
-    title: `Australia's Cyclone Kirrily: Power Outages Affect Thousands During Intense Rainfall`,
-    preArticle: `Overnight, a tropical cyclone named Kirrily struck Queensland, Australia, leaving tens of thousands of residents without power due to damaging winds and heavy rainfall. The cyclone, initially categorized as a level two system, made landfall near the tourist town of Townsville along the Great Barrier`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Overnight, a tropical cyclone named Kirrily struck Queensland,
-          Australia, leaving tens of thousands of residents without power due to
-          damaging winds and heavy rainfall. The cyclone, initially categorized
-          as a level two system, made landfall near the tourist town of
-          Townsville along the Great Barrier Reef coast on Thursday before being
-          downgraded to a tropical low on Friday.
-        </p>
-        <p>
-          Australia is currently experiencing an El Niño weather event, commonly
-          associated with extreme weather phenomena like cyclones, wildfires,
-          droughts, and heatwaves. Queensland Premier Steven Miles reported that
-          approximately 64,000 people were facing power outages on Friday due to
-          the cyclone. Most of the affected areas were in Townsville, and as of
-          now, it is uncertain when power will be fully restored.
-        </p>
-        <p>
-          A category two cyclone is considered three levels below the most
-          severe category, but it still has the potential to cause substantial
-          damage, including to trees, caravans, crops, and boats. The Australian
-          weather forecaster indicated that the former cyclone could bring heavy
-          rain and possible damaging winds to northern parts of Queensland on
-          Friday, with peak gusts around 90 km per hour (55 mph) expected.
-        </p>
-        <p>
-          Premier Miles emphasized the high risk of flooding, stating that there
-          is still a significant amount of rainfall expected. Prime Minister
-          Anthony Albanese mentioned that military personnel are on standby to
-          assist with cleanup efforts following Cyclone Kirrily. He acknowledged
-          that the residents of far north Queensland have already faced
-          challenging conditions in recent times.
-        </p>
-        <p>
-          Cyclone Kirrily is the second tropical cyclone to impact the region
-          since December, following Cyclone Jasper, which caused widespread
-          damage in the area. Additionally, parts of Queensland and its southern
-          neighbor, New South Wales, are on high alert for a heatwave, with
-          temperatures expected to reach the high forties Celsius in some
-          regional areas. In Sydney, the capital of New South Wales,
-          temperatures in the west were forecasted to reach 40 degrees Celsius
-          (104 degrees Fahrenheit), more than nine degrees above the average
-          maximum for January.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "france-aims-to-host-30000-indian-students-by-2030-announces-president-macron-on-75th-republic-day",
-    timestamp: "Jan 26, 2024",
-    image: `/breaking/jan-26-2024/france-aims-to-host-30000-indian-students-by-2030-announces-president-macron-on-75th-republic-day.webp`,
-    title: `France aims to host 30,000 Indian students by 2030, announces President Macron on 75th Republic Day`,
-    preArticle: `Before India's 75th Republic Day celebrations, President Emmanuel Macron of France unveiled plans to welcome approximately 30,000 Indian students to study in France. The announcement follows Prime Minister Narendra Modi's visit to Paris last year as the chief guest of France's National Day. In a po`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Before India&apos;s 75th Republic Day celebrations, President Emmanuel
-          Macron of France unveiled plans to welcome approximately 30,000 Indian
-          students to study in France. The announcement follows Prime Minister
-          Narendra Modi&apos;s visit to Paris last year as the chief guest of
-          France&apos;s National Day.
-        </p>
-        <p>
-          In a post on X (formerly Twitter), the French president outlined the
-          ambitious goal of hosting 30,000 Indian students in France by 2030.
-          Macron expressed his determination to achieve this target and provided
-          details on the initiatives to facilitate the process.
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              30,000 Indian students in France in 2030.
-              <br />
-              <br />
-              It’s a very ambitious target, but I am determined to make it
-              happen.
-              <br />
-              <br />
-              Here’s how:{" "}
-              <a href="https://t.co/QDpOl4ujWb">pic.twitter.com/QDpOl4ujWb</a>
-            </p>
-            &mdash; Emmanuel Macron (@EmmanuelMacron){" "}
-            <a href="https://twitter.com/EmmanuelMacron/status/1750705399550902544?ref_src=twsrc%5Etfw">
-              January 26, 2024
-            </a>
-          </blockquote>{" "}
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-        </div>
-        <p>
-          Macron highlighted the establishment of new centers with a network of
-          Alliances françaises and international classes in France to promote
-          French language learning. Additionally, he emphasized the
-          simplification of the visa process for Indian alumni who have studied
-          in the country.
-        </p>
-        <p>
-          &quot;Coming to France means looking for excellence. We are launching
-          new pathways to learn French in public schools with &apos;French for
-          All, French for a Better Future.&apos; We are developing the network
-          of Alliances françaises, with new centers for French learning. We are
-          creating international classes that allow students, who may not speak
-          French, to join our universities. Last but not least, we will
-          facilitate the visa process for any former Indian students who studied
-          in France,&quot; he explained.
-        </p>
-        <p>
-          Macron proudly mentioned that France has 35 universities in the QS
-          ranking, with about 15 in the Times Higher Education ranking. He
-          highlighted the potential for collaboration between India and France,
-          expressing the importance of achieving this through exchange and
-          cooperation with the younger generation.
-        </p>
-        <p>
-          &quot;We now have 35 universities in the QS ranking and about 15 in
-          the Times Higher Education ranking. India and France have so much to
-          do together, now and in the future. We will achieve this with you, our
-          young people, in exchange and cooperation, in trust, in
-          friendship!&quot; he added.
-        </p>
-        <p>
-          In September 2023, following the announcement, the French embassy in
-          India implemented several measures, including a five-year short-stay
-          Schengen visa, to attract more Indian students. These initiatives are
-          part of the people-to-people ties envisioned as one of the three
-          pillars of the strategic partnership between the two countries.
-        </p>
-        <p>
-          In another post, Macron, who is also the chief guest for the 75th
-          Republic Day celebrations in India, extended warm wishes to Prime
-          Minister Narendra Modi and the Indian people on Republic Day. &quot;My
-          dear friend @NarendraModi, Indian people, My warmest wishes on your
-          Republic Day. Happy and proud to be with you. Let’s celebrate!&quot;
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              My dear friend{" "}
-              <a href="https://twitter.com/narendramodi?ref_src=twsrc%5Etfw">
-                @NarendraModi
-              </a>
-              ,<br />
-              Indian people,
-              <br />
-              <br />
-              My warmest wishes on your Republic Day. Happy and proud to be with
-              you.
-              <br />
-              <br />
-              Let’s celebrate!{" "}
-              <a href="https://t.co/e5kg1PEc0p">pic.twitter.com/e5kg1PEc0p</a>
-            </p>
-            &mdash; Emmanuel Macron (@EmmanuelMacron){" "}
-            <a href="https://twitter.com/EmmanuelMacron/status/1750708312004288962?ref_src=twsrc%5Etfw">
-              January 26, 2024
-            </a>
-          </blockquote>{" "}
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-        </div>
-        <p>
-          The Republic Day celebrations in India, led by President Droupadi
-          Murmu, commemorate the nation&apos;s journey during the &apos;Amrit
-          Kaal&apos; post the &apos;Azadi Ka Amrit Mahotsav,&apos; marking 75
-          years of independence. The parade showcases India&apos;s rich cultural
-          diversity, &apos;Aatmanirbhar&apos; military prowess, and the growing
-          Nari Shakti. The event features the participation of around 13,000
-          special guests, promoting Jan Bhagidari (people&apos;s participation)
-          in the national festival.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "separated-at-birth-reunited-after-19-years-remarkable-journey-of-twins-rediscovering-each-other",
-    timestamp: "Jan 26, 2024",
-    image: `/breaking/jan-26-2024/separated-at-birth-reunited-after-19-years-remarkable-journey-of-twins-rediscovering-each-other.avif`,
-    title: `Separated at Birth, Reunited After 19 Years: The Remarkable Journey of Twins Rediscovering Each Other`,
-    preArticle: `Separated at birth, identical twins Amy Khvitia and Ano Sartania embarked on a remarkable journey of rediscovery, overcoming a childhood marred by abduction and deceit. Their heartwarming reunion, prompted by a TV talent show and a TikTok video, sheds light on a broader issue in Georgia, where thous`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Separated at birth, identical twins Amy Khvitia and Ano Sartania
-          embarked on a remarkable journey of rediscovery, overcoming a
-          childhood marred by abduction and deceit. Their heartwarming reunion,
-          prompted by a TV talent show and a TikTok video, sheds light on a
-          broader issue in Georgia, where thousands of infants have been
-          abducted from hospitals and sold, with cases reported as recently as
-          2005.
-        </p>
-        <p>
-          Amy Khvitia and Ano Sartania, who were taken from their mother
-          immediately after birth and sold to different families, eventually met
-          their birth mother during their quest for answers, bridging the gap in
-          their fragmented history.
-        </p>
-        <p>
-          The narrative unfolds when the twins were 12 years old. Amy Khvitia,
-          watching Georgia&apos;s Got Talent at her godmother&apos;s house near
-          the Black Sea, was astonished to see a girl performing the jive who
-          looked identical to her. Rumors circulated, with people questioning
-          why Amy was dancing under a different name, but her mother dismissed
-          it, attributing it to everyone having a doppelganger.
-        </p>
-        <p>
-          Fast forward to November 2021, Amy Khvitia posted a TikTok video
-          featuring her blue hair and a pierced eyebrow. The video, sent to Ano
-          Sartania by a friend who recognized the striking resemblance, marked a
-          pivotal moment in their journey. Ano Sartania attempted to find the
-          girl, sharing the video on a university WhatsApp group, leading to a
-          connection through Facebook when someone familiar with Amy Khvitia saw
-          the message.
-        </p>
-        <p>
-          Upon messaging each other, Amy Khvitia expressed, &quot;I have been
-          looking for you for so long!&quot; Ano Sartania reciprocated, &quot;Me
-          too.&quot; The realization dawned that both were born in Kirtskhi
-          maternity hospital, which no longer exists, and their birth
-          certificates indicated birthdays a few weeks apart, seemingly ruling
-          out the possibility of being sisters, let alone twins.
-        </p>
-        <p>
-          The unraveling mystery strengthened their bond. Amy Khvitia remarked,
-          &quot;Every time I learned something new about Ano, things got
-          stranger,&quot; emphasizing the uncanny similarities. Their meeting
-          was an emotional mirror reflection – &quot;It was like looking in a
-          mirror, the exact same face, exact same voice. I am her and she is
-          me,&quot; said Amy Khvitia, while Ano Sartania expressed the
-          significance of their connection through a hug, despite her usual
-          aversion to them.
-        </p>
-        <p>
-          Confronting their adoptive families, the twins discovered the shocking
-          truth – they had been adopted separately, a few weeks apart, in 2002.
-          Ano Sartania, though initially upset with her family, aimed to
-          conclude the challenging conversations to facilitate collective
-          healing. The birth mother, who they later located, revealed that she
-          fell into a coma due to illness after childbirth. Hospital staff
-          falsely informed her that the infants had died shortly after birth,
-          perpetuating the deception that ultimately led to the twins&apos;
-          separation.
-        </p>
-        <p>
-          In summary, Amy Khvitia and Ano Sartania&apos;s journey is a poignant
-          tale of resilience, reunion, and the enduring bond between siblings
-          separated by deception. The power of social media, TV shows, and their
-          unwavering determination brought them together, highlighting the
-          broader issue of infant abductions and trafficking in Georgia.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "chronology-of-the-gyanvapi-case",
-    timestamp: "Jan 26, 2024",
-    image: `/breaking/jan-26-2024/chronology-of-the-gyanvapi-case.avif`,
-    title: `Chronology of the Gyanvapi Case`,
-    preArticle: `Advocate Vishnu Shankar Jain, representing the Hindu party in the Gyanvapi dispute, highlighted the Archaeological Survey of India's acknowledgment that a significant Hindu temple existed before the current structure was erected. On May 16, 2022, a commission appointed by a local court concluded a `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Advocate Vishnu Shankar Jain, representing the Hindu party in the
-          Gyanvapi dispute, highlighted the Archaeological Survey of
-          India&apos;s acknowledgment that a significant Hindu temple existed
-          before the current structure was erected.
-        </p>
-        <p>
-          On May 16, 2022, a commission appointed by a local court concluded a
-          videographic survey of the Kashi Vishwanath temple-Gyanvapi mosque.
-          During the survey, a structure, contested as a &quot;shivling&quot; by
-          the Hindu side and a &quot;fountain&quot; by the Muslim side, was
-          discovered within the mosque premises.
-        </p>
-        <p>
-          By July 21, 2023, the Varanasi district court ordered a scientific
-          survey of the Gyanvapi mosque complex to determine whether it was
-          &quot;constructed over a pre-existing structure of a Hindu
-          temple.&quot; District and Sessions Judge A K Vishvesha directed the
-          Archaeological Survey of India (ASI) to conduct a thorough
-          investigation at the property in question, which is settlement plot
-          number 9130 (Gyanvapi mosque).
-        </p>
-        <p>
-          The ASI&apos;s survey, initially halted by legal challenges from the
-          Anjuman Intezamia Masajid Committee for Gyanvapi mosque and the UP
-          Sunni Central Waqf Board, resumed on August 4, 2023. The Allahabad
-          High Court and the Supreme Court had dismissed pleas against the
-          survey. Since then, the ASI teams have been diligently examining the
-          campus.
-        </p>
-        <p>
-          On December 11, 2023, the Varanasi district court granted an
-          additional week to the ASI to present the findings of the
-          court-mandated scientific survey of the Gyanvapi mosque premises.
-        </p>
-        <p>
-          The latest development occurred on January 25, 2024, when the ASI
-          submitted its report to both the Hindu and Muslim parties involved in
-          the dispute.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "undeterred-by-police-notice-jarange-patil-persists-with-quota-march-in-mumbai",
-    timestamp: "Jan 26, 2024",
-    image: `/breaking/jan-26-2024/undeterred-by-police-notice-jarange-patil-persists-with-quota-march-in-mumbai.avif`,
-    title: `Undeterred by Police Notice, Jarange Patil Persists with Quota March in Mumbai`,
-    preArticle: `Despite the Mumbai Police issuing a notice denying permission for a hunger strike in the city, Maratha quota activist Manoj Jarange Patil has declared his intent to proceed with the demonstration at Azad Maidan on January 26. As thousands of Maratha protesters join him on their way to Vashi Agricult`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Despite the Mumbai Police issuing a notice denying permission for a
-          hunger strike in the city, Maratha quota activist Manoj Jarange Patil
-          has declared his intent to proceed with the demonstration at Azad
-          Maidan on January 26. As thousands of Maratha protesters join him on
-          their way to Vashi Agriculture Produce Market Committee (APMC),
-          Jarange-Patil faced delays due to a massive crowd at his roadshow.
-        </p>
-        <p>
-          Scheduled to begin his hunger strike with supporters at Azad Maidan,
-          Jarange-Patil and his followers are advocating for Kunbi (OBC) status
-          for the Maratha community. In response, the Mumbai Police issued a
-          notice under Section 149 of the Criminal Procedure Code, expressing
-          concerns about the potential disruption to Mumbai&apos;s financial
-          operations and transportation system if the protesters entered the
-          city.
-        </p>
-        <p>
-          The police suggested an alternative gathering site at the
-          International Corporation Park Ground in Kharghar, Navi Mumbai,
-          emphasizing compliance with court orders. The notice highlighted
-          restrictions on the size of protests at Azad Maidan and Shivaji Park
-          due to space limitations and ongoing government events.
-        </p>
-        <p>
-          Despite the police notice, Jarange Patil affirmed his commitment to
-          Azad Maidan, expressing unawareness of any denial of permission. He
-          asserted that the protest aims to secure Kunbi status for Marathas
-          without disrupting Republic Day celebrations. The organizers in Mumbai
-          announced plans for a flag-hoisting ceremony at Azad Maidan to mark
-          Republic Day.
-        </p>
-        <p>
-          While a government delegation attempted to dissuade Jarange-Patil from
-          marching to Mumbai, he insisted on the Chief Minister and deputy Chief
-          Ministers personally engaging in discussions to resolve the issue.
-          Addressing concerns raised by the Navi Mumbai police, Jarange-Patil
-          stated that local organizers should address route changes and
-          reiterated his determination to proceed as planned.
-        </p>
-        <p>
-          In response to the police notice, the Mumbai march organizers, led by
-          Virendra Pawar, engaged with officials at Azad Maidan police station,
-          expressing discontent with the last-minute notice and reaffirming
-          their decision to proceed with the originally planned program.
         </p>
       </div>
     ),
