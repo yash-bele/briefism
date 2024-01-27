@@ -1,4 +1,124 @@
 export const technology = [
+  // jan-27-2024
+  {
+    id: "fossil-withdraws-from-smartwatch-market-yielding-space-to-tech-giants",
+    timestamp: "Jan 27, 2024",
+    image: `/technology/jan-27-2024/fossil-withdraws-from-smartwatch-market-yielding-space-to-tech-giants.jpg`,
+    title: `Fossil withdraws from smartwatch market, yielding space to tech giants`,
+    preArticle: `Fossil Group, an American watchmaker, has decided to cease production of smartwatches, marking the end of its efforts to introduce stylish tech timepieces to the market. The company announced on Friday that its latest Gen 6 watch, utilizing Google's Wear OS software, will be its final foray into th`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Fossil Group, an American watchmaker, has decided to cease production
+          of smartwatches, marking the end of its efforts to introduce stylish
+          tech timepieces to the market.
+        </p>
+        <p>
+          The company announced on Friday that its latest Gen 6 watch, utilizing
+          Google&apos;s Wear OS software, will be its final foray into the
+          smartwatch category. Fossil&apos;s departure comes as the landscape
+          has shifted, with tech giants such as Google and Samsung dominating
+          with their own branded devices.
+        </p>
+        <p>
+          A spokesperson for the Texas-based firm stated, &quot;We have made the
+          strategic decision to exit the smartwatch business and redirect
+          resources to our core strengths.&quot;
+        </p>
+        <p>
+          Sub-brands under Fossil, including Michael Kors, Skagen, and Diesel,
+          will also discontinue their smartwatch lines. The company has
+          committed to providing support for existing models for a limited
+          period.
+        </p>
+        <p>
+          Fossil had been among the few traditional watchmakers attempting to
+          adapt to the emerging smartwatch trend over the past decade, despite
+          the neglect of the struggling Wear OS platform by major players.
+          However, the category gained traction in 2021 when Google and Samsung
+          collaborated on a significant software update.
+        </p>
+        <p>
+          Industry analysts suggest that Fossil struggled to compete with the
+          marketing power and resources of tech giants. The lack of a new
+          smartwatch model since 2021 signaled the company&apos;s gradual
+          withdrawal.
+        </p>
+        <p>
+          Fossil was known for its focus on fashionable design in the smartwatch
+          space. With its departure, there is an opportunity for other players
+          to step in and offer sleek, designer tech watches.
+        </p>
+        <p>
+          In the meantime, Fossil intends to focus on its traditional watches,
+          jewelry, and leather goods. Despite the mainstream popularity of
+          smartwatches, traditional timepieces still constitute the majority of
+          Fossil&apos;s business.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "just-one-injection-enables-five-deaf-children-to-hear-for-the-first-time",
+    timestamp: "Jan 27, 2024",
+    image: `/technology/jan-27-2024/just-one-injection-enables-five-deaf-children-to-hear-for-the-first-time.jpg`,
+    title: `Just one injection enables five deaf children to hear for the first time`,
+    preArticle: `Six children who were born deaf have regained their hearing after undergoing an experimental treatment involving an injection directly into the ear. The treatment, developed by researchers from Fudan University in China and co-led by scientists from Harvard Medical School at Massachusetts Eye and Ea`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Six children who were born deaf have regained their hearing after
+          undergoing an experimental treatment involving an injection directly
+          into the ear. The treatment, developed by researchers from Fudan
+          University in China and co-led by scientists from Harvard Medical
+          School at Massachusetts Eye and Ear, targeted a specific genetic
+          mutation responsible for inherited deafness.
+        </p>
+        <p>
+          The children, aged one to seven, all had a mutation in the OTOF gene,
+          which affects the production of a protein crucial for transmitting
+          signals from the ear to the brain. Over the 26-week trial period, five
+          of the six children showed significant improvement in hearing, with
+          four experiencing robust outcomes. The results, published in the
+          journal Lancet, also revealed enhancements in speech perception among
+          the responsive participants.
+        </p>
+        <p>
+          This breakthrough offers hope for treating various genetic forms of
+          deafness and underscores the potential of gene therapy in addressing
+          congenital hearing impairments. The targeted gene, OTOF, encodes the
+          otoferlin protein, vital for relaying auditory signals from cochlear
+          cells to nerves in the inner ear. By delivering a modified version of
+          the gene using a viral vector, researchers successfully restored
+          otoferlin production in the cochlea.
+        </p>
+        <p>
+          Despite facing initial challenges due to the gene&apos;s size, the
+          team devised a solution by splitting the gene into two parts and
+          delivering them separately. The injected viral mixture reached the
+          target cells in the inner ear fluid, prompting the assembly of the
+          complete protein. Within four to six weeks of treatment, participants
+          began showing signs of hearing improvement.
+        </p>
+        <p>
+          The success of this approach, particularly in patients with cochlear
+          implants, highlights its potential to complement existing hearing
+          restoration methods. Notably, the therapy enabled older children with
+          implants to understand and respond to speech without assistance, even
+          in noisy environments. While the youngest participants exhibited
+          positive trends, further evaluation is needed to gauge their long-term
+          outcomes.
+        </p>
+        <p>
+          However, one participant did not respond to the treatment, possibly
+          due to an immune response to the viral vector. Despite this setback,
+          the promising results underscore the significance of targeted gene
+          therapy in addressing genetic deafness, offering renewed hope for
+          individuals with congenital hearing loss worldwide.
+        </p>
+      </div>
+    ),
+  },
   // jan-26-2024
   {
     id: "google-introduces-pixel-8-and-pixel-8-pro-in-a-fresh-mint-hue",
@@ -381,154 +501,6 @@ export const technology = [
           must adhere to new business terms to avail themselves of these
           benefits. This signifies a shift in how developers can monetize their
           apps on Apple&apos;s platform.
-        </p>
-      </div>
-    ),
-  },
-  // jan-23-2024
-  {
-    id: "samsung-competes-with-apple-in-advancing-noninvasive-glucose-monitoring",
-    timestamp: "Jan 23, 2024",
-    image: `/technology/jan-23-2024/samsung-competes-with-apple-in-advancing-noninvasive-glucose-monitoring.webp`,
-    title: `Samsung Competes with Apple in Advancing Noninvasive Glucose Monitoring`,
-    preArticle: `Samsung is actively pursuing the development of cutting-edge health sensors to rival Apple, as reported by Bloomberg's Mark Gurman. The company's goal is to incorporate noninvasive blood glucose monitoring and continuous blood pressure tracking across its product range. This initiative is part of S`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Samsung is actively pursuing the development of cutting-edge health
-          sensors to rival Apple, as reported by Bloomberg&apos;s Mark Gurman.
-          The company&apos;s goal is to incorporate noninvasive blood glucose
-          monitoring and continuous blood pressure tracking across its product
-          range.
-        </p>
-        <p>
-          This initiative is part of Samsung&apos;s broader strategy to
-          integrate advanced health features, exemplified by the recently
-          unveiled Galaxy Ring smart ring. Hon Pak, a Samsung executive leading
-          the health technology initiative, envisions providing consumers with a
-          comprehensive overview of their well-being through sensors deployed on
-          various body parts and within the home environment.
-        </p>
-        <p>
-          During an interview, Pak emphasized the significance of achieving
-          continuous blood pressure and glucose monitoring, recognizing it as a
-          pivotal advancement. He stated, &quot;If we can do continuous blood
-          pressure and glucose, we&apos;re in a whole different ballgame. I
-          think that&apos;s where everyone is trying to get to. We&apos;re
-          putting significant investment toward that.&quot;
-        </p>
-        <p>
-          It&apos;s crucial to note that Apple has been actively working for
-          years on developing a noninvasive glucose reader, a technology that
-          holds immense potential benefits for diabetics. However, Pak refrains
-          from providing a specific timeline for Samsung&apos;s
-          technology&apos;s market debut, expressing optimism that some form of
-          noninvasive glucose monitoring could become a reality within the next
-          five years.
-        </p>
-        <p>
-          The Galaxy Ring, recently introduced by Samsung and set for release by
-          the end of 2024, will initially focus on tracking activity and sleep.
-          Additional health features are planned for future updates. The
-          discreet form factor of the ring may appeal to individuals seeking
-          health tracking in a less conspicuous device compared to smartwatches.
-          While pricing details are yet to be finalized, the Galaxy Ring is
-          expected to lack iPhone compatibility, unlike Samsung&apos;s watches.
-        </p>
-        <p>
-          Gurman highlights the challenges associated with creating a
-          noninvasive blood sugar monitor, noting Apple&apos;s struggles despite
-          a decade of effort. Samsung is also working on enhancing blood
-          pressure tracking on its smartwatches, aiming for reduced calibration
-          requirements. Pak underscores the goal of providing blood pressure
-          assessments that focus more on indicating cardiovascular risk rather
-          than providing precise values.
-        </p>
-        <p>
-          In addition to smart rings and watches, Samsung is exploring the
-          integration of new sensors into earbuds. These sensors could track
-          temperature and heart rate, leveraging the ear canal&apos;s proximity
-          to the heart for more accurate measurements. The data from earbuds,
-          combined with wrist-based measurements and environmental factors, aims
-          to offer a more holistic health overview.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "apple-ios-unveils-stolen-device-protection-collaborative-playlists-and-enhanced-features",
-    timestamp: "Jan 23, 2024",
-    image: `/technology/jan-23-2024/apple-ios-unveils-stolen-device-protection-collaborative-playlists-and-enhanced-features.png`,
-    title: `Apple iOS 17.3 Unveils Stolen Device Protection, Collaborative Playlists, and Enhanced Features`,
-    preArticle: `Apple is releasing the iOS 17.3 update, introducing notable features such as 'Stolen Device Protection' and 'Collaborative Apple Music Playlists.' This update aims to enhance security measures and offer new avenues for interactive music experiences. Let's delve into the key highlights of iOS 17.3. `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Apple is releasing the iOS 17.3 update, introducing notable features
-          such as &apos;Stolen Device Protection&apos; and &apos;Collaborative
-          Apple Music Playlists.&apos; This update aims to enhance security
-          measures and offer new avenues for interactive music experiences.
-          Let&apos;s delve into the key highlights of iOS 17.3.
-        </p>
-        <p>
-          <span className="text-xl block">Stolen Device Protection:</span>{" "}
-          Addressing iPhone theft concerns, Apple introduces the &apos;Stolen
-          Device Protection&apos; feature. This security enhancement imposes
-          additional safeguards when the device is in locations outside of
-          trusted environments like home or work.
-        </p>
-        <p>
-          Beyond the device passcode, the feature incorporates biometric
-          authentication requirements for tasks such as accessing iCloud-stored
-          passwords, making Safari purchases, disabling Lost Mode, changing
-          Apple ID credentials, altering the iPhone passcode, and initiating
-          device data erasure. To activate this feature, users can navigate to
-          the &apos;Face ID & Passcode&apos; section within device settings and
-          enable the &apos;Stolen Device Protection&apos; toggle. This valuable
-          security layer is applicable to all iPhones running iOS 17.
-        </p>
-        <p>
-          <span className="text-xl block">
-            Collaborative Apple Music Playlists:
-          </span>{" "}
-          iOS 17.3 introduces the much-awaited feature of collaborative
-          playlists on Apple Music. This functionality, previously available in
-          beta versions, empowers users to create playlists or leverage existing
-          ones and invite friends or family to contribute songs.
-        </p>
-        <p>
-          To engage in this collaborative music experience, users can launch
-          Apple Music, access a playlist, and tap on the person icon. This
-          action generates a shareable link, enabling others to join and add
-          songs to the playlist. Additionally, users listening to collaborative
-          playlists can express reactions with emojis, such as hearts or thumbs
-          up, which animate when the corresponding song is played.
-        </p>
-        <p>
-          <span className="text-xl block">AirPlay Support for Hotels:</span> In
-          a move to enhance user experiences in select hotels, iOS 17.3
-          introduces AirPlay support. Users with updated devices can now
-          seamlessly stream content from Apple devices like iPads, iPhones, and
-          Macs in hotels deemed compatible with AirPlay by Apple. This
-          functionality enables users to enjoy content from various streaming
-          platforms on larger screens within the hotel environment, using their
-          individual credentials.
-        </p>
-        <p>
-          <span className="text-xl block">AppleCare Coverage Display:</span>{" "}
-          Another notable addition in iOS 17.3 is the display of AppleCare
-          coverage for all devices associated with a user&apos;s Apple account.
-          This information is conveniently accessible under the &apos;AppleCare
-          and Warranty&apos; section within the &apos;General&apos; tab in the
-          Settings app. This feature provides users with a comprehensive
-          overview of AppleCare coverage for all their signed-in devices.
-        </p>
-        <p>
-          In conclusion, the iOS 17.3 update signifies Apple&apos;s commitment
-          to enhancing user security, collaboration in music experiences, and
-          seamless content streaming in select hotel environments. With these
-          new features, Apple continues to refine and enrich the user experience
-          across its range of devices.
         </p>
       </div>
     ),

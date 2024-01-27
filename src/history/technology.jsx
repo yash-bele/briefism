@@ -1,4 +1,152 @@
 export const technologyHistory = [
+  // jan-23-2024
+  {
+    id: "samsung-competes-with-apple-in-advancing-noninvasive-glucose-monitoring",
+    timestamp: "Jan 23, 2024",
+    image: `/technology/jan-23-2024/samsung-competes-with-apple-in-advancing-noninvasive-glucose-monitoring.webp`,
+    title: `Samsung Competes with Apple in Advancing Noninvasive Glucose Monitoring`,
+    preArticle: `Samsung is actively pursuing the development of cutting-edge health sensors to rival Apple, as reported by Bloomberg's Mark Gurman. The company's goal is to incorporate noninvasive blood glucose monitoring and continuous blood pressure tracking across its product range. This initiative is part of S`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Samsung is actively pursuing the development of cutting-edge health
+          sensors to rival Apple, as reported by Bloomberg&apos;s Mark Gurman.
+          The company&apos;s goal is to incorporate noninvasive blood glucose
+          monitoring and continuous blood pressure tracking across its product
+          range.
+        </p>
+        <p>
+          This initiative is part of Samsung&apos;s broader strategy to
+          integrate advanced health features, exemplified by the recently
+          unveiled Galaxy Ring smart ring. Hon Pak, a Samsung executive leading
+          the health technology initiative, envisions providing consumers with a
+          comprehensive overview of their well-being through sensors deployed on
+          various body parts and within the home environment.
+        </p>
+        <p>
+          During an interview, Pak emphasized the significance of achieving
+          continuous blood pressure and glucose monitoring, recognizing it as a
+          pivotal advancement. He stated, &quot;If we can do continuous blood
+          pressure and glucose, we&apos;re in a whole different ballgame. I
+          think that&apos;s where everyone is trying to get to. We&apos;re
+          putting significant investment toward that.&quot;
+        </p>
+        <p>
+          It&apos;s crucial to note that Apple has been actively working for
+          years on developing a noninvasive glucose reader, a technology that
+          holds immense potential benefits for diabetics. However, Pak refrains
+          from providing a specific timeline for Samsung&apos;s
+          technology&apos;s market debut, expressing optimism that some form of
+          noninvasive glucose monitoring could become a reality within the next
+          five years.
+        </p>
+        <p>
+          The Galaxy Ring, recently introduced by Samsung and set for release by
+          the end of 2024, will initially focus on tracking activity and sleep.
+          Additional health features are planned for future updates. The
+          discreet form factor of the ring may appeal to individuals seeking
+          health tracking in a less conspicuous device compared to smartwatches.
+          While pricing details are yet to be finalized, the Galaxy Ring is
+          expected to lack iPhone compatibility, unlike Samsung&apos;s watches.
+        </p>
+        <p>
+          Gurman highlights the challenges associated with creating a
+          noninvasive blood sugar monitor, noting Apple&apos;s struggles despite
+          a decade of effort. Samsung is also working on enhancing blood
+          pressure tracking on its smartwatches, aiming for reduced calibration
+          requirements. Pak underscores the goal of providing blood pressure
+          assessments that focus more on indicating cardiovascular risk rather
+          than providing precise values.
+        </p>
+        <p>
+          In addition to smart rings and watches, Samsung is exploring the
+          integration of new sensors into earbuds. These sensors could track
+          temperature and heart rate, leveraging the ear canal&apos;s proximity
+          to the heart for more accurate measurements. The data from earbuds,
+          combined with wrist-based measurements and environmental factors, aims
+          to offer a more holistic health overview.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "apple-ios-unveils-stolen-device-protection-collaborative-playlists-and-enhanced-features",
+    timestamp: "Jan 23, 2024",
+    image: `/technology/jan-23-2024/apple-ios-unveils-stolen-device-protection-collaborative-playlists-and-enhanced-features.png`,
+    title: `Apple iOS 17.3 Unveils Stolen Device Protection, Collaborative Playlists, and Enhanced Features`,
+    preArticle: `Apple is releasing the iOS 17.3 update, introducing notable features such as 'Stolen Device Protection' and 'Collaborative Apple Music Playlists.' This update aims to enhance security measures and offer new avenues for interactive music experiences. Let's delve into the key highlights of iOS 17.3. `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Apple is releasing the iOS 17.3 update, introducing notable features
+          such as &apos;Stolen Device Protection&apos; and &apos;Collaborative
+          Apple Music Playlists.&apos; This update aims to enhance security
+          measures and offer new avenues for interactive music experiences.
+          Let&apos;s delve into the key highlights of iOS 17.3.
+        </p>
+        <p>
+          <span className="text-xl block">Stolen Device Protection:</span>{" "}
+          Addressing iPhone theft concerns, Apple introduces the &apos;Stolen
+          Device Protection&apos; feature. This security enhancement imposes
+          additional safeguards when the device is in locations outside of
+          trusted environments like home or work.
+        </p>
+        <p>
+          Beyond the device passcode, the feature incorporates biometric
+          authentication requirements for tasks such as accessing iCloud-stored
+          passwords, making Safari purchases, disabling Lost Mode, changing
+          Apple ID credentials, altering the iPhone passcode, and initiating
+          device data erasure. To activate this feature, users can navigate to
+          the &apos;Face ID & Passcode&apos; section within device settings and
+          enable the &apos;Stolen Device Protection&apos; toggle. This valuable
+          security layer is applicable to all iPhones running iOS 17.
+        </p>
+        <p>
+          <span className="text-xl block">
+            Collaborative Apple Music Playlists:
+          </span>{" "}
+          iOS 17.3 introduces the much-awaited feature of collaborative
+          playlists on Apple Music. This functionality, previously available in
+          beta versions, empowers users to create playlists or leverage existing
+          ones and invite friends or family to contribute songs.
+        </p>
+        <p>
+          To engage in this collaborative music experience, users can launch
+          Apple Music, access a playlist, and tap on the person icon. This
+          action generates a shareable link, enabling others to join and add
+          songs to the playlist. Additionally, users listening to collaborative
+          playlists can express reactions with emojis, such as hearts or thumbs
+          up, which animate when the corresponding song is played.
+        </p>
+        <p>
+          <span className="text-xl block">AirPlay Support for Hotels:</span> In
+          a move to enhance user experiences in select hotels, iOS 17.3
+          introduces AirPlay support. Users with updated devices can now
+          seamlessly stream content from Apple devices like iPads, iPhones, and
+          Macs in hotels deemed compatible with AirPlay by Apple. This
+          functionality enables users to enjoy content from various streaming
+          platforms on larger screens within the hotel environment, using their
+          individual credentials.
+        </p>
+        <p>
+          <span className="text-xl block">AppleCare Coverage Display:</span>{" "}
+          Another notable addition in iOS 17.3 is the display of AppleCare
+          coverage for all devices associated with a user&apos;s Apple account.
+          This information is conveniently accessible under the &apos;AppleCare
+          and Warranty&apos; section within the &apos;General&apos; tab in the
+          Settings app. This feature provides users with a comprehensive
+          overview of AppleCare coverage for all their signed-in devices.
+        </p>
+        <p>
+          In conclusion, the iOS 17.3 update signifies Apple&apos;s commitment
+          to enhancing user security, collaboration in music experiences, and
+          seamless content streaming in select hotel environments. With these
+          new features, Apple continues to refine and enrich the user experience
+          across its range of devices.
+        </p>
+      </div>
+    ),
+  },
   {
     id: "samsung-galaxy-s24-vs-apple-iphone-15-comparing-two-exceptional-base-model-flagships-to-help-you-decide",
     timestamp: "Jan 23, 2024",
