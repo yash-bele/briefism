@@ -2,6 +2,296 @@ import Image from "next/image";
 
 export const breakingHistory = [
   {
+    id: "white-house-alarmed-by-spurious-online-taylor-swift-images",
+    timestamp: "Jan 27, 2024",
+    image: `/breaking/jan-27-2024/white-house-alarmed-by-spurious-online-taylor-swift-images.webp`,
+    title: `White House Alarmed by Spurious Online Taylor Swift Images`,
+    preArticle: `On Friday, the White House expressed deep concern over the proliferation of counterfeit online images featuring pop sensation Taylor Swift. The administration underscored the crucial role social media platforms must assume in upholding their rules to curb the dissemination of such misleading content`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          On Friday, the White House expressed deep concern over the
+          proliferation of counterfeit online images featuring pop sensation
+          Taylor Swift. The administration underscored the crucial role social
+          media platforms must assume in upholding their rules to curb the
+          dissemination of such misleading content.
+        </p>
+        <p>
+          Throughout the week, fabricated sexually explicit images of Swift
+          inundated various social media channels. Notably, one such image
+          circulated on X, formerly known as Twitter, garnered a staggering 47
+          million views before the account responsible was suspended, as
+          reported by The New York Times.
+        </p>
+        <p>
+          Addressing the issue at a press briefing, White House Press Secretary
+          Karine Jean-Pierre emphasized the gravity of the situation. She
+          pledged proactive measures to address the alarming trend and advocated
+          for legislative action by Congress to tackle the matter
+          comprehensively.
+        </p>
+        <p>
+          Highlighting the lax enforcement against misleading images,
+          Jean-Pierre raised the possibility that artificial intelligence (AI)
+          could be behind the creation of such content. She underscored the
+          disproportionate impact on women, noting that these incidents are all
+          too common.
+        </p>
+        <p>
+          While acknowledging the autonomy of social media companies in managing
+          content, Jean-Pierre asserted the administration&apos;s belief in
+          their pivotal role in enforcing regulations. Specifically, she urged
+          these platforms to take robust actions to prevent the dissemination of
+          misinformation and non-consensual, intimate imagery involving real
+          individuals.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "two-fatalities-in-noida-as-family-uses-gas-room-heater-while-sleeping",
+    timestamp: "Jan 27, 2024",
+    image: `/breaking/jan-27-2024/two-fatalities-in-noida-as-family-uses-gas-room-heater-while-sleeping.jpg`,
+    title: `Two Fatalities in Noida as Family Uses Gas Room Heater While Sleeping`,
+    preArticle: `Tragedy struck in the Chhijarasi colony of Sector-63 police station area in Noida, where two family members, including a three-month-old infant, lost their lives allegedly due to suffocation caused by a gas room heater left on overnight, as reported by the police on Friday. The victims, identified a`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Tragedy struck in the Chhijarasi colony of Sector-63 police station
+          area in Noida, where two family members, including a three-month-old
+          infant, lost their lives allegedly due to suffocation caused by a gas
+          room heater left on overnight, as reported by the police on Friday.
+          The victims, identified as 35-year-old Sammu Khan and his infant
+          daughter, are believed to have inhaled toxic smoke emitted by the
+          heater.
+        </p>
+        <p>
+          According to preliminary investigations, the family had slept with the
+          gas room heater on amid cold weather conditions. The police
+          spokesperson stated, &quot;The man and his daughter died due to
+          suffocation caused by the heater. The deceased bodies have been sent
+          for postmortem, and further legal action is underway.&quot;
+        </p>
+        <p>
+          Sammu Khan, originally from Pilibhit district in Uttar Pradesh, had
+          been residing in Noida on rent with his wife, Ujma, and their
+          three-month-old daughter. Sammu worked as a tailor to make ends meet.
+        </p>
+        <p>
+          As the tragic incident unfolded, Ujma Khan was rushed to SJM Hospital
+          in Noida. Medical professionals have described her condition as
+          critical, and she is currently on a ventilator, receiving intensive
+          care. Authorities are actively pursuing legal measures to address the
+          situation.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "bharat-ratna-to-karpoori-thakur-bjps-appropriation-of-the-social-justice-agenda",
+    timestamp: "Jan 27, 2024",
+    image: `/breaking/jan-27-2024/bharat-ratna-to-karpoori-thakur-bjps-appropriation-of-the-social-justice-agenda.jpg`,
+    title: `Bharat Ratna to Karpoori Thakur: BJP's Appropriation of the Social Justice Agenda`,
+    preArticle: `The timing of the Union government's announcement conferring Bharat Ratna on the late Karpoori Thakur, a day after the Ayodhya temple inauguration, may appear coincidental. However, with Thakur's centenary falling on January 24 and the customary national awards announcement preceding Republic Day, t`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The timing of the Union government&apos;s announcement conferring
+          Bharat Ratna on the late Karpoori Thakur, a day after the Ayodhya
+          temple inauguration, may appear coincidental. However, with
+          Thakur&apos;s centenary falling on January 24 and the customary
+          national awards announcement preceding Republic Day, the convergence
+          of events prompts scrutiny in the lead-up to the impending Lok Sabha
+          elections.
+        </p>
+        <p>
+          The overarching question arises: Can the Hindutva agenda secure
+          victory by assimilating the social justice agenda? In essence, can the
+          drive to construct and weaponize a unified Hindu identity overcome the
+          ingrained hierarchies of Hindu caste divisions?
+        </p>
+        <p>
+          This query gains significance in light of the fact that the current
+          influence of the Hindutva agenda hinges on state power. The pursuit of
+          electoral majorities through elections remains the primary avenue to
+          secure and legitimize this power. Traditionally, the Hindu
+          &quot;upper&quot; castes have constituted the core constituency for
+          Hindutva, but given their status as a demographic minority, the
+          numerical support of the so-called lower-caste Hindus is crucial for
+          electoral success.
+        </p>
+        <p>
+          The strategic move to confer Bharat Ratna on Thakur holds symbolic
+          value, aligning with the ideological legacy of leaders like Nitish
+          Kumar and Lalu Prasad. Thakur&apos;s political influence played a
+          pivotal role in their rise to power, emphasizing the BJP&apos;s
+          representation of backward castes without making substantial
+          concessions.
+        </p>
+        <p>
+          A closer look at Thakur&apos;s political agenda in the 1970s reveals a
+          stark contrast with the current BJP narrative. Thakur pursued a
+          popular-leftist caste agenda aimed at breaking the monopoly of the
+          upper castes in Bihar. In contrast, the BJP attempts to recruit
+          various castes to support an essentially upper-caste political
+          program, camouflaging it as a populist initiative for electoral gain.
+        </p>
+        <p>
+          Another divergence lies in Thakur&apos;s stance on the official
+          language, aligning with a multilingual approach to promote Indian
+          languages and national integration. This stands in contrast to the
+          BJP&apos;s emphasis on Hindi and its reluctance to accommodate
+          linguistic diversity.
+        </p>
+        <p>
+          In summary, Thakur&apos;s Bharat Ratna serves the BJP&apos;s interests
+          by appropriating ideological capital without aligning with
+          Thakur&apos;s original leftist caste agenda. If a Bharat Ratna were to
+          be awarded for the advancement of backward castes, Devaraj Urs, with
+          his development-centric social justice agenda, could be a more fitting
+          candidate. Urs, as the chief minister of Karnataka in the 1970s,
+          forged alliances across communities without promoting communal hatred,
+          making his contribution to social justice more substantial.
+        </p>
+      </div>
+    ),
+  },
+  // jan-26-2024
+  {
+    id: "why-has-the-united-states-opted-for-nitrogen-gas-execution-over-lethal-injection",
+    timestamp: "Jan 26, 2024",
+    image: `/breaking/jan-26-2024/why-has-the-united-states-opted-for-nitrogen-gas-execution-over-lethal-injection.webp`,
+    title: `Why has the United States opted for Nitrogen gas execution over lethal injection?`,
+    preArticle: `Kenneth Smith, a convicted murderer, has become the inaugural individual in the United States to undergo execution by nitrogen gas, employing a contentious new method that some experts caution could result in severe suffering or even torture. Smith, previously on death row for his participation in `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Kenneth Smith, a convicted murderer, has become the inaugural
+          individual in the United States to undergo execution by nitrogen gas,
+          employing a contentious new method that some experts caution could
+          result in severe suffering or even torture.
+        </p>
+        <p>
+          Smith, previously on death row for his participation in a 1988
+          murder-for-hire plot that claimed the life of Elizabeth Sennett, had
+          narrowly escaped lethal injection in 2022. During that attempt, his
+          execution was halted when prison staff failed to successfully insert
+          two intravenous lines into his veins, a requirement under the
+          protocol, managing only to insert one line after an hour of attempts.
+        </p>
+        <p>
+          Now, Smith faced a different fate: death through exposure to nitrogen
+          gas. He was affixed to a mask that delivered pure nitrogen gas for a
+          period of up to 15 minutes, cutting off the oxygen supply to his
+          brain, leading to unconsciousness and eventual death.
+        </p>
+        <p>
+          This method represents an alternative chosen by some states due to the
+          challenges associated with lethal injection, the most prevalent
+          execution method in the US.
+        </p>
+        <p>
+          While around half of the US states still retain the death penalty,
+          they employ various methods such as hanging, firing squad, or the
+          electric chair. However, none of these methods have been declared
+          unconstitutional by the US Supreme Court, although some state courts
+          have prohibited specific techniques.
+        </p>
+        <p>
+          Lethal injection, introduced in Texas in 1982, has been the preferred
+          method, yet it has encountered numerous issues, both practical and
+          ethical. Several executions have been mishandled, causing pain and
+          suffering to the inmates. Some, like Smith, have faced delays or
+          cancellations due to difficulties in locating suitable veins.
+          Additionally, certain states have encountered challenges in obtaining
+          the necessary drugs for lethal injection, as drug manufacturers refuse
+          to sell them for such purposes.
+        </p>
+        <p>
+          Since 2011, both the UK and the EU have prohibited the export of
+          lethal injection drugs, and Pfizer, a major supplier, ceased providing
+          them for execution purposes in 2016. Consequently, some states have
+          turned to untested or undisclosed drugs from private sources,
+          including compounding pharmacies.
+        </p>
+        <p>
+          Nitrogen gas has emerged as another option explored by some states.
+          Alabama, along with Oklahoma and Mississippi, has sanctioned the use
+          of nitrogen gas in executions and defended it against legal
+          challenges. Advocates argue that nitrogen gas provides a humane and
+          painless method, inducing a state of euphoria and unawareness before
+          death. They cite examples of industrial accidents where workers died
+          of nitrogen hypoxia without realizing it.
+        </p>
+        <p>
+          However, critics of nitrogen gas contend that it is an experimental
+          and unproven method that could inflict harm and suffering on the
+          inmates.
+        </p>
+        <p>
+          Dr. Jeff Keller, President of the American College of Correctional
+          Physicians, remarked, “It’s an experimental procedure. Many things can
+          go wrong.”
+        </p>
+        <p>
+          Deborah Denno, a criminologist at Fordham Law School specializing in
+          death penalty methods, emphasized, “The procedure is supposed to be
+          painless. But I have to emphasize - that’s in theory.” She pointed out
+          that the masks used for nitrogen gas may not fit properly, potentially
+          allowing air to leak in, and warned of potential complications such as
+          vomiting or survival with brain damage.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "arizona-state-university-partners-with-open-ai-to-extend-ai-presence-in-higher-education",
+    timestamp: "Jan 26, 2024",
+    image: `/breaking/jan-26-2024/arizona-state-university-partners-with-open-ai-to-extend-ai-presence-in-higher-education.webp`,
+    title: `Arizona State University partners with OpenAI to extend AI presence in higher education`,
+    preArticle: `Arizona State University (ASU) has joined forces with OpenAI to introduce the advanced capabilities of ChatGPT Enterprise into higher education. This collaboration aims to establish a new standard for how universities can enrich learning experiences, foster creativity, and improve student outcomes u`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Arizona State University (ASU) has joined forces with OpenAI to
+          introduce the advanced capabilities of ChatGPT Enterprise into higher
+          education. This collaboration aims to establish a new standard for how
+          universities can enrich learning experiences, foster creativity, and
+          improve student outcomes using state-of-the-art AI technology.
+        </p>
+        <p>
+          ChatGPT, developed by OpenAI, has seen increased adoption by
+          organizations since its introduction a year ago. Now, ASU is
+          integrating ChatGPT into its educational programs to explore
+          innovative applications and contribute to the responsible evolution of
+          AI learning technologies.
+        </p>
+        <p>
+          ASU President Michael M. Crow emphasized the university&apos;s
+          commitment to actively participating in the responsible development of
+          AI learning technologies. The collaboration aims to prioritize user
+          privacy by implementing robust security measures, ensuring the
+          protection of user data against digital threats.
+        </p>
+        <p>
+          According to Brad Lightcap, Chief Operating Officer at OpenAI,
+          ASU&apos;s integration of ChatGPT into educational programs
+          demonstrates the university&apos;s leadership in innovation,
+          leveraging AI to enhance the learning experience.
+        </p>
+        <p>
+          Beginning February 2024, ASU will invite submissions from faculty and
+          staff to propose innovative uses of ChatGPT Enterprise. The focus
+          areas for these proposals include enhancing student success, exploring
+          new avenues for innovative research, and streamlining organizational
+          processes. This collaboration signifies a significant step toward
+          integrating advanced AI capabilities into higher education, marking a
+          milestone in the evolution of learning technologies.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "australias-cyclone-kirrily-power-outages-affect-thousands-during-intense-rainfall",
     timestamp: "Jan 26, 2024",
     image: `/breaking/jan-26-2024/australias-cyclone-kirrily-power-outages-affect-thousands-during-intense-rainfall.avif`,
