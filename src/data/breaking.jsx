@@ -1,6 +1,310 @@
 import Image from "next/image";
 
 export const breaking = [
+  // jan-29-2024
+  {
+    id: "3-american-military-personnel-lose-their-lives-and-34-others-sustain-injuries-in-a-jordan-drone-strike",
+    timestamp: "Jan 29, 2024",
+    image: `/breaking/jan-29-2024/3-american-military-personnel-lose-their-lives-and-34-others-sustain-injuries-in-a-jordan-drone-strike.jpeg`,
+    title: `3 American military personnel lose their lives, and 34 others sustain injuries in a Jordan drone strike associated with Iran`,
+    preArticle: `In northeastern Jordan near the Syrian border, an unmanned aerial drone attack resulted in the death of three U.S. service members, with 34 others sustaining injuries, as reported by President Joe Biden and U.S. officials on Sunday. President Biden attributed the attack to Iran-backed groups, stati`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In northeastern Jordan near the Syrian border, an unmanned aerial
+          drone attack resulted in the death of three U.S. service members, with
+          34 others sustaining injuries, as reported by President Joe Biden and
+          U.S. officials on Sunday.
+        </p>
+        <p>
+          President Biden attributed the attack to Iran-backed groups, stating,
+          &quot;While we are still gathering the facts of this attack, we know
+          it was carried out by radical Iran-backed militant groups operating in
+          Syria and Iraq.&quot;
+        </p>
+        <p>
+          A U.S. official informed Reuters that at least 34 personnel were
+          undergoing evaluation for possible traumatic brain injuries. Another
+          official commented, &quot;While we’re still gathering facts, this is
+          most assuredly the work of an Iranian-backed militia group.&quot;
+        </p>
+        <p>
+          These casualties mark the first fatalities of U.S. troops in the
+          region since the conflict in Gaza. President Biden revealed that the
+          attack occurred on Saturday night.
+        </p>
+        <p>
+          The incident significantly escalates the already tense situation in
+          the Middle East, where conflict erupted in Gaza following an attack by
+          the Palestinian Islamist group Hamas on Israel on Oct. 7, resulting in
+          1,200 casualties. Israel&apos;s subsequent assault on Gaza has led to
+          the death of over 26,000 Palestinians, according to the local health
+          ministry.
+        </p>
+        <p>
+          Despite the United States officially maintaining that it is not at war
+          in the region, it has conducted strikes against targets of
+          Yemen&apos;s Houthi groups, which have been attacking commercial
+          vessels in the Red Sea.
+        </p>
+        <p>
+          President Biden asserted, &quot;We will carry on their commitment to
+          fight terrorism. And have no doubt – we will hold all those
+          responsible to account at a time and in a manner of our
+          choosing,&quot; as stated in his White House-released statement.
+          (Reporting by Kanishka Singh and Phil Stewart in Washington Editing by
+          Heather Timmons and Matthew Lewis)
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "parliamentary-session-in-maldives-disrupted-by-physical-altercation-among-mps",
+    timestamp: "Jan 29, 2024",
+    image: `/breaking/jan-29-2024/parliamentary-session-in-maldives-disrupted-by-physical-altercation-among-mps.webp`,
+    title: `Parliamentary Session in Maldives Disrupted by Physical Altercation Among MPs`,
+    preArticle: `Parliamentary proceedings in the Maldives ground to a halt on Sunday as a physical altercation erupted among members. Videos captured the clash between Maldivian Democratic Party (MDP) MP Isa and Peoples’ National Congress (PNC) MP Abdullah Shaheem Abdul Hakeem. Footage from the online news outlet A`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Parliamentary proceedings in the Maldives ground to a halt on Sunday
+          as a physical altercation erupted among members. Videos captured the
+          clash between Maldivian Democratic Party (MDP) MP Isa and Peoples’
+          National Congress (PNC) MP Abdullah Shaheem Abdul Hakeem. Footage from
+          the online news outlet Adhadhu depicted Shaheem grabbing Isa&apos;s
+          leg, resulting in both members falling. Isa was seen kicking
+          Shaheem&apos;s neck and pulling his hair in the scuffle, while other
+          members intervened to push Shaheem out of the area. Local media
+          reported that an injured parliament member was taken to an ambulance.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              *Viewer discretion advised* <br />
+              <br />
+              Parliament proceedings have been disrupted after clashes between
+              PPM/PNC MPs and opposition MPs.{" "}
+              <a href="https://t.co/vhvfCBgQ1s">pic.twitter.com/vhvfCBgQ1s</a>
+            </p>
+            &mdash; Adhadhu (@AdhadhuMV){" "}
+            <a href="https://twitter.com/AdhadhuMV/status/1751555656862327013?ref_src=twsrc%5Etfw">
+              January 28, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+        </div>
+        <p>
+          The incident occurred on a significant day when a crucial vote on
+          parliamentary approval for the Muizzu government was slated to take
+          place. Reports indicated that several members of the ruling party
+          barricaded the House, leading to disruptions in the session.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio",
+    timestamp: "Jan 29, 2024",
+    image: `/breaking/jan-29-2024/environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio.jpeg`,
+    title: `Environmental Authorities Addressing Cleanup of Fuel Following Fiery Tanker Truck Collision in Ohio`,
+    preArticle: `Environmental officials in Ohio returned to the site of a devastating tanker truck crash on Sunday, aiming to manage the aftermath of a significant diesel fuel spill resulting from the incident. The crash, which occurred on Saturday morning and tragically claimed the life of the driver, involved a `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Environmental officials in Ohio returned to the site of a devastating
+          tanker truck crash on Sunday, aiming to manage the aftermath of a
+          significant diesel fuel spill resulting from the incident.
+        </p>
+        <p>
+          The crash, which occurred on Saturday morning and tragically claimed
+          the life of the driver, involved a tanker carrying approximately 7,500
+          gallons (28,390 liters) of diesel, as reported by the Ohio
+          Environmental Protection Agency. Following the accident, a nearby
+          creek briefly ignited, prompting swift action from the agency to
+          contain the fuel spread.
+        </p>
+        <p>
+          To address the environmental impact, response crews are set to
+          excavate affected soil, according to the state EPA. Officials will
+          maintain a presence at the scene to ensure comprehensive measures are
+          taken to safeguard the well-being of residents and protect waterways,
+          the agency stated in a press release.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/breaking/jan-29-2024/environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio(2).webp"
+            alt="environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The incident unfolded around 9:15 am on Saturday, with the Summit
+          County Sheriff’s Office and Macedonia Police Department responding to
+          the scene at the ramp to Interstate 271 north in Northfield Center
+          Township. The tanker, traveling northbound on State Route 8, attempted
+          to access Interstate 271 north when the driver lost control, leading
+          the vehicle to go over the bridge&apos;s side, according to the
+          sheriff’s office.
+        </p>
+        <p>
+          The truck ultimately landed on the northbound lanes of State Route 8,
+          triggering a fiery explosion. Fire departments that rushed to the
+          scene discovered that the tanker driver had succumbed to injuries
+          sustained in the crash.
+        </p>
+        <p>
+          The severity of the accident necessitated the closure of several
+          roads, and an investigation into the crash is currently underway.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan",
+    timestamp: "Jan 29, 2024",
+    image: `/breaking/jan-29-2024/33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan.jpg`,
+    title: `33 Individuals Perish in Distinct Traffic Accidents in Eastern Afghanistan`,
+    preArticle: `In eastern Afghanistan, separate traffic incidents have resulted in the tragic death of at least 33 individuals, with 16 others sustaining injuries, as confirmed by authorities on Sunday. The Sorabi district of Kabul province, situated on the primary highway connecting Kabul to the eastern Nangarha`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In eastern Afghanistan, separate traffic incidents have resulted in
+          the tragic death of at least 33 individuals, with 16 others sustaining
+          injuries, as confirmed by authorities on Sunday.
+        </p>
+        <p>
+          The Sorabi district of Kabul province, situated on the primary highway
+          connecting Kabul to the eastern Nangarhar province, witnessed ten
+          collisions. These accidents claimed the lives of 17 people, including
+          two children and four women, as reported by Khalid Zadran, the
+          spokesperson for the Kabul police chief. Ten individuals sustained
+          injuries in these crashes and were subsequently hospitalized for
+          treatment.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/breaking/jan-29-2024/33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan(2).webp"
+            alt="33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Simultaneously, four additional collisions occurred in the eastern
+          Laghman province, near the conclusion of the same highway between
+          Kabul and Nangarhar, resulting in the death of 15 people, according to
+          a statement from the Laghman police chief. In other parts of Laghman
+          province, one person lost their life, and six others were injured. The
+          injured individuals were promptly transferred to nearby hospitals for
+          necessary medical attention.
+        </p>
+        <p>
+          The prevalence of traffic accidents in Afghanistan is a recurrent
+          issue, primarily attributed to substandard road conditions and the
+          negligence of drivers on highways.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "biden-reiterates-commitment-to-immediately-close-border-if-congress-presents-agreement",
+    timestamp: "Jan 29, 2024",
+    image: `/breaking/jan-29-2024/biden-reiterates-commitment-to-immediately-close-border-if-congress-presents-agreement.jpg`,
+    title: `Biden Reiterates Commitment to Immediately Close Border if Congress Presents Agreement`,
+    preArticle: `In an effort to salvage a border deal in Congress, President Joe Biden asserted on Saturday night that he is prepared to close the US-Mexico border promptly if lawmakers present him with a bill, which would also release funds for Ukraine. Addressing concerns over his administration's handling of mi`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In an effort to salvage a border deal in Congress, President Joe Biden
+          asserted on Saturday night that he is prepared to close the US-Mexico
+          border promptly if lawmakers present him with a bill, which would also
+          release funds for Ukraine.
+        </p>
+        <p>
+          Addressing concerns over his administration&apos;s handling of
+          migration at the border and seeking to counter GOP criticism, Biden,
+          at a political event in South Carolina, expressed his willingness to
+          shut down the border &quot;right now&quot; if Congress approved the
+          proposed deal. However, the framework has not been formally agreed
+          upon by Senate Democrats and Republicans, and its future in the
+          GOP-controlled House remains uncertain.
+        </p>
+        <p>
+          Biden emphasized the benefits of a bipartisan bill, stating it would
+          be advantageous for America by fixing the broken immigration system
+          and ensuring swift access for deserving individuals. He emphasized the
+          need for Congress to act, asserting that such legislation would grant
+          him emergency authority to close the border until it could be brought
+          under control. If the proposed bill were law at present, he claimed he
+          would promptly shut down the border and address the situation
+          expeditiously.
+        </p>
+        <p>
+          The deal under negotiation in Congress stipulates that the US must
+          close the border if approximately 5,000 migrants cross illegally in a
+          single day, a response to some one-day totals last year that exceeded
+          10,000.
+        </p>
+        <p>
+          Former President Donald Trump has been urging Republicans to oppose
+          the negotiations, reluctant to give Biden a victory on an issue
+          central to the Republican&apos;s successful 2016 campaign and crucial
+          to his ambitions to return to the White House. While negotiators
+          seemed close to reaching an agreement, Trump&apos;s influence began to
+          strain the deal.
+        </p>
+        <p>
+          In a surprising claim, Biden, in a written statement on Friday
+          evening, stated that the deal would grant him &quot;a new emergency
+          authority&quot; to close the border, and he would use it the day the
+          bill is signed into law. This assertion elicited astonishment and
+          shock from immigrant advocates who perceive his policies as not
+          aligning with the progressive approach they anticipated.
+        </p>
+        <p>
+          Deirdre Schifeling, Chief Political and Advocacy Officer at the
+          American Civil Liberties Union, expressed the sentiment of voters,
+          stating that elected leaders should focus on fixing the immigration
+          system. She urged Biden and Congress to abandon the proposed deal and
+          respond to voters&apos; demands for fair and effective immigration
+          policies that manage the border and treat people seeking safety with
+          dignity.
+        </p>
+        <p>
+          Biden is contending with challenges on multiple fronts, grappling with
+          an influx of asylum seekers while also implementing stricter measures
+          against those illegally crossing into the US. Democrats are becoming
+          increasingly frustrated as asylum seekers inundate cities lacking the
+          resources to adequately care for them.
+        </p>
+        <p>
+          Responding to Biden&apos;s comments, House Speaker Mike Johnson,
+          R-La., contended that congressional action is unnecessary for Biden to
+          close the border and urged him to take immediate executive action to
+          reverse the perceived catastrophe.
+        </p>
+        <p>
+          Immigration remains a significant concern for voters in the 2024
+          election, with an AP-NORC poll revealing an increase in concerns about
+          immigration from 27% to 35% since the previous year. The poll also
+          indicated a heightened focus on immigration among Republicans, with
+          55% considering it a priority for 2024, up from 45% in December 2022.
+          Arrests for illegal border crossings from Mexico reached an all-time
+          high in December, with 249,785 arrests, marking a 31% increase from
+          November and a 13% increase from December 2022, the previous record.
+          The top nationalities among those arrested included Mexicans,
+          Venezuelans, Guatemalans, Hondurans, and Colombians.
+        </p>
+      </div>
+    ),
+  },
   // jan-28-2024
   {
     id: "outgoing-canadian-nsa-india-collaborating-closely-to-address-nijjar-killing",
@@ -136,353 +440,6 @@ export const breaking = [
           among the wipers, rubber, and cutting machine. The landlord&apos;s
           wife, 70-year-old Prabhawati, sustained burn injuries on her leg and
           was discharged the following day.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "trailblazing-trap-shooter-preeti-rajak-makes-history-as-armys-first-female-subedar",
-    timestamp: "Jan 28, 2024",
-    image: `/breaking/jan-28-2024/trailblazing-trap-shooter-preeti-rajak-makes-history-as-armys-first-female-subedar.webp`,
-    title: `Trailblazing Trap Shooter Preeti Rajak Makes History as Army's First Female Subedar`,
-    preArticle: `Champion trap shooter Preeti Rajak made history on Saturday by becoming the first woman to attain the rank of subedar in the Army, following her promotion from the havildar rank. This marks a significant milestone as it is the first instance of a female Army soldier rising to the position of junior`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Champion trap shooter Preeti Rajak made history on Saturday by
-          becoming the first woman to attain the rank of subedar in the Army,
-          following her promotion from the havildar rank.
-        </p>
-        <p>
-          This marks a significant milestone as it is the first instance of a
-          female Army soldier rising to the position of junior commissioned
-          officer (JCO) since the Army extended opportunities to women in the
-          Corps of Military Police (CMP).
-        </p>
-        <p>
-          Subedar Rajak joined the Army (CMP) on December 22, 2022, based on her
-          exceptional performance in trap shooting. She stands as the inaugural
-          meritorious sportswoman in the shooting discipline to be enlisted in
-          the Army as a havildar, as per the Army&apos;s announcement.
-        </p>
-        <p>
-          Currently, women are not appointed to other ranks in various arms and
-          services of the Army. However, women enthusiasts aspiring to join the
-          Army can enlist in the CMP.
-        </p>
-        <p>
-          During the 19th Asian Games in 2022, held in Hangzhou, China, Sub
-          Rajak clinched a silver medal in the women’s trap team event. Her
-          outstanding performance led to her receiving an exceptional
-          out-of-turn promotion. Typically, soldiers ascend to JCO ranks after
-          successfully navigating their promotion cadres and junior leaders’
-          proficiency tests over 18-20 years.
-        </p>
-        <p>
-          The Army expressed confidence that Rajak&apos;s accomplishments would
-          inspire future generations of young women to both join the Indian Army
-          and excel in professional shooting. Lieutenant General Gajendra Joshi,
-          Commandant of Infantry School, presided over the pipping ceremony,
-          according to the Army statement.
-        </p>
-        <p>
-          In a separate development, Padmashri and Arjuna awardee Subedar Major
-          and Honorary Lieutenant Jitu Rai were elevated to the rank of Subedar
-          Major and Honorary Captain in recognition of their distinguished
-          services, as per the Army&apos;s announcement.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "jaishankar-engages-with-texas-governor-commends-his-dedication-to-strengthen-india-us-relations",
-    timestamp: "Jan 28, 2024",
-    image: `/breaking/jan-28-2024/jaishankar-engages-with-texas-governor-commends-his-dedication-to-strengthen-india-us-relations.avif`,
-    title: `Jaishankar Engages with Texas Governor, Commends His Dedication to Strengthen India-US Relations`,
-    preArticle: `External Affairs Minister S. Jaishankar met with Texas Governor Greg Abbott, expressing admiration for his dedication to fostering stronger ties between India and the US and acknowledging Texas's role in advancing this relationship. Abbott's visit to India occurs amid tensions between his administr`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          External Affairs Minister S. Jaishankar met with Texas Governor Greg
-          Abbott, expressing admiration for his dedication to fostering stronger
-          ties between India and the US and acknowledging Texas&apos;s role in
-          advancing this relationship.
-        </p>
-        <p>
-          Abbott&apos;s visit to India occurs amid tensions between his
-          administration and the Biden government regarding illegal immigration
-          along the US-Mexico border. Disputes over border control have
-          escalated, with Abbott defying federal directives and the US Supreme
-          Court&apos;s rulings by ordering additional razor wire installations
-          to deter migration.
-        </p>
-        <p>
-          Despite a recent Supreme Court decision favoring federal authority
-          over border measures, Abbott, known for his hard-right stance,
-          persists in his efforts to fortify sections of the US-Mexico border.
-        </p>
-        <p>
-          Following their meeting, Jaishankar praised Abbott&apos;s commitment
-          to bolstering India-US ties, expressing confidence in the success of
-          his mission to India.
-        </p>
-        <p>
-          Abbott is leading an economic development mission to India aimed at
-          promoting Texas&apos;s economy, fostering trade, job creation, and
-          investment opportunities for Indian companies in Texas, and
-          strengthening the partnership between India and Texas.
-        </p>
-        <p>
-          During his visit, Abbott met with Union Minister of Commerce and
-          Industry Piyush Goyal to enhance economic cooperation, particularly in
-          information technology, engineering, and research sectors. Texas,
-          renowned for its business-friendly environment and skilled workforce,
-          offers substantial prospects for global partnerships, including with
-          India.
-        </p>
-        <p>
-          India ranks ninth globally in terms of foreign direct investment
-          projects in Texas, with significant capital investment and job
-          creation attributed to Indian companies. In the past decade, Indian
-          investments in Texas have surpassed $1.4 billion, generating over
-          10,300 jobs. Bilateral trade between Texas and India amounted to $20.4
-          billion in 2022, with Texas exports totaling $13.3 billion.
-        </p>
-        <p>
-          During his trip, Governor Abbott and the Texas delegation engaged with
-          prominent business leaders, including Gautam Adani of the Adani Group,
-          Rahul Singh of HCL Tech, and Rajesh Nambiar of NASSCOM, highlighting
-          the potential for further collaboration and investment between Texas
-          and India.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "150-year-old-cannon-test-fired-as-vadodara-temple-tradition-ahead-of-court-ruling-on-ban",
-    timestamp: "Jan 28, 2024",
-    image: `/breaking/jan-28-2024/150-year-old-cannon-test-fired-as-vadodara-temple-tradition-ahead-of-court-ruling-on-ban.webp`,
-    title: `150-Year-Old Cannon Test-Fired as Vadodara Temple Tradition Halted Since 1996, Ahead of Court Ruling on Ban`,
-    preArticle: `The Ranchhodji temple's 150-year-old cannon, located on MG Road in Vadodara, underwent a test firing at Navlakhi Ground on Saturday, as directed by a civil court. Temple trustees filed a petition seeking permission to resume the tradition of firing the cannon during Dev Diwali, which ceased in 1996 `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The Ranchhodji temple&apos;s 150-year-old cannon, located on MG Road
-          in Vadodara, underwent a test firing at Navlakhi Ground on Saturday,
-          as directed by a civil court. Temple trustees filed a petition seeking
-          permission to resume the tradition of firing the cannon during Dev
-          Diwali, which ceased in 1996 due to safety concerns and official
-          intervention. The cannon, transported from the temple to Navlakhi
-          Ground, underwent inspection by a team of experts appointed by the
-          civil court, including district administration officials, police
-          personnel, lawyers, and forensic experts.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/breaking/jan-28-2024/150-year-old-cannon-test-fired-as-vadodara-temple-tradition-ahead-of-court-ruling-on-ban(2).webp"
-            alt="teen-recounts-shahdara-fire-tragedy(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Under police supervision, temple trustees, accompanied by about 100
-          devotees, transported the brass cannon to Navlakhi Ground in
-          compliance with the conditions outlined in the granted police
-          permission. Court-appointed advocates oversaw the process, along with
-          police officials who provided security. Following the test firing,
-          which propelled the cannon approximately 46 feet, experts noted minor
-          gunpowder dispersion but no other dislodgement or scattering. The
-          report will be submitted to the court.
-        </p>
-        <p>
-          Cannonballs for the test were legally procured from Porbandar,
-          following due process. The exercise stemmed from a directive of the
-          Vadodara civil court, amid ongoing litigation between the
-          temple&apos;s chief priest, Janardhan Dave, and authorities since
-          1996. The cannon was seized by the District Collector after two
-          individuals allegedly sustained injuries during the 1995 Dev Diwali
-          procession. Despite its return to the temple, firing during subsequent
-          Dev Diwali processions was prohibited due to safety concerns.
-        </p>
-        <p>
-          A recent court order mandated the cannon&apos;s test, with experts
-          tasked to submit a report for the court&apos;s consideration on
-          January 30. Dave, expressing satisfaction with the test results,
-          remains hopeful for a favorable court decision, ending his vow to walk
-          barefoot until the ban is lifted. Approximately 1.5 kg of ammunition
-          was used for the test, resulting in nine explosions at Navlakhi
-          Ground.
-        </p>
-        <p>
-          Dave revealed that the cannon, dating back about 180 years, underwent
-          previous tests in 2000 and 2010. If the court rules in favor, the
-          temple plans to seek permission for a victory procession and
-          anticipates resuming the cannon firing tradition during the next Dev
-          Diwali after 29 years.
-        </p>
-      </div>
-    ),
-  },
-  // jan-27-2024
-  {
-    id: "encounter-indian-origin-chess-prodigies-making-waves-in-britain",
-    timestamp: "Jan 27, 2024",
-    image: `/breaking/jan-27-2024/encounter-indian-origin-chess-prodigies-making-waves-in-britain.webp`,
-    title: `Encounter Indian-Origin Chess Prodigies Making Waves in Britain`,
-    preArticle: `In August of the previous year, British Prime Minister Rishi Sunak, on the brink of unveiling a significant financial package for chess in the UK, extended an invitation to two young chess prodigies to 10 Downing Street. These prodigies were eight-year-old Bodhana Sivanandan and 14-year-old Shreyas `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In August of the previous year, British Prime Minister Rishi Sunak, on
-          the brink of unveiling a significant financial package for chess in
-          the UK, extended an invitation to two young chess prodigies to 10
-          Downing Street. These prodigies were eight-year-old Bodhana Sivanandan
-          and 14-year-old Shreyas Royal, both British citizens of Indian origin,
-          akin to Sunak himself.
-        </p>
-        <p>
-          Despite India gaining prominence as a hub of young chess talents
-          during the pandemic, these Indian-origin prodigies have carved out a
-          niche for themselves in England. Bodhana secured victory in the
-          under-8 category at the World Cadet Championship last year, also
-          holding the title of World Youth Champion and presently holding the
-          30th rank in England&apos;s women&apos;s category. Shreyas currently
-          stands at the 19th position among active players in England.
-        </p>
-        <p>
-          Over the span of two months, Bodhana achieved notable victories
-          against three International Masters, including Lorin D&apos;Costa at
-          the European Blitz Championship in Zagreb and Lela Javakhishvili and
-          Nurgyul Salimova at the European Women&apos;s Blitz Championship in
-          Monaco. Shreyas also made waves at the London Chess tournament in
-          December 2023, defeating GM Jules Moussard and drawing with players
-          like India&apos;s Gukesh.
-        </p>
-        <p>
-          While both Bodhana and Shreyas hold British citizenship, their
-          families are first-generation migrants. Bodhana&apos;s parents lived
-          in Tamil Nadu&apos;s Trichy, while Shreyas was born in Bengaluru.
-        </p>
-        <p>
-          Bodhana&apos;s father, Sivanandan Velayutham, revealed that they moved
-          to the UK in 2007 as economic migrants. Bodhana, born and raised in
-          London, started playing chess at the age of five, stumbling upon a
-          chess board at home. Initially, her father, with limited knowledge of
-          chess, downloaded Chess.com to help her learn by watching videos.
-          Despite initially considering it a passing interest, Bodhana continued
-          playing and soon began winning medals and trophies from online
-          tournaments.
-        </p>
-        <p>
-          While Bodhana receives acclaim in the chess community for her
-          achievements, her parents remain cautious about ensuring she stays
-          grounded. With a current rating of 1856, she still has a long way to
-          go to achieve the 2500 rating required for the Grandmaster title.
-        </p>
-        <p>
-          As a school student in London&apos;s Harrow, Bodhana faces time
-          constraints and cannot fully immerse herself in chess like Indian GMs
-          did early in their careers. On weekdays, she dedicates about an hour
-          to chess, with additional time spent on weekends for practice and
-          tournaments.
-        </p>
-        <p>
-          Shreyas, at Bodhana&apos;s age, gained attention in England due to his
-          exceptional chess talent. His father, Jitendra, shared that their plan
-          to move to Norway was halted when the chess community in the UK
-          lobbied British MPs to allow Shreyas to stay due to his talent. The UK
-          Home Secretary Sajid Javid agreed to adjust visa norms, enabling
-          Shreyas to remain in England.
-        </p>
-        <p>
-          Shreyas spends five to six hours daily on chess, coming close to
-          earning the Grandmaster title. He remains optimistic about overcoming
-          the final hurdles and acknowledges that while playing for England
-          might be a loss for India, the country already boasts numerous chess
-          prodigies.
-        </p>
-        <p></p>
-      </div>
-    ),
-  },
-  {
-    id: "surge-in-war-risk-premiums-for-shipments-amid-heightened-tensions-in-the-red-sea",
-    timestamp: "Jan 27, 2024",
-    image: `/breaking/jan-27-2024/surge-in-war-risk-premiums-for-shipments-amid-heightened-tensions-in-the-red-sea.jpeg`,
-    title: `Surge in War Risk Premiums for Shipments Amid Heightened Tensions in the Red Sea`,
-    preArticle: `The surge in war risk insurance premiums for cargo ships has been prompted by the tense situation in the Red Sea, leading several insurance companies to hesitate in covering cargo voyages through the region. War risk premiums, which initially rose from 0.05% to 0.7% in early December, spiked to one`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The surge in war risk insurance premiums for cargo ships has been
-          prompted by the tense situation in the Red Sea, leading several
-          insurance companies to hesitate in covering cargo voyages through the
-          region.
-        </p>
-        <p>
-          War risk premiums, which initially rose from 0.05% to 0.7% in early
-          December, spiked to one percent of the ship&apos;s value approximately
-          a week ago. For instance, if a ship is valued at $200 million, the
-          corresponding premium for shipping firms would be $2 million.
-          Insurance officials in Mumbai anticipate further increases if the
-          situation escalates.
-        </p>
-        <p>
-          Saurabh Verma, Managing Director of Global Insurance Brokers,
-          explained that the Red Sea scenario falls under the war risk category
-          for marine insurance. The Joint War Committee in London monitors
-          geopolitics and determines insurance rates based on their assessments.
-          In a warlike situation, such as the one in the Red Sea, reinsurance is
-          assessed to cover war or similar perils, leading to adjustments in
-          premium rates based on changes in risk levels.
-        </p>
-        <p>
-          Recent attacks in the Red Sea have tripled marine insurance rates for
-          war risks, and tanker forward freight agreements are trading higher
-          due to elevated shipping risks, according to S&P Global.
-        </p>
-        <p>
-          Some insurance companies are now reluctant to cover cargo on voyages
-          through the Red Sea route, aiming to avoid the risk of high-value
-          claims. There are reports of insurers retracting existing policies for
-          shipments in high-risk areas, providing a 30-day notice option for
-          both parties involved.
-        </p>
-        <p>
-          Houthi rebels have targeted vessels suspected of links to Israel in
-          the Red Sea, prompting the Joint War Committee to extend the Red Sea
-          war risk territory. The London insurance market now classifies the
-          southern Red Sea as a high-risk area, requiring ships to notify
-          insurers when sailing through and pay additional premiums for a
-          seven-day cover period.
-        </p>
-        <p>
-          Analysts predict a further rise in transportation costs in the region,
-          with increased insurance premiums contributing to higher expenses. The
-          perceived risk may lead vessels to bypass the region, opting for
-          longer routes like circumnavigating the Horn of Africa. However, this
-          would elevate cargo costs, contributing to price increases during a
-          period when countries such as India and the United States are trying
-          to control inflation.
-        </p>
-        <p>
-          Sobel Network Shipping Co notes that ships sailing under the Bahamas
-          flag registry have been targets in various attacks. The Bahamas
-          delegation characterized the situation as a &quot;deliberate attack on
-          international shipping&quot; in a crucial region.
-        </p>
-        <p>
-          Fitch Ratings highlights that about 12% of global oil seaborne trade
-          in the first half of 2023 relied on total oil shipments via the Suez
-          Canal, the SUMED pipeline, and the Bab-el-Mandeb Strait. Attacks by
-          Houthi rebels have concentrated primarily in the narrow Bab-el-Mandeb
-          Strait. Some major shippers, including BP, Shell, and QatarEnergy,
-          have halted transit through the Suez Canal, rerouting around Africa,
-          temporarily tightening oil and gas markets. The alternative route,
-          taking about a fortnight longer, is not expected to have a significant
-          impact on prices.
         </p>
       </div>
     ),
