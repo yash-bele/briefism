@@ -125,7 +125,7 @@ export const breaking = [
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/breaking/jan-29-2024/fbi-reports-schools-witness-10-percent-of-us-hate-crimes(2).avif"
+            src="/breaking/jan-30-2024/fbi-reports-schools-witness-10-percent-of-us-hate-crimes(2).avif"
             alt="fbi-reports-schools-witness-10-percent-of-us-hate-crimes(2)"
             fill
             sizes="auto"
