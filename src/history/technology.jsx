@@ -1,5 +1,170 @@
 export const technologyHistory = [
   {
+    id: "swiggy-plans-to-terminate-400-workers-in-the-latest-round-of-layoffs",
+    timestamp: "Jan 26, 2024",
+    image: `/technology/jan-26-2024/swiggy-plans-to-terminate-400-workers-in-the-latest-round-of-layoffs.avif`,
+    title: `Swiggy Plans to Terminate 400 Workers in the Latest Round of Layoffs`,
+    preArticle: `Swiggy is reportedly on the verge of downsizing its workforce, aiming to cut around 400 employees, which accounts for approximately 6 percent of its total staff. This move comes as part of a strategic shift by the company and reflects a broader trend of major layoffs impacting technology firms globa`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Swiggy is reportedly on the verge of downsizing its workforce, aiming
+          to cut around 400 employees, which accounts for approximately 6
+          percent of its total staff. This move comes as part of a strategic
+          shift by the company and reflects a broader trend of major layoffs
+          impacting technology firms globally. Here is a comprehensive overview
+          of the situation:
+        </p>
+        <p>
+          Swiggy&apos;s decision to lay off nearly 400 employees marks the
+          second instance in the last 12 months, according to a report by Money
+          Control. The impact is expected to be felt across various teams,
+          including technology, call centers, and corporate roles. This
+          strategic move is reportedly geared towards optimizing the
+          company&apos;s operations and aligning its workforce with evolving
+          business priorities.
+        </p>
+        <p>
+          Reports suggest that the layoffs will be implemented gradually over
+          the next few weeks. This phased approach is aimed at facilitating a
+          smoother transition while minimizing disruption to ongoing operations.
+          However, details regarding whether severance pay would be provided to
+          the impacted employees remain undisclosed at this point.
+        </p>
+        <p>
+          Last year in January, Swiggy had undergone a similar process, laying
+          off around 380 employees. At that time, the reasons cited included a
+          slowdown in growth and overhiring. Interestingly, the current
+          downsizing comes at a juncture when Swiggy is aggressively expanding
+          its grocery delivery service, Swiggy Instamart. This shift suggests
+          that the company is strategically realigning its workforce to enhance
+          efficiency and better position itself in the competitive market.
+        </p>
+        <p>
+          While Swiggy has not officially confirmed the latest round of layoffs,
+          reports strongly indicate that the company is actively working on
+          optimizing costs. This move is seen as a strategic step to showcase
+          improved financials as Swiggy gears up for its Initial Public Offering
+          (IPO). Swiggy&apos;s focus on cost optimization is in line with the
+          broader trend of tech companies striving for financial robustness
+          before entering public markets.
+        </p>
+        <p>
+          The tech industry is witnessing a season of layoffs, and Swiggy&apos;s
+          move aligns with this trend. For instance, Microsoft has also
+          announced a fresh round of layoffs affecting its gaming divisions,
+          including Xbox and Blizzard. This indicates a collective industry-wide
+          effort to adapt to changing dynamics and optimize operations for
+          sustained growth.
+        </p>
+        <p>
+          In conclusion, Swiggy&apos;s decision to trim its workforce reflects a
+          dynamic business environment where companies are making strategic
+          adjustments to stay competitive. As the tech industry undergoes
+          transformations, optimizing operations and ensuring financial
+          stability become crucial factors, and Swiggy&apos;s move appears to be
+          in sync with these industry-wide imperatives.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "is-google-s-involvement-in-samsung-galaxy-s-24-ai-features-impacting-its-own-pixel-phones-negatively",
+    timestamp: "Jan 26, 2024",
+    image: `/technology/jan-26-2024/is-google-s-involvement-in-samsung-galaxy-s-24-ai-features-impacting-its-own-pixel-phones-negatively.jpg`,
+    title: `Is Google's involvement in Samsung Galaxy S24 AI features impacting its own Pixel phones negatively!`,
+    preArticle: `When the Samsung Galaxy S24 series was unveiled recently, it introduced advanced AI features, many of which were developed in collaboration with Google. While several of these features were exclusively launched with the Galaxy S24 series, some, such as live transcribe in the Recording app and object`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          When the Samsung Galaxy S24 series was unveiled recently, it
+          introduced advanced AI features, many of which were developed in
+          collaboration with Google. While several of these features were
+          exclusively launched with the Galaxy S24 series, some, such as live
+          transcribe in the Recording app and object remover in the Photos app,
+          were already available on Pixel phones.
+        </p>
+        <p>
+          In essence, Google collaborated with Samsung to bring certain features
+          to the Galaxy S24 phones that were initially exclusive to Google.
+          However, some features are entirely exclusive to Samsung phones, with
+          not even the Pixel 8 series having access to them. Notably, features
+          like Circle to Search, point and search with Google Lens, Live
+          Translate, Magic Compose, and Android Auto integration are the
+          outcomes of the partnership between Samsung and Google. The Samsung
+          Galaxy S24 series heavily relies on Gemini AI, Google&apos;s new
+          multimodal model system.
+        </p>
+        <p>
+          The Galaxy S24 series incorporates Google&apos;s latest Gemini AI
+          model, encompassing all three versions — Gemini Pro, Gemini Ultra, and
+          Gemini Nano — across various default applications on the smartphones.
+          Specifically, the utilization of Gemini Pro on the Galaxy S24 series
+          enhances interactions with Samsung apps, providing users with
+          summarization and translation features in apps like Samsung Notes,
+          Voice Recorder, and Keyboard. Additionally, Imagen 2 on the Galaxy S24
+          series allows users to access Generative Edit features within the
+          Samsung Gallery app.
+        </p>
+        <p>
+          While these features are undoubtedly beneficial for the Galaxy S24
+          series, it raises a question: Is Google, by collaborating with Samsung
+          to embed AI features in its phones, potentially undermining its own
+          Pixel phones?
+        </p>
+        <p>
+          To some extent, yes. However, it&apos;s crucial to recognize that for
+          Google, Pixels represent just a small component of its broader
+          strategy. Google is a multinational corporation first and foremost,
+          prioritizing profitability and the growth of its Android ecosystem.
+          The collaboration with Samsung aligns with Google&apos;s overarching
+          goal of expanding its Android ecosystem.
+        </p>
+        <p>
+          The deal with Samsung ensured that Gemini AI and Imagen 2 features,
+          while exclusive to the Galaxy S24 series, were accessible to a broader
+          audience. While keeping these features exclusive to Google Pixel could
+          have provided some bragging rights, they wouldn&apos;t have reached as
+          many users. Samsung also plans to roll out these features to the
+          previous year&apos;s S23 series soon.
+        </p>
+        <p>
+          For context, Samsung received over 250,000 pre-booking orders for the
+          Galaxy S24 Ultra in India alone, and in 2023, the Galaxy S23 Ultra
+          sold 11.63 million units. In comparison, Google sold a total of 10
+          million units of both Pixel 8 and Pixel 8 Pro phones in India
+          throughout the entire previous year.
+        </p>
+        <p>
+          Prabhu Ram, who leads the Industry Intelligence Group at CyberMedia
+          Research (CMR), provides insight into such deals between Samsung and
+          Google. He explains, “By strategically sharing its AI features with
+          other Android OEMs, such as Samsung, Google is casting a wider net ––
+          unlocking new lucrative revenue streams through potential partnerships
+          while also fueling the continuous refinement of its AI tech,
+          ultimately benefiting not just Pixel users but the entire Android
+          ecosystem.”
+        </p>
+        <p>
+          Deals like these are not uncommon, as evidenced by recent revelations
+          during Epic Games&apos; testimony that Google committed to paying
+          Samsung $8 billion over four years. This financial arrangement aimed
+          to establish Google Search, Google Assistant, and Play Store as
+          default options on Samsung&apos;s mobile devices, similar to how
+          Google pays Apple for the default search engine on iPhones.
+        </p>
+        <p>
+          In essence, the exposure of products like Gemini AI and Imagen 2
+          expands significantly when they debut in devices like Samsung Galaxy
+          flagship phones. While Google may have foregone exclusive features on
+          the Pixel 8 series, the collaboration likely brought in substantial
+          revenue, and a broader user base will contribute to enhancing its AI
+          tools.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "major-workforce-reduction-at-microsoft",
     timestamp: "Jan 26, 2024",
     image: `/technology/jan-26-2024/major-workforce-reduction-at-microsoft.jpg`,

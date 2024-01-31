@@ -1,6 +1,200 @@
 import Image from "next/image";
 
 export const breaking = [
+  // jan-31-2024
+  {
+    id: "universal-music-group-to-withdraw-songs-from-tiktok-due-to-unsuccessful-negotiation",
+    timestamp: "Jan 31, 2024",
+    image: `/breaking/jan-31-2024/universal-music-group-to-withdraw-songs-from-tiktok-due-to-unsuccessful-negotiation.webp`,
+    title: `Universal Music Group to withdraw songs from TikTok due to unsuccessful negotiation`,
+    preArticle: `The music of notable artists such as Taylor Swift, Drake, and Olivia Rodrigo is set to vanish from TikTok by the end of Wednesday, unless a deal is struck with Universal Music Group (UMG). With an estimated 1.5 billion monthly users, TikTok plays a crucial role in the contemporary music ecosystem, a`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The music of notable artists such as Taylor Swift, Drake, and Olivia
+          Rodrigo is set to vanish from TikTok by the end of Wednesday, unless a
+          deal is struck with Universal Music Group (UMG). With an estimated 1.5
+          billion monthly users, TikTok plays a crucial role in the contemporary
+          music ecosystem, allowing users to incorporate songs from major record
+          label catalogs into their videos. However, UMG announced early
+          Wednesday that it would remove its tracks due to inadequate
+          compensation for artists and songwriters.
+        </p>
+        <div>
+          <blockquote class="twitter-tweet">
+            <p lang="zxx" dir="ltr">
+              <a href="https://t.co/8WNHLqIiyy">pic.twitter.com/8WNHLqIiyy</a>
+            </p>
+            &mdash; TikTokComms (@TikTokComms){" "}
+            <a href="https://twitter.com/TikTokComms/status/1752539546233843884?ref_src=twsrc%5Etfw">
+              January 31, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+        </div>
+        <p>
+          In a statement, UMG expressed dissatisfaction with TikTok&apos;s
+          proposed payment rate, citing it as a fraction of what other major
+          social platforms pay for similar content. Responding promptly, TikTok,
+          owned by the Chinese company Bytedance, criticized UMG for
+          prioritizing &quot;greed above the interests of artists and
+          songwriters.&quot;
+        </p>
+        <p>
+          UMG, a Dutch-American-owned entity, emphasized that TikTok contributes
+          only 1% to its advertising revenue, despite its artists dominating the
+          platform&apos;s popularity charts. Notably, UMG artists accounted for
+          eight out of ten of the most popular acts on TikTok in 2023, while
+          approximately 60% of TikTok videos feature music. UMG, part of the
+          &quot;Big Three&quot; global music companies, boasts licensed artists
+          such as The Beatles, Elton John, Bob Dylan, Ariana Grande, and more.
+        </p>
+        <p>
+          In an open letter titled &quot;Why We Must Call Time Out on
+          TikTok,&quot; UMG conveyed its concern that TikTok aims to establish a
+          music-centric business without adequately compensating for the music
+          it utilizes. The letter also highlighted UMG&apos;s worries about the
+          impact of artificial intelligence tools in TikTok videos on
+          intellectual property and raised issues regarding copyright
+          infringement, hate speech, bigotry, bullying, and harassment.
+        </p>
+        <p>
+          During negotiations, UMG claimed that TikTok attempted to coerce
+          acceptance of a deal worth less than the previous arrangement,
+          considerably below fair market value, and not reflective of
+          TikTok&apos;s exponential growth. UMG further alleged that TikTok
+          engaged in selective removal of music from certain developing artists
+          while retaining content from global stars with substantial audiences.
+        </p>
+        <p>
+          TikTok has not specifically addressed UMG&apos;s allegations but
+          accused the music company of creating a &quot;false narrative and
+          rhetoric.&quot; TikTok emphasized its ability to secure deals with
+          other major music labels and highlighted its partnership with Warner
+          Music Group last year. Defending its position, TikTok asserted that
+          UMG chose to walk away from a platform with well over a billion users,
+          serving as a free promotional and discovery tool for their talent.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "fbi-director-issues-warning-on-chinese-hackers-intent-on-causing-disruption-to-us-critical-infrastructure",
+    timestamp: "Jan 31, 2024",
+    image: `/breaking/jan-31-2024/fbi-director-issues-warning-on-chinese-hackers-intent-on-causing-disruption-to-us-critical-infrastructure.webp`,
+    title: `FBI Director Issues Warning on Chinese Hackers Intent on Causing Disruption to US Critical Infrastructure`,
+    preArticle: `Chinese government hackers are currently directing their efforts towards critical infrastructure in the United States, including water treatment plants, the electrical grid, and transportation systems, warns FBI Director Chris Wray. In a testimony before House lawmakers, Wray emphasizes the urgent n`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Chinese government hackers are currently directing their efforts
+          towards critical infrastructure in the United States, including water
+          treatment plants, the electrical grid, and transportation systems,
+          warns FBI Director Chris Wray. In a testimony before House lawmakers,
+          Wray emphasizes the urgent need for public attention to the cyber
+          threat posed by China, stating that it affects every American. He
+          underscores that China&apos;s hackers are strategically positioning
+          themselves within American infrastructure, with the potential to cause
+          real-world harm to citizens and communities when they decide to
+          strike.
+        </p>
+        <p>
+          This warning aligns with assessments from cybersecurity firms like
+          Microsoft, which reported in May that state-backed Chinese hackers
+          were actively targeting US critical infrastructure. These hackers,
+          according to Microsoft, might be laying the groundwork for disrupting
+          crucial communications between the US and Asia during future crises.
+          Additionally, Mandiant disclosed in the following month that suspected
+          state-backed Chinese hackers exploited a security vulnerability in a
+          widely used email security appliance to breach the networks of
+          numerous public and private sector organizations globally.
+        </p>
+        <p>
+          Wray&apos;s concerns extend beyond cybersecurity threats to encompass
+          the Chinese government&apos;s persistent attempts to steal scientific
+          and industrial research from American businesses. Despite China
+          dismissing these accusations as baseless, numerous criminal
+          indictments have provided detailed evidence of their hacking
+          activities.
+        </p>
+        <p>
+          Highlighting the severity of the situation, Wray emphasizes that China
+          is actively targeting economic security, engaging in large-scale theft
+          of innovation, and compromising personal and corporate data on a daily
+          basis. The House Select Committee on the Chinese Communist Party,
+          chaired by Republican Rep. Mike Gallagher of Wisconsin, was
+          established to counter China and address its growing influence. The
+          committee has faced criticism from the Chinese government, which has
+          accused its members of harboring ideological bias and adopting a Cold
+          War mentality.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "billionaire-sultan-ibrahim-of-johor-takes-oath-as-malaysias-new-king",
+    timestamp: "Jan 31, 2024",
+    image: `/breaking/jan-31-2024/billionaire-sultan-ibrahim-of-johor-takes-oath-as-malaysias-new-king.jpg`,
+    title: `Billionaire Sultan Ibrahim of Johor takes oath as Malaysia's new king`,
+    preArticle: `Billionaire Sultan Ibrahim officially assumed the role of Malaysia's new king on Wednesday during a ceremony held at the national palace in Kuala Lumpur. In the presence of fellow royal families, Prime Minister Anwar Ibrahim, and Cabinet members, he signed the instrument of the proclamation of offic`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Billionaire Sultan Ibrahim officially assumed the role of
+          Malaysia&apos;s new king on Wednesday during a ceremony held at the
+          national palace in Kuala Lumpur. In the presence of fellow royal
+          families, Prime Minister Anwar Ibrahim, and Cabinet members, he signed
+          the instrument of the proclamation of office. The formal coronation
+          ceremony for the 65-year-old Sultan from the historic state of Johor,
+          with a lineage dating back to the 16th century, is scheduled for a
+          later date.
+        </p>
+        <p>
+          In Malaysia&apos;s distinctive rotational monarchy system, the heads
+          of the country&apos;s nine royal families take turns serving as the
+          King, known as the &quot;Yang di-Pertuan Agong&quot; (He Who is Made
+          Lord), with each term lasting five years.
+        </p>
+        <p>
+          Sultan Ibrahim, recognized for his outspokenness, has frequently
+          expressed opinions on Malaysia&apos;s political matters and asserted a
+          positive relationship with the current prime minister. In an interview
+          with the Singapore Straits Times, he emphasized a commitment to
+          actively address corruption and promote unity during his tenure,
+          declaring his intention not to be a mere &quot;puppet king.&quot;
+        </p>
+        <p>
+          As one of the nation&apos;s wealthiest individuals, Sultan Ibrahim
+          possesses a vast collection of luxury vehicles and motorcycles, along
+          with diverse business interests spanning real estate to a stake in the
+          $100-billion China-backed Forest City project off Johor&apos;s coast.
+          His family&apos;s private jet fleet, including three Gulfstreams and a
+          gold-and-blue Boeing 737, highlights the extent of his wealth, as
+          reported by Bloomberg.
+        </p>
+        <p>
+          The sultan has advocated for the creation of a special economic zone
+          between Johor and neighboring Singapore to strengthen ties.
+          Additionally, he expressed plans to revive a stalled high-speed rail
+          project between Malaysia and Singapore. Notably, Johor is the sole
+          sultanate permitted to maintain its private army, a historical
+          agreement dating back to its entry into the Federation of Malaya
+          before Malaysia gained independence in 1957.
+        </p>
+        <p>
+          Maintaining close ties with Singapore&apos;s leadership and having
+          business collaborations with major Chinese property developers, Sultan
+          Ibrahim is positioned to wield more influence over both domestic and
+          foreign policy than any previous Malaysian monarch, according to a
+          Bloomberg report.
+        </p>
+      </div>
+    ),
+  },
   // jan-30-2024
   {
     id: "luxury-vehicles-including-ferraris-and-porsches-seized-41-individuals-charged-for-unlawful-rally",
@@ -218,161 +412,6 @@ export const breaking = [
           choosing,&quot; as stated in his White House-released statement.
           (Reporting by Kanishka Singh and Phil Stewart in Washington Editing by
           Heather Timmons and Matthew Lewis)
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "parliamentary-session-in-maldives-disrupted-by-physical-altercation-among-mps",
-    timestamp: "Jan 29, 2024",
-    image: `/breaking/jan-29-2024/parliamentary-session-in-maldives-disrupted-by-physical-altercation-among-mps.webp`,
-    title: `Parliamentary Session in Maldives Disrupted by Physical Altercation Among MPs`,
-    preArticle: `Parliamentary proceedings in the Maldives ground to a halt on Sunday as a physical altercation erupted among members. Videos captured the clash between Maldivian Democratic Party (MDP) MP Isa and Peoples’ National Congress (PNC) MP Abdullah Shaheem Abdul Hakeem. Footage from the online news outlet A`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Parliamentary proceedings in the Maldives ground to a halt on Sunday
-          as a physical altercation erupted among members. Videos captured the
-          clash between Maldivian Democratic Party (MDP) MP Isa and Peoples’
-          National Congress (PNC) MP Abdullah Shaheem Abdul Hakeem. Footage from
-          the online news outlet Adhadhu depicted Shaheem grabbing Isa&apos;s
-          leg, resulting in both members falling. Isa was seen kicking
-          Shaheem&apos;s neck and pulling his hair in the scuffle, while other
-          members intervened to push Shaheem out of the area. Local media
-          reported that an injured parliament member was taken to an ambulance.
-        </p>
-        <div>
-          <blockquote className="twitter-tweet">
-            <p lang="en" dir="ltr">
-              *Viewer discretion advised* <br />
-              <br />
-              Parliament proceedings have been disrupted after clashes between
-              PPM/PNC MPs and opposition MPs.{" "}
-              <a href="https://t.co/vhvfCBgQ1s">pic.twitter.com/vhvfCBgQ1s</a>
-            </p>
-            &mdash; Adhadhu (@AdhadhuMV){" "}
-            <a href="https://twitter.com/AdhadhuMV/status/1751555656862327013?ref_src=twsrc%5Etfw">
-              January 28, 2024
-            </a>
-          </blockquote>{" "}
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-        </div>
-        <p>
-          The incident occurred on a significant day when a crucial vote on
-          parliamentary approval for the Muizzu government was slated to take
-          place. Reports indicated that several members of the ruling party
-          barricaded the House, leading to disruptions in the session.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio",
-    timestamp: "Jan 29, 2024",
-    image: `/breaking/jan-29-2024/environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio.jpeg`,
-    title: `Environmental Authorities Addressing Cleanup of Fuel Following Fiery Tanker Truck Collision in Ohio`,
-    preArticle: `Environmental officials in Ohio returned to the site of a devastating tanker truck crash on Sunday, aiming to manage the aftermath of a significant diesel fuel spill resulting from the incident. The crash, which occurred on Saturday morning and tragically claimed the life of the driver, involved a `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Environmental officials in Ohio returned to the site of a devastating
-          tanker truck crash on Sunday, aiming to manage the aftermath of a
-          significant diesel fuel spill resulting from the incident.
-        </p>
-        <p>
-          The crash, which occurred on Saturday morning and tragically claimed
-          the life of the driver, involved a tanker carrying approximately 7,500
-          gallons (28,390 liters) of diesel, as reported by the Ohio
-          Environmental Protection Agency. Following the accident, a nearby
-          creek briefly ignited, prompting swift action from the agency to
-          contain the fuel spread.
-        </p>
-        <p>
-          To address the environmental impact, response crews are set to
-          excavate affected soil, according to the state EPA. Officials will
-          maintain a presence at the scene to ensure comprehensive measures are
-          taken to safeguard the well-being of residents and protect waterways,
-          the agency stated in a press release.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/breaking/jan-29-2024/environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio(2).webp"
-            alt="environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The incident unfolded around 9:15 am on Saturday, with the Summit
-          County Sheriff’s Office and Macedonia Police Department responding to
-          the scene at the ramp to Interstate 271 north in Northfield Center
-          Township. The tanker, traveling northbound on State Route 8, attempted
-          to access Interstate 271 north when the driver lost control, leading
-          the vehicle to go over the bridge&apos;s side, according to the
-          sheriff’s office.
-        </p>
-        <p>
-          The truck ultimately landed on the northbound lanes of State Route 8,
-          triggering a fiery explosion. Fire departments that rushed to the
-          scene discovered that the tanker driver had succumbed to injuries
-          sustained in the crash.
-        </p>
-        <p>
-          The severity of the accident necessitated the closure of several
-          roads, and an investigation into the crash is currently underway.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan",
-    timestamp: "Jan 29, 2024",
-    image: `/breaking/jan-29-2024/33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan.jpg`,
-    title: `33 Individuals Perish in Distinct Traffic Accidents in Eastern Afghanistan`,
-    preArticle: `In eastern Afghanistan, separate traffic incidents have resulted in the tragic death of at least 33 individuals, with 16 others sustaining injuries, as confirmed by authorities on Sunday. The Sorabi district of Kabul province, situated on the primary highway connecting Kabul to the eastern Nangarha`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In eastern Afghanistan, separate traffic incidents have resulted in
-          the tragic death of at least 33 individuals, with 16 others sustaining
-          injuries, as confirmed by authorities on Sunday.
-        </p>
-        <p>
-          The Sorabi district of Kabul province, situated on the primary highway
-          connecting Kabul to the eastern Nangarhar province, witnessed ten
-          collisions. These accidents claimed the lives of 17 people, including
-          two children and four women, as reported by Khalid Zadran, the
-          spokesperson for the Kabul police chief. Ten individuals sustained
-          injuries in these crashes and were subsequently hospitalized for
-          treatment.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/breaking/jan-29-2024/33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan(2).webp"
-            alt="33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Simultaneously, four additional collisions occurred in the eastern
-          Laghman province, near the conclusion of the same highway between
-          Kabul and Nangarhar, resulting in the death of 15 people, according to
-          a statement from the Laghman police chief. In other parts of Laghman
-          province, one person lost their life, and six others were injured. The
-          injured individuals were promptly transferred to nearby hospitals for
-          necessary medical attention.
-        </p>
-        <p>
-          The prevalence of traffic accidents in Afghanistan is a recurrent
-          issue, primarily attributed to substandard road conditions and the
-          negligence of drivers on highways.
         </p>
       </div>
     ),

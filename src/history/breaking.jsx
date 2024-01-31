@@ -2,6 +2,161 @@ import Image from "next/image";
 
 export const breakingHistory = [
   {
+    id: "parliamentary-session-in-maldives-disrupted-by-physical-altercation-among-mps",
+    timestamp: "Jan 29, 2024",
+    image: `/breaking/jan-29-2024/parliamentary-session-in-maldives-disrupted-by-physical-altercation-among-mps.webp`,
+    title: `Parliamentary Session in Maldives Disrupted by Physical Altercation Among MPs`,
+    preArticle: `Parliamentary proceedings in the Maldives ground to a halt on Sunday as a physical altercation erupted among members. Videos captured the clash between Maldivian Democratic Party (MDP) MP Isa and Peoples’ National Congress (PNC) MP Abdullah Shaheem Abdul Hakeem. Footage from the online news outlet A`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Parliamentary proceedings in the Maldives ground to a halt on Sunday
+          as a physical altercation erupted among members. Videos captured the
+          clash between Maldivian Democratic Party (MDP) MP Isa and Peoples’
+          National Congress (PNC) MP Abdullah Shaheem Abdul Hakeem. Footage from
+          the online news outlet Adhadhu depicted Shaheem grabbing Isa&apos;s
+          leg, resulting in both members falling. Isa was seen kicking
+          Shaheem&apos;s neck and pulling his hair in the scuffle, while other
+          members intervened to push Shaheem out of the area. Local media
+          reported that an injured parliament member was taken to an ambulance.
+        </p>
+        <div>
+          <blockquote className="twitter-tweet">
+            <p lang="en" dir="ltr">
+              *Viewer discretion advised* <br />
+              <br />
+              Parliament proceedings have been disrupted after clashes between
+              PPM/PNC MPs and opposition MPs.{" "}
+              <a href="https://t.co/vhvfCBgQ1s">pic.twitter.com/vhvfCBgQ1s</a>
+            </p>
+            &mdash; Adhadhu (@AdhadhuMV){" "}
+            <a href="https://twitter.com/AdhadhuMV/status/1751555656862327013?ref_src=twsrc%5Etfw">
+              January 28, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+        </div>
+        <p>
+          The incident occurred on a significant day when a crucial vote on
+          parliamentary approval for the Muizzu government was slated to take
+          place. Reports indicated that several members of the ruling party
+          barricaded the House, leading to disruptions in the session.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio",
+    timestamp: "Jan 29, 2024",
+    image: `/breaking/jan-29-2024/environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio.jpeg`,
+    title: `Environmental Authorities Addressing Cleanup of Fuel Following Fiery Tanker Truck Collision in Ohio`,
+    preArticle: `Environmental officials in Ohio returned to the site of a devastating tanker truck crash on Sunday, aiming to manage the aftermath of a significant diesel fuel spill resulting from the incident. The crash, which occurred on Saturday morning and tragically claimed the life of the driver, involved a `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Environmental officials in Ohio returned to the site of a devastating
+          tanker truck crash on Sunday, aiming to manage the aftermath of a
+          significant diesel fuel spill resulting from the incident.
+        </p>
+        <p>
+          The crash, which occurred on Saturday morning and tragically claimed
+          the life of the driver, involved a tanker carrying approximately 7,500
+          gallons (28,390 liters) of diesel, as reported by the Ohio
+          Environmental Protection Agency. Following the accident, a nearby
+          creek briefly ignited, prompting swift action from the agency to
+          contain the fuel spread.
+        </p>
+        <p>
+          To address the environmental impact, response crews are set to
+          excavate affected soil, according to the state EPA. Officials will
+          maintain a presence at the scene to ensure comprehensive measures are
+          taken to safeguard the well-being of residents and protect waterways,
+          the agency stated in a press release.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/breaking/jan-29-2024/environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio(2).webp"
+            alt="environmental-authorities-addressing-cleanup-of-fuel-following-fiery-tanker-truck-collision-in-ohio(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The incident unfolded around 9:15 am on Saturday, with the Summit
+          County Sheriff’s Office and Macedonia Police Department responding to
+          the scene at the ramp to Interstate 271 north in Northfield Center
+          Township. The tanker, traveling northbound on State Route 8, attempted
+          to access Interstate 271 north when the driver lost control, leading
+          the vehicle to go over the bridge&apos;s side, according to the
+          sheriff’s office.
+        </p>
+        <p>
+          The truck ultimately landed on the northbound lanes of State Route 8,
+          triggering a fiery explosion. Fire departments that rushed to the
+          scene discovered that the tanker driver had succumbed to injuries
+          sustained in the crash.
+        </p>
+        <p>
+          The severity of the accident necessitated the closure of several
+          roads, and an investigation into the crash is currently underway.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan",
+    timestamp: "Jan 29, 2024",
+    image: `/breaking/jan-29-2024/33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan.jpg`,
+    title: `33 Individuals Perish in Distinct Traffic Accidents in Eastern Afghanistan`,
+    preArticle: `In eastern Afghanistan, separate traffic incidents have resulted in the tragic death of at least 33 individuals, with 16 others sustaining injuries, as confirmed by authorities on Sunday. The Sorabi district of Kabul province, situated on the primary highway connecting Kabul to the eastern Nangarha`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In eastern Afghanistan, separate traffic incidents have resulted in
+          the tragic death of at least 33 individuals, with 16 others sustaining
+          injuries, as confirmed by authorities on Sunday.
+        </p>
+        <p>
+          The Sorabi district of Kabul province, situated on the primary highway
+          connecting Kabul to the eastern Nangarhar province, witnessed ten
+          collisions. These accidents claimed the lives of 17 people, including
+          two children and four women, as reported by Khalid Zadran, the
+          spokesperson for the Kabul police chief. Ten individuals sustained
+          injuries in these crashes and were subsequently hospitalized for
+          treatment.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/breaking/jan-29-2024/33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan(2).webp"
+            alt="33-individuals-perish-in-distinct-traffic-accidents-in-eastern-afghanistan(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Simultaneously, four additional collisions occurred in the eastern
+          Laghman province, near the conclusion of the same highway between
+          Kabul and Nangarhar, resulting in the death of 15 people, according to
+          a statement from the Laghman police chief. In other parts of Laghman
+          province, one person lost their life, and six others were injured. The
+          injured individuals were promptly transferred to nearby hospitals for
+          necessary medical attention.
+        </p>
+        <p>
+          The prevalence of traffic accidents in Afghanistan is a recurrent
+          issue, primarily attributed to substandard road conditions and the
+          negligence of drivers on highways.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "biden-reiterates-commitment-to-immediately-close-border-if-congress-presents-agreement",
     timestamp: "Jan 29, 2024",
     image: `/breaking/jan-29-2024/biden-reiterates-commitment-to-immediately-close-border-if-congress-presents-agreement.jpg`,
