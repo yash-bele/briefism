@@ -8,9 +8,8 @@ const navLinks = [
   "lifestyle",
   "technology",
 ];
-const { breaking, entertainment, health, lifestyle, technology } = data;
+const { entertainment, health, lifestyle, technology } = data;
 const {
-  breakingHistory,
   entertainmentHistory,
   healthHistory,
   lifestyleHistory,
@@ -27,24 +26,20 @@ export default function sitemap() {
       url: `${baseUrl}/${i}`,
     })),
 
-    ...[...breaking, ...breakingHistory].map((i) => ({
-      url: `${baseUrl}/breaking/${i.id}`,
-    })),
-
     ...[...entertainment, ...entertainmentHistory].map((i) => ({
       url: `${baseUrl}/entertainment/${i.id}`,
     })),
 
-    ...[...health, ...healthHistory].map((i) => ({
-      url: `${baseUrl}/health/${i.id}`,
+    ...[...technology, ...technologyHistory].map((i) => ({
+      url: `${baseUrl}/technology/${i.id}`,
     })),
 
     ...[...lifestyle, ...lifestyleHistory].map((i) => ({
       url: `${baseUrl}/lifestyle/${i.id}`,
     })),
 
-    ...[...technology, ...technologyHistory].map((i) => ({
-      url: `${baseUrl}/technology/${i.id}`,
+    ...[...health, ...healthHistory].map((i) => ({
+      url: `${baseUrl}/health/${i.id}`,
     })),
   ];
 }

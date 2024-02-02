@@ -2,17 +2,17 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
-import { breaking } from "@/data/breaking";
+import { entertainment } from "@/data/entertainment";
 
-const BreakingNewsSlider = () => {
+const NewsSlider = () => {
   const [currIndex, setCurrIndex] = useState(0);
 
   const handleNext = () => {
-    if (currIndex === breaking.length - 1) return setCurrIndex(0);
+    if (currIndex === entertainment.length - 1) return setCurrIndex(0);
     setCurrIndex((prev) => prev + 1);
   };
   const handlePrev = () => {
-    if (currIndex === 0) return setCurrIndex(breaking.length - 1);
+    if (currIndex === 0) return setCurrIndex(entertainment.length - 1);
     setCurrIndex((prev) => prev - 1);
   };
 
@@ -31,8 +31,8 @@ const BreakingNewsSlider = () => {
           Breaking Briefs
         </span>
         <span className="text-sm ml-2.5">
-          <Link href={`/breaking/${breaking[currIndex].id}`}>
-            {breaking[currIndex].title}
+          <Link href={`/entertainment/${entertainment[currIndex].id}`}>
+            {entertainment[currIndex].title}
           </Link>
         </span>
       </section>
@@ -54,4 +54,4 @@ const BreakingNewsSlider = () => {
   );
 };
 
-export default BreakingNewsSlider;
+export default NewsSlider;

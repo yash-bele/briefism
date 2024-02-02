@@ -1,6 +1,6 @@
-import BreakingNewsSlider from "@/components/Home/BreakingNewsSlider";
+import NewsSlider from "@/components/Home/NewsSlider";
 import BannerGrid from "@/components/Home/BannerGrid";
-import Breaking from "@/components/Home/MainGrid/LeftGrid/Breaking";
+// import Breaking from "@/components/Home/MainGrid/LeftGrid/Breaking";
 import Entertainment from "@/components/Home/MainGrid/LeftGrid/Entertainment";
 import Technology from "@/components/Home/MainGrid/LeftGrid/Technology";
 import Health from "@/components/Home/MainGrid/RightGrid/Health";
@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <main>
       <div className="hidden sm:block">
-        <BreakingNewsSlider />
+        <NewsSlider />
       </div>
       <div className="mt-5">
         <BannerGrid />
@@ -19,7 +19,7 @@ const Home = () => {
         <main className="grid grid-cols-3">
           {/* Left Grid */}
           <section className="col-span-3 lg:col-span-2 space-y-10">
-            <Breaking />
+            {/* <Breaking /> */}
             <Entertainment />
             <Technology />
           </section>

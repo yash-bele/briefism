@@ -3,13 +3,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { CgMenuLeftAlt, CgClose } from "react-icons/cg";
-export const navLinks = [
-  "breaking",
-  "entertainment",
-  "health",
-  "lifestyle",
-  "technology",
-];
+export const navLinks = ["entertainment", "technology", "lifestyle", "health"];
 
 const Navbar = () => {
   const containerRef = useRef();
