@@ -1,4 +1,190 @@
 export const technologyHistory = [
+  // jan-27-2024
+  {
+    id: "fossil-withdraws-from-smartwatch-market-yielding-space-to-tech-giants",
+    timestamp: "Jan 27, 2024",
+    image: `/technology/jan-27-2024/fossil-withdraws-from-smartwatch-market-yielding-space-to-tech-giants.jpg`,
+    title: `Fossil withdraws from smartwatch market, yielding space to tech giants`,
+    preArticle: `Fossil Group, an American watchmaker, has decided to cease production of smartwatches, marking the end of its efforts to introduce stylish tech timepieces to the market. The company announced on Friday that its latest Gen 6 watch, utilizing Google's Wear OS software, will be its final foray into th`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Fossil Group, an American watchmaker, has decided to cease production
+          of smartwatches, marking the end of its efforts to introduce stylish
+          tech timepieces to the market.
+        </p>
+        <p>
+          The company announced on Friday that its latest Gen 6 watch, utilizing
+          Google&apos;s Wear OS software, will be its final foray into the
+          smartwatch category. Fossil&apos;s departure comes as the landscape
+          has shifted, with tech giants such as Google and Samsung dominating
+          with their own branded devices.
+        </p>
+        <p>
+          A spokesperson for the Texas-based firm stated, &quot;We have made the
+          strategic decision to exit the smartwatch business and redirect
+          resources to our core strengths.&quot;
+        </p>
+        <p>
+          Sub-brands under Fossil, including Michael Kors, Skagen, and Diesel,
+          will also discontinue their smartwatch lines. The company has
+          committed to providing support for existing models for a limited
+          period.
+        </p>
+        <p>
+          Fossil had been among the few traditional watchmakers attempting to
+          adapt to the emerging smartwatch trend over the past decade, despite
+          the neglect of the struggling Wear OS platform by major players.
+          However, the category gained traction in 2021 when Google and Samsung
+          collaborated on a significant software update.
+        </p>
+        <p>
+          Industry analysts suggest that Fossil struggled to compete with the
+          marketing power and resources of tech giants. The lack of a new
+          smartwatch model since 2021 signaled the company&apos;s gradual
+          withdrawal.
+        </p>
+        <p>
+          Fossil was known for its focus on fashionable design in the smartwatch
+          space. With its departure, there is an opportunity for other players
+          to step in and offer sleek, designer tech watches.
+        </p>
+        <p>
+          In the meantime, Fossil intends to focus on its traditional watches,
+          jewelry, and leather goods. Despite the mainstream popularity of
+          smartwatches, traditional timepieces still constitute the majority of
+          Fossil&apos;s business.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "just-one-injection-enables-five-deaf-children-to-hear-for-the-first-time",
+    timestamp: "Jan 27, 2024",
+    image: `/technology/jan-27-2024/just-one-injection-enables-five-deaf-children-to-hear-for-the-first-time.jpg`,
+    title: `Just one injection enables five deaf children to hear for the first time`,
+    preArticle: `Six children who were born deaf have regained their hearing after undergoing an experimental treatment involving an injection directly into the ear. The treatment, developed by researchers from Fudan University in China and co-led by scientists from Harvard Medical School at Massachusetts Eye and Ea`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Six children who were born deaf have regained their hearing after
+          undergoing an experimental treatment involving an injection directly
+          into the ear. The treatment, developed by researchers from Fudan
+          University in China and co-led by scientists from Harvard Medical
+          School at Massachusetts Eye and Ear, targeted a specific genetic
+          mutation responsible for inherited deafness.
+        </p>
+        <p>
+          The children, aged one to seven, all had a mutation in the OTOF gene,
+          which affects the production of a protein crucial for transmitting
+          signals from the ear to the brain. Over the 26-week trial period, five
+          of the six children showed significant improvement in hearing, with
+          four experiencing robust outcomes. The results, published in the
+          journal Lancet, also revealed enhancements in speech perception among
+          the responsive participants.
+        </p>
+        <p>
+          This breakthrough offers hope for treating various genetic forms of
+          deafness and underscores the potential of gene therapy in addressing
+          congenital hearing impairments. The targeted gene, OTOF, encodes the
+          otoferlin protein, vital for relaying auditory signals from cochlear
+          cells to nerves in the inner ear. By delivering a modified version of
+          the gene using a viral vector, researchers successfully restored
+          otoferlin production in the cochlea.
+        </p>
+        <p>
+          Despite facing initial challenges due to the gene&apos;s size, the
+          team devised a solution by splitting the gene into two parts and
+          delivering them separately. The injected viral mixture reached the
+          target cells in the inner ear fluid, prompting the assembly of the
+          complete protein. Within four to six weeks of treatment, participants
+          began showing signs of hearing improvement.
+        </p>
+        <p>
+          The success of this approach, particularly in patients with cochlear
+          implants, highlights its potential to complement existing hearing
+          restoration methods. Notably, the therapy enabled older children with
+          implants to understand and respond to speech without assistance, even
+          in noisy environments. While the youngest participants exhibited
+          positive trends, further evaluation is needed to gauge their long-term
+          outcomes.
+        </p>
+        <p>
+          However, one participant did not respond to the treatment, possibly
+          due to an immune response to the viral vector. Despite this setback,
+          the promising results underscore the significance of targeted gene
+          therapy in addressing genetic deafness, offering renewed hope for
+          individuals with congenital hearing loss worldwide.
+        </p>
+      </div>
+    ),
+  },
+  // jan-26-2024
+  {
+    id: "google-introduces-pixel-8-and-pixel-8-pro-in-a-fresh-mint-hue",
+    timestamp: "Jan 26, 2024",
+    image: `/technology/jan-26-2024/google-introduces-pixel-8-and-pixel-8-pro-in-a-fresh-mint-hue.jpg`,
+    title: `Google introduces Pixel 8 and Pixel 8 Pro in a fresh mint hue`,
+    preArticle: `Google has unveiled the Pixel 8 and Pixel 8 Pro in a stylish new mint green color, a departure from the conventional black, hazel, and rose gold choices. While the vibrant "bay" blue 8 Pro option is more vivid, the mint green hue adds a refreshing touch to the regular Pixel 8 lineup. This new color `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Google has unveiled the Pixel 8 and Pixel 8 Pro in a stylish new mint
+          green color, a departure from the conventional black, hazel, and rose
+          gold choices. While the vibrant &quot;bay&quot; blue 8 Pro option is
+          more vivid, the mint green hue adds a refreshing touch to the regular
+          Pixel 8 lineup. This new color option, exclusively available with the
+          base 128GB storage for both models, gives Pixel enthusiasts a chance
+          to step away from the conventional color choices that have been
+          prevalent since the phone&apos;s release in October.
+        </p>
+        <p>
+          Described as &quot;inspired by the vibrant hue found in nature&quot;
+          and touted as a &quot;luminous color that invites the mind into a
+          state of energizing calmness,&quot; mint is Google&apos;s bold attempt
+          to infuse a sense of daring, focus, and optimism into the new year.
+          The promotional materials suggest it&apos;s a color for those aiming
+          for a &quot;fresher version of you.&quot; The Pixel 8 and Pixel 8 Pro,
+          equipped with Google&apos;s latest Tensor G3 chipset, promise
+          efficient and fast performance. Paired with UFS 4.0 storage, users can
+          access their files swiftly.
+        </p>
+        <p>
+          In terms of photography, the Pixel 8 features a 50-megapixel main
+          camera with advanced Octa-PD technology for excellent low-light
+          performance. It also boasts an 8x Super-Res digital zoom for capturing
+          distant subjects, along with a 12-megapixel sensor for detailed
+          close-up shots. For selfies and video calls, the front camera is a
+          10.5-megapixel shooter. The Pixel 8 houses a 4,575mAh battery,
+          ensuring a full day&apos;s usage, and supports 27W fast wired charging
+          and 18W wireless charging.
+        </p>
+        <p>
+          On the other hand, the Pixel 8 Pro offers a 6.7-inch QHD+ OLED display
+          with Gorilla Glass Victus 2 for added durability. It features a
+          10.5-megapixel selfie camera and a powerful trio of rear cameras,
+          including a 50-megapixel main camera, a new 48-megapixel ultrawide
+          sensor, and a 48-megapixel 5x zoom camera. The design of the Pixel 8
+          Pro combines glass and metal, reminiscent of the previous Pixel 7 Pro.
+        </p>
+        <p>
+          Under the hood, the Pixel 8 Pro runs on the Google Tensor G3 chip and
+          packs a 5,050mAh battery. It supports 30W wired charging and 23W
+          wireless charging. Notable features include a Titan security chip for
+          enhanced security, 12GB of RAM, and 256GB of storage. The phone also
+          includes a temperature monitoring sensor and an ultrasonic in-display
+          fingerprint scanner.
+        </p>
+        <p>
+          A unique addition to the Pixel 8 Pro is the Melexis MLX90632 skin
+          temperature sensor, positioned near the cameras. Dedicated solely to
+          accurate temperature readings and not enhancing photography, this
+          feature could have various practical applications beyond traditional
+          smartphone functions.
+        </p>
+      </div>
+    ),
+  },
   {
     id: "swiggy-plans-to-terminate-400-workers-in-the-latest-round-of-layoffs",
     timestamp: "Jan 26, 2024",

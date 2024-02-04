@@ -171,7 +171,7 @@ export const entertainment = [
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/breaking/feb-02-2024/spouse-of-killers-of-flower-moon-producer-an-oscar-nominee-takes-own-life-in-hotel-plunge(2).jpg"
+            src="/entertainment/feb-02-2024/spouse-of-killers-of-flower-moon-producer-an-oscar-nominee-takes-own-life-in-hotel-plunge(2).jpg"
             alt="spouse-of-killers-of-flower-moon-producer-an-oscar-nominee-takes-own-life-in-hotel-plunge(2)"
             fill
             sizes="auto"
@@ -312,7 +312,7 @@ export const entertainment = [
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/breaking/jan-29-2024/seth-macfarlane-creator-of-family-guy-affirms-shows-endurance-for-the-foreseeable-future(2).webp"
+            src="/entertainment/jan-29-2024/seth-macfarlane-creator-of-family-guy-affirms-shows-endurance-for-the-foreseeable-future(2).webp"
             alt="seth-macfarlane-creator-of-family-guy-affirms-shows-endurance-for-the-foreseeable-future(2)"
             fill
             sizes="auto"

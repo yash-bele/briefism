@@ -1,6 +1,193 @@
 import Image from "next/image";
 
 export const technology = [
+  // feb-04-2024
+  {
+    id: "google-chief-scientist-jeff-dean-asserts-that-india-is-strategically-positioned-for-advancements-in-artificial-intelligence",
+    timestamp: "Feb 04, 2024",
+    image: `/technology/feb-04-2024/google-chief-scientist-jeff-dean-asserts-that-india-is-strategically-positioned-for-advancements-in-artificial-intelligence.avif`,
+    title: `Google Chief Scientist Jeff Dean asserts that India is strategically positioned for advancements in artificial intelligence`,
+    preArticle: `During a recent event titled 'Leaders Connect With Jeff Dean,' Google's Chief Scientist, Jeff Dean, shared insights into the company's use of artificial intelligence (AI) since 2001. The discussion, also featuring Pramod Varma, Chief Architect of Aadhaar, delved into various aspects of AI, including`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          During a recent event titled &apos;Leaders Connect With Jeff
+          Dean,&apos; Google&apos;s Chief Scientist, Jeff Dean, shared insights
+          into the company&apos;s use of artificial intelligence (AI) since
+          2001. The discussion, also featuring Pramod Varma, Chief Architect of
+          Aadhaar, delved into various aspects of AI, including its potential,
+          accessibility, policy implications, reskilling, and interdisciplinary
+          collaboration.
+        </p>
+        <p>
+          Jeff Dean recalled the inception of AI integration in Google products,
+          dating back to 2001, when a colleague developed a groundbreaking
+          spelling correction method. Moving forward, he discussed the
+          exploration of large-scale neural networks around 2012, aiming to
+          leverage their capabilities in tasks such as speech recognition,
+          computer vision, and language-oriented challenges.
+        </p>
+        <p>
+          Dean&apos;s interest in neural networks traces back to his
+          undergraduate days in the 1990s, fueled by the excitement surrounding
+          training large models with increased computing power. He highlighted
+          the period from 2009 to 2012 as pivotal, witnessing promising results
+          in areas like speech recognition through neural networks.
+        </p>
+        <p>
+          Regarding India&apos;s potential in AI, Dean expressed optimism due to
+          the nation&apos;s strong culture of valuing engineering and science.
+          He commended India&apos;s thriving environment, emphasizing the
+          respect for engineers and scientists, predicting a surge in AI
+          pursuits among students. Dean encouraged the integration of machine
+          learning and AI into software engineering curricula, recognizing the
+          transformational impact on workflows. Stressing the importance of
+          practical experience with AI tools for developers, he advocated
+          knowledge-sharing to foster community upskilling.
+        </p>
+        <p>
+          Pramod Varma provided insights into India&apos;s unique approach to
+          AI, emphasizing augmentation rather than replacement. He contrasted
+          this with the predominant Western focus on AI as a replacement tool,
+          particularly in discussions about automating human tasks. Varma
+          highlighted India&apos;s goal of enhancing productivity, efficiency,
+          and affordability to benefit its vast population. He underscored the
+          need to democratize access to AI tools, computing, and expertise,
+          aligning with India&apos;s digital public infrastructure (DPI) efforts
+          to bridge digital divides.
+        </p>
+        <p>
+          Varma advocated for a regulatory approach that prioritizes the quality
+          of services over stringent scrutiny of AI companies or technologies.
+          He emphasized the importance of democratising access to foster a
+          balanced policy discourse on managing societal impacts. Varma outlined
+          an India-centric model for inclusive development through open and
+          responsible AI, focusing on principles such as accessibility, open
+          innovation, and balanced governance. His perspective highlighted the
+          potential of AI in addressing India&apos;s diverse challenges in areas
+          like voice, language, health, and education, contributing to the
+          nation&apos;s overall progress.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation",
+    timestamp: "Feb 04, 2024",
+    image: `/technology/feb-04-2024/drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation.webp`,
+    title: `Drop resilience of Apple's $3,500 Vision Pro headset is currently under evaluation`,
+    preArticle: `Apple's recently launched Vision Pro headset is undergoing rigorous testing, revealing a surprising level of durability. Sam Kohl from AppleTrack, a tech YouTube channel, subjected the futuristic wearable to various forms of abuse, including intentional drops, collisions with walls, and bumps. The `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Apple&apos;s recently launched Vision Pro headset is undergoing
+          rigorous testing, revealing a surprising level of durability. Sam Kohl
+          from AppleTrack, a tech YouTube channel, subjected the futuristic
+          wearable to various forms of abuse, including intentional drops,
+          collisions with walls, and bumps.
+        </p>
+        <p>
+          The Vision Pro&apos;s glass demonstrated remarkable resilience to
+          everyday wear and tear, surviving intentional impacts against walls
+          with only minor scuffs and no shattering. The front panel proved
+          exceptionally sturdy, withstanding multiple drops from considerable
+          heights. Even with the headset&apos;s weight of 600 to 650 grams, it
+          took eight high falls to eventually cause the front glass to splinter.
+          Notably, the twin internal and external screens continued to function
+          properly despite the damaged cover.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-04-2024/drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation(2).webp"
+            alt="drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          However, the peripheral speakers faced challenges during the
+          durability tests. One speaker ceased to function after several impacts
+          against the wall, and the connections to the headband eventually
+          broke, leading to a loss of power. The lightweight magnetic light
+          seals also tended to detach easily upon impact.
+        </p>
+        <p>
+          Despite these issues, the overall durability of the Vision Pro
+          impressed, showcasing resilience to reasonable mishaps. It should be
+          noted that while the front glass demonstrated strength, repairing a
+          damaged screen comes with a significant cost. Without AppleCare, the
+          repair is priced at $799, and with the protection plan, it is $299.
+          For other damages, Apple quotes up to $2,399, emphasizing the
+          importance of handling the headset with care to avoid potential repair
+          expenses.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease",
+    timestamp: "Feb 04, 2024",
+    image: `/technology/feb-04-2024/researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease.png`,
+    title: `Researchers suggest a novel approach for addressing memory problems induced by Alzheimer's disease`,
+    preArticle: `A groundbreaking study proposes an innovative strategy to address the memory issues associated with Alzheimer's and related dementia, diverging from the conventional focus on reducing toxic proteins. Published in The Journal of Clinical Investigation by researchers at the Buck Institute for Research`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          A groundbreaking study proposes an innovative strategy to address the
+          memory issues associated with Alzheimer&apos;s and related dementia,
+          diverging from the conventional focus on reducing toxic proteins.
+          Published in The Journal of Clinical Investigation by researchers at
+          the Buck Institute for Research on Aging, the study explores the
+          potential of targeting the protein KIBRA, primarily found in the
+          kidneys and brain.
+        </p>
+        <p>
+          Contrary to prevailing research, which aims to diminish toxic proteins
+          in the brain, the team, led by senior author Tara Tracy, Assistant
+          Professor at Buck, concentrates on reversing the damage caused by
+          Alzheimer&apos;s. KIBRA, predominantly located at synapses in the
+          human brain, plays a crucial role in memory formation and recall. The
+          study reveals that Alzheimer&apos;s brains exhibit a deficiency in
+          KIBRA, prompting the researchers to investigate its impact on synaptic
+          signaling.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-04-2024/researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease(2).webp"
+            alt="researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Measuring KIBRA levels in human cerebrospinal fluid, the team observed
+          an inverse relationship between levels in the fluid and the brain,
+          correlating with dementia severity. Surprisingly, a strong correlation
+          emerged between increased tau levels—a toxic protein associated with
+          Alzheimer&apos;s—and elevated KIBRA levels in the cerebrospinal fluid.
+        </p>
+        <p>
+          To understand KIBRA&apos;s influence on synapses, the researchers
+          created a functional version of the protein and tested it on lab mice
+          with Alzheimer&apos;s-like conditions. The results indicated that
+          KIBRA has the potential to reverse the specific memory impairment
+          linked to this form of dementia, suggesting its ability to rescue
+          mechanisms supporting synaptic resilience.
+        </p>
+        <p>
+          The findings open the door to the possibility of using KIBRA as a
+          treatment to enhance memory, even in the presence of toxic proteins
+          responsible for damage in Alzheimer&apos;s. The study marks a
+          significant shift in the approach to Alzheimer&apos;s treatment,
+          focusing on repairing synaptic function rather than solely reducing
+          toxic protein accumulation. The researchers are now working on
+          developing a therapy based on these promising results.
+        </p>
+      </div>
+    ),
+  },
   // jan-31-2024
   {
     id: "ceos-of-tech-companies-anticipated-to-support-legislation-and-offer-sneak-peek-into-policy-plans-during-senate-child-safety-hearing",
@@ -338,192 +525,6 @@ export const technology = [
           The rover is actively collecting rock and soil samples, with the hope
           that these specimens may contain traces of life, further fueled by the
           confirmation of lake sediments on the Red Planet.
-        </p>
-      </div>
-    ),
-  },
-  // jan-27-2024
-  {
-    id: "fossil-withdraws-from-smartwatch-market-yielding-space-to-tech-giants",
-    timestamp: "Jan 27, 2024",
-    image: `/technology/jan-27-2024/fossil-withdraws-from-smartwatch-market-yielding-space-to-tech-giants.jpg`,
-    title: `Fossil withdraws from smartwatch market, yielding space to tech giants`,
-    preArticle: `Fossil Group, an American watchmaker, has decided to cease production of smartwatches, marking the end of its efforts to introduce stylish tech timepieces to the market. The company announced on Friday that its latest Gen 6 watch, utilizing Google's Wear OS software, will be its final foray into th`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Fossil Group, an American watchmaker, has decided to cease production
-          of smartwatches, marking the end of its efforts to introduce stylish
-          tech timepieces to the market.
-        </p>
-        <p>
-          The company announced on Friday that its latest Gen 6 watch, utilizing
-          Google&apos;s Wear OS software, will be its final foray into the
-          smartwatch category. Fossil&apos;s departure comes as the landscape
-          has shifted, with tech giants such as Google and Samsung dominating
-          with their own branded devices.
-        </p>
-        <p>
-          A spokesperson for the Texas-based firm stated, &quot;We have made the
-          strategic decision to exit the smartwatch business and redirect
-          resources to our core strengths.&quot;
-        </p>
-        <p>
-          Sub-brands under Fossil, including Michael Kors, Skagen, and Diesel,
-          will also discontinue their smartwatch lines. The company has
-          committed to providing support for existing models for a limited
-          period.
-        </p>
-        <p>
-          Fossil had been among the few traditional watchmakers attempting to
-          adapt to the emerging smartwatch trend over the past decade, despite
-          the neglect of the struggling Wear OS platform by major players.
-          However, the category gained traction in 2021 when Google and Samsung
-          collaborated on a significant software update.
-        </p>
-        <p>
-          Industry analysts suggest that Fossil struggled to compete with the
-          marketing power and resources of tech giants. The lack of a new
-          smartwatch model since 2021 signaled the company&apos;s gradual
-          withdrawal.
-        </p>
-        <p>
-          Fossil was known for its focus on fashionable design in the smartwatch
-          space. With its departure, there is an opportunity for other players
-          to step in and offer sleek, designer tech watches.
-        </p>
-        <p>
-          In the meantime, Fossil intends to focus on its traditional watches,
-          jewelry, and leather goods. Despite the mainstream popularity of
-          smartwatches, traditional timepieces still constitute the majority of
-          Fossil&apos;s business.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "just-one-injection-enables-five-deaf-children-to-hear-for-the-first-time",
-    timestamp: "Jan 27, 2024",
-    image: `/technology/jan-27-2024/just-one-injection-enables-five-deaf-children-to-hear-for-the-first-time.jpg`,
-    title: `Just one injection enables five deaf children to hear for the first time`,
-    preArticle: `Six children who were born deaf have regained their hearing after undergoing an experimental treatment involving an injection directly into the ear. The treatment, developed by researchers from Fudan University in China and co-led by scientists from Harvard Medical School at Massachusetts Eye and Ea`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Six children who were born deaf have regained their hearing after
-          undergoing an experimental treatment involving an injection directly
-          into the ear. The treatment, developed by researchers from Fudan
-          University in China and co-led by scientists from Harvard Medical
-          School at Massachusetts Eye and Ear, targeted a specific genetic
-          mutation responsible for inherited deafness.
-        </p>
-        <p>
-          The children, aged one to seven, all had a mutation in the OTOF gene,
-          which affects the production of a protein crucial for transmitting
-          signals from the ear to the brain. Over the 26-week trial period, five
-          of the six children showed significant improvement in hearing, with
-          four experiencing robust outcomes. The results, published in the
-          journal Lancet, also revealed enhancements in speech perception among
-          the responsive participants.
-        </p>
-        <p>
-          This breakthrough offers hope for treating various genetic forms of
-          deafness and underscores the potential of gene therapy in addressing
-          congenital hearing impairments. The targeted gene, OTOF, encodes the
-          otoferlin protein, vital for relaying auditory signals from cochlear
-          cells to nerves in the inner ear. By delivering a modified version of
-          the gene using a viral vector, researchers successfully restored
-          otoferlin production in the cochlea.
-        </p>
-        <p>
-          Despite facing initial challenges due to the gene&apos;s size, the
-          team devised a solution by splitting the gene into two parts and
-          delivering them separately. The injected viral mixture reached the
-          target cells in the inner ear fluid, prompting the assembly of the
-          complete protein. Within four to six weeks of treatment, participants
-          began showing signs of hearing improvement.
-        </p>
-        <p>
-          The success of this approach, particularly in patients with cochlear
-          implants, highlights its potential to complement existing hearing
-          restoration methods. Notably, the therapy enabled older children with
-          implants to understand and respond to speech without assistance, even
-          in noisy environments. While the youngest participants exhibited
-          positive trends, further evaluation is needed to gauge their long-term
-          outcomes.
-        </p>
-        <p>
-          However, one participant did not respond to the treatment, possibly
-          due to an immune response to the viral vector. Despite this setback,
-          the promising results underscore the significance of targeted gene
-          therapy in addressing genetic deafness, offering renewed hope for
-          individuals with congenital hearing loss worldwide.
-        </p>
-      </div>
-    ),
-  },
-  // jan-26-2024
-  {
-    id: "google-introduces-pixel-8-and-pixel-8-pro-in-a-fresh-mint-hue",
-    timestamp: "Jan 26, 2024",
-    image: `/technology/jan-26-2024/google-introduces-pixel-8-and-pixel-8-pro-in-a-fresh-mint-hue.jpg`,
-    title: `Google introduces Pixel 8 and Pixel 8 Pro in a fresh mint hue`,
-    preArticle: `Google has unveiled the Pixel 8 and Pixel 8 Pro in a stylish new mint green color, a departure from the conventional black, hazel, and rose gold choices. While the vibrant "bay" blue 8 Pro option is more vivid, the mint green hue adds a refreshing touch to the regular Pixel 8 lineup. This new color `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Google has unveiled the Pixel 8 and Pixel 8 Pro in a stylish new mint
-          green color, a departure from the conventional black, hazel, and rose
-          gold choices. While the vibrant &quot;bay&quot; blue 8 Pro option is
-          more vivid, the mint green hue adds a refreshing touch to the regular
-          Pixel 8 lineup. This new color option, exclusively available with the
-          base 128GB storage for both models, gives Pixel enthusiasts a chance
-          to step away from the conventional color choices that have been
-          prevalent since the phone&apos;s release in October.
-        </p>
-        <p>
-          Described as &quot;inspired by the vibrant hue found in nature&quot;
-          and touted as a &quot;luminous color that invites the mind into a
-          state of energizing calmness,&quot; mint is Google&apos;s bold attempt
-          to infuse a sense of daring, focus, and optimism into the new year.
-          The promotional materials suggest it&apos;s a color for those aiming
-          for a &quot;fresher version of you.&quot; The Pixel 8 and Pixel 8 Pro,
-          equipped with Google&apos;s latest Tensor G3 chipset, promise
-          efficient and fast performance. Paired with UFS 4.0 storage, users can
-          access their files swiftly.
-        </p>
-        <p>
-          In terms of photography, the Pixel 8 features a 50-megapixel main
-          camera with advanced Octa-PD technology for excellent low-light
-          performance. It also boasts an 8x Super-Res digital zoom for capturing
-          distant subjects, along with a 12-megapixel sensor for detailed
-          close-up shots. For selfies and video calls, the front camera is a
-          10.5-megapixel shooter. The Pixel 8 houses a 4,575mAh battery,
-          ensuring a full day&apos;s usage, and supports 27W fast wired charging
-          and 18W wireless charging.
-        </p>
-        <p>
-          On the other hand, the Pixel 8 Pro offers a 6.7-inch QHD+ OLED display
-          with Gorilla Glass Victus 2 for added durability. It features a
-          10.5-megapixel selfie camera and a powerful trio of rear cameras,
-          including a 50-megapixel main camera, a new 48-megapixel ultrawide
-          sensor, and a 48-megapixel 5x zoom camera. The design of the Pixel 8
-          Pro combines glass and metal, reminiscent of the previous Pixel 7 Pro.
-        </p>
-        <p>
-          Under the hood, the Pixel 8 Pro runs on the Google Tensor G3 chip and
-          packs a 5,050mAh battery. It supports 30W wired charging and 23W
-          wireless charging. Notable features include a Titan security chip for
-          enhanced security, 12GB of RAM, and 256GB of storage. The phone also
-          includes a temperature monitoring sensor and an ultrasonic in-display
-          fingerprint scanner.
-        </p>
-        <p>
-          A unique addition to the Pixel 8 Pro is the Melexis MLX90632 skin
-          temperature sensor, positioned near the cameras. Dedicated solely to
-          accurate temperature readings and not enhancing photography, this
-          feature could have various practical applications beyond traditional
-          smartphone functions.
         </p>
       </div>
     ),
