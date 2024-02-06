@@ -1,6 +1,254 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // feb-06-2024
+  {
+    id: "prabhas-emerges-as-a-phenomenon-composer-santosh-narayanan-reveals-insights-into-his-role-in-kalki-2898-ad",
+    timestamp: "Feb 06, 2024",
+    image: `/entertainment/feb-06-2024/prabhas-emerges-as-a-phenomenon-composer-santosh-narayanan-reveals-insights-into-his-role-in-kalki-2898-ad.webp`,
+    title: `Prabhas Emerges as a Phenomenon: Composer Santosh Narayanan Reveals Insights into His Role in Kalki 2898 AD`,
+    preArticle: `As Prabhas' eagerly-awaiting fans anticipate exciting updates, Santhosh Narayanan, the film's music director, recently shared some insights from his music sessions. In an interview with Madan Gowri, Narayanan praised Prabhas as a phenomenon in the film industry, emphasizing his commitment to craftin`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          As Prabhas&apos; eagerly-awaiting fans anticipate exciting updates,
+          Santhosh Narayanan, the film&apos;s music director, recently shared
+          some insights from his music sessions. In an interview with Madan
+          Gowri, Narayanan praised Prabhas as a phenomenon in the film industry,
+          emphasizing his commitment to crafting extraordinary music for the
+          star.
+        </p>
+        <p>
+          &quot;I am revamping Prabhas sir&apos;s entire introduction. I am
+          creating something very special as Prabhas is a phenomenon. It has to
+          be grand and appeal to the masses,&quot; he revealed.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/feb-06-2024/prabhas-emerges-as-a-phenomenon-composer-santosh-narayanan-reveals-insights-into-his-role-in-kalki-2898-ad(2).avif"
+            alt="prabhas-emerges-as-a-phenomenon-composer-santosh-narayanan-reveals-insights-into-his-role-in-kalki-2898-ad(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Narayanan hinted at a mind-blowing and powerful introduction for
+          Prabhas in the film, fueling fans&apos; anticipation for this special
+          moment that promises to elevate the overall excitement.
+        </p>
+        <p>
+          As the updates for Kalki 2898 AD unfold, fans can look forward to a
+          grand and captivating introduction for Prabhas in the film.
+        </p>
+        <p>
+          About Kalki 2898 AD: The cast of Kalki 2898 AD includes acclaimed
+          actors such as Deepika Padukone in the lead, alongside Amitabh
+          Bachchan, Kamal Haasan, Disha Patani, Pasupathy, and others. The
+          expectation is that each cast member will play a significant role,
+          contributing depth to the storyline.
+        </p>
+        <p>
+          The release date for Kalki 2898 AD is scheduled for May 9. The makers,
+          Vyjayanthi Movies, and director Nag Ashwin hold sentimental value for
+          this date, considering its historical success with films like
+          &quot;Jagadeka Veerudu Athiloka Sundari&quot; in 1990 and
+          &quot;Mahanati&quot; in 2018. To continue this streak, they have
+          chosen May 9, 2024, for the global theatrical release of Project K.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "love-storiyaan-authentic-indian-love-stories-unveiling-on-valentines-day",
+    timestamp: "Feb 06, 2024",
+    image: `/entertainment/feb-06-2024/love-storiyaan-authentic-indian-love-stories-unveiling-on-valentines-day.jpg`,
+    title: `"Love Storiyaan": Authentic Indian Love Stories Unveiling on Valentine's Day`,
+    preArticle: `As Valentine’s Day approaches, streaming platforms are preparing to offer a selection of romantic content for cozy nights in. Prime Video is set to launch a series titled 'Love Storiyaan' on February 14th, aligning with the day synonymous with love and romance. The show, featuring the creative visi`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          As Valentine’s Day approaches, streaming platforms are preparing to
+          offer a selection of romantic content for cozy nights in. Prime Video
+          is set to launch a series titled &apos;Love Storiyaan&apos; on
+          February 14th, aligning with the day synonymous with love and romance.
+        </p>
+        <p>
+          The show, featuring the creative vision of six directors - Akshay
+          Indikar, Archana Phadke, Collin D’Cunha, Hardik Mehta, Shazia Iqbal,
+          and Vivek Soni - is produced by Dharmatic Entertainment. Executive
+          Producers Karan Johar, Apoorva Mehta, and Somen Mishra lead the
+          project, drawing inspiration from the narratives showcased on the
+          India Love Project, a social media platform founded by former
+          journalists Priya Ramani, Samar Halarnkar, and Niloufer Venkatraman,
+          dedicated to celebrating love in all its forms.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/feb-06-2024/love-storiyaan-authentic-indian-love-stories-unveiling-on-valentines-day(2).jpg"
+            alt="love-storiyaan-authentic-indian-love-stories-unveiling-on-valentines-day(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Aparna Purohit, head of Originals for India and Southeast Asia at
+          Prime Video, stated, “Love Storiyaan epitomizes Prime Video’s
+          dedication to crafting stories that authentically reflect the
+          diversity of our audience while deeply resonating with their emotions.
+          This series unveils genuine and uplifting love stories that transcend
+          societal norms, inviting viewers into a world where love knows no
+          boundaries. With its poignant storytelling, it’s sure to strike a
+          chord with audiences.”
+        </p>
+        <p>
+          Karan Johar shared insights on the project, mentioning, “Love
+          Storiyaan goes beyond being a mere recounting of real-life tales of
+          love. It explores love in all its facets, painting a beautiful mosaic
+          of connections that surpass the ordinary.”
+        </p>
+        <p>
+          Reflecting on the project, Johar added, “Throughout my career as a
+          filmmaker and producer, I’ve had the privilege of narrating numerous
+          love stories that have shaped the Indian cinema genre. However, what
+          struck me about the India Love Project, which aided in curating these
+          stories, was the rawness and individuality of each narrative. These
+          are the stories of real individuals, hailing from diverse backgrounds,
+          who encountered significant obstacles in their quest for true love.
+          Yet, they exhibited resilience and determination, breaking through
+          cultural, religious, gender, and even wartime barriers. This marks our
+          maiden venture into presenting real stories of real people to our
+          audiences.”
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "special-premiere-for-sehore-villagers-of-kiran-raos-laapataa-ladies",
+    timestamp: "Feb 06, 2024",
+    image: `/entertainment/feb-06-2024/special-premiere-for-sehore-villagers-of-kiran-raos-laapataa-ladies.avif`,
+    title: `Special Premiere for Sehore Villagers of Kiran Rao's 'Laapataa Ladies'`,
+    preArticle: `As the release date for Kiran Rao's directorial venture 'Laapataa Ladies' approaches, the film is gaining momentum. While the trailer provided a glimpse into its humorous world, it left the audience eagerly anticipating more from this comedic masterpiece. To further immerse the audience in the film'`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          As the release date for Kiran Rao&apos;s directorial venture
+          &apos;Laapataa Ladies&apos; approaches, the film is gaining momentum.
+          While the trailer provided a glimpse into its humorous world, it left
+          the audience eagerly anticipating more from this comedic masterpiece.
+          To further immerse the audience in the film&apos;s comedic universe,
+          the director has planned a special premiere in Bhopal, where the
+          entire Sehore village, where the film was extensively shot, will be
+          invited to be part of the screening.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/feb-06-2024/special-premiere-for-sehore-villagers-of-kiran-raos-laapataa-ladies(2).avif"
+            alt="special-premiere-for-sehore-villagers-of-kiran-raos-laapataa-ladies(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The creators of &apos;Laapataa Ladies&apos; are set to visit Bhopal
+          for the film&apos;s exclusive premiere. Given that the film was shot
+          extensively in the Sehore village, director Kiran Rao has extended
+          invitations to the actual villagers, who were involved in the film as
+          it was filmed on location.
+        </p>
+        <p>
+          Scheduled for release on March 1st, 2024, &apos;Laapataa Ladies,&apos;
+          presented by Jio Studios, is directed by Kiran Rao and produced by
+          Aamir Khan and Jyoti Deshpande. The film is a collaboration between
+          Aamir Khan Productions and Kindling Productions, with a script based
+          on an award-winning story by Biplab Goswami. Sneha Desai has written
+          the screenplay and dialogue, with additional dialogues penned by
+          Divyanidhi Sharma.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "bts-at-the-grammys-evolution-of-the-k-pop-groups-success-and-memorable-moments-in-the-spotlight",
+    timestamp: "Feb 06, 2024",
+    image: `/entertainment/feb-06-2024/bts-at-the-grammys-evolution-of-the-k-pop-groups-success-and-memorable-moments-in-the-spotlight.webp`,
+    title: `BTS at the Grammys: Evolution of the K-Pop Group's Success and Memorable Moments in the Spotlight`,
+    preArticle: `BTS, the globally celebrated K-pop sensation, has left an enduring mark on the Grammy Awards stage, showcasing a blend of talent and charisma through a presentation, three dynamic performances, and four memorable appearances. Remarkably, BTS stands as the sole K-pop act with five Grammy nominations,`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          BTS, the globally celebrated K-pop sensation, has left an enduring
+          mark on the Grammy Awards stage, showcasing a blend of talent and
+          charisma through a presentation, three dynamic performances, and four
+          memorable appearances. Remarkably, BTS stands as the sole K-pop act
+          with five Grammy nominations, underscoring their profound influence
+          and artistic prowess. Let&apos;s revisit the remarkable instances when
+          BTS graced the Grammy Awards with their unparalleled presence and
+          musical brilliance.
+        </p>
+        <p>
+          In their debut appearance at the 2019 Grammy Awards, BTS captivated
+          audiences with their impeccable style, adorned in black-and-white
+          tuxedos. During a red carpet interview, they tantalized fans with
+          hints of upcoming music, creating anticipation for their impending
+          album. Expressing excitement about potential collaborations, BTS
+          mentioned dream partners like H.E.R., Travis Scott, Lady Gaga, and
+          Camila Cabello. Their infectious joy peaked as they performed Dolly
+          Parton&apos;s &quot;Jolene&quot; in a special segment, marking a
+          historic moment as the first K-pop group to present a Grammy award—
+          Best R&B Album to H.E.R., achieving a monumental milestone.
+        </p>
+        <p>
+          BTS continued to showcase their star power at the 2020 Grammys with a
+          dynamic performance of &quot;Seoul Town Road,&quot; a remix of Lil Nas
+          X&apos;s &quot;Old Town Road&quot; featuring RM. Collaborating with
+          artists like Lil Nas X, Mason Ramsey, Billy Ray Cyrus, Diplo, and Nas,
+          the South Korean boy band delivered a memorable show. Although it was
+          their first Grammy performance, the decision to include them in a
+          collaborative act stirred discussions about their global influence and
+          chart-topping success deserving a solo spotlight. Despite the
+          oversight in nominations, BTS&apos;s presence marked a significant
+          step forward, demonstrating their ability to captivate Western
+          audiences and leaving fans optimistic for future recognition.
+        </p>
+        <p>
+          The 2021 Grammy Awards witnessed BTS making history as the first
+          Korean pop artist recognized by the Recording Academy. Although they
+          didn&apos;t secure a win in the Best Pop Duo/Group Performance
+          category for &quot;Dynamite,&quot; their vibrant performance stole the
+          spotlight. Broadcasting from Seoul, South Korea, BTS brought their
+          Billboard Hot 100 chart-topper to life with energetic choreography,
+          high kicks, and infectious smiles. Seamlessly integrating their
+          performance with the Grammy Awards&apos; Los Angeles set, it became
+          one of the night&apos;s most memorable moments.
+        </p>
+        <p>
+          Taking the stage at the 64th Grammy Awards, BTS performed
+          &quot;Butter&quot; and continued to add to their Grammy legacy with a
+          nomination for Best Pop Duo/Group Performance. Displaying versatility
+          and showmanship, the group transformed into suave super spies in a
+          James Bond and Mission Impossible-inspired environment. Clad in sleek
+          black suits and despite Jin&apos;s hand cast, they delivered a
+          flawless show that garnered a standing ovation, reaffirming their
+          status as a global phenomenon.
+        </p>
+        <p>
+          On November 15 of the previous year, BTS received three nominations at
+          the 65th Annual Grammy Awards. Notably, &quot;Yet to Come&quot; earned
+          a nod for Best Music Video, and their collaboration with Coldplay,
+          &quot;My Universe,&quot; was nominated for Best Pop Duo/Group
+          Performance. This accomplishment solidified BTS as the only act with
+          three consecutive nominations in this category since its introduction
+          in 2011. Additionally, the band earned a nomination for Album of the
+          Year for their collaboration on Coldplay&apos;s &quot;Music of the
+          Spheres.&quot; Despite their nominations, none of the BTS members
+          attended the annual award ceremony.
+        </p>
+      </div>
+    ),
+  },
   // feb-02-2024
   {
     id: "millie-bobby-brown-brandishes-a-sword-in-the-latest-damsel-poster-confronting-formidable-creatures",
@@ -203,283 +451,6 @@ export const entertainment = [
           surrounding her death underscore the deep sorrow that has befallen the
           Thomas family, casting a shadow over the celebrated success of Killers
           of the Flower Moon.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "blackpinks-jennie-outshines-btss-jungkook-in-seven-without-promotional-efforts",
-    timestamp: "Feb 02, 2024",
-    image: `/entertainment/feb-02-2024/blackpinks-jennie-outshines-btss-jungkook-in-seven-without-promotional-efforts.jpg`,
-    title: `BLACKPINK's Jennie Outshines BTS's Jungkook in Seven Without Promotional Efforts`,
-    preArticle: `Months after its debut, BLACKPINK's Jennie continues to defy expectations with her track "One of the Girls," a collaboration with The Weeknd and Lily-Rose Depp. Originally released for The Idol without promotional efforts, the song has maintained its dominance on music platforms. Jennie, who recentl`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Months after its debut, BLACKPINK&apos;s Jennie continues to defy
-          expectations with her track &quot;One of the Girls,&quot; a
-          collaboration with The Weeknd and Lily-Rose Depp. Originally released
-          for The Idol without promotional efforts, the song has maintained its
-          dominance on music platforms. Jennie, who recently launched her solo
-          career with the label OA after parting ways with YG Entertainment, has
-          achieved a notable milestone by surpassing BTS&apos;s Jungkook in the
-          K-Pop soloist category on Shazam.
-        </p>
-        <p>
-          Despite the absence of extensive promotional campaigns, &quot;One of
-          the Girls&quot; has become a viral sensation on platforms like TikTok
-          and Reels, earning praise from the general public. With an impressive
-          2.03 million Shazams, the song has outperformed Jungkook and
-          Latto&apos;s collaborative single &quot;Seven&quot; (2.01 million
-          Shazams), securing its position as the most Shazamed song by a K-pop
-          soloist in 2023.
-        </p>
-        <div>
-          <blockquote class="twitter-tweet">
-            <p lang="en" dir="ltr">
-              📈 “One Of The Girls” with{" "}
-              <a href="https://twitter.com/hashtag/JENNIE?src=hash&amp;ref_src=twsrc%5Etfw">
-                #JENNIE
-              </a>{" "}
-              is now the most shazamed 2023 song by a K-Pop soloist, surpassing
-              Jungkook’s “Seven (feat. Latto)”.{" "}
-              <a href="https://t.co/L7Nkn6N49w">pic.twitter.com/L7Nkn6N49w</a>
-            </p>
-            &mdash; JENNIE CHARTS (@jenniescharts){" "}
-            <a href="https://twitter.com/jenniescharts/status/1751316029186179224?ref_src=twsrc%5Etfw">
-              January 27, 2024
-            </a>
-          </blockquote>{" "}
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-        </div>
-        <p>
-          The success of &quot;One of the Girls&quot; can be attributed to its
-          expertly crafted slow-burning R&B, featuring ethereal and spacey
-          elements. Instead of relying heavily on promotional strategies, the
-          song leveraged the artists&apos; existing popularity and exposure on
-          TV shows. Despite minimal initial promotion, the track has gained
-          momentum and continues to be streamed and appreciated by a wide
-          audience.
-        </p>
-        <p>
-          Jennie&apos;s solo career has witnessed remarkable achievements, with
-          an impressive 34.5 million listeners and over 1.2 billion streams on
-          Spotify. Notably, she has become the first female K-pop soloist to
-          reach this milestone without the release of a solo album. In this
-          category, she has even surpassed BTS&apos;s Jungkook, who reportedly
-          boasts a monthly Spotify listener count of 34.4 million.
-        </p>
-        <p>
-          Meanwhile, Jungkook, the youngest member of BTS, enlisted in South
-          Korea&apos;s mandatory military service in December after the release
-          of his solo album &quot;GOLDEN.&quot; Participating in the soldier
-          companion program for buddy enlistment alongside Jimin, both singers
-          graduated after completing basic military service and proceeded to
-          undergo additional military training.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "seth-macfarlane-creator-of-family-guy-affirms-shows-endurance-for-the-foreseeable-future",
-    timestamp: "Feb 02, 2024",
-    image: `/entertainment/feb-02-2024/seth-macfarlane-creator-of-family-guy-affirms-shows-endurance-for-the-foreseeable-future.jpg`,
-    title: `Seth MacFarlane, Creator of Family Guy, Affirms Show's Endurance for the Foreseeable Future`,
-    preArticle: `In celebration of the 25th anniversary of Family Guy, its creator Seth MacFarlane took a nostalgic journey, reflecting on the show's enduring success. In an interview with The Wrap, the 50-year-old animator expressed that his adult animated creation is not only "surviving and thriving" but also emph`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In celebration of the 25th anniversary of Family Guy, its creator Seth
-          MacFarlane took a nostalgic journey, reflecting on the show&apos;s
-          enduring success. In an interview with The Wrap, the 50-year-old
-          animator expressed that his adult animated creation is not only
-          &quot;surviving and thriving&quot; but also emphasized that there are
-          no imminent plans for it to &quot;end anytime soon,&quot; attributing
-          its longevity to a substantial and dedicated fan base.
-        </p>
-        <p>
-          MacFarlane, known for his role in Ted, acknowledged the show&apos;s
-          sizable audience and described it as a testament to the sustained
-          appetite for the series. Despite a brief cancellation in 2002, Family
-          Guy has remained a consistent favorite among comedy enthusiasts.
-          MacFarlane highlighted the continuous efforts to meet the
-          audience&apos;s demand, stating, &quot;So we continue to feed the
-          beast.&quot;
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/jan-29-2024/seth-macfarlane-creator-of-family-guy-affirms-shows-endurance-for-the-foreseeable-future(2).webp"
-            alt="seth-macfarlane-creator-of-family-guy-affirms-shows-endurance-for-the-foreseeable-future(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Reflecting on the 25th milestone, MacFarlane expressed a sense of
-          astonishment at the show&apos;s longevity, stating that it feels
-          somewhat &quot;strange&quot; to him. He humorously remarked,
-          &quot;I’ve just been going at a dead run ever since the show
-          premiered. Between then and now just feels like one really long day to
-          me.&quot; MacFarlane, also the co-creator of American Dad, emphasized
-          the continuous momentum that has propelled Family Guy forward.
-        </p>
-        <p>
-          Addressing the question of his favorite moment from the show, the
-          Logan Lucky star found it challenging to pinpoint a specific instance.
-          MacFarlane explained, &quot;There’s now so much of it that there are
-          episodes that I don’t remember. I go back and I’ll look at a show and
-          I have a vague memory of making it.&quot; He went on to highlight the
-          intriguing aspect of revisiting episodes and realizing the passage of
-          time, acknowledging that certain moments, once of utmost importance
-          during their creation, may now be hazy memories amidst the vast
-          catalog of over 400 episodes. MacFarlane humorously reflected,
-          &quot;Who can keep track?&quot;
-        </p>
-        <p>
-          In essence, MacFarlane&apos;s sentiments underscore the enduring
-          success and popularity of Family Guy, a show that has not only
-          weathered the challenges of the entertainment industry but continues
-          to thrive, making a lasting impact on its audience over its 25-year
-          journey.
-        </p>
-      </div>
-    ),
-  },
-  // jan-27-2024
-  {
-    id: "review-of-expats-nicole-kidman-heads-stellar-cast-in-prime-videos-poignant-miniseries",
-    timestamp: "Jan 27, 2024",
-    image: `/entertainment/jan-27-2024/review-of-expats-nicole-kidman-heads-stellar-cast-in-prime-videos-poignant-miniseries.webp`,
-    title: `Review of Expats: Nicole Kidman Heads Stellar Cast in Prime Video's Poignant Miniseries`,
-    preArticle: `Expats, a new miniseries on Prime Video created and directed by Lulu Wang, delves into the complex dynamics of women versus husbands, children versus parents, and men battling internal conflicts. Drawing inspiration from Janice YK Lee's novel, the show unfolds in contemporary Hong Kong, exploring th`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Expats, a new miniseries on Prime Video created and directed by Lulu
-          Wang, delves into the complex dynamics of women versus husbands,
-          children versus parents, and men battling internal conflicts. Drawing
-          inspiration from Janice YK Lee&apos;s novel, the show unfolds in
-          contemporary Hong Kong, exploring the lives of privileged characters
-          grappling with their identities amid societal upheaval.
-        </p>
-        <p>
-          Lulu Wang, known for her acclaimed film &quot;The Farewell,&quot;
-          weaves a narrative against the political backdrop of Hong Kong. The
-          series navigates a dual narrative, oscillating between a poignant
-          exploration of grief and forgiveness and a thrilling plot reminiscent
-          of &quot;Big Little Lies,&quot; featuring star and executive producer
-          Nicole Kidman.
-        </p>
-        <p>
-          Kidman portrays Margaret, an affluent American living with her family
-          in Hong Kong. Her neighbor, Hilary, an Indian-American in an unhappy
-          marriage to an Englishman named David, connects with Margaret through
-          unforeseen circumstances involving Mercy, a young Korean-American
-          seeking solace in Hong Kong.
-        </p>
-        <p>
-          The series unfolds with an incident at a boat party, leading to Gus,
-          Margaret&apos;s youngest child, getting lost in a night market under
-          Mercy&apos;s care. Episode one sets the stage with scandalous
-          dynamics, leaving viewers questioning the strained relationship
-          between Margaret and Hilary, Mercy&apos;s unexpected role, and Clarke,
-          Margaret&apos;s husband, displaying emotional vulnerability.
-        </p>
-        <p>
-          As the narrative unravels, episode two shifts tone, grounding the
-          drama. The standout episode, number five, provides a cinematic
-          perspective lasting an hour and 40 minutes. It adopts the viewpoint of
-          housemaids, often background characters, who, like their employers,
-          are expatriates with limited resources. Wang skillfully explores
-          complex dynamics, such as Margaret&apos;s guilt over her
-          children&apos;s attachment to their help, Essie, prompting her
-          decision to hire Mercy.
-        </p>
-        <p>
-          The characters&apos; emotional struggles are symbolically confined
-          within physical spaces, intensifying their inner turmoil. Noteworthy
-          episodes feature Hilary and her Punjabi mother trapped in a lift,
-          revisiting past trauma, and Margaret grappling with her beliefs during
-          a rainy evening with a pastor. Despite expressions of gratitude toward
-          their helps, an invisible wall persists between the characters and
-          their domestic staff.
-        </p>
-        <p>
-          Expats unfolds with six gripping episodes, skillfully written by Wang,
-          revealing a nuanced and compelling exploration of complex
-          relationships and internal conflicts within the expatriate community
-          in Hong Kong.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "bobby-deol-kept-busy-with-running-drumming-and-bike-riding-while-awaiting-debut-i-started-shooting-at-22-released-at-26",
-    timestamp: "Jan 27, 2024",
-    image: `/entertainment/jan-27-2024/bobby-deol-kept-busy-with-running-drumming-and-bike-riding-while-awaiting-debut-i-started-shooting-at-22-released-at-26.jpg`,
-    title: `Bobby Deol Kept Busy with Running, Drumming, and Bike Riding While Awaiting Debut: 'I Started Shooting at 22, Released at 26'`,
-    preArticle: `As Bobby Deol celebrates his 55th birthday, the success of Sandeep Reddy Vanga's "Animal" has added to the joy. While the actor has earned acclaim for various films, his debut in "Barsaat" holds a special place. The film, however, faced challenges in reaching the big screen, experiencing a tumultuou`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          As Bobby Deol celebrates his 55th birthday, the success of Sandeep
-          Reddy Vanga&apos;s &quot;Animal&quot; has added to the joy. While the
-          actor has earned acclaim for various films, his debut in
-          &quot;Barsaat&quot; holds a special place. The film, however, faced
-          challenges in reaching the big screen, experiencing a tumultuous
-          journey from inception to release. Bobby revealed that the initial
-          director, Shekhar Kapur, abandoned the project after 27 days of
-          shooting, leaving the film in limbo for four years.
-        </p>
-        <p>
-          Shekhar Kapur&apos;s departure resulted from an offer to direct
-          &quot;Bandit Queen,&quot; leading to changes in the script that left
-          Bobby frustrated. The delay prompted his father, Dharmendra, to
-          intervene and initiate discussions with Shekhar. At the Jagran Film
-          Festival, Bobby shared, &quot;I started shooting for the film very
-          early, and Shekhar Kapur was the director. We shot for the film for 27
-          days. He then got an offer from Hollywood to make &apos;Bandit
-          Queen.&apos; Shekhar said, ‘I will do &apos;Bandit Queen&apos; and
-          come back to do &apos;Barsaat.&apos;&apos; But my father told him that
-          he didn’t want to delay it. He told Shekhar, ‘You go do your film, I
-          will find somebody else.’ And I think Rajkumar Santoshi was waiting to
-          direct my film. I got lucky with him.&quot;
-        </p>
-        <p>
-          Despite the stroke of luck with a new director, the script underwent
-          significant changes, leading to confusion and exhaustion for Bobby.
-          The actor, who was 26 when the film finally released, faced a
-          prolonged journey from the age of 22 when shooting began. The script
-          alterations compelled Bobby to take up running, playing drums, bike
-          riding, and other activities to adapt to evolving character
-          requirements. Reflecting on the experience, he expressed, &quot;It was
-          frustrating.&quot;
-        </p>
-        <p>
-          &quot;Barsaat,&quot; co-starring Twinkle Khanna, was shot in various
-          national and international locations, including London, Manali, and
-          Italy. Notably, one scene features Bobby fighting a tiger. Recounting
-          the daring sequence, Bobby shared, &quot;We shot it in Italy. We
-          learned there was someone who had trained Siberian tigers. He had a
-          small zoo of his own. I did the fight with the tiger there. They had
-          just trimmed his nails. They would have a piece of meat close to my
-          neck, so the tiger jumps on you and goes for the meat. I had to stop
-          him with my hand. His paws were so heavy that when he would get tired,
-          he would place his paws on me, and I would get pushed down.&quot;
-        </p>
-        <p>
-          Bobby&apos;s career encompasses diverse films like &quot;Gupt: The
-          Hidden Truth,&quot; &quot;Soldier,&quot; &quot;Dillagi,&quot; and
-          &quot;Ajnabi.&quot; Intriguingly, the actor now expresses interest in
-          exploring South Indian film industries. His upcoming projects include
-          Suriya&apos;s Tamil period film &quot;Kanguva&quot; and Telugu films
-          &quot;Hari Hara Veeru Mallu&quot; and an untitled project with
-          Nandamuri Balakrishna.
         </p>
       </div>
     ),
