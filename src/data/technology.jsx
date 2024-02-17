@@ -1,6 +1,149 @@
 import Image from "next/image";
 
 export const technology = [
+  // feb-17-2024
+  {
+    id: "microsoft-provides-significant-insights-into-the-future-of-xbox-unveils-new-hardware-exclusive-titles-on-alternate-consoles-and-beyond",
+    timestamp: "Feb 17, 2024",
+    image: `/technology/feb-17-2024/microsoft-provides-significant-insights-into-the-future-of-xbox-unveils-new-hardware-exclusive-titles-on-alternate-consoles-and-beyond.jpg`,
+    title: `Microsoft Provides Significant Insights into the Future of Xbox: Unveils New Hardware, Exclusive Titles on Alternate Consoles, and Beyond`,
+    preArticle: `In an official Xbox Podcast, Microsoft addressed various aspects of their future plans, providing insights into upcoming developments. A significant revelation included plans for a console upgrade aiming to introduce the "largest technical leap ever seen in a hardware generation." Contrary to specul`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In an official Xbox Podcast, Microsoft addressed various aspects of
+          their future plans, providing insights into upcoming developments. A
+          significant revelation included plans for a console upgrade aiming to
+          introduce the &quot;largest technical leap ever seen in a hardware
+          generation.&quot; Contrary to speculation, Microsoft affirmed their
+          continued presence in the console hardware business, emphasizing their
+          commitment to delivering cutting-edge hardware.
+        </p>
+        <p>
+          The announcement disclosed that certain Xbox-exclusive games, older
+          than a year and having reached their potential on Xbox and PC, would
+          extend to PlayStation and Nintendo platforms. However, this shift was
+          portrayed as a one-time expansion rather than a strategic departure
+          from Xbox exclusives. The specific titles were not disclosed, but
+          clues hinted at community-driven games and early franchise iterations.
+        </p>
+        <p>
+          Xbox President Sarah Bond and Head Phil Spencer both reiterated the
+          company&apos;s dedication to console hardware, dispelling rumors of an
+          exit from the hardware business. Bond teased the next-gen console,
+          promising a groundbreaking technical leap for players and creators.
+        </p>
+        <p>
+          While the release date for the upgraded console remains uncertain,
+          hints suggest an announcement during the holiday season. Speculation
+          surrounds the nature of the hardware, with possibilities including a
+          traditional next-gen console, a gaming handheld, or potentially both,
+          based on intentional and unintentional hints.
+        </p>
+        <p>
+          The Xbox Game Pass subscription service continues its growth, reaching
+          34 million subscribers. Both Bond and Spencer highlighted its
+          profitability, affirming it as a sustainable business model.
+        </p>
+        <p>
+          In a significant development, Xbox confirmed that the first Activision
+          Blizzard game, Diablo 4, will be available on Game Pass for Xbox and
+          PC from March 28. This marks a notable addition to the Game Pass
+          catalog, following the acquisition of Activision Blizzard.
+        </p>
+        <p>
+          Looking ahead, Microsoft has scheduled an Xbox showcase event for
+          June, although details about the focus, whether hardware, software, or
+          a combination, remain undisclosed.
+        </p>
+        <p>
+          To sum up, Microsoft is expanding select games to new platforms while
+          maintaining a steadfast commitment to console hardware. The
+          anticipation for next-gen machines in 2024 is strong, Game Pass
+          continues to experience substantial growth, and new additions to the
+          catalog, starting with Diablo 4, enhance the gaming experience for
+          subscribers.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "apple-swiftly-integrates-ai-features-into-xcode-and-spotlight",
+    timestamp: "Feb 17, 2024",
+    image: `/technology/feb-17-2024/apple-swiftly-integrates-ai-features-into-xcode-and-spotlight.jpg`,
+    title: `Apple Swiftly Integrates AI Features into Xcode and Spotlight`,
+    preArticle: `Apple is reportedly gearing up for significant enhancements to its Xcode programming software, introducing new AI capabilities to compete with Microsoft's GitHub Copilot, as per sources cited in a Bloomberg report. The upcoming version of Xcode, set to launch later this year, will incorporate AI-dr`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Apple is reportedly gearing up for significant enhancements to its
+          Xcode programming software, introducing new AI capabilities to compete
+          with Microsoft&apos;s GitHub Copilot, as per sources cited in a
+          Bloomberg report.
+        </p>
+        <p>
+          The upcoming version of Xcode, set to launch later this year, will
+          incorporate AI-driven code completion tools, suggesting complete
+          blocks of code to streamline and expedite the programming process.
+          This mirrors the functionality found in GitHub Copilot. Apple&apos;s
+          engineers are currently testing early iterations of the AI coding
+          assistant in-house to prepare for its integration with third-party
+          developers.
+        </p>
+        <p>
+          The inclusion of AI coding features aligns with Apple&apos;s broader
+          strategy to advance generative AI and large language models, a focus
+          that has intensified over the past year. Apple is racing to introduce
+          new AI capabilities across its range of products and services to keep
+          pace with competitors like Microsoft and Google.
+        </p>
+        <p>
+          Anticipated to be unveiled at the annual developers conference in
+          June, Apple aims to outline ambitions to integrate more AI technology
+          into both iOS 18 and the upcoming macOS updates, codenamed Crystal and
+          Glow, respectively. For iOS 18, Apple is positioning the software as
+          one of the most significant updates for iPhones, likely featuring AI
+          capabilities automating routine programming tasks such as generating
+          test code.
+        </p>
+        <p>
+          Apple&apos;s exploration of AI tools extends beyond programming,
+          including features like automatically generating Apple Music playlists
+          based on user preferences and creating dynamic slideshow presentations
+          in Keynote, its alternative to PowerPoint.
+        </p>
+        <p>
+          An additional AI-focused initiative involves a major update to the
+          Spotlight systemwide search. The current functionality primarily
+          serves to launch apps and retrieve basic information. The revamped
+          Spotlight seeks to comprehend and address more complex search queries,
+          leveraging on-device data and AI models. Early designs indicate that
+          the updated Spotlight will respond to natural language questions,
+          offering specific information and functions from apps.
+        </p>
+        <p>
+          By harnessing the power of large language models trained on extensive
+          datasets, the AI-enhanced Spotlight aims to become a more versatile
+          search tool, surfacing relevant content and actions across Apple
+          devices.
+        </p>
+        <p>
+          This surge in AI development is reportedly driven by Craig Federighi,
+          Apple&apos;s software chief, who has encouraged teams to integrate as
+          many AI capabilities as possible into the 2024 software updates.
+        </p>
+        <p>
+          Feeling the competitive pressure from companies like Microsoft and
+          Google in the realms of large language models and generative AI, Apple
+          is striving to catch up, particularly in areas like intelligent
+          search, content creation, programming assistance, and personalization.
+          While details are limited, Apple&apos;s Worldwide Developers
+          Conference is expected to provide the first insights into the
+          company&apos;s AI vision.
+        </p>
+      </div>
+    ),
+  },
   // feb-04-2024
   {
     id: "google-chief-scientist-jeff-dean-asserts-that-india-is-strategically-positioned-for-advancements-in-artificial-intelligence",
@@ -336,195 +479,6 @@ export const technology = [
           Microsoft services enhances its effectiveness, positioning it as a
           valuable asset for organizations navigating the complex landscape of
           modern cyber threats.
-        </p>
-      </div>
-    ),
-  },
-  // jan-30-2024
-  {
-    id: "explore-6-premium-smartphones-from-galaxy-24-ultra-to-iphone-15-pro-max",
-    timestamp: "Jan 30, 2024",
-    image: `/technology/jan-30-2024/explore-6-premium-smartphones-from-galaxy-24-ultra-to-iphone-15-pro-max.jpg`,
-    title: `Explore 6 Premium Smartphones: From Galaxy 24 Ultra to iPhone 15 Pro Max`,
-    preArticle: `In the realm of cutting-edge smartphones for 2024, major players like Samsung, Apple, and Google have unleashed their latest models, while others such as OnePlus and Vivo are making notable strides. Here's a roundup of the standout smartphones that represent the pinnacle of technology this year. **`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In the realm of cutting-edge smartphones for 2024, major players like
-          Samsung, Apple, and Google have unleashed their latest models, while
-          others such as OnePlus and Vivo are making notable strides.
-          Here&apos;s a roundup of the standout smartphones that represent the
-          pinnacle of technology this year.
-        </p>
-        <p>
-          <span className="block text-xl">Samsung Galaxy S24 Ultra</span>
-          Samsung&apos;s recently launched Galaxy S24 series marks a significant
-          leap by embracing artificial intelligence (AI). The S24 Ultra, the
-          flagship model, boasts innovative Galaxy AI technology, introducing
-          features like real-time translation during calls, camera-based Google
-          searches, AI-enhanced photo editing, and Chat Assist for text
-          formulation.
-        </p>
-        <p>
-          Retaining the strengths of its predecessor, the S23 Ultra, the S24
-          Ultra showcases a vast 6.8&quot; AMOLED screen and a substantial
-          5,000mAh battery. Notable upgrades include a titanium frame for
-          enhanced durability, Gorilla Armor glass, and the advanced Snapdragon
-          8 Gen 3 chip.
-        </p>
-        <p>
-          The camera setup has also seen improvements, particularly the 50MP
-          telephoto lens with 5x optical zoom for clearer magnified shots. With
-          these enhancements, the S24 Ultra claims the title for the top Android
-          smartphone in 2024.
-        </p>
-        <p>
-          <span className="block text-xl">Apple iPhone 15 Pro Max</span>
-          Apple&apos;s latest offering, the iPhone 15 Pro Max, continues the
-          tradition of delivering a premium experience. The 6.7&quot; AMOLED
-          display ensures brilliance for both videos and productivity, while the
-          new titanium build enhances its lightness without compromising
-          durability.
-        </p>
-        <p>
-          A notable upgrade is the inclusion of a USB-C port, enabling faster
-          transfers, external monitor support, and the ability to charge
-          accessories like the Apple Watch directly from the phone. The
-          introduction of a 5x zoom camera allows users to get closer to the
-          action, and the A17 Pro chip maintains top-notch graphical
-          performance.
-        </p>
-        <p>
-          <span className="block text-xl">Google Pixel 8 Pro</span>
-          Building upon the success of the Pixel 7 Pro, the Pixel 8 Pro takes
-          things a step further. The upgraded Tensor G3 chip enhances
-          performance, particularly in the realm of photography, where
-          Google&apos;s processing capabilities shine.
-        </p>
-        <p>
-          Running on Android 14, the Pixel 8 Pro provides the cleanest and
-          smoothest user experience, coupled with an impressive support lifespan
-          of seven years. The device features a premium build, including the
-          iconic camera bar design, offering a handset that excels in
-          fundamentals within a beautifully minimalist design. However, there is
-          room for improvement in battery life and charging capabilities.
-        </p>
-        <p>
-          <span className="block text-xl">OnePlus 12</span>
-          Staying true to its ethos of delivering value flagships, the OnePlus
-          12 offers high-end performance at a significantly lower cost than its
-          counterparts. Whether it&apos;s gaming, videos, or multitasking, this
-          phone handles it all effortlessly. The introduction of the Sony
-          LYT-808 camera sensor promises improved image quality by capturing 50%
-          more light compared to its predecessor.
-        </p>
-        <p>
-          What sets the OnePlus 12 apart is its remarkable 100-watt charging
-          capability, allowing a full battery charge in just 25 minutes. For
-          those seeking potent performance without the premium price tag, the
-          OnePlus 12 stands out as an excellent choice.
-        </p>
-        <p>
-          <span className="block text-xl">OnePlus Open</span>
-          In the era of foldable phones, the OnePlus Open emerges as a standout
-          model for its impeccable execution. Balancing size and weight, it
-          feels featherlight when folded and unfolds into a substantial, thin
-          slate. The software optimization for the expansive 7.8&quot; display
-          enables intuitive multitasking, accommodating up to three open apps
-          simultaneously.
-        </p>
-        <p>
-          Despite a slightly large camera bump, the image quality is
-          spectacular, particularly for cinematic tones. The OnePlus Open offers
-          top-tier specifications, including 16GB RAM as standard, 65W fast
-          charging, and a nearly crease-free inner display, making it the
-          preferred choice for foldable phones in 2024.
-        </p>
-        <p>
-          <span className="block text-xl">Vivo X100 Pro</span>
-          Vivo has consistently excelled in the camera department, and the X100
-          Pro takes this prowess to new heights. Boasting a massive 1-inch 50MP
-          main sensor, along with a 50MP wide angle and 64MP 3x optical zoom,
-          this device delivers exceptional low-light photography, with a
-          particularly impressive night mode.
-        </p>
-        <p>
-          Beyond the cameras, the X100 Pro impresses with a brighter screen,
-          faster performance, and improved battery life. Vivo is also making
-          strides in cleaner, modern software with the introduction of the
-          FuntouchOS 14 skin. Notably, the X100 Pro is powered by
-          MediaTek&apos;s Dimensity 9300, which outperforms the Snapdragon 8 Gen
-          3 in benchmarks. For photography enthusiasts or those seeking an
-          alternative to mainstream options, the X100 Pro is worth considering.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "mars-hosts-a-damaged-helicopter-where-a-lake-once-existed",
-    timestamp: "Jan 30, 2024",
-    image: `/technology/jan-30-2024/mars-hosts-a-damaged-helicopter-where-a-lake-once-existed.webp`,
-    title: `Mars Hosts a Damaged Helicopter Where a Lake Once Existed`,
-    preArticle: `As humans, our emotional connections aren't always chosen, and the news of NASA's Ingenuity Mars Helicopter concluding its mission feels akin to learning about the passing of a beloved figure. While Ingenuity may not have celebrity status, its significant contributions to humanity's space exploratio`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          As humans, our emotional connections aren&apos;t always chosen, and
-          the news of NASA&apos;s Ingenuity Mars Helicopter concluding its
-          mission feels akin to learning about the passing of a beloved figure.
-          While Ingenuity may not have celebrity status, its significant
-          contributions to humanity&apos;s space exploration endeavors are
-          undeniable. Transported to Mars within the Perseverance Rover, it
-          landed on February 18, 2021, and on April 19 of the same year, it
-          achieved a historic feat as the first powered controlled flight on a
-          celestial body other than Earth.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/jan-30-2024/mars-hosts-a-damaged-helicopter-where-a-lake-once-existed(2).webp"
-            alt="mars-hosts-a-damaged-helicopter-where-a-lake-once-existed(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Originally designed for a technology demonstration with plans for up
-          to five experimental flights over 30 days, Ingenuity surpassed
-          expectations. Nearly three years later, it executed a remarkable 72
-          flights, covering over 14 times the intended distance and logging two
-          hours of flight time. Acting as an aerial scout for the Perseverance
-          rover, its remarkable achievements led one to consider
-          &quot;Scout&quot; as a fitting alternative name for the helicopter.
-        </p>
-        <p>
-          However, all journeys, whether positive or challenging, must
-          eventually conclude. The Ingenuity team planned a brief vertical hop
-          on January 18 to assess its location after an emergency landing in a
-          previous flight. Telemetry data revealed a successful ascent to 12
-          meters, hovering for 4.5 seconds before descending at one meter per
-          second. Unfortunately, contact with Perseverance was lost when it was
-          about a meter above the surface. While communication was restored the
-          following day, images showed damage to one rotor blade during landing,
-          rendering Ingenuity incapable of further flight. NASA is investigating
-          the communication dropout and the helicopter&apos;s orientation at
-          touchdown, but one certainty remains – Ingenuity&apos;s mission on
-          Mars has come to an end.
-        </p>
-        <p>
-          Not far from what may be Ingenuity&apos;s final resting place, the
-          Perseverance rover persists in its mission. Tasked with exploring
-          signs of past and present life on Mars, recent research led by UCLA
-          and the University of Oslo, published in Science Advances, confirmed
-          the existence of an ancient lake in the Jezero crater, shared by both
-          the rover and the helicopter. The study reveals that the crater was
-          once filled with water, depositing sediment layers on the floor. The
-          subsequent shrinking of the lake and the erosion of sediments formed a
-          massive delta. Perseverance&apos;s ground-penetrating radar provided
-          data for this discovery, illustrating epochs of environmental changes.
-          The rover is actively collecting rock and soil samples, with the hope
-          that these specimens may contain traces of life, further fueled by the
-          confirmation of lake sediments on the Red Planet.
         </p>
       </div>
     ),

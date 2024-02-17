@@ -1,250 +1,170 @@
 import Image from "next/image";
 
 export const entertainment = [
-  // feb-06-2024
+  // feb-17-2024
   {
-    id: "prabhas-emerges-as-a-phenomenon-composer-santosh-narayanan-reveals-insights-into-his-role-in-kalki-2898-ad",
-    timestamp: "Feb 06, 2024",
-    image: `/entertainment/feb-06-2024/prabhas-emerges-as-a-phenomenon-composer-santosh-narayanan-reveals-insights-into-his-role-in-kalki-2898-ad.webp`,
-    title: `Prabhas Emerges as a Phenomenon: Composer Santosh Narayanan Reveals Insights into His Role in Kalki 2898 AD`,
-    preArticle: `As Prabhas' eagerly-awaiting fans anticipate exciting updates, Santhosh Narayanan, the film's music director, recently shared some insights from his music sessions. In an interview with Madan Gowri, Narayanan praised Prabhas as a phenomenon in the film industry, emphasizing his commitment to craftin`,
+    id: "met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event",
+    timestamp: "Feb 17, 2024",
+    image: `/entertainment/feb-17-2024/met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event.webp`,
+    title: `Met Gala 2024: Zendaya, Jennifer Lopez, and Bad Bunny Set to Co-Chair the Prestigious Event`,
+    preArticle: `Renowned figures from the entertainment industry, including Bad Bunny, Jennifer Lopez, Zendaya, and Chris Hemsworth, have been designated as co-hosts for the upcoming Met Gala, a highly anticipated event on the New York social scene, as disclosed by the Metropolitan Museum of Art on Thursday. Collab`,
     article: (
       <div className="space-y-6">
         <p>
-          As Prabhas&apos; eagerly-awaiting fans anticipate exciting updates,
-          Santhosh Narayanan, the film&apos;s music director, recently shared
-          some insights from his music sessions. In an interview with Madan
-          Gowri, Narayanan praised Prabhas as a phenomenon in the film industry,
-          emphasizing his commitment to crafting extraordinary music for the
-          star.
-        </p>
-        <p>
-          &quot;I am revamping Prabhas sir&apos;s entire introduction. I am
-          creating something very special as Prabhas is a phenomenon. It has to
-          be grand and appeal to the masses,&quot; he revealed.
+          Renowned figures from the entertainment industry, including Bad Bunny,
+          Jennifer Lopez, Zendaya, and Chris Hemsworth, have been designated as
+          co-hosts for the upcoming Met Gala, a highly anticipated event on the
+          New York social scene, as disclosed by the Metropolitan Museum of Art
+          on Thursday. Collaborating with Vogue&apos;s Editor-In-Chief, Anna
+          Wintour, they will lead the proceedings of the gala scheduled for May
+          6, an evening that traditionally showcases the glamorous attire of the
+          entertainment world&apos;s luminaries while inaugurating the annual
+          exhibit at the Met&apos;s Costume Institute.
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/entertainment/feb-06-2024/prabhas-emerges-as-a-phenomenon-composer-santosh-narayanan-reveals-insights-into-his-role-in-kalki-2898-ad(2).avif"
-            alt="prabhas-emerges-as-a-phenomenon-composer-santosh-narayanan-reveals-insights-into-his-role-in-kalki-2898-ad(2)"
+            src="/entertainment/feb-17-2024/met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event(2).webp"
+            alt="met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event(2)"
             fill
             sizes="auto"
             className="object-cover object-center"
           />
         </div>
         <p>
-          Narayanan hinted at a mind-blowing and powerful introduction for
-          Prabhas in the film, fueling fans&apos; anticipation for this special
-          moment that promises to elevate the overall excitement.
+          The chosen theme for this year&apos;s event is &quot;The Garden of
+          Time,&quot; inspired by the 1962 short story of the same name penned
+          by English author J.G. Ballard. The theme delves into the transient
+          nature of beauty, aligning with the narrative of Ballard&apos;s
+          literary work. This theme resonates with the concurrent exhibit titled
+          &quot;Sleeping Beauties: Reawakening Fashion.&quot; The exhibition
+          will spotlight the most delicate pieces from the Costume
+          Institute&apos;s extensive collection, visually connected by
+          nature-inspired iconography. Open to the public from May 10 to
+          September 2, the exhibit is a crucial element in supporting the
+          Costume Institute&apos;s endeavors, including exhibitions and
+          acquisitions.
         </p>
         <p>
-          As the updates for Kalki 2898 AD unfold, fans can look forward to a
-          grand and captivating introduction for Prabhas in the film.
-        </p>
-        <p>
-          About Kalki 2898 AD: The cast of Kalki 2898 AD includes acclaimed
-          actors such as Deepika Padukone in the lead, alongside Amitabh
-          Bachchan, Kamal Haasan, Disha Patani, Pasupathy, and others. The
-          expectation is that each cast member will play a significant role,
-          contributing depth to the storyline.
-        </p>
-        <p>
-          The release date for Kalki 2898 AD is scheduled for May 9. The makers,
-          Vyjayanthi Movies, and director Nag Ashwin hold sentimental value for
-          this date, considering its historical success with films like
-          &quot;Jagadeka Veerudu Athiloka Sundari&quot; in 1990 and
-          &quot;Mahanati&quot; in 2018. To continue this streak, they have
-          chosen May 9, 2024, for the global theatrical release of Project K.
+          Originating in 1948, the Met Gala was initially an exclusive gathering
+          for New York&apos;s elite. However, under the stewardship of Anna
+          Wintour in the 1990s, it underwent a transformation from a
+          high-society affair to a high-profile runway showcasing the opulent
+          and famous. Beyond its societal prominence, the gala has evolved into
+          a captivating spectacle on social media platforms, further enhancing
+          its cultural significance.
         </p>
       </div>
     ),
   },
   {
-    id: "love-storiyaan-authentic-indian-love-stories-unveiling-on-valentines-day",
-    timestamp: "Feb 06, 2024",
-    image: `/entertainment/feb-06-2024/love-storiyaan-authentic-indian-love-stories-unveiling-on-valentines-day.jpg`,
-    title: `"Love Storiyaan": Authentic Indian Love Stories Unveiling on Valentine's Day`,
-    preArticle: `As Valentine’s Day approaches, streaming platforms are preparing to offer a selection of romantic content for cozy nights in. Prime Video is set to launch a series titled 'Love Storiyaan' on February 14th, aligning with the day synonymous with love and romance. The show, featuring the creative visi`,
+    id: "jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits",
+    timestamp: "Feb 17, 2024",
+    image: `/entertainment/feb-17-2024/jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits.webp`,
+    title: `Jungkook's Exceptional Influence: BTS Member's Solo Album Propels HYBE to Record Quarterly Operating Profits`,
+    preArticle: `BTS sensation Jungkook's impact has proven unparalleled, notably contributing to HYBE's remarkable fourth-quarter operational profit surge in 2023. KB Securities, on February 15, recognized Jungkook as a key factor behind HYBE's substantial operational profit of KRW 94.9 billion (approximately Rs 59`,
     article: (
       <div className="space-y-6">
         <p>
-          As Valentine’s Day approaches, streaming platforms are preparing to
-          offer a selection of romantic content for cozy nights in. Prime Video
-          is set to launch a series titled &apos;Love Storiyaan&apos; on
-          February 14th, aligning with the day synonymous with love and romance.
-        </p>
-        <p>
-          The show, featuring the creative vision of six directors - Akshay
-          Indikar, Archana Phadke, Collin D’Cunha, Hardik Mehta, Shazia Iqbal,
-          and Vivek Soni - is produced by Dharmatic Entertainment. Executive
-          Producers Karan Johar, Apoorva Mehta, and Somen Mishra lead the
-          project, drawing inspiration from the narratives showcased on the
-          India Love Project, a social media platform founded by former
-          journalists Priya Ramani, Samar Halarnkar, and Niloufer Venkatraman,
-          dedicated to celebrating love in all its forms.
+          BTS sensation Jungkook&apos;s impact has proven unparalleled, notably
+          contributing to HYBE&apos;s remarkable fourth-quarter operational
+          profit surge in 2023. KB Securities, on February 15, recognized
+          Jungkook as a key factor behind HYBE&apos;s substantial operational
+          profit of KRW 94.9 billion (approximately Rs 590 crore) during Q4
+          2023. This figure reflects an impressive 86% increase compared to the
+          same period the previous year, marking the highest quarterly
+          performance in the company&apos;s history. Researcher Lee Seon-hwa
+          specifically credited the sales from Jungkook&apos;s debut solo album,
+          along with contributions from SEVENTEEN and ENHYPEN&apos;s releases,
+          as instrumental in achieving this milestone. Jungkook stood out as the
+          sole soloist acknowledged for significantly impacting HYBE&apos;s
+          profitability.
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/entertainment/feb-06-2024/love-storiyaan-authentic-indian-love-stories-unveiling-on-valentines-day(2).jpg"
-            alt="love-storiyaan-authentic-indian-love-stories-unveiling-on-valentines-day(2)"
+            src="/entertainment/feb-17-2024/jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits(2).webp"
+            alt="jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits(2)"
             fill
             sizes="auto"
             className="object-cover object-center"
           />
         </div>
         <p>
-          Aparna Purohit, head of Originals for India and Southeast Asia at
-          Prime Video, stated, “Love Storiyaan epitomizes Prime Video’s
-          dedication to crafting stories that authentically reflect the
-          diversity of our audience while deeply resonating with their emotions.
-          This series unveils genuine and uplifting love stories that transcend
-          societal norms, inviting viewers into a world where love knows no
-          boundaries. With its poignant storytelling, it’s sure to strike a
-          chord with audiences.”
+          Despite these successes, KB Securities revised HYBE&apos;s target
+          stock price from 330,000 won (about Rs 20,000) to 300,000 won (about
+          Rs 18,000). This adjustment was attributed to an anticipated decline
+          in operational profit, influenced by changes in strategy resulting
+          from BTS&apos; absence and the impending enlistment of SEVENTEEN
+          members.
         </p>
         <p>
-          Karan Johar shared insights on the project, mentioning, “Love
-          Storiyaan goes beyond being a mere recounting of real-life tales of
-          love. It explores love in all its facets, painting a beautiful mosaic
-          of connections that surpass the ordinary.”
-        </p>
-        <p>
-          Reflecting on the project, Johar added, “Throughout my career as a
-          filmmaker and producer, I’ve had the privilege of narrating numerous
-          love stories that have shaped the Indian cinema genre. However, what
-          struck me about the India Love Project, which aided in curating these
-          stories, was the rawness and individuality of each narrative. These
-          are the stories of real individuals, hailing from diverse backgrounds,
-          who encountered significant obstacles in their quest for true love.
-          Yet, they exhibited resilience and determination, breaking through
-          cultural, religious, gender, and even wartime barriers. This marks our
-          maiden venture into presenting real stories of real people to our
-          audiences.”
+          In terms of Jungkook&apos;s individual endeavors, following his solo
+          debut with &quot;Seven&quot; in July 2023, a collaborative project
+          with The Kid LAROI, and the release of his first solo album
+          &quot;Golden&quot; in November of the same year, Jungkook commenced
+          his mandatory military service alongside Jimin on December 12.
+          Following a five-week basic military training period, both Jimin and
+          Jungkook reportedly joined the 5th Infantry Division, the same
+          division as their bandmate Jin. Currently, all seven BTS members are
+          serving in the South Korean Army, and a group reunion is anticipated
+          by June 2025.
         </p>
       </div>
     ),
   },
   {
-    id: "special-premiere-for-sehore-villagers-of-kiran-raos-laapataa-ladies",
-    timestamp: "Feb 06, 2024",
-    image: `/entertainment/feb-06-2024/special-premiere-for-sehore-villagers-of-kiran-raos-laapataa-ladies.avif`,
-    title: `Special Premiere for Sehore Villagers of Kiran Rao's 'Laapataa Ladies'`,
-    preArticle: `As the release date for Kiran Rao's directorial venture 'Laapataa Ladies' approaches, the film is gaining momentum. While the trailer provided a glimpse into its humorous world, it left the audience eagerly anticipating more from this comedic masterpiece. To further immerse the audience in the film'`,
+    id: "release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one",
+    timestamp: "Feb 17, 2024",
+    image: `/entertainment/feb-17-2024/release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one.jpg`,
+    title: `Release Date Revealed and Poster Unveiled for Jr NTR's 'Devara Part One'`,
+    preArticle: `The much-anticipated film, "Devara Part One," featuring N.T. Rama Rao Jr. and Jhanvi Kapoor, has revealed a fresh release date and unveiled an updated poster on Friday. Originally slated for April 5, the movie will now hit screens on October 10. South Indian superstar Jr. NTR shared the new poster`,
     article: (
       <div className="space-y-6">
         <p>
-          As the release date for Kiran Rao&apos;s directorial venture
-          &apos;Laapataa Ladies&apos; approaches, the film is gaining momentum.
-          While the trailer provided a glimpse into its humorous world, it left
-          the audience eagerly anticipating more from this comedic masterpiece.
-          To further immerse the audience in the film&apos;s comedic universe,
-          the director has planned a special premiere in Bhopal, where the
-          entire Sehore village, where the film was extensively shot, will be
-          invited to be part of the screening.
+          The much-anticipated film, &quot;Devara Part One,&quot; featuring N.T.
+          Rama Rao Jr. and Jhanvi Kapoor, has revealed a fresh release date and
+          unveiled an updated poster on Friday.
+        </p>
+        <p>
+          Originally slated for April 5, the movie will now hit screens on
+          October 10.
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/entertainment/feb-06-2024/special-premiere-for-sehore-villagers-of-kiran-raos-laapataa-ladies(2).avif"
-            alt="special-premiere-for-sehore-villagers-of-kiran-raos-laapataa-ladies(2)"
+            src="/entertainment/feb-17-2024/release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one(2).webp"
+            alt="release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one(2)"
             fill
             sizes="auto"
             className="object-cover object-center"
           />
         </div>
         <p>
-          The creators of &apos;Laapataa Ladies&apos; are set to visit Bhopal
-          for the film&apos;s exclusive premiere. Given that the film was shot
-          extensively in the Sehore village, director Kiran Rao has extended
-          invitations to the actual villagers, who were involved in the film as
-          it was filmed on location.
+          South Indian superstar Jr. NTR shared the new poster and announced the
+          revised release date, captioned as #Devara Part 1, set to release on
+          10.10.2024.
         </p>
         <p>
-          Scheduled for release on March 1st, 2024, &apos;Laapataa Ladies,&apos;
-          presented by Jio Studios, is directed by Kiran Rao and produced by
-          Aamir Khan and Jyoti Deshpande. The film is a collaboration between
-          Aamir Khan Productions and Kindling Productions, with a script based
-          on an award-winning story by Biplab Goswami. Sneha Desai has written
-          the screenplay and dialogue, with additional dialogues penned by
-          Divyanidhi Sharma.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "bts-at-the-grammys-evolution-of-the-k-pop-groups-success-and-memorable-moments-in-the-spotlight",
-    timestamp: "Feb 06, 2024",
-    image: `/entertainment/feb-06-2024/bts-at-the-grammys-evolution-of-the-k-pop-groups-success-and-memorable-moments-in-the-spotlight.webp`,
-    title: `BTS at the Grammys: Evolution of the K-Pop Group's Success and Memorable Moments in the Spotlight`,
-    preArticle: `BTS, the globally celebrated K-pop sensation, has left an enduring mark on the Grammy Awards stage, showcasing a blend of talent and charisma through a presentation, three dynamic performances, and four memorable appearances. Remarkably, BTS stands as the sole K-pop act with five Grammy nominations,`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          BTS, the globally celebrated K-pop sensation, has left an enduring
-          mark on the Grammy Awards stage, showcasing a blend of talent and
-          charisma through a presentation, three dynamic performances, and four
-          memorable appearances. Remarkably, BTS stands as the sole K-pop act
-          with five Grammy nominations, underscoring their profound influence
-          and artistic prowess. Let&apos;s revisit the remarkable instances when
-          BTS graced the Grammy Awards with their unparalleled presence and
-          musical brilliance.
+          Directed and scripted by Koratala Siva, &quot;Devara Part 1&quot;
+          boasts a stellar cast including Saif Ali Khan, Prakash Raj, Srikanth,
+          Shine Tom Chako, and Narain. Jhanvi Kapoor is set to make her Telugu
+          cinema debut alongside Khan.
         </p>
         <p>
-          In their debut appearance at the 2019 Grammy Awards, BTS captivated
-          audiences with their impeccable style, adorned in black-and-white
-          tuxedos. During a red carpet interview, they tantalized fans with
-          hints of upcoming music, creating anticipation for their impending
-          album. Expressing excitement about potential collaborations, BTS
-          mentioned dream partners like H.E.R., Travis Scott, Lady Gaga, and
-          Camila Cabello. Their infectious joy peaked as they performed Dolly
-          Parton&apos;s &quot;Jolene&quot; in a special segment, marking a
-          historic moment as the first K-pop group to present a Grammy award—
-          Best R&B Album to H.E.R., achieving a monumental milestone.
+          Produced by Sudhakar Mikilineni and Kosaraju HariKrishna under the
+          Yuvasudha banner, the film will see a multi-language release,
+          including Telugu, Hindi, Tamil, Malayalam, and Kannada.
         </p>
         <p>
-          BTS continued to showcase their star power at the 2020 Grammys with a
-          dynamic performance of &quot;Seoul Town Road,&quot; a remix of Lil Nas
-          X&apos;s &quot;Old Town Road&quot; featuring RM. Collaborating with
-          artists like Lil Nas X, Mason Ramsey, Billy Ray Cyrus, Diplo, and Nas,
-          the South Korean boy band delivered a memorable show. Although it was
-          their first Grammy performance, the decision to include them in a
-          collaborative act stirred discussions about their global influence and
-          chart-topping success deserving a solo spotlight. Despite the
-          oversight in nominations, BTS&apos;s presence marked a significant
-          step forward, demonstrating their ability to captivate Western
-          audiences and leaving fans optimistic for future recognition.
+          This installment is the first part of a two-part film, featuring music
+          by Anirudh Ravichander, cinematography by R. Rathnavelu, and editing
+          by A. Sreekar Prasad.
         </p>
         <p>
-          The 2021 Grammy Awards witnessed BTS making history as the first
-          Korean pop artist recognized by the Recording Academy. Although they
-          didn&apos;t secure a win in the Best Pop Duo/Group Performance
-          category for &quot;Dynamite,&quot; their vibrant performance stole the
-          spotlight. Broadcasting from Seoul, South Korea, BTS brought their
-          Billboard Hot 100 chart-topper to life with energetic choreography,
-          high kicks, and infectious smiles. Seamlessly integrating their
-          performance with the Grammy Awards&apos; Los Angeles set, it became
-          one of the night&apos;s most memorable moments.
-        </p>
-        <p>
-          Taking the stage at the 64th Grammy Awards, BTS performed
-          &quot;Butter&quot; and continued to add to their Grammy legacy with a
-          nomination for Best Pop Duo/Group Performance. Displaying versatility
-          and showmanship, the group transformed into suave super spies in a
-          James Bond and Mission Impossible-inspired environment. Clad in sleek
-          black suits and despite Jin&apos;s hand cast, they delivered a
-          flawless show that garnered a standing ovation, reaffirming their
-          status as a global phenomenon.
-        </p>
-        <p>
-          On November 15 of the previous year, BTS received three nominations at
-          the 65th Annual Grammy Awards. Notably, &quot;Yet to Come&quot; earned
-          a nod for Best Music Video, and their collaboration with Coldplay,
-          &quot;My Universe,&quot; was nominated for Best Pop Duo/Group
-          Performance. This accomplishment solidified BTS as the only act with
-          three consecutive nominations in this category since its introduction
-          in 2011. Additionally, the band earned a nomination for Album of the
-          Year for their collaboration on Coldplay&apos;s &quot;Music of the
-          Spheres.&quot; Despite their nominations, none of the BTS members
-          attended the annual award ceremony.
+          Koratala Siva, acclaimed for directing films like &quot;Mirchi&quot;
+          (2013), &quot;Srimanthudu&quot; (2016), &quot;Janatha Garage&quot;
+          (2016), &quot;Bharat Ane Nenu&quot; (2018), and &quot;Acharya&quot;
+          (2022), has received accolades with two Nandi Awards and an IIFA
+          Utsavam Award for his directorial prowess. In 2016, he was also
+          honored with the Nandi Award for Best Story Writer.
         </p>
       </div>
     ),
