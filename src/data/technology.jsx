@@ -144,7 +144,7 @@ export const technology = [
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/technology/feb-27-2024/first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2).webp"
+            src="/technology/feb-27-2024/first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2).jpg"
             alt="first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2)"
             fill
             sizes="auto"
