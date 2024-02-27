@@ -27,7 +27,7 @@ export const technology = [
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/technology/feb-17-2024/truecaller-to-introduce-call-recording-transcription-and-summarization(2).jpg"
+            src="/technology/feb-27-2024/truecaller-to-introduce-call-recording-transcription-and-summarization(2).jpg"
             alt="truecaller-to-introduce-call-recording-transcription-and-summarization(2)"
             fill
             sizes="auto"
@@ -85,7 +85,7 @@ export const technology = [
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/technology/feb-17-2024/japanese-moon-lander-survives-second-lunar-night-outperforming-expectations(2).webp"
+            src="/technology/feb-27-2024/japanese-moon-lander-survives-second-lunar-night-outperforming-expectations(2).webp"
             alt="japanese-moon-lander-survives-second-lunar-night-outperforming-expectations(2)"
             fill
             sizes="auto"
@@ -144,7 +144,7 @@ export const technology = [
         </p>
         <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
           <Image
-            src="/technology/feb-17-2024/first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2).webp"
+            src="/technology/feb-27-2024/first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2).webp"
             alt="first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2)"
             fill
             sizes="auto"
