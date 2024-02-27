@@ -1,6 +1,193 @@
 import Image from "next/image";
 
 export const technology = [
+  // feb-27-2024
+  {
+    id: "truecaller-to-introduce-call-recording-transcription-and-summarization",
+    timestamp: "Feb 27, 2024",
+    image: `/technology/feb-27-2024/truecaller-to-introduce-call-recording-transcription-and-summarization.webp`,
+    title: `Truecaller to Introduce Call Recording Transcription and Summarization`,
+    preArticle: `Truecaller has introduced its AI-driven call recording feature in India, now available for both iOS and Android users. This new tool enables users to record phone conversations directly within the Truecaller app, providing transcription and summary generation capabilities. Utilizing artificial inte`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Truecaller has introduced its AI-driven call recording feature in
+          India, now available for both iOS and Android users. This new tool
+          enables users to record phone conversations directly within the
+          Truecaller app, providing transcription and summary generation
+          capabilities.
+        </p>
+        <p>
+          Utilizing artificial intelligence technology, Truecaller offers live
+          call transcription, allowing users to concentrate fully on the
+          conversation without the need for note-taking. After the call
+          concludes, Truecaller&apos;s AI automatically generates a
+          transcription of the entire conversation along with a convenient
+          summary.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-17-2024/truecaller-to-introduce-call-recording-transcription-and-summarization(2).jpg"
+            alt="truecaller-to-introduce-call-recording-transcription-and-summarization(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          For iPhone users, the feature seamlessly integrates into the
+          Truecaller app. During a call, simply tap &quot;Record a Call&quot; in
+          the Search tab to initiate Truecaller&apos;s recording line and merge
+          the calls. Upon completion, users receive a notification, and all
+          recordings are securely stored locally on the device.
+        </p>
+        <p>
+          Android users can find a dedicated record button within
+          Truecaller&apos;s dialer, enabling them to start or stop capturing
+          phone meetings with a single tap. A floating button serves the same
+          purpose for other dialers. Similar to iPhone users, Android users
+          receive a notification when the call file is processed and ready for
+          review.
+        </p>
+        <p>
+          Currently, the transcription feature supports English and Hindi
+          languages, with plans for Truecaller to include additional languages
+          in future updates.
+        </p>
+        <p>
+          Accessing this new functionality is straightforward, as it is part of
+          Truecaller&apos;s Premium package, priced at Rs 75 per month or Rs 529
+          annually. Subscribers not only gain access to call recording but also
+          to other Premium benefits such as contact requests, extended call
+          history, and more.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "japanese-moon-lander-survives-second-lunar-night-outperforming-expectations",
+    timestamp: "Feb 27, 2024",
+    image: `/technology/feb-27-2024/japanese-moon-lander-survives-second-lunar-night-outperforming-expectations.jpg`,
+    title: `Japanese Moon Lander Survives Second Lunar Night, Outperforming Expectations`,
+    preArticle: `Japan's inaugural moon lander has responded to an Earth signal, indicating its survival through a second frigid lunar night, as announced by Japan's space agency on Monday. JAXA referred to the signal received late Sunday as a "miracle" since the probe was not originally designed to endure the luna`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Japan&apos;s inaugural moon lander has responded to an Earth signal,
+          indicating its survival through a second frigid lunar night, as
+          announced by Japan&apos;s space agency on Monday.
+        </p>
+        <p>
+          JAXA referred to the signal received late Sunday as a
+          &quot;miracle&quot; since the probe was not originally designed to
+          endure the lunar night, characterized by temperatures plummeting to
+          minus 170 degrees Celsius (minus 274 degrees Fahrenheit).
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-17-2024/japanese-moon-lander-survives-second-lunar-night-outperforming-expectations(2).webp"
+            alt="japanese-moon-lander-survives-second-lunar-night-outperforming-expectations(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The spacecraft, known as the Smart Lander for Investigating Moon
+          (SLIM), executed a precise touchdown on Jan. 20, marking Japan as the
+          fifth nation to successfully deploy a probe on the moon.
+        </p>
+        <p>
+          However, upon landing, the probe found itself inverted, hindering its
+          solar panels&apos; ability to access sunlight initially, resulting in
+          a shutdown within hours. SLIM regained power on the eighth day
+          post-landing, upon exposure to sunlight.
+        </p>
+        <p>
+          Over subsequent days, SLIM gathered geological data from lunar rocks
+          before entering a hibernation period in late January to endure another
+          lunar night.
+        </p>
+        <p>
+          JAXA mentioned that Sunday&apos;s communication was brief as it was
+          still &quot;lunar midday,&quot; with SLIM experiencing high
+          temperatures of about 100 degrees Celsius (212 Fahrenheit). The agency
+          is preparing to re-establish contact once the vehicle has cooled down.
+        </p>
+        <p>
+          Scientists are eager to analyze moon rock mineral compositions to
+          unravel clues about the moon&apos;s origins, comparing them with those
+          of Earth.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future",
+    timestamp: "Feb 27, 2024",
+    image: `/technology/feb-27-2024/first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future.webp`,
+    title: `First Glimpse at Lenovo's Transparent Concept Laptop: A Gaze into the Future`,
+    preArticle: `As a child, I found computers peculiar, yet as I matured, that initial strangeness dissipated. Despite my nostalgia for 90s computers, Lenovo's unveiling of a transparent laptop promises to transport me into the future. At the Mobile World Congress in Barcelona, I had the opportunity to explore Len`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          As a child, I found computers peculiar, yet as I matured, that initial
+          strangeness dissipated. Despite my nostalgia for 90s computers,
+          Lenovo&apos;s unveiling of a transparent laptop promises to transport
+          me into the future.
+        </p>
+        <p>
+          At the Mobile World Congress in Barcelona, I had the opportunity to
+          explore Lenovo&apos;s proof-of-concept ThinkBook laptop, featuring a
+          transparent display akin to augmented reality. Interacting with the
+          device evoked mixed emotions about its innovative positioning.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-17-2024/first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2).webp"
+            alt="first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Upon finally accessing the demo unit, the experience was unlike any
+          familiar laptop usage. The device resembled a single piece of glass,
+          with floating Windows icons and cursor movements resembling mid-air
+          interaction, akin to using an AR headset. While intriguing, grasping
+          the concept of a transparent screen laptop required more time to
+          acclimate.
+        </p>
+        <p>
+          The standout feature of the device is its 17.3-inch MicroLED
+          transparent display, boasting 55% transparency. Although visible from
+          behind, the display becomes less transparent as pixels illuminate,
+          lending a magical, dystopian aesthetic to the user experience. Despite
+          its allure, the laptop&apos;s bulkiness contrasts sharply with the
+          sleekness of a MacBook Air, featuring a dual-screen design with a
+          capacitive touchscreen and trackpad on the bottom.
+        </p>
+        <p>
+          Upon further exploration, I discovered that the keyboard functions as
+          a projection that vanishes when a stylus approaches or when the user
+          steps away, transforming the secondary touchscreen into a drawing
+          surface. Additionally, a camera positioned below the display hinge
+          facilitates object identification and generative AI, displaying
+          relevant information about objects placed behind the screen.
+        </p>
+        <p>
+          While the Lenovo ThinkBook Transparent laptop demo impressed, it
+          remains far from retail availability. Questions regarding its
+          practicality and user experience must be addressed, especially
+          considering the limited resolution of the MicroLED panel, currently
+          restricted to HD quality. Lenovo acknowledges the challenge of
+          achieving Full HD resolution on a transparent display, underscoring
+          the need for further development before market release.
+        </p>
+      </div>
+    ),
+  },
   // feb-17-2024
   {
     id: "microsoft-provides-significant-insights-into-the-future-of-xbox-unveils-new-hardware-exclusive-titles-on-alternate-consoles-and-beyond",
@@ -264,221 +451,6 @@ export const technology = [
           For other damages, Apple quotes up to $2,399, emphasizing the
           importance of handling the headset with care to avoid potential repair
           expenses.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease",
-    timestamp: "Feb 04, 2024",
-    image: `/technology/feb-04-2024/researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease.png`,
-    title: `Researchers suggest a novel approach for addressing memory problems induced by Alzheimer's disease`,
-    preArticle: `A groundbreaking study proposes an innovative strategy to address the memory issues associated with Alzheimer's and related dementia, diverging from the conventional focus on reducing toxic proteins. Published in The Journal of Clinical Investigation by researchers at the Buck Institute for Research`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          A groundbreaking study proposes an innovative strategy to address the
-          memory issues associated with Alzheimer&apos;s and related dementia,
-          diverging from the conventional focus on reducing toxic proteins.
-          Published in The Journal of Clinical Investigation by researchers at
-          the Buck Institute for Research on Aging, the study explores the
-          potential of targeting the protein KIBRA, primarily found in the
-          kidneys and brain.
-        </p>
-        <p>
-          Contrary to prevailing research, which aims to diminish toxic proteins
-          in the brain, the team, led by senior author Tara Tracy, Assistant
-          Professor at Buck, concentrates on reversing the damage caused by
-          Alzheimer&apos;s. KIBRA, predominantly located at synapses in the
-          human brain, plays a crucial role in memory formation and recall. The
-          study reveals that Alzheimer&apos;s brains exhibit a deficiency in
-          KIBRA, prompting the researchers to investigate its impact on synaptic
-          signaling.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/feb-04-2024/researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease(2).webp"
-            alt="researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Measuring KIBRA levels in human cerebrospinal fluid, the team observed
-          an inverse relationship between levels in the fluid and the brain,
-          correlating with dementia severity. Surprisingly, a strong correlation
-          emerged between increased tau levels—a toxic protein associated with
-          Alzheimer&apos;s—and elevated KIBRA levels in the cerebrospinal fluid.
-        </p>
-        <p>
-          To understand KIBRA&apos;s influence on synapses, the researchers
-          created a functional version of the protein and tested it on lab mice
-          with Alzheimer&apos;s-like conditions. The results indicated that
-          KIBRA has the potential to reverse the specific memory impairment
-          linked to this form of dementia, suggesting its ability to rescue
-          mechanisms supporting synaptic resilience.
-        </p>
-        <p>
-          The findings open the door to the possibility of using KIBRA as a
-          treatment to enhance memory, even in the presence of toxic proteins
-          responsible for damage in Alzheimer&apos;s. The study marks a
-          significant shift in the approach to Alzheimer&apos;s treatment,
-          focusing on repairing synaptic function rather than solely reducing
-          toxic protein accumulation. The researchers are now working on
-          developing a therapy based on these promising results.
-        </p>
-      </div>
-    ),
-  },
-  // jan-31-2024
-  {
-    id: "ceos-of-tech-companies-anticipated-to-support-legislation-and-offer-sneak-peek-into-policy-plans-during-senate-child-safety-hearing",
-    timestamp: "Jan 31, 2024",
-    image: `/technology/jan-31-2024/ceos-of-tech-companies-anticipated-to-support-legislation-and-offer-sneak-peek-into-policy-plans-during-senate-child-safety-hearing.avif`,
-    title: `CEOs of Tech Companies Anticipated to Support Legislation and Offer Sneak Peek into Policy Plans During Senate Child Safety Hearing`,
-    preArticle: `Tech CEOs are scheduled to testify on Wednesday at a Senate Judiciary Committee hearing addressing child safety concerns on social media platforms. During the hearing, executives from X, TikTok, Discord, Meta, and Snap are expected to provide rare commitments to policies and endorse regulations, acc`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Tech CEOs are scheduled to testify on Wednesday at a Senate Judiciary
-          Committee hearing addressing child safety concerns on social media
-          platforms. During the hearing, executives from X, TikTok, Discord,
-          Meta, and Snap are expected to provide rare commitments to policies
-          and endorse regulations, according to representatives from these
-          companies.
-        </p>
-        <p>
-          These hearings involving tech CEOs are typically contentious, and this
-          one is anticipated to be no different. However, company
-          representatives have stated that their CEOs will extend olive branches
-          by expressing support for legislative initiatives and providing
-          assurances on policy matters.
-        </p>
-        <p>
-          Wifredo Fernandez, Chief of U.S. and Canadian Public Policy at X,
-          informed NBC News that CEO Linda Yaccarino plans to endorse the SHIELD
-          Act and other legislation related to child safety. The SHIELD Act,
-          proposed by Sen. Amy Klobuchar, D-Minn., seeks to criminalize the
-          transmission of nonconsensual intimate images and sexualized
-          depictions of children.
-        </p>
-        <p>
-          Several other child safety bills have been introduced in the Senate,
-          including the Kids Online Safety Act (KOSA), which aims to establish a
-          &quot;duty of care&quot; for social media companies recommending
-          content to minors. Additionally, the Stop CSAM Act focuses on
-          expanding protections for minor victims and enhancing reporting
-          requirements for child abuse, making it easier for victims to request
-          content removal from platforms.
-        </p>
-        <p>
-          Snap has already expressed support for KOSA, aligning it with their
-          existing policies. In November, Meta advocated for federal legislation
-          requiring parental approval for teens under 16 downloading apps.
-        </p>
-        <p>
-          While tech companies have been slow to support industry regulations,
-          the Senate Judiciary Committee sees these hearings as a strategy to
-          publicly pressure CEOs into making commitments and pave the way for
-          legislation this year.
-        </p>
-        <p>
-          Linda Yaccarino is not the only CEO making announcements during the
-          hearing. Snap&apos;s CEO Evan Spiegel is expected to share that the
-          company will not further deploy encryption on Snapchat in ways that
-          could impede scanning for child sexual abuse material. Although parts
-          of Snapchat are already encrypted, the platform proactively scans
-          messages and communications for such content or indications of
-          dangerous behaviors.
-        </p>
-        <p>
-          Encryption deployment in apps has sparked controversy, with child
-          safety advocates arguing that end-to-end encryption hinders law
-          enforcement investigations into potential child predators. On the
-          other hand, privacy advocates consider encryption a human right,
-          providing protection from surveillance for victims and whistleblowers.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "microsoft-suggests-5-ai-copilot-applications-for-cybersecurity-defense",
-    timestamp: "Jan 31, 2024",
-    image: `/technology/jan-31-2024/microsoft-suggests-5-ai-copilot-applications-for-cybersecurity-defense.jpeg`,
-    title: `Microsoft suggests 5 AI Copilot applications for cybersecurity defense`,
-    preArticle: `Microsoft Security Copilot represents the company's inaugural generative AI security product, aiming to redefine incident response, risk assessment, and identity troubleshooting for security teams beyond conventional security operations. Microsoft suggests five strategic ways to leverage this innova`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Microsoft Security Copilot represents the company&apos;s inaugural
-          generative AI security product, aiming to redefine incident response,
-          risk assessment, and identity troubleshooting for security teams
-          beyond conventional security operations. Microsoft suggests five
-          strategic ways to leverage this innovative tool for an effective cyber
-          defense:
-        </p>
-        <p>
-          <span className="text-xl block">Copilot for Device Management</span>
-          In the realm of device management, IT administrators grapple with the
-          intricate task of maintaining security amidst the evolving device
-          landscape and increasing IT complexity. Copilot seamlessly integrates
-          with Microsoft Intune, offering assistance in generating policies,
-          analyzing drafts, and conducting &quot;what-if&quot; analyses. These
-          functionalities contribute to identifying potential security and
-          productivity risks, enhancing overall device management.
-        </p>
-        <p>
-          <span className="text-xl block">Copilot for Identity Management</span>
-          Password-based attacks have surged over the past year, with emerging
-          techniques bypassing multifactor authentication. Copilot, integrated
-          with Microsoft Entra, proves instrumental in addressing identity risks
-          and troubleshooting daily identity tasks. It aids in understanding why
-          a sign-in necessitates multifactor authentication or why a user&apos;s
-          risk level has escalated, providing a robust solution to evolving
-          identity security challenges.
-        </p>
-        <p>
-          <span className="text-xl block">Copilot for Data Security</span>
-          Integrated with Microsoft Purview, Security Copilot streamlines data
-          security and compliance capabilities, bringing clarity to diverse data
-          types. Accelerating investigations and response times, it empowers
-          analysts of all levels to navigate complex tasks with AI support. This
-          integration enhances data security measures, ensuring a proactive
-          stance in safeguarding sensitive information.
-        </p>
-        <p>
-          <span className="text-xl block">Security Copilot for the Cloud</span>
-          In an era where organizations heavily rely on cloud resources,
-          maintaining robust cloud security emerges as a critical challenge for
-          cybersecurity teams. The integration of Security Copilot with
-          Microsoft Defender for Cloud facilitates security administrators in
-          identifying crucial risks and gaining insights into sensitive data and
-          its lateral movement within the cloud environment. This collaboration
-          fortifies cloud security measures, aligning them with contemporary
-          cyber threats.
-        </p>
-        <p>
-          <span className="text-xl block">
-            Copilot for Attack Surface Management
-          </span>
-          Tracking assets and vulnerabilities can be a time-consuming endeavor
-          for security teams, particularly when assessing which assets pose
-          risks to the organization. Microsoft Defender External Attack Surface
-          Management introduces novel capabilities that provide security teams
-          with visibility into their external attack surface. This feature
-          streamlines the process of identifying potential threats and
-          vulnerabilities, enabling a more efficient and targeted approach to
-          attack surface management.
-        </p>
-        <p>
-          Microsoft&apos;s Security Copilot emerges as a versatile tool,
-          offering solutions across various facets of cybersecurity, from device
-          and identity management to data security, cloud protection, and
-          streamlined attack surface management. The integration with key
-          Microsoft services enhances its effectiveness, positioning it as a
-          valuable asset for organizations navigating the complex landscape of
-          modern cyber threats.
         </p>
       </div>
     ),

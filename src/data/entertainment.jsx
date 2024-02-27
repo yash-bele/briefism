@@ -1,6 +1,93 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // feb-27-2024
+  {
+    id: "pankaj-udhas-1951-2024-across-generations-his-melodies-echoed-longing-and-heartache",
+    timestamp: "Feb 27, 2024",
+    image: `/entertainment/feb-27-2024/pankaj-udhas-1951-2024-across-generations-his-melodies-echoed-longing-and-heartache.png`,
+    title: `Pankaj Udhas (1951-2024): Across Generations, His Melodies Echoed Longing and Heartache`,
+    preArticle: `During the 1980s, as the ghazal genre gained prominence in Indian music, a deeply moving poem depicting a father's emotions upon receiving a letter from home resonated profoundly with the nation. The song "Chitthi aayi hai" touched millions, particularly the diaspora, stirring tears with lines like`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          During the 1980s, as the ghazal genre gained prominence in Indian
+          music, a deeply moving poem depicting a father&apos;s emotions upon
+          receiving a letter from home resonated profoundly with the nation.
+        </p>
+        <p>
+          The song &quot;Chitthi aayi hai&quot; touched millions, particularly
+          the diaspora, stirring tears with lines like &quot;You&apos;ve earned
+          a lot of money, it made you leave your country&quot; and &quot;Leave
+          this strange country and come back, break this cage, O bird, come
+          back,&quot; evoking memories and longings for home.
+        </p>
+        <p>
+          Pankaj Udhas, who infused his soul into these lyrics penned by Anand
+          Bakshi for Mahesh Bhatt&apos;s film &quot;Naam&quot; (1986), passed
+          away at the age of 72 after battling pancreatic cancer for months at
+          Mumbai&apos;s Breach Candy Hospital on Monday. He is survived by his
+          older brothers Manhar and Nirmal, wife Farida, and daughters Nayaab
+          and Rewa.
+        </p>
+        <p>
+          &quot;With a heavy heart, we announce the sad demise of Padmashri
+          Pankaj Udhas on 26th February 2024 due to a prolonged illness,&quot;
+          wrote his daughter Nayaab in an Instagram post. The singer&apos;s last
+          rites will be conducted on Tuesday.
+        </p>
+        <p>
+          President Droupadi Murmu and Prime Minister Narendra Modi were among
+          those mourning Udhas&apos;s death. Modi praised Udhas as a beacon of
+          Indian music whose melodies transcended generations, acknowledging
+          their interactions over the years and expressing condolences to his
+          family and fans.
+        </p>
+        <p>
+          After the emotional impact of &quot;Chitthi aayi hai,&quot; numerous
+          stories emerged of people returning home from abroad or feeling a deep
+          yearning to reunite with loved ones. This phenomenon propelled Udhas,
+          despite his ordinary voice, to prominence in the ghazal world
+          alongside stalwarts like Mehdi Hasan, Ghulam Ali, and Jagjit Singh.
+        </p>
+        <p>
+          Born in 1951 in Jetpur, Gujarat, Udhas hailed from a family with a
+          passion for music. His father, a farmer, played the dilruba and
+          encouraged Udhas and his brothers to delve into music from a young
+          age. Udhas initially learned tabla at the Sangeet Natya Akademi in
+          Rajkot before gravitating towards vocal classical music under the
+          guidance of Master Navrang Nagpurkar in Mumbai.
+        </p>
+        <p>
+          His exposure to ghazals during his time at St Xavier&apos;s sparked
+          his interest in the genre, leading him to learn Urdu from a tutor and
+          delve deeper into its intricacies. Despite facing challenges breaking
+          into the playback singing scene dominated by established voices, Udhas
+          persevered, driven by his love for ghazals and the receptive audience
+          abroad.
+        </p>
+        <p>
+          In the early 1980s, Udhas released notable ghazal albums like
+          &quot;Aahat&quot; (1980) and &quot;Nayaab&quot; (1985), but it was
+          &quot;Chitthi aayi hai&quot; that catapulted him to fame. Subsequent
+          hits like &quot;Jeeye to jeeye kaise&quot; from &quot;Saajan&quot;
+          (1991), &quot;Mohra&quot; (1994), and &quot;Chandi jaisa rang hai
+          tera&quot; (2001) cemented his popularity.
+        </p>
+        <p>
+          Udhas&apos;s contributions extended beyond ghazals; he ventured into
+          indie pop with songs like &quot;Ahista&quot; and founded the ghazal
+          festival &quot;Khazana.&quot; Despite halting performances due to
+          illness, his impact on Indian music remains indelible.
+        </p>
+        <p>
+          In Udhas&apos;s passing, the country mourns the loss of a voice that
+          stirred countless emotions and left an enduring legacy in the world of
+          music, as acknowledged by Yash Raj Films.
+        </p>
+      </div>
+    ),
+  },
   // feb-17-2024
   {
     id: "met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event",
@@ -245,7 +332,7 @@ export const entertainment = [
   },
   {
     id: "first-glimpse-of-sweet-home-season-3-song-kang-go-min-si-and-lee-do-hyun-front-netflixs-terrifying-journey",
-    timestamp: "Jan 2, 2024",
+    timestamp: "Feb 2, 2024",
     image: `/entertainment/feb-02-2024/first-glimpse-of-sweet-home-season-3-song-kang-go-min-si-and-lee-do-hyun-front-netflixs-terrifying-journey.jpeg`,
     title: `First Glimpse of Sweet Home Season 3: Song Kang, Go Min Si, and Lee Do Hyun Front Netflix's Terrifying Journey`,
     preArticle: `Netflix's supernatural thriller, Sweet Home, offers an exclusive sneak peek into its highly anticipated third season, unveiling a fresh narrative set to explore new connections after the losses of Season 1. Returning fan favorites Song Kang, Go Min Si, and the awaited comeback of Lee Do Hyun promise`,
