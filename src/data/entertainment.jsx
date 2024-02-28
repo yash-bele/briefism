@@ -1,6 +1,191 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // feb-28-2024
+  {
+    id: "all-india-ranking-varun-grovers-film-reflects-on-the-romanticized-struggle-of-being-12th-fail-but-is-haunted-by-trauma",
+    timestamp: "Feb 28, 2024",
+    image: `/entertainment/feb-28-2024/all-india-ranking-varun-grovers-film-reflects-on-the-romanticized-struggle-of-being-12th-fail-but-is-haunted-by-trauma.avif`,
+    title: `All India Ranking: Varun Grover's Film Reflects on the Romanticized Struggle of Being 12th Fail, But is Haunted by Trauma`,
+    preArticle: `In his debut feature film, "All India Rank," Varun Grover diverges from the familiar themes of academic pressure and competitive zeal depicted in "12th Fail" and "Kota Factory." Instead, he crafts a narrative that prioritizes characters and emotions, particularly the nuances of first love, while cri`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In his debut feature film, &quot;All India Rank,&quot; Varun Grover
+          diverges from the familiar themes of academic pressure and competitive
+          zeal depicted in &quot;12th Fail&quot; and &quot;Kota Factory.&quot;
+          Instead, he crafts a narrative that prioritizes characters and
+          emotions, particularly the nuances of first love, while critically
+          examining the toll exacted by the education system. One pivotal scene
+          underscores this perspective, where the protagonist&apos;s father,
+          acknowledging the importance of decency over academic success, imparts
+          a poignant lesson about life&apos;s richness beyond mere achievements.
+          Grover&apos;s film stands in stark contrast to the detached portrayal
+          of its subjects in &quot;12th Fail&quot; and the rage-fueled ethos of
+          &quot;Kota Factory.&quot; Unlike these predecessors, &quot;All India
+          Rank&quot; offers a tender exploration of human experiences, serving
+          as a refreshing departure from prevailing entertainment trends.
+        </p>
+        <p>
+          In confronting the middle-class struggle, Grover appears to be
+          introspectively grappling with his own past, infusing the film with
+          elements reminiscent of trauma survival. Through the character of
+          Vivek, a student navigating the pressures of Kota, Grover captures the
+          paradox of youthful potential stifled by suffocating constraints,
+          echoing Dickens&apos; sentiment of life&apos;s duality. Despite the
+          backdrop of a coaching hub, the film transcends its setting, emerging
+          as a poignant coming-of-age tale. Vivek&apos;s realization of his own
+          ordinariness amidst the masses reflects a profound truth about
+          identity and societal expectations.
+        </p>
+        <p>
+          While &quot;12th Fail&quot; and &quot;Kota Factory&quot; merely depict
+          the harsh realities of the education system, Grover&apos;s film dares
+          to interrogate its injustices. It questions why quality education
+          remains elusive for many, why children are sacrificed at the altar of
+          parental aspirations, and why talents remain undiscovered or
+          neglected. Moreover, it condemns the normalization of student
+          suffering, as evidenced by the callous response to suicide prevention
+          measures in dormitories. Grover lays bare the systemic failures that
+          perpetuate societal inequities, challenging audiences to confront
+          uncomfortable truths.
+        </p>
+        <p>
+          In a society where turmoil is all but guaranteed for most, &quot;All
+          India Rank&quot; refuses to romanticize adversity. It demands
+          accountability from a system that commodifies children&apos;s futures
+          and from individuals who view offspring as investments. The
+          film&apos;s portrayal of Vivek&apos;s father as a flawed yet evolving
+          figure serves as a powerful allegory for generational change and
+          societal responsibility. Grover&apos;s narrative rejects the allure of
+          wealth as life&apos;s sole pursuit, instead advocating for a broader
+          understanding of success and fulfillment.
+        </p>
+        <p>
+          &quot;All India Rank&quot; recognizes that true progress requires
+          systemic change, not just individual resilience. It critiques the
+          societal pressures that compel individuals to chase elusive social
+          mobility, offering a nuanced exploration of the aspirations and
+          struggles inherent in this pursuit. Vivek&apos;s father&apos;s
+          capacity for introspection signifies hope for a future where
+          collective consciousness drives meaningful transformation. Through its
+          introspective lens, &quot;All India Rank&quot; compels viewers to
+          question prevailing narratives of success and to envision a more
+          equitable future.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "tigmanshu-dhulia-equates-bekaar-films-like-kashmir-files-to-nazi-propaganda-citing-artistic-bankruptcy",
+    timestamp: "Feb 28, 2024",
+    image: `/entertainment/feb-28-2024/tigmanshu-dhulia-equates-bekaar-films-like-kashmir-files-to-nazi-propaganda-citing-artistic-bankruptcy.avif`,
+    title: `Tigmanshu Dhulia equates 'bekaar' films like Kashmir Files to Nazi propaganda, citing artistic bankruptcy`,
+    preArticle: `Filmmaker Tigmanshu Dhulia recently discussed the emergence of politically charged films in India, criticizing them as lacking artistic depth. In an interview with the Red Mike YouTube channel, he compared these films unfavorably to the works of acclaimed directors like Steven Spielberg and Martin S`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Filmmaker Tigmanshu Dhulia recently discussed the emergence of
+          politically charged films in India, criticizing them as lacking
+          artistic depth. In an interview with the Red Mike YouTube channel, he
+          compared these films unfavorably to the works of acclaimed directors
+          like Steven Spielberg and Martin Scorsese, noting their inability to
+          establish a distinct directorial identity. Dhulia specifically singled
+          out films such as The Kashmir Files, dismissing them as aesthetically
+          poor and unworthy of discussion.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/feb-28-2024/tigmanshu-dhulia-equates-bekaar-films-like-kashmir-files-to-nazi-propaganda-citing-artistic-bankruptcy(2).jpg"
+            alt="tigmanshu-dhulia-equates-bekaar-films-like-kashmir-files-to-nazi-propaganda-citing-artistic-bankruptcy(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Drawing a contrast between Spielberg&apos;s adherence to Hollywood
+          conventions and Scorsese&apos;s unmistakable directorial style rooted
+          in strong ideologies, Dhulia emphasized the importance of a
+          filmmaker&apos;s beliefs in shaping their cinematic voice. While
+          acknowledging that some Indian directors may genuinely espouse the
+          political messages in their films, Dhulia lamented their lack of
+          artistic prowess in execution.
+        </p>
+        <p>
+          Dhulia expressed concern over the trend of using cinema as a platform
+          for political propaganda, condemning the substandard quality of such
+          films in India. Unlike the Nazi propaganda film Triumph of the Will,
+          which Dhulia credited for pushing the boundaries of filmmaking despite
+          its propagandistic nature, he criticized Indian propaganda films for
+          prioritizing profit over artistic integrity. Notably, he cited The
+          Kashmir Files, directed by Vivek Agnihotri, as a prime example of this
+          phenomenon, citing its commercial success but criticizing its
+          historical inaccuracies and sensationalist approach.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "article-370s-5th-day-box-office-earnings-surpass-40-crore-globally-led-by-yami-gautams-performance",
+    timestamp: "Feb 28, 2024",
+    image: `/entertainment/feb-28-2024/article-370s-5th-day-box-office-earnings-surpass-40-crore-globally-led-by-yami-gautams-performance.webp`,
+    title: `Article 370's 5th-day box office earnings surpass Rs 40 crore globally, led by Yami Gautam's performance`,
+    preArticle: `On its fifth day in theaters, the box office collections for "Article 370" maintained stability. According to industry tracker Sacnilk, the film, starring Yami Gautam, garnered approximately Rs 3.25 crore nett on Tuesday. This figure matches the earnings from its first Monday, indicating a positive `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          On its fifth day in theaters, the box office collections for
+          &quot;Article 370&quot; maintained stability. According to industry
+          tracker Sacnilk, the film, starring Yami Gautam, garnered
+          approximately Rs 3.25 crore nett on Tuesday. This figure matches the
+          earnings from its first Monday, indicating a positive trend in box
+          office performance.
+        </p>
+        <p>
+          Domestically, the film has accumulated Rs 29.40 crore thus far, with
+          projections suggesting it will conclude its first week with around Rs
+          35 crore. Directed by National Award-winning filmmaker Aditya
+          Jambhale, &quot;Article 370&quot; had an impressive worldwide opening
+          weekend, reaching nearly Rs 35 crore, as reported by the producers.
+          Considering the collections from Monday and Tuesday, the film is
+          expected to surpass the Rs 40 crore mark globally. Its target is now
+          set on crossing Rs 50 crore before the end of the week.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/feb-28-2024/article-370s-5th-day-box-office-earnings-surpass-40-crore-globally-led-by-yami-gautams-performance(2).jpeg"
+            alt="article-370s-5th-day-box-office-earnings-surpass-40-crore-globally-led-by-yami-gautams-performance(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          &quot;Article 370&quot; has exhibited favorable trending at the box
+          office, with several trade analysts predicting it to attain hit status
+          eventually. With minimal competition, apart from Shahid Kapoor-Kriti
+          Sanon starrer &quot;Teri Baaton Mein Aisa Uljha Jiya,&quot; the film
+          is poised for continued success.
+        </p>
+        <p>
+          Looking ahead, the next significant release is Ajay Devgn&apos;s
+          horror drama &quot;Shaitaan,&quot; scheduled for March 8, followed by
+          Sidharth Malhotra starrer action film &quot;Yodha.&quot; By then,
+          &quot;Article 370&quot; will likely be in its final stretch.
+        </p>
+        <p>
+          Produced by Jyoti Deshpande, Aditya Dhar, and Lokesh Dhar, the film
+          also features Priyamani. Yami Gautam and Aditya Jambhale, who tied the
+          knot in June 2021 and are expecting a baby, have set high standards
+          with &quot;Article 370,&quot; aligning it with recent politically
+          motivated Hindi films like &quot;The Kashmir Files&quot; and &quot;The
+          Kerala Story,&quot; as well as their own blockbuster &quot;Uri: The
+          Surgical Strike,&quot; each grossing over Rs 300 crore worldwide.
+        </p>
+      </div>
+    ),
+  },
   // feb-27-2024
   {
     id: "pankaj-udhas-1951-2024-across-generations-his-melodies-echoed-longing-and-heartache",
@@ -252,212 +437,6 @@ export const entertainment = [
           (2022), has received accolades with two Nandi Awards and an IIFA
           Utsavam Award for his directorial prowess. In 2016, he was also
           honored with the Nandi Award for Best Story Writer.
-        </p>
-      </div>
-    ),
-  },
-  // feb-02-2024
-  {
-    id: "millie-bobby-brown-brandishes-a-sword-in-the-latest-damsel-poster-confronting-formidable-creatures",
-    timestamp: "Feb 02, 2024",
-    image: `/entertainment/feb-02-2024/millie-bobby-brown-brandishes-a-sword-in-the-latest-damsel-poster-confronting-formidable-creatures.avif`,
-    title: `Millie Bobby Brown brandishes a sword in the latest Damsel poster, confronting formidable creatures`,
-    preArticle: `Millie Bobby Brown is poised to headline the upcoming fantasy film, Damsel, set for release on March 8. Netflix recently unveiled a striking poster featuring Brown in a fierce stance, wielding a sword against menacing monsters, accompanied by the tagline, "This is not a fairytale." The caption empha`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Millie Bobby Brown is poised to headline the upcoming fantasy film,
-          Damsel, set for release on March 8. Netflix recently unveiled a
-          striking poster featuring Brown in a fierce stance, wielding a sword
-          against menacing monsters, accompanied by the tagline, &quot;This is
-          not a fairytale.&quot; The caption emphasizes Millie&apos;s quest to
-          conquer the monsters in Damsel, exclusively on Netflix.
-        </p>
-        <p>
-          Directed by Spanish filmmaker Juan Carlos Fresnadillo, Damsel follows
-          the story of Princess Elodie, portrayed by Millie, who is chosen by
-          her queen for marriage to a handsome prince. However, her world
-          unravels when she discovers that she is merely a pawn in a scheme by
-          the royal family to settle an ancient debt – a sacrificial offering.
-          Confronted with a fire-breathing dragon in a cave, Princess Elodie
-          must battle for survival.
-        </p>
-        <div>
-          <blockquote class="twitter-tweet">
-            <p lang="en" dir="ltr">
-              Millie is out to slay (the monster) in Damsel on 8 March, only on
-              Netflix. ⚔️{" "}
-              <a href="https://t.co/Tplocs1YLX">pic.twitter.com/Tplocs1YLX</a>
-            </p>
-            &mdash; Netflix India (@NetflixIndia){" "}
-            <a href="https://twitter.com/NetflixIndia/status/1753067103626878977?ref_src=twsrc%5Etfw">
-              February 1, 2024
-            </a>
-          </blockquote>{" "}
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-        </div>
-        <p>
-          The film&apos;s teaser trailer, released earlier, sets a chilling tone
-          as Millie&apos;s character navigates eerie woods reminiscent of a
-          fairytale nightmare. Accompanied by Timber Timbre&apos;s haunting
-          &quot;Run From Me,&quot; the teaser hints at Princess Elodie&apos;s
-          resourcefulness, showcasing her creating a makeshift rope from her
-          clothes to scale a cavern of sharp crystal spikes. Narrowly escaping
-          peril, she raises her sword in readiness to combat the dungeon&apos;s
-          dragon.
-        </p>
-        <p>
-          Damsel boasts a stellar ensemble cast, featuring Nick Robinson as
-          Prince Henry, Ray Winstone as the King, Brooke Carter as Prince
-          Henry&apos;s younger sister, and Ricky Guillart as Sir Oded. Angela
-          Bassett and Robin Wright deliver standout performances as Lady Bayford
-          and Queen Isabelle, respectively. The film also includes Shoreh
-          Aghdashloo, Sam Sharma, Sonya Nisa, Erickson Santos Gomes, Elmano
-          Sancho, and Saif Mohsen.
-        </p>
-        <p>
-          Originally slated for release on October 13 of the previous year,
-          Damsel&apos;s premiere was rescheduled to 2024. Penned by Dan Mazeau,
-          the film is produced by Joe Roth and Jeff Kirschenbaum. As
-          anticipation builds for Millie Bobby Brown&apos;s portrayal of the
-          resilient Princess Elodie, Damsel promises an enthralling fantasy
-          adventure filled with suspense and action.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "first-glimpse-of-sweet-home-season-3-song-kang-go-min-si-and-lee-do-hyun-front-netflixs-terrifying-journey",
-    timestamp: "Feb 2, 2024",
-    image: `/entertainment/feb-02-2024/first-glimpse-of-sweet-home-season-3-song-kang-go-min-si-and-lee-do-hyun-front-netflixs-terrifying-journey.jpeg`,
-    title: `First Glimpse of Sweet Home Season 3: Song Kang, Go Min Si, and Lee Do Hyun Front Netflix's Terrifying Journey`,
-    preArticle: `Netflix's supernatural thriller, Sweet Home, offers an exclusive sneak peek into its highly anticipated third season, unveiling a fresh narrative set to explore new connections after the losses of Season 1. Returning fan favorites Song Kang, Go Min Si, and the awaited comeback of Lee Do Hyun promise`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Netflix&apos;s supernatural thriller, Sweet Home, offers an exclusive
-          sneak peek into its highly anticipated third season, unveiling a fresh
-          narrative set to explore new connections after the losses of Season 1.
-          Returning fan favorites Song Kang, Go Min Si, and the awaited comeback
-          of Lee Do Hyun promise an intense battle against both monstrous
-          entities and internal struggles. The upcoming installment, shot
-          concurrently with Seasons 1 and 2, concluded production in March, and
-          eager fans can catch a glimpse of the excitement in the recently
-          unveiled teaser.
-        </p>
-        <div>
-          <blockquote class="twitter-tweet">
-            <p lang="en" dir="ltr">
-              SWEET HOME SEASON 3 OH MY GOD!!!!!!!!{" "}
-              <a href="https://t.co/8YIR66NPZz">pic.twitter.com/8YIR66NPZz</a>
-            </p>
-            &mdash; song kang pics (@songkangpic){" "}
-            <a href="https://twitter.com/songkangpic/status/1753067988427927947?ref_src=twsrc%5Etfw">
-              February 1, 2024
-            </a>
-          </blockquote>{" "}
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-        </div>
-        <p>
-          In the gripping first look, Song Kang, anxiously questioning
-          &quot;Gwenchana?&quot; (Are you alright?), faces converging
-          adversaries alongside Go Min Si. Notably, Lee Do Hyun&apos;s
-          character, Lee Eun Hyeok, absent from an active role in Season 2,
-          makes a thrilling return in the Season 3 teaser. As the series
-          gradually unveils the mysteries of the monsters, the upcoming season
-          promises a deeper exploration of their origins, motivations, and
-          vulnerabilities.
-        </p>
-        <p>
-          Accompanying the teaser release, Netflix also treated fans to initial
-          character posters, teasing the lead roles and hinting at the intense
-          action, psychological complexity, and unique monster designs that have
-          captivated a global audience.
-        </p>
-        <p>
-          The return of Lee Do Hyun has sparked celebration among fans,
-          expressing delight at the character&apos;s comeback after a hiatus.
-          Comments reflect enthusiasm, with users noting Lee Do Hyun&apos;s
-          impactful return to shows and movies post-military service and
-          highlighting the stunning cast photos for Sweet Home Season 3.
-        </p>
-        <p>
-          With Season 3&apos;s filming wrapped up in March and Song Kang&apos;s
-          impending military enlistment, coupled with the completion of
-          remaining shooting, fans can anticipate the release of the new season
-          in mid-summer or the third quarter of 2024. The thrilling developments
-          and challenges awaiting viewers in Sweet Home 3 promise to maintain
-          the series&apos; popularity and captivate audiences once again.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "spouse-of-killers-of-flower-moon-producer-an-oscar-nominee-takes-own-life-in-hotel-plunge",
-    timestamp: "Feb 02, 2024",
-    image: `/entertainment/feb-02-2024/spouse-of-killers-of-flower-moon-producer-an-oscar-nominee-takes-own-life-in-hotel-plunge.webp`,
-    title: `Spouse of Killers of Flower Moon Producer, an Oscar Nominee, Takes Own Life in Hotel Plunge`,
-    preArticle: `Tragedy struck the family of Bradley Thomas, a renowned film producer, as his 39-year-old wife, Isabelle Thomas, was found dead at a Los Angeles hotel. The authorities have officially declared her death as a result of suicide, attributing it to "multiple traumatic injuries." Bradley Thomas, recogniz`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Tragedy struck the family of Bradley Thomas, a renowned film producer,
-          as his 39-year-old wife, Isabelle Thomas, was found dead at a Los
-          Angeles hotel. The authorities have officially declared her death as a
-          result of suicide, attributing it to &quot;multiple traumatic
-          injuries.&quot; Bradley Thomas, recognized for his role in producing
-          the Oscar-nominated film Killers of the Flower Moon, directed by
-          Martin Scorsese, is now grappling with this devastating loss.
-        </p>
-        <p>
-          According to law enforcement sources, Isabelle Thomas took her own
-          life by jumping from the hotel balcony on Monday night. No suicide
-          note was discovered, and her death was determined to be a result of
-          severe injuries consistent with a &quot;major fall,&quot; according to
-          the Medical Examiner&apos;s Office.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/feb-02-2024/spouse-of-killers-of-flower-moon-producer-an-oscar-nominee-takes-own-life-in-hotel-plunge(2).jpg"
-            alt="spouse-of-killers-of-flower-moon-producer-an-oscar-nominee-takes-own-life-in-hotel-plunge(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Bradley and Isabelle tied the knot in 2018 and share two children, as
-          reported by TMZ, the first outlet to break the news. The couple has
-          been a familiar presence at various movie premieres and red-carpet
-          events in Hollywood over the years. Their most recent public
-          appearance was on January 13, 2024, at the 2024 BAFTA Tea Party hosted
-          by Maybourne Beverly Hills.
-        </p>
-        <p>
-          Killers of the Flower Moon, produced by Bradley Thomas, has garnered
-          significant acclaim, earning ten Oscar nominations. Starring Robert De
-          Niro, Lily Gladstone, and Leonardo DiCaprio, the film revolves around
-          a series of murders targeting the Osage people and their connection to
-          the Osage Nation, triggered by the discovery of oil on tribal land.
-          Paramount Pictures and Apple Original Films jointly released the movie
-          in theaters across the United States on October 20, 2023.
-        </p>
-        <p>
-          Bradley Thomas, with a notable career contributing to hit films such
-          as Dumb and Dumber, There&apos;s Something About Mary, Kingpin,
-          Shallow Hal, Hall Pass, and The Mule, is now grappling with the
-          personal tragedy of losing his wife, Isabelle. The circumstances
-          surrounding her death underscore the deep sorrow that has befallen the
-          Thomas family, casting a shadow over the celebrated success of Killers
-          of the Flower Moon.
         </p>
       </div>
     ),
