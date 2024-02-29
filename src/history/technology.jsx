@@ -2,6 +2,207 @@ import Image from "next/image";
 
 export const technologyHistory = [
   {
+    id: "apple-swiftly-integrates-ai-features-into-xcode-and-spotlight",
+    timestamp: "Feb 17, 2024",
+    image: `/technology/feb-17-2024/apple-swiftly-integrates-ai-features-into-xcode-and-spotlight.jpg`,
+    title: `Apple Swiftly Integrates AI Features into Xcode and Spotlight`,
+    preArticle: `Apple is reportedly gearing up for significant enhancements to its Xcode programming software, introducing new AI capabilities to compete with Microsoft's GitHub Copilot, as per sources cited in a Bloomberg report. The upcoming version of Xcode, set to launch later this year, will incorporate AI-dr`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Apple is reportedly gearing up for significant enhancements to its
+          Xcode programming software, introducing new AI capabilities to compete
+          with Microsoft&apos;s GitHub Copilot, as per sources cited in a
+          Bloomberg report.
+        </p>
+        <p>
+          The upcoming version of Xcode, set to launch later this year, will
+          incorporate AI-driven code completion tools, suggesting complete
+          blocks of code to streamline and expedite the programming process.
+          This mirrors the functionality found in GitHub Copilot. Apple&apos;s
+          engineers are currently testing early iterations of the AI coding
+          assistant in-house to prepare for its integration with third-party
+          developers.
+        </p>
+        <p>
+          The inclusion of AI coding features aligns with Apple&apos;s broader
+          strategy to advance generative AI and large language models, a focus
+          that has intensified over the past year. Apple is racing to introduce
+          new AI capabilities across its range of products and services to keep
+          pace with competitors like Microsoft and Google.
+        </p>
+        <p>
+          Anticipated to be unveiled at the annual developers conference in
+          June, Apple aims to outline ambitions to integrate more AI technology
+          into both iOS 18 and the upcoming macOS updates, codenamed Crystal and
+          Glow, respectively. For iOS 18, Apple is positioning the software as
+          one of the most significant updates for iPhones, likely featuring AI
+          capabilities automating routine programming tasks such as generating
+          test code.
+        </p>
+        <p>
+          Apple&apos;s exploration of AI tools extends beyond programming,
+          including features like automatically generating Apple Music playlists
+          based on user preferences and creating dynamic slideshow presentations
+          in Keynote, its alternative to PowerPoint.
+        </p>
+        <p>
+          An additional AI-focused initiative involves a major update to the
+          Spotlight systemwide search. The current functionality primarily
+          serves to launch apps and retrieve basic information. The revamped
+          Spotlight seeks to comprehend and address more complex search queries,
+          leveraging on-device data and AI models. Early designs indicate that
+          the updated Spotlight will respond to natural language questions,
+          offering specific information and functions from apps.
+        </p>
+        <p>
+          By harnessing the power of large language models trained on extensive
+          datasets, the AI-enhanced Spotlight aims to become a more versatile
+          search tool, surfacing relevant content and actions across Apple
+          devices.
+        </p>
+        <p>
+          This surge in AI development is reportedly driven by Craig Federighi,
+          Apple&apos;s software chief, who has encouraged teams to integrate as
+          many AI capabilities as possible into the 2024 software updates.
+        </p>
+        <p>
+          Feeling the competitive pressure from companies like Microsoft and
+          Google in the realms of large language models and generative AI, Apple
+          is striving to catch up, particularly in areas like intelligent
+          search, content creation, programming assistance, and personalization.
+          While details are limited, Apple&apos;s Worldwide Developers
+          Conference is expected to provide the first insights into the
+          company&apos;s AI vision.
+        </p>
+      </div>
+    ),
+  },
+  // feb-04-2024
+  {
+    id: "google-chief-scientist-jeff-dean-asserts-that-india-is-strategically-positioned-for-advancements-in-artificial-intelligence",
+    timestamp: "Feb 04, 2024",
+    image: `/technology/feb-04-2024/google-chief-scientist-jeff-dean-asserts-that-india-is-strategically-positioned-for-advancements-in-artificial-intelligence.avif`,
+    title: `Google Chief Scientist Jeff Dean asserts that India is strategically positioned for advancements in artificial intelligence`,
+    preArticle: `During a recent event titled 'Leaders Connect With Jeff Dean,' Google's Chief Scientist, Jeff Dean, shared insights into the company's use of artificial intelligence (AI) since 2001. The discussion, also featuring Pramod Varma, Chief Architect of Aadhaar, delved into various aspects of AI, including`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          During a recent event titled &apos;Leaders Connect With Jeff
+          Dean,&apos; Google&apos;s Chief Scientist, Jeff Dean, shared insights
+          into the company&apos;s use of artificial intelligence (AI) since
+          2001. The discussion, also featuring Pramod Varma, Chief Architect of
+          Aadhaar, delved into various aspects of AI, including its potential,
+          accessibility, policy implications, reskilling, and interdisciplinary
+          collaboration.
+        </p>
+        <p>
+          Jeff Dean recalled the inception of AI integration in Google products,
+          dating back to 2001, when a colleague developed a groundbreaking
+          spelling correction method. Moving forward, he discussed the
+          exploration of large-scale neural networks around 2012, aiming to
+          leverage their capabilities in tasks such as speech recognition,
+          computer vision, and language-oriented challenges.
+        </p>
+        <p>
+          Dean&apos;s interest in neural networks traces back to his
+          undergraduate days in the 1990s, fueled by the excitement surrounding
+          training large models with increased computing power. He highlighted
+          the period from 2009 to 2012 as pivotal, witnessing promising results
+          in areas like speech recognition through neural networks.
+        </p>
+        <p>
+          Regarding India&apos;s potential in AI, Dean expressed optimism due to
+          the nation&apos;s strong culture of valuing engineering and science.
+          He commended India&apos;s thriving environment, emphasizing the
+          respect for engineers and scientists, predicting a surge in AI
+          pursuits among students. Dean encouraged the integration of machine
+          learning and AI into software engineering curricula, recognizing the
+          transformational impact on workflows. Stressing the importance of
+          practical experience with AI tools for developers, he advocated
+          knowledge-sharing to foster community upskilling.
+        </p>
+        <p>
+          Pramod Varma provided insights into India&apos;s unique approach to
+          AI, emphasizing augmentation rather than replacement. He contrasted
+          this with the predominant Western focus on AI as a replacement tool,
+          particularly in discussions about automating human tasks. Varma
+          highlighted India&apos;s goal of enhancing productivity, efficiency,
+          and affordability to benefit its vast population. He underscored the
+          need to democratize access to AI tools, computing, and expertise,
+          aligning with India&apos;s digital public infrastructure (DPI) efforts
+          to bridge digital divides.
+        </p>
+        <p>
+          Varma advocated for a regulatory approach that prioritizes the quality
+          of services over stringent scrutiny of AI companies or technologies.
+          He emphasized the importance of democratising access to foster a
+          balanced policy discourse on managing societal impacts. Varma outlined
+          an India-centric model for inclusive development through open and
+          responsible AI, focusing on principles such as accessibility, open
+          innovation, and balanced governance. His perspective highlighted the
+          potential of AI in addressing India&apos;s diverse challenges in areas
+          like voice, language, health, and education, contributing to the
+          nation&apos;s overall progress.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation",
+    timestamp: "Feb 04, 2024",
+    image: `/technology/feb-04-2024/drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation.webp`,
+    title: `Drop resilience of Apple's $3,500 Vision Pro headset is currently under evaluation`,
+    preArticle: `Apple's recently launched Vision Pro headset is undergoing rigorous testing, revealing a surprising level of durability. Sam Kohl from AppleTrack, a tech YouTube channel, subjected the futuristic wearable to various forms of abuse, including intentional drops, collisions with walls, and bumps. The `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Apple&apos;s recently launched Vision Pro headset is undergoing
+          rigorous testing, revealing a surprising level of durability. Sam Kohl
+          from AppleTrack, a tech YouTube channel, subjected the futuristic
+          wearable to various forms of abuse, including intentional drops,
+          collisions with walls, and bumps.
+        </p>
+        <p>
+          The Vision Pro&apos;s glass demonstrated remarkable resilience to
+          everyday wear and tear, surviving intentional impacts against walls
+          with only minor scuffs and no shattering. The front panel proved
+          exceptionally sturdy, withstanding multiple drops from considerable
+          heights. Even with the headset&apos;s weight of 600 to 650 grams, it
+          took eight high falls to eventually cause the front glass to splinter.
+          Notably, the twin internal and external screens continued to function
+          properly despite the damaged cover.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-04-2024/drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation(2).webp"
+            alt="drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          However, the peripheral speakers faced challenges during the
+          durability tests. One speaker ceased to function after several impacts
+          against the wall, and the connections to the headband eventually
+          broke, leading to a loss of power. The lightweight magnetic light
+          seals also tended to detach easily upon impact.
+        </p>
+        <p>
+          Despite these issues, the overall durability of the Vision Pro
+          impressed, showcasing resilience to reasonable mishaps. It should be
+          noted that while the front glass demonstrated strength, repairing a
+          damaged screen comes with a significant cost. Without AppleCare, the
+          repair is priced at $799, and with the protection plan, it is $299.
+          For other damages, Apple quotes up to $2,399, emphasizing the
+          importance of handling the headset with care to avoid potential repair
+          expenses.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease",
     timestamp: "Feb 04, 2024",
     image: `/technology/feb-04-2024/researchers-suggest-a-novel-approach-for-addressing-memory-problems-induced-by-alzheimers-disease.png`,

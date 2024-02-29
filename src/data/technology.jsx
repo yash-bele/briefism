@@ -1,6 +1,195 @@
 import Image from "next/image";
 
 export const technology = [
+  // feb-29-2024
+  {
+    id: "bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad",
+    timestamp: "Feb 29, 2024",
+    image: `/technology/feb-29-2024/bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad.jpg`,
+    title: `Bill Gates Optimistic About AI-Powered Future During Visit to Microsoft IDC Hyderabad`,
+    preArticle: `Billionaire philanthropist and Microsoft co-founder, Bill Gates, recently made a significant visit to the Microsoft India Development Center (IDC), a pioneering innovation hub he conceptualized back in 1988. Celebrating its 25th anniversary this year, IDC, situated in Hyderabad, Telangana, stands as`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Billionaire philanthropist and Microsoft co-founder, Bill Gates,
+          recently made a significant visit to the Microsoft India Development
+          Center (IDC), a pioneering innovation hub he conceptualized back in
+          1988. Celebrating its 25th anniversary this year, IDC, situated in
+          Hyderabad, Telangana, stands as a cornerstone for the development of
+          cutting-edge technologies, including Azure, Windows, Office, Bing,
+          Copilot, and various AI applications.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-29-2024/bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad(2).webp"
+            alt="bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          During his visit, Gates engaged with some of India&apos;s brightest
+          engineering talents at IDC, acknowledging them as a vital asset.
+          Expressing optimism about India&apos;s potential as an AI-powered
+          nation, Gates&apos; visit resonated with the center&apos;s enthusiasm
+          for spearheading innovation within Microsoft, spanning AI, cloud
+          computing, security, and gaming realms, as articulated by Rajiv Kumar,
+          Managing Director of Microsoft IDC and CVP of Experiences + Devices
+          India.
+        </p>
+        <p>
+          Gates&apos; visit follows Microsoft&apos;s chairman and CEO, Satya
+          Nadella&apos;s recent trip to India, where Nadella underscored the
+          country&apos;s increasing importance in the realm of AI development
+          and deployment. Nadella emphasized India&apos;s exceptional standing
+          in terms of developer community size, predicting its eventual
+          overtaking of the United States by 2027. This acknowledgment of
+          India&apos;s vibrant developer ecosystem aligns with the overarching
+          theme of democratizing AI to foster societal transformation.
+        </p>
+        <p>
+          The essence of democratizing AI, championed by Gates and echoed by
+          Nadella, resonates strongly with IDC&apos;s ongoing endeavors in
+          pioneering AI research and development across various domains. While
+          Gates has been a vocal proponent of the benefits of AI, he has also
+          voiced concerns regarding its potential risks, often elaborating on
+          these views through his widely read blog.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "hmd-global-introduces-modular-phones-again-rebranded-as-fusion",
+    timestamp: "Feb 29, 2024",
+    image: `/technology/feb-29-2024/hmd-global-introduces-modular-phones-again-rebranded-as-fusion.webp`,
+    title: `HMD Global Introduces Modular Phones Again, Rebranded as Fusion`,
+    preArticle: `In the contemporary smartphone market, uniformity in design and user interface prevails, offering little room for individuality or utility. However, HMD Global from Finland aims to disrupt this norm by introducing a novel concept termed Fusion, which promises both customization and practicality. Ad`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In the contemporary smartphone market, uniformity in design and user
+          interface prevails, offering little room for individuality or utility.
+          However, HMD Global from Finland aims to disrupt this norm by
+          introducing a novel concept termed Fusion, which promises both
+          customization and practicality.
+        </p>
+        <p>
+          Adam Ferguson, HMD&apos;s global head of insight, proposition, and
+          product marketing, elucidates the company&apos;s strategy of
+          empowering users to personalize their smartphones through the
+          selection of diverse &quot;outfits.&quot; These outfits, akin to
+          modular components, can be developed by anyone, from developers to
+          ordinary consumers, thereby expanding the phone&apos;s functionality
+          beyond conventional boundaries.
+        </p>
+        <p>
+          Presented at the Mobile World Congress in Barcelona, Fusion embodies a
+          departure from the conventional notion of smartphones. It advocates
+          for the integration of hardware and software to address real-world
+          challenges, be it a barcode scanner, a medical device, or an extended
+          battery. Ferguson emphasizes Fusion&apos;s objective of broadening the
+          phone&apos;s utility beyond its existing capabilities, transcending
+          mere aesthetic modifications.
+        </p>
+        <p>
+          The concept of outfits, as opposed to traditional modular
+          designations, is facilitated by six pogo pins located on the
+          phone&apos;s rear, enabling seamless attachment of accessories. This
+          approach democratizes smartphone customization, inviting contributions
+          from a diverse array of users, including hobbyists, educators, and
+          professionals. Ferguson envisions Fusion as akin to the Raspberry Pi,
+          a versatile tool that fosters innovation and creativity.
+        </p>
+        <p>
+          HMD aims to support users in outfit creation, offering guidance and
+          resources to facilitate both hardware and software development.
+          Through an intuitive interface and simplified programming process, the
+          company seeks to empower individuals and businesses to realize their
+          innovative ideas. Additionally, HMD plans to establish a marketplace
+          where users can access a wide range of outfits tailored to various
+          needs and preferences.
+        </p>
+        <p>
+          The first smartphone under the Fusion platform is slated for release
+          in July, accompanied by a comprehensive developer toolkit to aid in
+          outfit creation. While specifics regarding pricing and specifications
+          remain undisclosed, Ferguson assures that outfits will be sold
+          separately, ensuring affordability and accessibility for consumers.
+        </p>
+        <p>
+          While modular smartphones have been attempted by various companies in
+          the past, HMD remains optimistic about Fusion&apos;s prospects. Unlike
+          previous endeavors fraught with complexity and technical barriers,
+          Fusion boasts a user-friendly approach that simplifies the
+          customization process. Ferguson believes that Fusion has the potential
+          to redefine the smartphone landscape, offering users unprecedented
+          versatility and functionality.
+        </p>
+        <p>
+          In an industry grappling with stagnation, HMD&apos;s Fusion represents
+          a refreshing approach to smartphone innovation. By prioritizing user
+          empowerment and practical utility, the company aims to rejuvenate
+          consumer interest and revitalize the smartphone market. With half of
+          its global devices expected to be repairable, HMD emphasizes
+          sustainability and longevity in its product offerings, catering to
+          evolving consumer preferences.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000",
+    timestamp: "Feb 29, 2024",
+    image: `/technology/feb-29-2024/review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000.webp`,
+    title: `Review of Redmi Buds 5: Top Earbuds Aesthetically Priced Below Rs 3000`,
+    preArticle: `In a market characterized by uniformity, it's refreshing when a brand dares to innovate, as seen with the Redmi Buds 5. Boasting a sleek design and premium feel, these earbuds make a striking impression right out of the box. Available in matte white, mint, and black, the case exudes sophistication w`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In a market characterized by uniformity, it&apos;s refreshing when a
+          brand dares to innovate, as seen with the Redmi Buds 5. Boasting a
+          sleek design and premium feel, these earbuds make a striking
+          impression right out of the box. Available in matte white, mint, and
+          black, the case exudes sophistication with its slim profile and
+          easy-to-clean finish.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-29-2024/review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000(2).jpg"
+            alt="review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Opening the case reveals thoughtful details, including an LED
+          indicator for battery status and pairing notifications, along with
+          soft cushioning that adds a satisfying touch. While the earbuds
+          themselves may not match the case&apos;s elegance, their lightweight
+          build and comfortable fit compensate for any perceived shortcomings.
+        </p>
+        <p>
+          Pairing the Buds 5 is seamless thanks to Google Fast Pair, ensuring
+          quick and hassle-free connectivity with compatible devices. When it
+          comes to audio quality, the 12.4mm drivers deliver a V-shaped
+          frequency response, emphasizing bass and treble while maintaining
+          natural sound reproduction. The earbuds also feature active noise
+          cancellation (ANC) up to 46 decibels, effectively reducing ambient
+          noise for an immersive listening experience.
+        </p>
+        <p>
+          With a claimed total battery life of 40 hours, including ANC, the Buds
+          5 offer respectable usage time on a single charge. However, touch
+          controls can be a bit finicky, leading to inadvertent commands during
+          adjustment. Despite this minor inconvenience, the Redmi Buds 5 excel
+          in terms of design, sound quality, and overall value proposition,
+          making them a standout choice in the budget segment.
+        </p>
+      </div>
+    ),
+  },
   // feb-27-2024
   {
     id: "truecaller-to-introduce-call-recording-transcription-and-summarization",
@@ -250,207 +439,6 @@ export const technology = [
           continues to experience substantial growth, and new additions to the
           catalog, starting with Diablo 4, enhance the gaming experience for
           subscribers.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "apple-swiftly-integrates-ai-features-into-xcode-and-spotlight",
-    timestamp: "Feb 17, 2024",
-    image: `/technology/feb-17-2024/apple-swiftly-integrates-ai-features-into-xcode-and-spotlight.jpg`,
-    title: `Apple Swiftly Integrates AI Features into Xcode and Spotlight`,
-    preArticle: `Apple is reportedly gearing up for significant enhancements to its Xcode programming software, introducing new AI capabilities to compete with Microsoft's GitHub Copilot, as per sources cited in a Bloomberg report. The upcoming version of Xcode, set to launch later this year, will incorporate AI-dr`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Apple is reportedly gearing up for significant enhancements to its
-          Xcode programming software, introducing new AI capabilities to compete
-          with Microsoft&apos;s GitHub Copilot, as per sources cited in a
-          Bloomberg report.
-        </p>
-        <p>
-          The upcoming version of Xcode, set to launch later this year, will
-          incorporate AI-driven code completion tools, suggesting complete
-          blocks of code to streamline and expedite the programming process.
-          This mirrors the functionality found in GitHub Copilot. Apple&apos;s
-          engineers are currently testing early iterations of the AI coding
-          assistant in-house to prepare for its integration with third-party
-          developers.
-        </p>
-        <p>
-          The inclusion of AI coding features aligns with Apple&apos;s broader
-          strategy to advance generative AI and large language models, a focus
-          that has intensified over the past year. Apple is racing to introduce
-          new AI capabilities across its range of products and services to keep
-          pace with competitors like Microsoft and Google.
-        </p>
-        <p>
-          Anticipated to be unveiled at the annual developers conference in
-          June, Apple aims to outline ambitions to integrate more AI technology
-          into both iOS 18 and the upcoming macOS updates, codenamed Crystal and
-          Glow, respectively. For iOS 18, Apple is positioning the software as
-          one of the most significant updates for iPhones, likely featuring AI
-          capabilities automating routine programming tasks such as generating
-          test code.
-        </p>
-        <p>
-          Apple&apos;s exploration of AI tools extends beyond programming,
-          including features like automatically generating Apple Music playlists
-          based on user preferences and creating dynamic slideshow presentations
-          in Keynote, its alternative to PowerPoint.
-        </p>
-        <p>
-          An additional AI-focused initiative involves a major update to the
-          Spotlight systemwide search. The current functionality primarily
-          serves to launch apps and retrieve basic information. The revamped
-          Spotlight seeks to comprehend and address more complex search queries,
-          leveraging on-device data and AI models. Early designs indicate that
-          the updated Spotlight will respond to natural language questions,
-          offering specific information and functions from apps.
-        </p>
-        <p>
-          By harnessing the power of large language models trained on extensive
-          datasets, the AI-enhanced Spotlight aims to become a more versatile
-          search tool, surfacing relevant content and actions across Apple
-          devices.
-        </p>
-        <p>
-          This surge in AI development is reportedly driven by Craig Federighi,
-          Apple&apos;s software chief, who has encouraged teams to integrate as
-          many AI capabilities as possible into the 2024 software updates.
-        </p>
-        <p>
-          Feeling the competitive pressure from companies like Microsoft and
-          Google in the realms of large language models and generative AI, Apple
-          is striving to catch up, particularly in areas like intelligent
-          search, content creation, programming assistance, and personalization.
-          While details are limited, Apple&apos;s Worldwide Developers
-          Conference is expected to provide the first insights into the
-          company&apos;s AI vision.
-        </p>
-      </div>
-    ),
-  },
-  // feb-04-2024
-  {
-    id: "google-chief-scientist-jeff-dean-asserts-that-india-is-strategically-positioned-for-advancements-in-artificial-intelligence",
-    timestamp: "Feb 04, 2024",
-    image: `/technology/feb-04-2024/google-chief-scientist-jeff-dean-asserts-that-india-is-strategically-positioned-for-advancements-in-artificial-intelligence.avif`,
-    title: `Google Chief Scientist Jeff Dean asserts that India is strategically positioned for advancements in artificial intelligence`,
-    preArticle: `During a recent event titled 'Leaders Connect With Jeff Dean,' Google's Chief Scientist, Jeff Dean, shared insights into the company's use of artificial intelligence (AI) since 2001. The discussion, also featuring Pramod Varma, Chief Architect of Aadhaar, delved into various aspects of AI, including`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          During a recent event titled &apos;Leaders Connect With Jeff
-          Dean,&apos; Google&apos;s Chief Scientist, Jeff Dean, shared insights
-          into the company&apos;s use of artificial intelligence (AI) since
-          2001. The discussion, also featuring Pramod Varma, Chief Architect of
-          Aadhaar, delved into various aspects of AI, including its potential,
-          accessibility, policy implications, reskilling, and interdisciplinary
-          collaboration.
-        </p>
-        <p>
-          Jeff Dean recalled the inception of AI integration in Google products,
-          dating back to 2001, when a colleague developed a groundbreaking
-          spelling correction method. Moving forward, he discussed the
-          exploration of large-scale neural networks around 2012, aiming to
-          leverage their capabilities in tasks such as speech recognition,
-          computer vision, and language-oriented challenges.
-        </p>
-        <p>
-          Dean&apos;s interest in neural networks traces back to his
-          undergraduate days in the 1990s, fueled by the excitement surrounding
-          training large models with increased computing power. He highlighted
-          the period from 2009 to 2012 as pivotal, witnessing promising results
-          in areas like speech recognition through neural networks.
-        </p>
-        <p>
-          Regarding India&apos;s potential in AI, Dean expressed optimism due to
-          the nation&apos;s strong culture of valuing engineering and science.
-          He commended India&apos;s thriving environment, emphasizing the
-          respect for engineers and scientists, predicting a surge in AI
-          pursuits among students. Dean encouraged the integration of machine
-          learning and AI into software engineering curricula, recognizing the
-          transformational impact on workflows. Stressing the importance of
-          practical experience with AI tools for developers, he advocated
-          knowledge-sharing to foster community upskilling.
-        </p>
-        <p>
-          Pramod Varma provided insights into India&apos;s unique approach to
-          AI, emphasizing augmentation rather than replacement. He contrasted
-          this with the predominant Western focus on AI as a replacement tool,
-          particularly in discussions about automating human tasks. Varma
-          highlighted India&apos;s goal of enhancing productivity, efficiency,
-          and affordability to benefit its vast population. He underscored the
-          need to democratize access to AI tools, computing, and expertise,
-          aligning with India&apos;s digital public infrastructure (DPI) efforts
-          to bridge digital divides.
-        </p>
-        <p>
-          Varma advocated for a regulatory approach that prioritizes the quality
-          of services over stringent scrutiny of AI companies or technologies.
-          He emphasized the importance of democratising access to foster a
-          balanced policy discourse on managing societal impacts. Varma outlined
-          an India-centric model for inclusive development through open and
-          responsible AI, focusing on principles such as accessibility, open
-          innovation, and balanced governance. His perspective highlighted the
-          potential of AI in addressing India&apos;s diverse challenges in areas
-          like voice, language, health, and education, contributing to the
-          nation&apos;s overall progress.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation",
-    timestamp: "Feb 04, 2024",
-    image: `/technology/feb-04-2024/drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation.webp`,
-    title: `Drop resilience of Apple's $3,500 Vision Pro headset is currently under evaluation`,
-    preArticle: `Apple's recently launched Vision Pro headset is undergoing rigorous testing, revealing a surprising level of durability. Sam Kohl from AppleTrack, a tech YouTube channel, subjected the futuristic wearable to various forms of abuse, including intentional drops, collisions with walls, and bumps. The `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Apple&apos;s recently launched Vision Pro headset is undergoing
-          rigorous testing, revealing a surprising level of durability. Sam Kohl
-          from AppleTrack, a tech YouTube channel, subjected the futuristic
-          wearable to various forms of abuse, including intentional drops,
-          collisions with walls, and bumps.
-        </p>
-        <p>
-          The Vision Pro&apos;s glass demonstrated remarkable resilience to
-          everyday wear and tear, surviving intentional impacts against walls
-          with only minor scuffs and no shattering. The front panel proved
-          exceptionally sturdy, withstanding multiple drops from considerable
-          heights. Even with the headset&apos;s weight of 600 to 650 grams, it
-          took eight high falls to eventually cause the front glass to splinter.
-          Notably, the twin internal and external screens continued to function
-          properly despite the damaged cover.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/feb-04-2024/drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation(2).webp"
-            alt="drop-resilience-of-apples-vision-pro-headset-is-currently-under-evaluation(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          However, the peripheral speakers faced challenges during the
-          durability tests. One speaker ceased to function after several impacts
-          against the wall, and the connections to the headband eventually
-          broke, leading to a loss of power. The lightweight magnetic light
-          seals also tended to detach easily upon impact.
-        </p>
-        <p>
-          Despite these issues, the overall durability of the Vision Pro
-          impressed, showcasing resilience to reasonable mishaps. It should be
-          noted that while the front glass demonstrated strength, repairing a
-          damaged screen comes with a significant cost. Without AppleCare, the
-          repair is priced at $799, and with the protection plan, it is $299.
-          For other damages, Apple quotes up to $2,399, emphasizing the
-          importance of handling the headset with care to avoid potential repair
-          expenses.
         </p>
       </div>
     ),
