@@ -1,6 +1,186 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // mar-01-2024
+  {
+    id: "lee-jae-wook-set-to-establish-independent-agency-following-departure-from-c-jes-amid-karinas-relationship",
+    timestamp: "Mar 01, 2024",
+    image: `/entertainment/mar-01-2024/lee-jae-wook-set-to-establish-independent-agency-following-departure-from-c-jes-amid-karinas-relationship.jpg`,
+    title: `Lee Jae Wook Set to Establish Independent Agency Following Departure from C-Jes Amid Karina's Relationship`,
+    preArticle: `Actor Lee Jae Wook, renowned for his exceptional portrayal in "Alchemy of Souls," is reportedly poised to launch his own agency. In a trend where several K-drama actors and K-pop idols are delving into entrepreneurship, the star of "Impossible Heir" seems to be following suit. This decision comes sh`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Actor Lee Jae Wook, renowned for his exceptional portrayal in
+          &quot;Alchemy of Souls,&quot; is reportedly poised to launch his own
+          agency. In a trend where several K-drama actors and K-pop idols are
+          delving into entrepreneurship, the star of &quot;Impossible Heir&quot;
+          seems to be following suit. This decision comes shortly after the
+          revelation of his relationship with aespa&apos;s Karina, confirming
+          their romantic involvement.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-01-2024/lee-jae-wook-set-to-establish-independent-agency-following-departure-from-c-jes-amid-karinas-relationship(2).webp"
+            alt="lee-jae-wook-set-to-establish-independent-agency-following-departure-from-c-jes-amid-karinas-relationship(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          <span clssName="block text-xl">
+            Lee Jae Wook&apos;s Venture into Independent Agency
+          </span>
+          On February 29, South Korean media outlet SPOTV disclosed that the
+          25-year-old actor is preparing to establish his own One Man Company
+          following the imminent expiration of his contract with C-Jes. Lee Jae
+          Wook has been under C-Jes studio, which houses renowned celebrities
+          like Choi Min Shik, Ra Mi Ran, Ryu Jun Yeo, and Moon So Ri, for three
+          years. However, his contract is set to conclude in April. Since
+          joining the studio, the &quot;Extraordinary You&quot; actor has gained
+          significant recognition. As speculations gained momentum, his current
+          agency issued a concise response.
+        </p>
+        <p>
+          <span clssName="block text-xl">
+            C-Jes Addresses Lee Jae Wook&apos;s Departure
+          </span>
+          Responding to the speculations, C-Jes issued a brief statement
+          regarding the matter, confirming that the actor is still under
+          contract. Furthermore, they stated that given the remaining duration
+          of the contract, they would refrain from commenting on his future
+          status. Lee Jae Wook has been affiliated with C-JeS Studios since
+          April 2021.
+        </p>
+        <p>
+          <span clssName="block text-xl">
+            Lee Jae Wook and Karina&apos;s Relationship
+          </span>
+          The actor, known for his role in &quot;The Death&apos;s Game,&quot;
+          recently grabbed headlines by publicly confirming his relationship
+          with Karina, a member of the K-pop group aespa. Reports suggest that
+          their romance blossomed after their initial encounter at an overseas
+          fashion event, with their bond strengthening as they spent time
+          together in Seoul. While both their agencies initially took time to
+          grasp the situation, they eventually acknowledged that the couple is
+          exploring their relationship and getting acquainted with each other.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "hailey-bieber-experiences-frustration-over-fathers-prayer-request-while-managing-challenges-with-justin",
+    timestamp: "Mar 01, 2024",
+    image: `/entertainment/mar-01-2024/hailey-bieber-experiences-frustration-over-fathers-prayer-request-while-managing-challenges-with-justin.jpg`,
+    title: `Hailey Bieber Experiences Frustration Over Father's Prayer Request While Managing Challenges with Justin`,
+    preArticle: `Hailey and Justin Bieber's relationship, always under scrutiny, is currently drawing attention for reasons other than their public displays of affection or past relationships. Instead, it's centered around a challenging phase they're navigating. Recently, Hailey's father, Stephen Baldwin, made a ple`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Hailey and Justin Bieber&apos;s relationship, always under scrutiny,
+          is currently drawing attention for reasons other than their public
+          displays of affection or past relationships. Instead, it&apos;s
+          centered around a challenging phase they&apos;re navigating. Recently,
+          Hailey&apos;s father, Stephen Baldwin, made a plea on Instagram for
+          prayers for his daughter and son-in-law. However, TMZ reports that
+          Hailey isn&apos;t pleased with this public disclosure.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-01-2024/hailey-bieber-experiences-frustration-over-fathers-prayer-request-while-managing-challenges-with-justin(2).webp"
+            alt="hailey-bieber-experiences-frustration-over-fathers-prayer-request-while-managing-challenges-with-justin(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          In a recent social media post, Stephen Baldwin referred to a personal
+          matter involving his daughter and son-in-law, sparking conversations
+          and mixed reactions. Sources suggest that this post might have caused
+          tension within the family, as it was not a spontaneous request but
+          related to a specific issue the couple is facing.
+        </p>
+        <p>
+          While the exact nature of the couple&apos;s problems remains
+          undisclosed, reports indicate that both Justin and Hailey are
+          grappling with deeply personal or marital issues. Observers noted
+          their somber demeanor as they exited a Los Angeles church, hinting at
+          underlying troubles that were previously overlooked.
+        </p>
+        <p>
+          Reports suggest that the 27-year-old model is displeased with her
+          marital problems being exposed to the public. This situation stemmed
+          from Stephen Baldwin&apos;s repost of an Instagram photo featuring
+          Justin, 29, singing a worship song. The caption urged Christians to
+          pray for wisdom, protection, and spiritual closeness for the couple.
+          Stephen highlighted the challenges faced by individuals in the
+          limelight and the spiritual warfare they endure, emphasizing the need
+          for support through prayer.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "superman-unveils-fresh-costume-initial-glimpse-hints-at-enigmatic-connections-to-legendary-dc-comics",
+    timestamp: "Mar 01, 2024",
+    image: `/entertainment/mar-01-2024/superman-unveils-fresh-costume-initial-glimpse-hints-at-enigmatic-connections-to-legendary-dc-comics.webp`,
+    title: `Superman Unveils Fresh Costume! Initial Glimpse Hints at Enigmatic Connections to Legendary DC Comics`,
+    preArticle: `Exciting news for Superman enthusiasts! DC Studios' head, James Gunn, has just announced a thrilling update on Superman's birthday. The beloved superhero is undergoing a transformation, complete with a fresh film and an all-new costume, signaling a new chapter for Superman on the silver screen. Assu`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Exciting news for Superman enthusiasts! DC Studios&apos; head, James
+          Gunn, has just announced a thrilling update on Superman&apos;s
+          birthday. The beloved superhero is undergoing a transformation,
+          complete with a fresh film and an all-new costume, signaling a new
+          chapter for Superman on the silver screen. Assurances from the
+          creators confirm that the much-anticipated superhero franchise is
+          officially in progress, slated for release in 2025!
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-01-2024/superman-unveils-fresh-costume-initial-glimpse-hints-at-enigmatic-connections-to-legendary-dc-comics(2).jpg"
+            alt="superman-unveils-fresh-costume-initial-glimpse-hints-at-enigmatic-connections-to-legendary-dc-comics(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          A notable change comes with the title adjustment: Superman: Legacy is
+          now simply SUPERMAN. Regardless, it&apos;s a fitting name for the
+          grand cinematic revival of the Man of Steel. With James Gunn leading
+          the charge and a substantial budget in play, fans are optimistic about
+          the visual extravaganza that the upcoming Superman film promises to
+          deliver. Gunn himself shared insights into the title evolution,
+          explaining that while the initial draft was named Superman: Legacy,
+          the final script solidified the title as SUPERMAN, as revealed in his
+          Instagram post.
+        </p>
+        <p>
+          In an unexpected twist, James Gunn took to Instagram to unveil
+          Superman&apos;s new suit, coinciding with the start of principal
+          photography on SUPERMAN, which intriguingly aligns with
+          Superman&apos;s birthday on February 29. The costume teaser shared on
+          Instagram has sparked discussions among fans, particularly regarding
+          the emblem&apos;s resemblance to Superman from the Kingdom Come
+          storyline by Mark Waid and Alex Ross, set in a parallel reality in the
+          future.
+        </p>
+        <p>
+          But fear not, fans! Despite the striking similarity in appearance, the
+          storyline promises freshness and novelty. While both versions of
+          Superman from Kingdom Come and the DC Universe (DCU) bear resemblance,
+          they remain distinct characters. Kingdom Come&apos;s Superman is
+          depicted as older and seasoned, contrasting with the DCU&apos;s Clark
+          Kent, who is portrayed as younger and at the outset of his superhero
+          journey.
+        </p>
+      </div>
+    ),
+  },
   // feb-28-2024
   {
     id: "all-india-ranking-varun-grovers-film-reflects-on-the-romanticized-struggle-of-being-12th-fail-but-is-haunted-by-trauma",
@@ -269,174 +449,6 @@ export const entertainment = [
           In Udhas&apos;s passing, the country mourns the loss of a voice that
           stirred countless emotions and left an enduring legacy in the world of
           music, as acknowledged by Yash Raj Films.
-        </p>
-      </div>
-    ),
-  },
-  // feb-17-2024
-  {
-    id: "met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event",
-    timestamp: "Feb 17, 2024",
-    image: `/entertainment/feb-17-2024/met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event.webp`,
-    title: `Met Gala 2024: Zendaya, Jennifer Lopez, and Bad Bunny Set to Co-Chair the Prestigious Event`,
-    preArticle: `Renowned figures from the entertainment industry, including Bad Bunny, Jennifer Lopez, Zendaya, and Chris Hemsworth, have been designated as co-hosts for the upcoming Met Gala, a highly anticipated event on the New York social scene, as disclosed by the Metropolitan Museum of Art on Thursday. Collab`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Renowned figures from the entertainment industry, including Bad Bunny,
-          Jennifer Lopez, Zendaya, and Chris Hemsworth, have been designated as
-          co-hosts for the upcoming Met Gala, a highly anticipated event on the
-          New York social scene, as disclosed by the Metropolitan Museum of Art
-          on Thursday. Collaborating with Vogue&apos;s Editor-In-Chief, Anna
-          Wintour, they will lead the proceedings of the gala scheduled for May
-          6, an evening that traditionally showcases the glamorous attire of the
-          entertainment world&apos;s luminaries while inaugurating the annual
-          exhibit at the Met&apos;s Costume Institute.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/feb-17-2024/met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event(2).webp"
-            alt="met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The chosen theme for this year&apos;s event is &quot;The Garden of
-          Time,&quot; inspired by the 1962 short story of the same name penned
-          by English author J.G. Ballard. The theme delves into the transient
-          nature of beauty, aligning with the narrative of Ballard&apos;s
-          literary work. This theme resonates with the concurrent exhibit titled
-          &quot;Sleeping Beauties: Reawakening Fashion.&quot; The exhibition
-          will spotlight the most delicate pieces from the Costume
-          Institute&apos;s extensive collection, visually connected by
-          nature-inspired iconography. Open to the public from May 10 to
-          September 2, the exhibit is a crucial element in supporting the
-          Costume Institute&apos;s endeavors, including exhibitions and
-          acquisitions.
-        </p>
-        <p>
-          Originating in 1948, the Met Gala was initially an exclusive gathering
-          for New York&apos;s elite. However, under the stewardship of Anna
-          Wintour in the 1990s, it underwent a transformation from a
-          high-society affair to a high-profile runway showcasing the opulent
-          and famous. Beyond its societal prominence, the gala has evolved into
-          a captivating spectacle on social media platforms, further enhancing
-          its cultural significance.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits",
-    timestamp: "Feb 17, 2024",
-    image: `/entertainment/feb-17-2024/jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits.webp`,
-    title: `Jungkook's Exceptional Influence: BTS Member's Solo Album Propels HYBE to Record Quarterly Operating Profits`,
-    preArticle: `BTS sensation Jungkook's impact has proven unparalleled, notably contributing to HYBE's remarkable fourth-quarter operational profit surge in 2023. KB Securities, on February 15, recognized Jungkook as a key factor behind HYBE's substantial operational profit of KRW 94.9 billion (approximately Rs 59`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          BTS sensation Jungkook&apos;s impact has proven unparalleled, notably
-          contributing to HYBE&apos;s remarkable fourth-quarter operational
-          profit surge in 2023. KB Securities, on February 15, recognized
-          Jungkook as a key factor behind HYBE&apos;s substantial operational
-          profit of KRW 94.9 billion (approximately Rs 590 crore) during Q4
-          2023. This figure reflects an impressive 86% increase compared to the
-          same period the previous year, marking the highest quarterly
-          performance in the company&apos;s history. Researcher Lee Seon-hwa
-          specifically credited the sales from Jungkook&apos;s debut solo album,
-          along with contributions from SEVENTEEN and ENHYPEN&apos;s releases,
-          as instrumental in achieving this milestone. Jungkook stood out as the
-          sole soloist acknowledged for significantly impacting HYBE&apos;s
-          profitability.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/feb-17-2024/jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits(2).webp"
-            alt="jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Despite these successes, KB Securities revised HYBE&apos;s target
-          stock price from 330,000 won (about Rs 20,000) to 300,000 won (about
-          Rs 18,000). This adjustment was attributed to an anticipated decline
-          in operational profit, influenced by changes in strategy resulting
-          from BTS&apos; absence and the impending enlistment of SEVENTEEN
-          members.
-        </p>
-        <p>
-          In terms of Jungkook&apos;s individual endeavors, following his solo
-          debut with &quot;Seven&quot; in July 2023, a collaborative project
-          with The Kid LAROI, and the release of his first solo album
-          &quot;Golden&quot; in November of the same year, Jungkook commenced
-          his mandatory military service alongside Jimin on December 12.
-          Following a five-week basic military training period, both Jimin and
-          Jungkook reportedly joined the 5th Infantry Division, the same
-          division as their bandmate Jin. Currently, all seven BTS members are
-          serving in the South Korean Army, and a group reunion is anticipated
-          by June 2025.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one",
-    timestamp: "Feb 17, 2024",
-    image: `/entertainment/feb-17-2024/release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one.jpg`,
-    title: `Release Date Revealed and Poster Unveiled for Jr NTR's 'Devara Part One'`,
-    preArticle: `The much-anticipated film, "Devara Part One," featuring N.T. Rama Rao Jr. and Jhanvi Kapoor, has revealed a fresh release date and unveiled an updated poster on Friday. Originally slated for April 5, the movie will now hit screens on October 10. South Indian superstar Jr. NTR shared the new poster`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The much-anticipated film, &quot;Devara Part One,&quot; featuring N.T.
-          Rama Rao Jr. and Jhanvi Kapoor, has revealed a fresh release date and
-          unveiled an updated poster on Friday.
-        </p>
-        <p>
-          Originally slated for April 5, the movie will now hit screens on
-          October 10.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/feb-17-2024/release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one(2).webp"
-            alt="release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          South Indian superstar Jr. NTR shared the new poster and announced the
-          revised release date, captioned as #Devara Part 1, set to release on
-          10.10.2024.
-        </p>
-        <p>
-          Directed and scripted by Koratala Siva, &quot;Devara Part 1&quot;
-          boasts a stellar cast including Saif Ali Khan, Prakash Raj, Srikanth,
-          Shine Tom Chako, and Narain. Jhanvi Kapoor is set to make her Telugu
-          cinema debut alongside Khan.
-        </p>
-        <p>
-          Produced by Sudhakar Mikilineni and Kosaraju HariKrishna under the
-          Yuvasudha banner, the film will see a multi-language release,
-          including Telugu, Hindi, Tamil, Malayalam, and Kannada.
-        </p>
-        <p>
-          This installment is the first part of a two-part film, featuring music
-          by Anirudh Ravichander, cinematography by R. Rathnavelu, and editing
-          by A. Sreekar Prasad.
-        </p>
-        <p>
-          Koratala Siva, acclaimed for directing films like &quot;Mirchi&quot;
-          (2013), &quot;Srimanthudu&quot; (2016), &quot;Janatha Garage&quot;
-          (2016), &quot;Bharat Ane Nenu&quot; (2018), and &quot;Acharya&quot;
-          (2022), has received accolades with two Nandi Awards and an IIFA
-          Utsavam Award for his directorial prowess. In 2016, he was also
-          honored with the Nandi Award for Best Story Writer.
         </p>
       </div>
     ),

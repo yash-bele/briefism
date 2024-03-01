@@ -1,6 +1,174 @@
 import Image from "next/image";
 
 export const entertainmentHistory = [
+  // feb-17-2024
+  {
+    id: "met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event",
+    timestamp: "Feb 17, 2024",
+    image: `/entertainment/feb-17-2024/met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event.webp`,
+    title: `Met Gala 2024: Zendaya, Jennifer Lopez, and Bad Bunny Set to Co-Chair the Prestigious Event`,
+    preArticle: `Renowned figures from the entertainment industry, including Bad Bunny, Jennifer Lopez, Zendaya, and Chris Hemsworth, have been designated as co-hosts for the upcoming Met Gala, a highly anticipated event on the New York social scene, as disclosed by the Metropolitan Museum of Art on Thursday. Collab`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Renowned figures from the entertainment industry, including Bad Bunny,
+          Jennifer Lopez, Zendaya, and Chris Hemsworth, have been designated as
+          co-hosts for the upcoming Met Gala, a highly anticipated event on the
+          New York social scene, as disclosed by the Metropolitan Museum of Art
+          on Thursday. Collaborating with Vogue&apos;s Editor-In-Chief, Anna
+          Wintour, they will lead the proceedings of the gala scheduled for May
+          6, an evening that traditionally showcases the glamorous attire of the
+          entertainment world&apos;s luminaries while inaugurating the annual
+          exhibit at the Met&apos;s Costume Institute.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/feb-17-2024/met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event(2).webp"
+            alt="met-gala-2024-zendaya-jennifer-lopez-and-bad-bunny-set-to-co-chair-the-prestigious-event(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The chosen theme for this year&apos;s event is &quot;The Garden of
+          Time,&quot; inspired by the 1962 short story of the same name penned
+          by English author J.G. Ballard. The theme delves into the transient
+          nature of beauty, aligning with the narrative of Ballard&apos;s
+          literary work. This theme resonates with the concurrent exhibit titled
+          &quot;Sleeping Beauties: Reawakening Fashion.&quot; The exhibition
+          will spotlight the most delicate pieces from the Costume
+          Institute&apos;s extensive collection, visually connected by
+          nature-inspired iconography. Open to the public from May 10 to
+          September 2, the exhibit is a crucial element in supporting the
+          Costume Institute&apos;s endeavors, including exhibitions and
+          acquisitions.
+        </p>
+        <p>
+          Originating in 1948, the Met Gala was initially an exclusive gathering
+          for New York&apos;s elite. However, under the stewardship of Anna
+          Wintour in the 1990s, it underwent a transformation from a
+          high-society affair to a high-profile runway showcasing the opulent
+          and famous. Beyond its societal prominence, the gala has evolved into
+          a captivating spectacle on social media platforms, further enhancing
+          its cultural significance.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits",
+    timestamp: "Feb 17, 2024",
+    image: `/entertainment/feb-17-2024/jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits.webp`,
+    title: `Jungkook's Exceptional Influence: BTS Member's Solo Album Propels HYBE to Record Quarterly Operating Profits`,
+    preArticle: `BTS sensation Jungkook's impact has proven unparalleled, notably contributing to HYBE's remarkable fourth-quarter operational profit surge in 2023. KB Securities, on February 15, recognized Jungkook as a key factor behind HYBE's substantial operational profit of KRW 94.9 billion (approximately Rs 59`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          BTS sensation Jungkook&apos;s impact has proven unparalleled, notably
+          contributing to HYBE&apos;s remarkable fourth-quarter operational
+          profit surge in 2023. KB Securities, on February 15, recognized
+          Jungkook as a key factor behind HYBE&apos;s substantial operational
+          profit of KRW 94.9 billion (approximately Rs 590 crore) during Q4
+          2023. This figure reflects an impressive 86% increase compared to the
+          same period the previous year, marking the highest quarterly
+          performance in the company&apos;s history. Researcher Lee Seon-hwa
+          specifically credited the sales from Jungkook&apos;s debut solo album,
+          along with contributions from SEVENTEEN and ENHYPEN&apos;s releases,
+          as instrumental in achieving this milestone. Jungkook stood out as the
+          sole soloist acknowledged for significantly impacting HYBE&apos;s
+          profitability.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/feb-17-2024/jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits(2).webp"
+            alt="jungkooks-exceptional-influence-bts-members-solo-album-propels-hybe-to-record-quarterly-operating-profits(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Despite these successes, KB Securities revised HYBE&apos;s target
+          stock price from 330,000 won (about Rs 20,000) to 300,000 won (about
+          Rs 18,000). This adjustment was attributed to an anticipated decline
+          in operational profit, influenced by changes in strategy resulting
+          from BTS&apos; absence and the impending enlistment of SEVENTEEN
+          members.
+        </p>
+        <p>
+          In terms of Jungkook&apos;s individual endeavors, following his solo
+          debut with &quot;Seven&quot; in July 2023, a collaborative project
+          with The Kid LAROI, and the release of his first solo album
+          &quot;Golden&quot; in November of the same year, Jungkook commenced
+          his mandatory military service alongside Jimin on December 12.
+          Following a five-week basic military training period, both Jimin and
+          Jungkook reportedly joined the 5th Infantry Division, the same
+          division as their bandmate Jin. Currently, all seven BTS members are
+          serving in the South Korean Army, and a group reunion is anticipated
+          by June 2025.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one",
+    timestamp: "Feb 17, 2024",
+    image: `/entertainment/feb-17-2024/release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one.jpg`,
+    title: `Release Date Revealed and Poster Unveiled for Jr NTR's 'Devara Part One'`,
+    preArticle: `The much-anticipated film, "Devara Part One," featuring N.T. Rama Rao Jr. and Jhanvi Kapoor, has revealed a fresh release date and unveiled an updated poster on Friday. Originally slated for April 5, the movie will now hit screens on October 10. South Indian superstar Jr. NTR shared the new poster`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The much-anticipated film, &quot;Devara Part One,&quot; featuring N.T.
+          Rama Rao Jr. and Jhanvi Kapoor, has revealed a fresh release date and
+          unveiled an updated poster on Friday.
+        </p>
+        <p>
+          Originally slated for April 5, the movie will now hit screens on
+          October 10.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/feb-17-2024/release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one(2).webp"
+            alt="release-date-revealed-and-poster-unveiled-for-jr-ntrs-devara-part-one(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          South Indian superstar Jr. NTR shared the new poster and announced the
+          revised release date, captioned as #Devara Part 1, set to release on
+          10.10.2024.
+        </p>
+        <p>
+          Directed and scripted by Koratala Siva, &quot;Devara Part 1&quot;
+          boasts a stellar cast including Saif Ali Khan, Prakash Raj, Srikanth,
+          Shine Tom Chako, and Narain. Jhanvi Kapoor is set to make her Telugu
+          cinema debut alongside Khan.
+        </p>
+        <p>
+          Produced by Sudhakar Mikilineni and Kosaraju HariKrishna under the
+          Yuvasudha banner, the film will see a multi-language release,
+          including Telugu, Hindi, Tamil, Malayalam, and Kannada.
+        </p>
+        <p>
+          This installment is the first part of a two-part film, featuring music
+          by Anirudh Ravichander, cinematography by R. Rathnavelu, and editing
+          by A. Sreekar Prasad.
+        </p>
+        <p>
+          Koratala Siva, acclaimed for directing films like &quot;Mirchi&quot;
+          (2013), &quot;Srimanthudu&quot; (2016), &quot;Janatha Garage&quot;
+          (2016), &quot;Bharat Ane Nenu&quot; (2018), and &quot;Acharya&quot;
+          (2022), has received accolades with two Nandi Awards and an IIFA
+          Utsavam Award for his directorial prowess. In 2016, he was also
+          honored with the Nandi Award for Best Story Writer.
+        </p>
+      </div>
+    ),
+  },
   // feb-02-2024
   {
     id: "millie-bobby-brown-brandishes-a-sword-in-the-latest-damsel-poster-confronting-formidable-creatures",
