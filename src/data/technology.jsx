@@ -1,6 +1,370 @@
 import Image from "next/image";
 
 export const technology = [
+  {
+    id: "nokia-collaborates-with-company-to-enhance-connectivity-for-government-and-enterprises",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/nokia-collaborates-with-company-to-enhance-connectivity-for-government-and-enterprises.jpg`,
+    title: `Nokia Collaborates with Company to Enhance Connectivity for Government and Enterprises`,
+    preArticle: `Nokia has joined forces with STL, a company specializing in optical and digital solutions, to create and deliver advanced connectivity solutions tailored for governments and enterprises across various sectors such as manufacturing, healthcare, retail, banking, critical infrastructure, and rural broa`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Nokia has joined forces with STL, a company specializing in optical
+          and digital solutions, to create and deliver advanced connectivity
+          solutions tailored for governments and enterprises across various
+          sectors such as manufacturing, healthcare, retail, banking, critical
+          infrastructure, and rural broadband initiatives.
+        </p>
+        <p>
+          This collaboration aims to explore and develop 5G applications for
+          enterprises, with a particular emphasis on devising effective
+          solutions for data centers. The partnership will actively engage in
+          government-led connectivity projects, leveraging Nokia&apos;s B2B
+          technology portfolio and STL&apos;s expertise in system integration.
+        </p>
+        <p>
+          Praveen Cherian, CEO of Global Services Business at STL, highlighted
+          the synergistic potential of STL&apos;s extensive experience in
+          connectivity solutions combined with Nokia&apos;s technological
+          prowess in 5G and IoT. He expressed optimism about the collaboration
+          redefining enterprise connectivity and bringing transformative changes
+          to industries.
+        </p>
+        <p>
+          The joint solutions will fortify enterprise networks, ensuring they
+          possess high-speed, highly available, and low-latency connections.
+          These connections will cater to a variety of applications, including
+          5G, IoT, augmented reality, data center interconnect, supply chain
+          optimization, real-time data analytics, and applications related to
+          General Artificial Intelligence (Gen AI).
+        </p>
+        <p>
+          Vinish Bawa, Head of Enterprise and Webscale business in India at
+          Nokia, underscored the partnership&apos;s alignment with their
+          commitment to driving digital transformation across diverse industries
+          and governmental sectors. By leveraging the strengths of both
+          companies, the collaboration is poised to accelerate the Industry 4.0
+          revolution, unlocking transformative potential for enterprises.
+        </p>
+        <p>
+          In summary, the collaboration between Nokia and STL signifies a
+          strategic alliance aimed at revolutionizing connectivity solutions for
+          governments and enterprises. The joint efforts will focus on
+          technological advancements in 5G and IoT, with an emphasis on
+          addressing the unique needs of various industries. This partnership is
+          expected to redefine enterprise connectivity, accelerate digital
+          transformation, and contribute to the evolution of Industry 4.0.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "rajeev-chandrasekhar-clarifies-governments-position-on-ai",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/rajeev-chandrasekhar-clarifies-governments-position-on-ai.avif`,
+    title: `Rajeev Chandrasekhar Clarifies Government's Position on AI, Describes Advisory as a 'Safety Net' for Companies`,
+    preArticle: `In response to the recent advisory issued by MeitY on March 1, Rajeev Chandrasekhar, the Minister of State for IT, has provided clarifications addressing widespread concerns within the industry. Chandrasekhar highlighted that the advisory specifically pertains to "Significant platforms," clarifying`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In response to the recent advisory issued by MeitY on March 1, Rajeev
+          Chandrasekhar, the Minister of State for IT, has provided
+          clarifications addressing widespread concerns within the industry.
+        </p>
+        <p>
+          Chandrasekhar highlighted that the advisory specifically pertains to
+          &quot;Significant platforms,&quot; clarifying that startups are exempt
+          from MeitY permission requirements. He stressed that the advisory is
+          focused on &quot;untested AI platforms&quot; intended for deployment
+          on the &quot;Indian Internet.&quot;
+        </p>
+        <div>
+          <blockquote class="twitter-tweet">
+            <p lang="en" dir="ltr">
+              Recent advisory of{" "}
+              <a href="https://twitter.com/GoI_MeitY?ref_src=twsrc%5Etfw">
+                @GoI_MeitY
+              </a>{" "}
+              needs to be understood
+              <br />
+              <br />
+              ➡️Advisory is aimed at the Significant platforms and permission
+              seeking from Meity is only for large plarforms and will not apply
+              to startups.
+              <br />
+              <br />
+              ➡️Advisory is aimed at untested AI platforms from deploying on
+              Indian Internet…
+            </p>
+            &mdash; Rajeev Chandrasekhar 🇮🇳(Modiyude Kutumbam) (@Rajeev_GoI){" "}
+            <a href="https://twitter.com/Rajeev_GoI/status/1764534565715300592?ref_src=twsrc%5Etfw">
+              March 4, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+        </div>
+        <p>
+          Moreover, he emphasized the advisory&apos;s role as an &quot;insurance
+          policy&quot; for platforms, offering protection against potential
+          consumer lawsuits. Compliance entails obtaining permission, clearly
+          labeling, and securing user consent for disclosing untested platforms.
+        </p>
+        <p>
+          Chandrasekhar asserted that ensuring the safety and trust of
+          India&apos;s Internet is a collaborative goal among the government,
+          users, and platforms.
+        </p>
+        <p>
+          For context, the Ministry of Electronics and IT, Government of India,
+          issued an advisory on March 1, targeting platforms utilizing
+          generative AI models and algorithms. The advisory mandates explicit
+          government permission for launch in India and compliance with content
+          guidelines to avoid penal consequences.
+        </p>
+        <p>
+          This advisory follows controversy surrounding Google&apos;s Gemini
+          generative AI platform, accused of bias in response to a query about
+          Indian Prime Minister Narendra Modi.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "indian-semiconductor-sector-gains-recognition-for-advantages-in-global-value-chain",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/indian-semiconductor-sector-gains-recognition-for-advantages-in-global-value-chain.avif`,
+    title: `Indian Semiconductor Sector Gains Recognition for Advantages in Global Value Chain`,
+    preArticle: `The Cabinet recently greenlit three significant semiconductor projects, expected to draw a total investment of Rs 1.26 lakh crore for establishments in Gujarat and Assam. As India aims to broaden its role in the global semiconductor value chains, a report from the Information Technology and Innovati`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The Cabinet recently greenlit three significant semiconductor
+          projects, expected to draw a total investment of Rs 1.26 lakh crore
+          for establishments in Gujarat and Assam. As India aims to broaden its
+          role in the global semiconductor value chains, a report from the
+          Information Technology and Innovation Foundation (ITIF) titled
+          &quot;Assessing India’s Readiness to Assume a Greater Role in Global
+          Semiconductor Value Chains&quot; underscores the nation&apos;s
+          potential to elevate its presence in the semiconductor industry.
+        </p>
+        <p>
+          The ITIF report suggests that India could establish up to five
+          semiconductor assembly, test, and packaging (ATP) facilities in the
+          next five years, attracting fabs producing legacy semiconductors at 28
+          nm or above. This expansion would leverage India’s significant
+          experience in semiconductor design, currently employing over 125,000
+          workers and constituting 20% of the world’s integrated circuit (IC)
+          design workforce.
+        </p>
+        <p>
+          Despite India producing over 800,000 engineers annually, only a
+          fraction are industry-ready upon graduation, highlighting a global
+          shortage of semiconductor talent. The report stresses the need for
+          improved courses, training, and readiness to bridge this gap and
+          capitalize on India’s engineering talent pool. The semiconductor
+          industry is optimistic about India&apos;s potential, given the
+          interest from major chip companies and supportive policies,
+          anticipating an enhancement of technical capabilities and talent pool
+          expansion.
+        </p>
+        <p>
+          Sanjay Gupta, chairperson of the India Electronics and Semiconductor
+          Association (IESA), highlights the thriving ecosystem in India, where
+          various stakeholders actively engage in electronics, semiconductor,
+          and software sectors. Gupta sees India as a viable alternative in the
+          global semiconductor value chain, citing unique advantages such as
+          demographic profile and scalability compared to logistics and
+          infrastructure strengths in countries like Singapore, Korea, Hong
+          Kong, Japan, and Malaysia.
+        </p>
+        <p>
+          With India projected to remain the world&apos;s youngest country for
+          the next four decades and its scalability potential, Gupta asserts
+          India is poised to become a major player in the semiconductor
+          industry. To address semiconductor manufacturing requirements, he
+          outlines ten critical factors, including uninterrupted utilities,
+          robust logistics, talent access, and government support for clearances
+          and visas. Stable policies and leadership within the government
+          contribute to investor trust and major investments.
+        </p>
+        <p>
+          Gupta emphasizes India&apos;s stable policies and leadership as key
+          factors contributing to investor trust, highlighting the
+          government&apos;s role in policy stability. Discussing the report, he
+          underscores the significance of India’s domestic market in driving
+          semiconductor consumption, projecting substantial growth and potential
+          for a self-sustaining semiconductor industry that reduces dependency
+          on imports, contributing to economic stability.
+        </p>
+        <p>
+          Ashok Chandak, president of IESA, concurs, stating that India&apos;s
+          expanding domestic market, well-developed design ecosystem, supportive
+          government policies, and industry collaboration position it uniquely
+          for semiconductor manufacturing. The report recognizes India&apos;s
+          progress toward becoming a prime destination for electronics and
+          semiconductor manufacturing, capitalizing on a robust semiconductor
+          design ecosystem.
+        </p>
+        <p>
+          While the report informs government efforts in deepening commercial
+          ties between the US and India in the semiconductor sector, it
+          acknowledges companies adopting a “China-plus-one” or “China-plus-two”
+          strategy to enhance supply chain resilience. John Neuffer, president
+          and CEO of Semiconductor Industry Association (SIA), sees this as a
+          crucial moment for the semiconductor industry and strategic
+          cooperation between the US and India. Despite fierce global
+          competition for semiconductor investment, Neuffer acknowledges
+          India&apos;s strong value proposition and the potential to expand its
+          role in the sector.
+        </p>
+        <p>
+          In conclusion, with government support and industry collaboration,
+          India is well-positioned to strengthen its foothold in the global
+          semiconductor value chains. This advancement holds the promise of
+          technological progress and economic growth for the country.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "google-drive-simplifies-file-search-on-ios-app",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/google-drive-simplifies-file-search-on-ios-app.jpg`,
+    title: `Google Drive Simplifies File Search on iOS App: Here's the Method.`,
+    preArticle: `If you're currently using Google Drive, chances are you've encountered some challenges when searching for and organizing files, particularly on iOS and Android devices. Google Drive offers a convenient platform for file storage and access, but its search functionality has been less than perfect, esp`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          If you&apos;re currently using Google Drive, chances are you&apos;ve
+          encountered some challenges when searching for and organizing files,
+          particularly on iOS and Android devices. Google Drive offers a
+          convenient platform for file storage and access, but its search
+          functionality has been less than perfect, especially when you&apos;re
+          trying to locate a file without remembering its exact name.
+        </p>
+        <p>
+          Addressing this issue, Google has introduced a significant update for
+          iOS users (with Android availability expected soon). This update aims
+          to enhance the search experience by introducing filter categories,
+          suggesting relevant filters while typing, and providing additional
+          refinement options after the search results are displayed.
+        </p>
+        <p>
+          <span className="block text-xl">Eligibility for the Update:</span>
+          This update is currently accessible to Google Workspace users,
+          individual subscribers to Google Workspace, and individuals with
+          personal Google accounts. It&apos;s essential to note that the update
+          is applicable when using the Google Drive app on an iOS device, and
+          Google has committed to informing users when it becomes available on
+          Android devices.
+        </p>
+        <p>
+          <span className="block text-xl">How the Update Works:</span>
+          In the Google Drive app for iOS, filter categories are conveniently
+          located beneath the search bar. These categories include filters for
+          File Type, Owners, and Last Modified, streamlining the search process.
+        </p>
+        <p>
+          One notable improvement is the introduction of relevant query filters
+          suggested as you type your search query. This feature significantly
+          speeds up the search process by allowing you to select filters easily,
+          eliminating the need to type out the entire search string.
+        </p>
+        <p>
+          These new features prove invaluable when you&apos;re dealing with
+          files that have slipped from your immediate memory on Google Drive.
+          For instance, suppose you&apos;re looking for an image but can&apos;t
+          recall its file name. With this update, you can simply select the file
+          type as an image and specify the range in the Last Modified section,
+          making it a breeze to locate the desired file.
+        </p>
+        <p>
+          In conclusion, Google&apos;s latest update for the iOS version of the
+          Google Drive app represents a significant improvement in the search
+          functionality. By introducing filter categories, suggesting relevant
+          filters, and offering refinement options, Google aims to streamline
+          the user experience, making it more efficient and user-friendly. As
+          these improvements become available on Android devices, users across
+          both platforms can look forward to an enhanced and more intuitive
+          Google Drive search experience.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "whatsapp-takes-action-against-inappropriate-indian-accounts-in-january",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/whatsapp-takes-action-against-inappropriate-indian-accounts-in-january.jpg`,
+    title: `WhatsApp Takes Action Against Over 6.7 Million 'Inappropriate' Indian Accounts in January`,
+    preArticle: `In January, Meta-owned WhatsApp took decisive action against over 6.7 million accounts in India, adhering to the guidelines outlined in the new IT Rules 2021. During the period from January 1 to 31, the company enforced bans on a total of 6,728,000 accounts. Impressively, 1,358,000 of these accounts`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In January, Meta-owned WhatsApp took decisive action against over 6.7
+          million accounts in India, adhering to the guidelines outlined in the
+          new IT Rules 2021. During the period from January 1 to 31, the company
+          enforced bans on a total of 6,728,000 accounts. Impressively,
+          1,358,000 of these accounts were proactively banned without any user
+          reports, showcasing the platform&apos;s commitment to pre-emptive
+          measures.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/mar-05-2024/whatsapp-takes-action-against-inappropriate-indian-accounts-in-january(2).jpg"
+            alt="whatsapp-takes-action-against-inappropriate-indian-accounts-in-january(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          WhatsApp, the leading messaging platform with a user base exceeding
+          500 million in India, recorded a substantial 14,828 complaint reports
+          in January. Out of these reports, 10 were acted upon, indicating
+          instances where WhatsApp took remedial action based on user
+          complaints. The term &quot;Accounts Actioned&quot; refers to the
+          implementation of remedial measures, either in the form of banning an
+          account or restoring a previously banned account.
+        </p>
+        <p>
+          The user-safety report released by WhatsApp provides comprehensive
+          details about the complaints received, the corresponding actions taken
+          by the platform, and the preventive measures implemented to combat
+          abuse on the platform. This transparency is part of WhatsApp&apos;s
+          ongoing efforts to ensure user safety and maintain a secure digital
+          environment.
+        </p>
+        <p>
+          In an effort to empower social media users in India, the Central
+          government introduced the Grievance Appellate Committee (GAC). This
+          committee is specifically designed to address user concerns related to
+          content and other issues on social media platforms. The GAC serves as
+          a mechanism for users to appeal decisions made by social media
+          platforms.
+        </p>
+        <p>
+          As a company committed to preventing and combating abuse, WhatsApp
+          emphasized its position as an industry leader in end-to-end encrypted
+          messaging services. Beyond safety features and controls, the platform
+          employs a dedicated team comprising engineers, data scientists,
+          analysts, researchers, and experts in law enforcement, online safety,
+          and technology. This team plays a crucial role in overseeing and
+          enhancing efforts to maintain a secure digital space.
+        </p>
+        <p>
+          The proactive approach taken by WhatsApp in banning over 6.7 million
+          accounts in January builds upon its commitment to user safety,
+          following a similar initiative in December of the previous year when
+          more than 69 lakh accounts were banned in India.
+        </p>
+      </div>
+    ),
+  },
   // feb-29-2024
   {
     id: "bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad",
@@ -134,311 +498,6 @@ export const technology = [
           its global devices expected to be repairable, HMD emphasizes
           sustainability and longevity in its product offerings, catering to
           evolving consumer preferences.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000",
-    timestamp: "Feb 29, 2024",
-    image: `/technology/feb-29-2024/review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000.webp`,
-    title: `Review of Redmi Buds 5: Top Earbuds Aesthetically Priced Below Rs 3000`,
-    preArticle: `In a market characterized by uniformity, it's refreshing when a brand dares to innovate, as seen with the Redmi Buds 5. Boasting a sleek design and premium feel, these earbuds make a striking impression right out of the box. Available in matte white, mint, and black, the case exudes sophistication w`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In a market characterized by uniformity, it&apos;s refreshing when a
-          brand dares to innovate, as seen with the Redmi Buds 5. Boasting a
-          sleek design and premium feel, these earbuds make a striking
-          impression right out of the box. Available in matte white, mint, and
-          black, the case exudes sophistication with its slim profile and
-          easy-to-clean finish.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/feb-29-2024/review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000(2).jpg"
-            alt="review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Opening the case reveals thoughtful details, including an LED
-          indicator for battery status and pairing notifications, along with
-          soft cushioning that adds a satisfying touch. While the earbuds
-          themselves may not match the case&apos;s elegance, their lightweight
-          build and comfortable fit compensate for any perceived shortcomings.
-        </p>
-        <p>
-          Pairing the Buds 5 is seamless thanks to Google Fast Pair, ensuring
-          quick and hassle-free connectivity with compatible devices. When it
-          comes to audio quality, the 12.4mm drivers deliver a V-shaped
-          frequency response, emphasizing bass and treble while maintaining
-          natural sound reproduction. The earbuds also feature active noise
-          cancellation (ANC) up to 46 decibels, effectively reducing ambient
-          noise for an immersive listening experience.
-        </p>
-        <p>
-          With a claimed total battery life of 40 hours, including ANC, the Buds
-          5 offer respectable usage time on a single charge. However, touch
-          controls can be a bit finicky, leading to inadvertent commands during
-          adjustment. Despite this minor inconvenience, the Redmi Buds 5 excel
-          in terms of design, sound quality, and overall value proposition,
-          making them a standout choice in the budget segment.
-        </p>
-      </div>
-    ),
-  },
-  // feb-27-2024
-  {
-    id: "truecaller-to-introduce-call-recording-transcription-and-summarization",
-    timestamp: "Feb 27, 2024",
-    image: `/technology/feb-27-2024/truecaller-to-introduce-call-recording-transcription-and-summarization.webp`,
-    title: `Truecaller to Introduce Call Recording Transcription and Summarization`,
-    preArticle: `Truecaller has introduced its AI-driven call recording feature in India, now available for both iOS and Android users. This new tool enables users to record phone conversations directly within the Truecaller app, providing transcription and summary generation capabilities. Utilizing artificial inte`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Truecaller has introduced its AI-driven call recording feature in
-          India, now available for both iOS and Android users. This new tool
-          enables users to record phone conversations directly within the
-          Truecaller app, providing transcription and summary generation
-          capabilities.
-        </p>
-        <p>
-          Utilizing artificial intelligence technology, Truecaller offers live
-          call transcription, allowing users to concentrate fully on the
-          conversation without the need for note-taking. After the call
-          concludes, Truecaller&apos;s AI automatically generates a
-          transcription of the entire conversation along with a convenient
-          summary.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/feb-27-2024/truecaller-to-introduce-call-recording-transcription-and-summarization(2).jpg"
-            alt="truecaller-to-introduce-call-recording-transcription-and-summarization(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          For iPhone users, the feature seamlessly integrates into the
-          Truecaller app. During a call, simply tap &quot;Record a Call&quot; in
-          the Search tab to initiate Truecaller&apos;s recording line and merge
-          the calls. Upon completion, users receive a notification, and all
-          recordings are securely stored locally on the device.
-        </p>
-        <p>
-          Android users can find a dedicated record button within
-          Truecaller&apos;s dialer, enabling them to start or stop capturing
-          phone meetings with a single tap. A floating button serves the same
-          purpose for other dialers. Similar to iPhone users, Android users
-          receive a notification when the call file is processed and ready for
-          review.
-        </p>
-        <p>
-          Currently, the transcription feature supports English and Hindi
-          languages, with plans for Truecaller to include additional languages
-          in future updates.
-        </p>
-        <p>
-          Accessing this new functionality is straightforward, as it is part of
-          Truecaller&apos;s Premium package, priced at Rs 75 per month or Rs 529
-          annually. Subscribers not only gain access to call recording but also
-          to other Premium benefits such as contact requests, extended call
-          history, and more.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "japanese-moon-lander-survives-second-lunar-night-outperforming-expectations",
-    timestamp: "Feb 27, 2024",
-    image: `/technology/feb-27-2024/japanese-moon-lander-survives-second-lunar-night-outperforming-expectations.jpg`,
-    title: `Japanese Moon Lander Survives Second Lunar Night, Outperforming Expectations`,
-    preArticle: `Japan's inaugural moon lander has responded to an Earth signal, indicating its survival through a second frigid lunar night, as announced by Japan's space agency on Monday. JAXA referred to the signal received late Sunday as a "miracle" since the probe was not originally designed to endure the luna`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Japan&apos;s inaugural moon lander has responded to an Earth signal,
-          indicating its survival through a second frigid lunar night, as
-          announced by Japan&apos;s space agency on Monday.
-        </p>
-        <p>
-          JAXA referred to the signal received late Sunday as a
-          &quot;miracle&quot; since the probe was not originally designed to
-          endure the lunar night, characterized by temperatures plummeting to
-          minus 170 degrees Celsius (minus 274 degrees Fahrenheit).
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/feb-27-2024/japanese-moon-lander-survives-second-lunar-night-outperforming-expectations(2).webp"
-            alt="japanese-moon-lander-survives-second-lunar-night-outperforming-expectations(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The spacecraft, known as the Smart Lander for Investigating Moon
-          (SLIM), executed a precise touchdown on Jan. 20, marking Japan as the
-          fifth nation to successfully deploy a probe on the moon.
-        </p>
-        <p>
-          However, upon landing, the probe found itself inverted, hindering its
-          solar panels&apos; ability to access sunlight initially, resulting in
-          a shutdown within hours. SLIM regained power on the eighth day
-          post-landing, upon exposure to sunlight.
-        </p>
-        <p>
-          Over subsequent days, SLIM gathered geological data from lunar rocks
-          before entering a hibernation period in late January to endure another
-          lunar night.
-        </p>
-        <p>
-          JAXA mentioned that Sunday&apos;s communication was brief as it was
-          still &quot;lunar midday,&quot; with SLIM experiencing high
-          temperatures of about 100 degrees Celsius (212 Fahrenheit). The agency
-          is preparing to re-establish contact once the vehicle has cooled down.
-        </p>
-        <p>
-          Scientists are eager to analyze moon rock mineral compositions to
-          unravel clues about the moon&apos;s origins, comparing them with those
-          of Earth.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future",
-    timestamp: "Feb 27, 2024",
-    image: `/technology/feb-27-2024/first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future.webp`,
-    title: `First Glimpse at Lenovo's Transparent Concept Laptop: A Gaze into the Future`,
-    preArticle: `As a child, I found computers peculiar, yet as I matured, that initial strangeness dissipated. Despite my nostalgia for 90s computers, Lenovo's unveiling of a transparent laptop promises to transport me into the future. At the Mobile World Congress in Barcelona, I had the opportunity to explore Len`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          As a child, I found computers peculiar, yet as I matured, that initial
-          strangeness dissipated. Despite my nostalgia for 90s computers,
-          Lenovo&apos;s unveiling of a transparent laptop promises to transport
-          me into the future.
-        </p>
-        <p>
-          At the Mobile World Congress in Barcelona, I had the opportunity to
-          explore Lenovo&apos;s proof-of-concept ThinkBook laptop, featuring a
-          transparent display akin to augmented reality. Interacting with the
-          device evoked mixed emotions about its innovative positioning.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/feb-27-2024/first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2).jpg"
-            alt="first-glimpse-at-lenovos-transparent-concept-laptop-a-gaze-into-the-future(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Upon finally accessing the demo unit, the experience was unlike any
-          familiar laptop usage. The device resembled a single piece of glass,
-          with floating Windows icons and cursor movements resembling mid-air
-          interaction, akin to using an AR headset. While intriguing, grasping
-          the concept of a transparent screen laptop required more time to
-          acclimate.
-        </p>
-        <p>
-          The standout feature of the device is its 17.3-inch MicroLED
-          transparent display, boasting 55% transparency. Although visible from
-          behind, the display becomes less transparent as pixels illuminate,
-          lending a magical, dystopian aesthetic to the user experience. Despite
-          its allure, the laptop&apos;s bulkiness contrasts sharply with the
-          sleekness of a MacBook Air, featuring a dual-screen design with a
-          capacitive touchscreen and trackpad on the bottom.
-        </p>
-        <p>
-          Upon further exploration, I discovered that the keyboard functions as
-          a projection that vanishes when a stylus approaches or when the user
-          steps away, transforming the secondary touchscreen into a drawing
-          surface. Additionally, a camera positioned below the display hinge
-          facilitates object identification and generative AI, displaying
-          relevant information about objects placed behind the screen.
-        </p>
-        <p>
-          While the Lenovo ThinkBook Transparent laptop demo impressed, it
-          remains far from retail availability. Questions regarding its
-          practicality and user experience must be addressed, especially
-          considering the limited resolution of the MicroLED panel, currently
-          restricted to HD quality. Lenovo acknowledges the challenge of
-          achieving Full HD resolution on a transparent display, underscoring
-          the need for further development before market release.
-        </p>
-      </div>
-    ),
-  },
-  // feb-17-2024
-  {
-    id: "microsoft-provides-significant-insights-into-the-future-of-xbox-unveils-new-hardware-exclusive-titles-on-alternate-consoles-and-beyond",
-    timestamp: "Feb 17, 2024",
-    image: `/technology/feb-17-2024/microsoft-provides-significant-insights-into-the-future-of-xbox-unveils-new-hardware-exclusive-titles-on-alternate-consoles-and-beyond.jpg`,
-    title: `Microsoft Provides Significant Insights into the Future of Xbox: Unveils New Hardware, Exclusive Titles on Alternate Consoles, and Beyond`,
-    preArticle: `In an official Xbox Podcast, Microsoft addressed various aspects of their future plans, providing insights into upcoming developments. A significant revelation included plans for a console upgrade aiming to introduce the "largest technical leap ever seen in a hardware generation." Contrary to specul`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In an official Xbox Podcast, Microsoft addressed various aspects of
-          their future plans, providing insights into upcoming developments. A
-          significant revelation included plans for a console upgrade aiming to
-          introduce the &quot;largest technical leap ever seen in a hardware
-          generation.&quot; Contrary to speculation, Microsoft affirmed their
-          continued presence in the console hardware business, emphasizing their
-          commitment to delivering cutting-edge hardware.
-        </p>
-        <p>
-          The announcement disclosed that certain Xbox-exclusive games, older
-          than a year and having reached their potential on Xbox and PC, would
-          extend to PlayStation and Nintendo platforms. However, this shift was
-          portrayed as a one-time expansion rather than a strategic departure
-          from Xbox exclusives. The specific titles were not disclosed, but
-          clues hinted at community-driven games and early franchise iterations.
-        </p>
-        <p>
-          Xbox President Sarah Bond and Head Phil Spencer both reiterated the
-          company&apos;s dedication to console hardware, dispelling rumors of an
-          exit from the hardware business. Bond teased the next-gen console,
-          promising a groundbreaking technical leap for players and creators.
-        </p>
-        <p>
-          While the release date for the upgraded console remains uncertain,
-          hints suggest an announcement during the holiday season. Speculation
-          surrounds the nature of the hardware, with possibilities including a
-          traditional next-gen console, a gaming handheld, or potentially both,
-          based on intentional and unintentional hints.
-        </p>
-        <p>
-          The Xbox Game Pass subscription service continues its growth, reaching
-          34 million subscribers. Both Bond and Spencer highlighted its
-          profitability, affirming it as a sustainable business model.
-        </p>
-        <p>
-          In a significant development, Xbox confirmed that the first Activision
-          Blizzard game, Diablo 4, will be available on Game Pass for Xbox and
-          PC from March 28. This marks a notable addition to the Game Pass
-          catalog, following the acquisition of Activision Blizzard.
-        </p>
-        <p>
-          Looking ahead, Microsoft has scheduled an Xbox showcase event for
-          June, although details about the focus, whether hardware, software, or
-          a combination, remain undisclosed.
-        </p>
-        <p>
-          To sum up, Microsoft is expanding select games to new platforms while
-          maintaining a steadfast commitment to console hardware. The
-          anticipation for next-gen machines in 2024 is strong, Game Pass
-          continues to experience substantial growth, and new additions to the
-          catalog, starting with Diablo 4, enhance the gaming experience for
-          subscribers.
         </p>
       </div>
     ),
