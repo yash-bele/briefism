@@ -1,6 +1,301 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // mar-06-2024
+  {
+    id: "krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew.jpeg`,
+    title: `Krushna Abhishek reveals earning ₹3 lakh daily on Comedy Circus, credits recognition to being Govinda's nephew.`,
+    preArticle: `Krushna Abhishek recently shared insights into his television journey, shedding light on his comedic exploits and the financial compensation he received. During an interview on Bharti Singh's podcast, Bharti TV, the actor disclosed that his association with Bollywood star Govinda, his uncle, often a`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Krushna Abhishek recently shared insights into his television journey,
+          shedding light on his comedic exploits and the financial compensation
+          he received. During an interview on Bharti Singh&apos;s podcast,
+          Bharti TV, the actor disclosed that his association with Bollywood
+          star Govinda, his uncle, often attracted casting interest.
+        </p>
+        <p>
+          Recounting his Comedy Circus stint, Krushna admitted, &quot;I signed
+          up for Comedy Circus primarily for the monetary aspect, and I was
+          content with it. They offered me ₹1.5 lakh per episode, showcasing
+          considerable respect due to my connection with Govinda. The prospect
+          of earning ₹3 lakh per day left me in awe.&quot;
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew(2).jpg"
+            alt="krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The conversation delved into Krushna&apos;s foray into Bhojpuri films,
+          where he reminisced about earning ₹3 lakh per film during that period.
+          He emphasized the intense shooting schedule, spanning 30 days of
+          day-and-night shoots, reflecting on his pride in contributing to the
+          Bhojpuri film industry. He shared an amusing anecdote about a film
+          where he struggled to comprehend scenes, only to see it emerge as a
+          box office hit.
+        </p>
+        <p>
+          Looking ahead, Krushna Abhishek is set to feature in &quot;The Great
+          Indian Kapil Show.&quot; Described as a variety chat show unfolding
+          within the vibrant confines of an airport, the series promises weekly
+          appearances by renowned celebrity guests. Notably, the show marks a
+          reunion for Kapil Sharma and Sunil Grover. Alongside them, the
+          ensemble cast includes Archana Puran Singh, Kiku Sharda, Rajiv Thakur,
+          and Krushna Abhishek.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks.jpg`,
+    title: `Possible Collaboration Between Jujutsu Kaisen and Fortnite Revealed in Recent Leaks: Second Exciting Crossover Teased`,
+    preArticle: `Fortnite and Jujutsu Kaisen, representing the pinnacle of their respective realms, have captured widespread attention in the gaming and anime/manga landscapes. Fortnite, with its extensive history of dynamic crossovers, stands as a giant in the gaming world. Simultaneously, Jujutsu Kaisen has carved`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Fortnite and Jujutsu Kaisen, representing the pinnacle of their
+          respective realms, have captured widespread attention in the gaming
+          and anime/manga landscapes. Fortnite, with its extensive history of
+          dynamic crossovers, stands as a giant in the gaming world.
+          Simultaneously, Jujutsu Kaisen has carved its own niche in the anime
+          and manga universe, achieving remarkable success. Recent leaks
+          pertaining to Fortnite Chapter 5 Season 2 hint at an impending
+          collaboration between these two influential entities.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks(2).webp"
+            alt="possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The prior collaboration between Jujutsu Kaisen and Fortnite witnessed
+          the introduction of beloved characters such as Megumi, Nobara
+          Kugisaki, Satoru Gojo, and Yuji Itadori in the form of in-game skins.
+          This ambitious crossover resonated strongly with gamers who share a
+          passion for anime, as it skillfully translated the characters&apos;
+          Cursed Techniques into engaging in-game features.
+        </p>
+        <p>
+          Now, with Fortnite Chapter 5 Season 2 on the horizon, leaks from March
+          4, courtesy of reputable Fortnite insider @ShiinaBR, suggest a second
+          wave of the Fortnite X Jujutsu Kaisen collaboration. This leak
+          indicates Epic Games&apos; recognition of the previous
+          collaboration&apos;s success and its intention to replicate that
+          triumph.
+        </p>
+        <p>
+          While official confirmation of Jujutsu Kaisen&apos;s return to
+          Fortnite is yet to be announced, the leaked information unveils Epic
+          Games&apos; strategic move to sustain the momentum of their
+          collaborative endeavors. Currently, Fortnite enthusiasts are eagerly
+          anticipating the Fortnite x Avatar: The Last Airbender crossover
+          scheduled for April 2024, as revealed by another credible leak.
+          Consequently, the return of Jujutsu Kaisen to the Fortnite landscape
+          is likely slated for a subsequent period.
+        </p>
+        <p>
+          The release of Fortnite Chapter 5 Season 2 on March 8, 2024, is
+          anticipated to usher in a thematic shift towards Greek mythology.
+          Speculation also surrounds the potential return of the fan-favorite
+          character Midas. As the gaming community braces for these
+          developments, the prospect of a renewed collaboration with Jujutsu
+          Kaisen adds an extra layer of excitement to Fortnite&apos;s evolving
+          narrative.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india.webp`,
+    title: `Oscars 2024: Details on When and Where to Tune in for the 96th Academy Awards in India`,
+    preArticle: `As the highly anticipated Academy Awards approaches on March 10, 2024 (EST), hosted by comedian Jimmy Kimmel, viewers in India eagerly await the spectacle. While the red-carpet glamour and award ceremony unfold on Sunday night in the US, the time difference translates to an early Monday morning broa`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          As the highly anticipated Academy Awards approaches on March 10, 2024
+          (EST), hosted by comedian Jimmy Kimmel, viewers in India eagerly await
+          the spectacle. While the red-carpet glamour and award ceremony unfold
+          on Sunday night in the US, the time difference translates to an early
+          Monday morning broadcast in India. For those seeking to catch the live
+          broadcast and streaming details for the Oscars, here&apos;s everything
+          you need to know.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india(2).avif"
+            alt="oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The prestigious Oscars ceremony is set to grace the Dolby Theatre in
+          Los Angeles, California. Indian audiences can tune in to witness the
+          Oscars 2022 live on Disney+ Hotstar from 4:00 AM on Monday, March 11.
+          In a recent Instagram post, Disney+ Hotstar&apos;s official account
+          shared a reel featuring snippets from various nominated films, such as
+          Killers of the Flower Moon, Oppenheimer, Barbie, Maestro, Poor Things,
+          and American Fiction, setting the stage for a star-studded day. The
+          caption read: &quot;Grab your snacks and settle in for a star-studded
+          day! Oscars 2024, streaming live on #DisneyPlusHotstar, March 11. Let
+          the show begin!&quot;
+        </p>
+        <p>
+          An impressive lineup of presenters includes Al Pacino, Bad Bunny,
+          Brendan Fraser, Chris Hemsworth, Dwayne Johnson, Michael Keaton,
+          Michelle Pfeiffer, Michelle Yeoh, Regina King, Jamie Lee Curtis,
+          Jennifer Lawrence, Kate McKinnon, Rita Moreno, John Mulaney, Catherine
+          O’Hara, Octavia Spencer, Ramy Youssef, Ke Huy Quan, Mahershala Ali,
+          Nicolas Cage, Jessica Lange, Matthew McConaughey, Lupita Nyong’o, Sam
+          Rockwell, and Zendaya.
+        </p>
+        <p>
+          For real-time updates on the winners in each category, viewers can
+          follow the official Twitter handle of the Academy of Motion Picture
+          Arts and Sciences (@TheAcademy).
+        </p>
+        <p>
+          This year, Christopher Nolan&apos;s blockbuster biopic,
+          &quot;Oppenheimer,&quot; emerges as a strong contender, leading with
+          13 nominations, including Best Picture and Best Director. The Cillian
+          Murphy-led drama is expected to be a frontrunner, competing alongside
+          other acclaimed films such as &quot;Barbie,&quot; &quot;Poor
+          Things,&quot; and &quot;Killers of the Flower Moon&quot; for the
+          coveted Oscars.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june.webp`,
+    title: `House of the Dragon Season 2 Set to Debut on HBO in June`,
+    preArticle: `The upcoming second season of House of the Dragon, the spinoff from Game of Thrones, is scheduled to premiere on HBO in June, as announced by J.B. Perrette, the streaming and gaming chief at Warner Bros. Discovery. Adapted from George R.R. Martin's book Fire & Blood, the series explores the Targarye`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The upcoming second season of House of the Dragon, the spinoff from
+          Game of Thrones, is scheduled to premiere on HBO in June, as announced
+          by J.B. Perrette, the streaming and gaming chief at Warner Bros.
+          Discovery. Adapted from George R.R. Martin&apos;s book Fire & Blood,
+          the series explores the Targaryen dynasty on the fictional continent
+          of Westeros, set nearly two centuries prior to the events in Game of
+          Thrones.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june(2).jpg"
+            alt="house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Returning cast members for Season 2 include Matt Smith, Olivia Cooke,
+          Emma D’Arcy, Eve Best, Steve Toussaint, Fabien Frankel, Ewan Mitchell,
+          Tom Glynn-Carney, Sonoya Mizuno, Rhys Ifans, Harry Collett, Bethany
+          Antonia, Phoebe Campbell, Phia Saban, Jefferson Hall, and Matthew
+          Needham. Joining the ensemble are new additions Abubakar Salim, Gayle
+          Rankin, Freddie Fox, and Simon Russell Beale.
+        </p>
+        <p>
+          The first season, consisting of 10 episodes, aired from August 21 to
+          Oct. 23, 2022. Its success was evident as HBO swiftly renewed House of
+          the Dragon for a second season just one week after the series
+          premiere, which garnered record-breaking ratings.
+        </p>
+        <p>
+          In anticipation of the upcoming season, critics have provided
+          insights. The Hindustan Times review of the first episode commented on
+          the series&apos; explicit content, highlighting scenes of violence,
+          pain, suffering, and torture reminiscent of Game of Thrones. The
+          review suggested that the prequel may have drawn the wrong lessons
+          from its predecessor, showcasing voyeuristic scenes and graphic
+          depictions that, while effective in the past, may now face scrutiny in
+          light of evolving preferences for more nuanced storytelling within the
+          genres of women&apos;s suffering, succession drama, and epic fantasy.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo.jpg`,
+    title: `Maria Goretti Criticizes Ambani Wedding's Use of Elephants as Decor Props and Expresses Disapproval of Ivanka Trump's Photo`,
+    preArticle: `The pre-wedding celebration of Anant Ambani and Radhika Merchant in Jamnagar gained attention, especially with Ivanka Trump sharing glimpses on Instagram. However, former VJ and Arshad Warsi's wife, Maria Goretti, brought a critical perspective, expressing concern about the use of an elephant as a p`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The pre-wedding celebration of Anant Ambani and Radhika Merchant in
+          Jamnagar gained attention, especially with Ivanka Trump sharing
+          glimpses on Instagram. However, former VJ and Arshad Warsi&apos;s
+          wife, Maria Goretti, brought a critical perspective, expressing
+          concern about the use of an elephant as a prop at the event.
+        </p>
+        <p>
+          Ivanka Trump&apos;s Instagram post featured a picture of herself
+          standing in front of a lavishly decorated elephant at the
+          Ambanis&apos; pre-wedding gala. Maria Goretti, disturbed by the sight,
+          took to her Instagram Stories to condemn the treatment of animals in
+          such festivities. She shared the image, stating, &quot;I&apos;m
+          appalled at this picture of the Ambani celebration. I don&apos;t think
+          this should happen to any animal, especially not to animals that are
+          being rescued and rehabilitated. Heartbreaking, just heartbreaking
+          that this elephant was made to stand like a prop, in the middle of
+          noise and people.&quot;
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo(2).jpg"
+            alt="maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The star-studded guest list of around 2,000 included not only Ivanka
+          Trump but also King Jigme Khesar Namgyel Wangchuk and his wife Jetsun
+          Pema of Bhutan, along with performances by Rihanna, Arijit Singh,
+          Ajay-Atul, Diljit Dosanjh, and illusionist David Blaine. Prominent
+          Bollywood figures such as Amitabh Bachchan, Abhishek Bachchan,
+          Rajinikanth, Aamir Khan, Salman Khan, Akshay Kumar, Ajay Devgn, Kajol,
+          Katrina Kaif, Madhuri Dixit, and Anil Kapoor were also in attendance.
+        </p>
+        <p>
+          The festivities spanned three days, commencing with &apos;An Evening
+          in Everland,&apos; where guests donned elegant cocktail attire. The
+          following day featured &apos;A Walk on the Wildside,&apos; set in the
+          Ambanis&apos; animal rescue center Vantara, with a &apos;jungle
+          fever&apos; dress code. The final day&apos;s celebration included a
+          Maha Aarti, adorned with India-inspired decor, characterized by white
+          floral strings and lighting. Maria Goretti&apos;s critique sheds light
+          on the ethical considerations surrounding the use of animals in such
+          opulent events.
+        </p>
+      </div>
+    ),
+  },
   // mar-03-2024
   {
     id: "jhalak-dikhhla-jaa-11-victor-manisha-rani-reflects",
@@ -113,305 +408,6 @@ export const entertainment = [
           According to India Today, Recode&apos;s valuation has soared to Rs 240
           crore, Rs 140 crore higher than the Shark Tank estimate. The show
           continues to air its third season.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "ankita-lokhande-and-vicky-jain-opted-for-traditional-indian-snacks-during-their-paris-trip",
-    timestamp: "Mar 03, 2024",
-    image: `/entertainment/mar-03-2024/ankita-lokhande-and-vicky-jain-opted-for-traditional-indian-snacks-during-their-paris-trip.webp`,
-    title: `Ankita Lokhande and Vicky Jain Opted for Traditional Indian Snacks During Their Paris Trip: "We Prefer Familiar Tastes Over New Cuisines"`,
-    preArticle: `Television personality Ankita Lokhande, renowned for her role in the Indian soap opera "Pavitra Rishta," along with her spouse Vicky Jain, have garnered attention for their unique dining habits, especially during their travels abroad. Notably, Ankita disclosed a recent trip to Paris where she carrie`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Television personality Ankita Lokhande, renowned for her role in the
-          Indian soap opera &quot;Pavitra Rishta,&quot; along with her spouse
-          Vicky Jain, have garnered attention for their unique dining habits,
-          especially during their travels abroad. Notably, Ankita disclosed a
-          recent trip to Paris where she carried homemade thepla, a type of
-          Indian flatbread, underscoring their preference for familiar tastes
-          over exploring new cuisines.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-03-2024/ankita-lokhande-and-vicky-jain-opted-for-traditional-indian-snacks-during-their-paris-trip(2).jpeg"
-            alt="ankita-lokhande-and-vicky-jain-opted-for-traditional-indian-snacks-during-their-paris-trip(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          In a recent interview with Mashable India, Ankita expressed their
-          inclination towards home-cooked meals, emphasizing their penchant for
-          simple Indian fare such as dal, sabzi, and roti. She elucidated that
-          despite being self-proclaimed food enthusiasts, their definition of
-          indulgence revolves around quintessential Indian dishes like pav
-          bhaji, bhindi (okra), and chaat (savory snacks), rather than venturing
-          into unfamiliar culinary territories. This culinary conservatism
-          extends to their dining habits abroad, with Ankita revealing that they
-          abstain from eating out and instead opt to carry provisions like
-          thepla and achaar (pickle) even on trips to destinations like Paris,
-          citing a longing for the comforting flavors of home-cooked food.
-        </p>
-        <p>
-          Reflecting on their marriage, which spans over two years, Ankita
-          disclosed their joint participation in the reality TV show &quot;Bigg
-          Boss 17,&quot; where their dynamic interactions captivated audiences.
-          Despite their differences, including occasional disagreements
-          showcased on the show, the couple&apos;s unified stance on culinary
-          preferences underscores their shared values and routines. While Vicky
-          Jain exited the show prior to the finale, Ankita&apos;s journey
-          culminated in a commendable fourth-place finish.
-        </p>
-        <p>
-          In essence, Ankita Lokhande and Vicky Jain&apos;s culinary choices not
-          only reflect their personal preferences but also highlight their
-          unwavering attachment to traditional Indian flavors, even in the midst
-          of global exploration and media attention.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "katrina-kaif-praises-vicky-kaushals-parents-for-raising-exceptional-children",
-    timestamp: "Mar 03, 2024",
-    image: `/entertainment/mar-03-2024/katrina-kaif-praises-vicky-kaushals-parents-for-raising-exceptional-children.jpg`,
-    title: `Katrina Kaif Praises Vicky Kaushal's Parents for Raising Exceptional Children; Describes Vicky and Sunny as 'Down-to-Earth and Well-Rounded'`,
-    preArticle: `Katrina Kaif, a prominent figure in Bollywood, has been married to actor Vicky Kaushal since 2021, and she frequently expresses admiration for her husband. In a recent conversation with Midday, she shed light on Vicky and his younger brother Sunny Kaushal's upbringing, offering commendations to thei`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Katrina Kaif, a prominent figure in Bollywood, has been married to
-          actor Vicky Kaushal since 2021, and she frequently expresses
-          admiration for her husband. In a recent conversation with Midday, she
-          shed light on Vicky and his younger brother Sunny Kaushal&apos;s
-          upbringing, offering commendations to their parents, Sham and Veena
-          Kaushal, for their role in nurturing their sons.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-03-2024/katrina-kaif-praises-vicky-kaushals-parents-for-raising-exceptional-children(2).webp"
-            alt="katrina-kaif-praises-vicky-kaushals-parents-for-raising-exceptional-children(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Katrina affectionately referred to Vicky as an &quot;arthouse film
-          buff,&quot; praising his acting prowess. She remarked, &quot;I openly
-          tell him, &apos;Baby, you are an arthouse film buff.&apos; I believe
-          he possesses incredible versatility as an actor and is capable of
-          achieving remarkable feats.&quot;
-        </p>
-        <p>
-          As an actor herself, Katrina eagerly anticipates Vicky&apos;s
-          performances on screen. She emphasized, &quot;From an actor&apos;s
-          perspective, I am eager to witness his work in films because of his
-          remarkable versatility. This sentiment is independent of my role as
-          his wife. As his spouse, I enjoy teasing him incessantly.&quot;
-        </p>
-        <p>
-          Vicky Kaushal recently portrayed India&apos;s first Field Marshal Sam
-          Manekshaw in the biographical drama &quot;Sam Bahadur,&quot; earning
-          acclaim for his towering performance. Despite the film not attaining
-          blockbuster success, Vicky received accolades for his portrayal.
-          Currently, he is undergoing rigorous training for his upcoming
-          project, &quot;Chhaava.&quot;
-        </p>
-        <p>
-          In her interview, Katrina also discussed her experience of marrying
-          into a Punjabi family. She remarked, &quot;It&apos;s a merging of two
-          significant families. Vicky&apos;s parents have raised truly
-          exceptional children. Both Vicky and Sunny exemplify grounded,
-          well-rounded individuals with strong principles.&quot;
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "rashmika-mandanna-provides-pushpa-2-progress-update",
-    timestamp: "Mar 03, 2024",
-    image: `/entertainment/mar-03-2024/rashmika-mandanna-provides-pushpa-2-progress-update.webp`,
-    title: `Rashmika Mandanna Provides Pushpa 2 Progress Update: "We're Midway, Expect More Drama Ahead"`,
-    preArticle: `Telugu actress Rashmika Mandanna, renowned for her remarkable performance in the blockbuster "Pushpa: The Rise" alongside Allu Arjun, has recently provided enticing updates about its highly-anticipated sequel, "Pushpa: The Rule." In a recent interview with Pinkvilla, Mandanna tantalized fans with i`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Telugu actress Rashmika Mandanna, renowned for her remarkable
-          performance in the blockbuster &quot;Pushpa: The Rise&quot; alongside
-          Allu Arjun, has recently provided enticing updates about its
-          highly-anticipated sequel, &quot;Pushpa: The Rule.&quot;
-        </p>
-        <p>
-          In a recent interview with Pinkvilla, Mandanna tantalized fans with
-          insights into the upcoming sequel, assuring them that it will be
-          nothing short of monumental. She stated, &quot;One thing I can assure
-          you is that it’s going to be massive. We are halfway through. We
-          recently completed shooting a grand song sequence, and upon my return,
-          another song awaits filming.&quot;
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-03-2024/rashmika-mandanna-provides-pushpa-2-progress-update(2).jpg"
-            alt="rashmika-mandanna-provides-pushpa-2-progress-update(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Stoking anticipation further, Mandanna hinted at a unique release
-          strategy for &quot;Pushpa 2,&quot; suggesting the possibility of a
-          simultaneous launch in Japan. She mentioned, &quot;We&apos;re
-          contemplating releasing &apos;Pushpa 2&apos; in Japan on the same day.
-          Discussions are underway.&quot;
-        </p>
-        <p>
-          Reflecting on reuniting with the cast and crew, Mandanna expressed her
-          excitement, emphasizing the familial bond formed during the first
-          film, making the return for the sequel feel like a homecoming. She
-          enthused, &quot;It starts feeling like home. As you finish one film,
-          you grow close to the cast and crew. So, when part 2 is on the
-          horizon, it&apos;s like, &apos;Yayy&apos;.&quot;
-        </p>
-        <p>
-          Regarding her character&apos;s evolution in &quot;Pushpa 2,&quot;
-          Mandanna teased intriguing developments, unveiling, &quot;My role in
-          &apos;Pushpa 2&apos; involves navigating the complexities of being
-          Pushpa&apos;s wife, which brings new responsibilities. Expect
-          heightened drama and larger conflicts in the sequel. Part 2 will offer
-          even more spice.&quot;
-        </p>
-        <p>
-          Directed by Sukumar, &quot;Pushpa&quot; narrates the tale of a daily
-          wage laborer&apos;s rise in the realm of redwood smuggling. This film
-          stands as a significant milestone in Telugu cinema and is anticipated
-          to hit screens later this year.
-        </p>
-      </div>
-    ),
-  },
-  // mar-01-2024
-  {
-    id: "lee-jae-wook-set-to-establish-independent-agency-following-departure-from-c-jes-amid-karinas-relationship",
-    timestamp: "Mar 01, 2024",
-    image: `/entertainment/mar-01-2024/lee-jae-wook-set-to-establish-independent-agency-following-departure-from-c-jes-amid-karinas-relationship.jpg`,
-    title: `Lee Jae Wook Set to Establish Independent Agency Following Departure from C-Jes Amid Karina's Relationship`,
-    preArticle: `Actor Lee Jae Wook, renowned for his exceptional portrayal in "Alchemy of Souls," is reportedly poised to launch his own agency. In a trend where several K-drama actors and K-pop idols are delving into entrepreneurship, the star of "Impossible Heir" seems to be following suit. This decision comes sh`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Actor Lee Jae Wook, renowned for his exceptional portrayal in
-          &quot;Alchemy of Souls,&quot; is reportedly poised to launch his own
-          agency. In a trend where several K-drama actors and K-pop idols are
-          delving into entrepreneurship, the star of &quot;Impossible Heir&quot;
-          seems to be following suit. This decision comes shortly after the
-          revelation of his relationship with aespa&apos;s Karina, confirming
-          their romantic involvement.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-01-2024/lee-jae-wook-set-to-establish-independent-agency-following-departure-from-c-jes-amid-karinas-relationship(2).webp"
-            alt="lee-jae-wook-set-to-establish-independent-agency-following-departure-from-c-jes-amid-karinas-relationship(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          <span clssName="block text-xl">
-            Lee Jae Wook&apos;s Venture into Independent Agency
-          </span>
-          On February 29, South Korean media outlet SPOTV disclosed that the
-          25-year-old actor is preparing to establish his own One Man Company
-          following the imminent expiration of his contract with C-Jes. Lee Jae
-          Wook has been under C-Jes studio, which houses renowned celebrities
-          like Choi Min Shik, Ra Mi Ran, Ryu Jun Yeo, and Moon So Ri, for three
-          years. However, his contract is set to conclude in April. Since
-          joining the studio, the &quot;Extraordinary You&quot; actor has gained
-          significant recognition. As speculations gained momentum, his current
-          agency issued a concise response.
-        </p>
-        <p>
-          <span clssName="block text-xl">
-            C-Jes Addresses Lee Jae Wook&apos;s Departure
-          </span>
-          Responding to the speculations, C-Jes issued a brief statement
-          regarding the matter, confirming that the actor is still under
-          contract. Furthermore, they stated that given the remaining duration
-          of the contract, they would refrain from commenting on his future
-          status. Lee Jae Wook has been affiliated with C-JeS Studios since
-          April 2021.
-        </p>
-        <p>
-          <span clssName="block text-xl">
-            Lee Jae Wook and Karina&apos;s Relationship
-          </span>
-          The actor, known for his role in &quot;The Death&apos;s Game,&quot;
-          recently grabbed headlines by publicly confirming his relationship
-          with Karina, a member of the K-pop group aespa. Reports suggest that
-          their romance blossomed after their initial encounter at an overseas
-          fashion event, with their bond strengthening as they spent time
-          together in Seoul. While both their agencies initially took time to
-          grasp the situation, they eventually acknowledged that the couple is
-          exploring their relationship and getting acquainted with each other.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "hailey-bieber-experiences-frustration-over-fathers-prayer-request-while-managing-challenges-with-justin",
-    timestamp: "Mar 01, 2024",
-    image: `/entertainment/mar-01-2024/hailey-bieber-experiences-frustration-over-fathers-prayer-request-while-managing-challenges-with-justin.jpg`,
-    title: `Hailey Bieber Experiences Frustration Over Father's Prayer Request While Managing Challenges with Justin`,
-    preArticle: `Hailey and Justin Bieber's relationship, always under scrutiny, is currently drawing attention for reasons other than their public displays of affection or past relationships. Instead, it's centered around a challenging phase they're navigating. Recently, Hailey's father, Stephen Baldwin, made a ple`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Hailey and Justin Bieber&apos;s relationship, always under scrutiny,
-          is currently drawing attention for reasons other than their public
-          displays of affection or past relationships. Instead, it&apos;s
-          centered around a challenging phase they&apos;re navigating. Recently,
-          Hailey&apos;s father, Stephen Baldwin, made a plea on Instagram for
-          prayers for his daughter and son-in-law. However, TMZ reports that
-          Hailey isn&apos;t pleased with this public disclosure.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-01-2024/hailey-bieber-experiences-frustration-over-fathers-prayer-request-while-managing-challenges-with-justin(2).webp"
-            alt="hailey-bieber-experiences-frustration-over-fathers-prayer-request-while-managing-challenges-with-justin(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          In a recent social media post, Stephen Baldwin referred to a personal
-          matter involving his daughter and son-in-law, sparking conversations
-          and mixed reactions. Sources suggest that this post might have caused
-          tension within the family, as it was not a spontaneous request but
-          related to a specific issue the couple is facing.
-        </p>
-        <p>
-          While the exact nature of the couple&apos;s problems remains
-          undisclosed, reports indicate that both Justin and Hailey are
-          grappling with deeply personal or marital issues. Observers noted
-          their somber demeanor as they exited a Los Angeles church, hinting at
-          underlying troubles that were previously overlooked.
-        </p>
-        <p>
-          Reports suggest that the 27-year-old model is displeased with her
-          marital problems being exposed to the public. This situation stemmed
-          from Stephen Baldwin&apos;s repost of an Instagram photo featuring
-          Justin, 29, singing a worship song. The caption urged Christians to
-          pray for wisdom, protection, and spiritual closeness for the couple.
-          Stephen highlighted the challenges faced by individuals in the
-          limelight and the spiritual warfare they endure, emphasizing the need
-          for support through prayer.
         </p>
       </div>
     ),
