@@ -1,6 +1,180 @@
 import Image from "next/image";
 
 export const technology = [
+  // mar-09-2024
+  {
+    id: "decoding-wear-os-hybrid-unveiling-the-technology-behind-oneplus-watch-2s-100-day-battery-life",
+    timestamp: "Mar 09, 2024",
+    image: `/technology/mar-09-2024/decoding-wear-os-hybrid-unveiling-the-technology-behind-oneplus-watch-2s-100-day-battery-life.jpg`,
+    title: `Decoding Wear OS Hybrid: Unveiling the Technology Behind OnePlus Watch 2's 100-Day Battery Life`,
+    preArticle: `Smartwatches have long been admired for their myriad features, but the perpetual challenge of balancing increased battery capacity with processor efficiency has hindered their overall performance. Typically, as battery capacity increases, the devices become bulkier, while more complex operating syst`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Smartwatches have long been admired for their myriad features, but the
+          perpetual challenge of balancing increased battery capacity with
+          processor efficiency has hindered their overall performance.
+          Typically, as battery capacity increases, the devices become bulkier,
+          while more complex operating systems contribute to power-hungry
+          processors, resulting in most smartwatches barely lasting a couple of
+          days on a single charge. However, the introduction of the Wear OS
+          Hybrid Interface seeks to address this longstanding issue and provide
+          users with an optimal balance between enhanced features and prolonged
+          battery life.
+        </p>
+        <p>
+          <span className="block text-xl">
+            Understanding Wear OS Hybrid Interface:
+          </span>
+          The Wear OS Hybrid Interface represents Google&apos;s solution to the
+          persistent battery life problem that has plagued Wear OS devices.
+          While non-Wear OS watches, such as Garmin smartwatches, can last over
+          100 hours, Wear OS devices have struggled to achieve comparable
+          longevity. This innovative software solution operates within Wear OS,
+          intelligently managing the internal processors of smartwatches. Many
+          modern Wear OS smartwatches employ a &quot;dual-chipset
+          architecture,&quot; featuring a robust main processor (Application
+          Processor or AP) and a low-power processor (Microcontroller Unit or
+          MCU). Google&apos;s Wear OS Hybrid Interface optimizes battery usage
+          by allocating specific tasks to either the high-power or low-power
+          chip, effectively putting Wear OS into hibernation when the watch is
+          not in active use.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/mar-09-2024/decoding-wear-os-hybrid-unveiling-the-technology-behind-oneplus-watch-2s-100-day-battery-life(2).webp"
+            alt="decoding-wear-os-hybrid-unveiling-the-technology-behind-oneplus-watch-2s-100-day-battery-life(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Google explains the Wear OS Hybrid Interface as follows: &quot;The
+          Wear OS hybrid interface enables intelligent switching between the MCU
+          or the AP, allowing the AP to be suspended when not needed to preserve
+          battery life. It helps achieve more power-efficient experiences, like
+          sensor data processing on the MCU while the AP is asleep, providing a
+          seamless transition between power states to maintain a rich and
+          premium user experience.&quot;
+        </p>
+        <p>
+          <span className="block text-xl">
+            Wear OS Hybrid in Action: OnePlus Watch 2 Case Study:
+          </span>
+          Examining the recently launched OnePlus Watch 2 provides insight into
+          the practical application of the Wear OS Hybrid Interface. This
+          smartwatch combines Wear OS, powered by the Snapdragon W5 chipset, and
+          an RTOS running on the BES 2700. The main app processor remains
+          dormant while the low-power co-processor handles basic functions like
+          displaying notifications and watch faces. The main chip activates only
+          for more resource-intensive tasks. While users have the option to
+          force the main processor to handle all tasks for maximum smoothness,
+          the co-processor performs exceptionally well on its own. This dynamic
+          mirrors the efficiency of Android phones, which allocate tasks to
+          low-energy cores for simple functions and shift demanding tasks to
+          power cores.
+        </p>
+        <p>
+          The transition between processors occurs seamlessly, without requiring
+          manual adjustments or power mode changes. Notably, developers do not
+          need to optimize their apps for the Wear OS Hybrid Interface, as Wear
+          OS APIs now handle all necessary work and optimization. The
+          responsibility for leveraging this technology rests with the watch
+          manufacturer, necessitating the use of appropriate hardware and
+          adherence to specified software customization principles.
+        </p>
+        <p>
+          <span className="block text-xl">
+            Impressive Results and Future Prospects:
+          </span>
+          The effectiveness of Wear OS Hybrid Interface is evident in the
+          impressive results observed in the OnePlus Watch 2. In a comprehensive
+          review, the watch demonstrated a battery life of four days with the
+          always-on display active, closely aligning with the promised 100 hours
+          of battery life. There is even potential for the watch to surpass this
+          figure with the always-on display turned off. Additionally, the watch
+          offers a power saver mode, extending battery life to an extraordinary
+          12 days by utilizing only the low-powered chip for all tasks. However,
+          this mode compromises smartwatch functionalities, resembling more of a
+          basic fitness tracker.
+        </p>
+        <p>
+          Looking ahead, the adoption of Wear OS Hybrid Interface is anticipated
+          to surge among new smartwatches, and even older models may join the
+          trend if equipped with the necessary hardware. The critical factor of
+          battery longevity positions this technology as a valuable feature for
+          smartwatch manufacturers, enhancing the overall user experience. The
+          Wear OS Hybrid Interface is poised to redefine Android smartwatches by
+          striking a harmonious balance between performance and battery life,
+          marking a significant evolution in the realm of wearable technology.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "survey-reveals-concerns-89-of-us-it-professionals-fear-job-losses-in-2024-amid-tech-layoffs",
+    timestamp: "Mar 09, 2024",
+    image: `/technology/mar-09-2024/survey-reveals-concerns-89-of-us-it-professionals-fear-job-losses-in-2024-amid-tech-layoffs.avif`,
+    title: `Survey Reveals Concerns: 89% of US IT Professionals Fear Job Losses in 2024 amid Tech Layoffs`,
+    preArticle: `The wave of layoffs in the US tech industry shows no signs of abating, impacting companies across the spectrum from giants to startups. Over the first two months of 2024, approximately 193 companies have cut nearly 50,000 jobs, with an additional 500 employees laid off by seven companies in March al`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The wave of layoffs in the US tech industry shows no signs of abating,
+          impacting companies across the spectrum from giants to startups. Over
+          the first two months of 2024, approximately 193 companies have cut
+          nearly 50,000 jobs, with an additional 500 employees laid off by seven
+          companies in March alone. The relentless pace of organizational
+          restructuring raises concerns for millions of tech professionals.
+        </p>
+        <p>
+          A recent report from AuthorityHacker unveils the heightened anxiety
+          levels among workers, with 54.58% expressing worry about potential job
+          losses, and the tech sector bearing the brunt of this distress.
+          Specifically, IT-Services and Data (89.66%) and Software Development
+          (74.42%) professionals report the highest levels of concern regarding
+          job security.
+        </p>
+        <p>
+          The surge in Artificial Intelligence (AI) technology compounds
+          employee apprehension, with 72.42% expressing unease about AI&apos;s
+          impact on their jobs over the next five years. Notably, nearly half
+          (48.28%) of respondents strongly believe that AI will adversely affect
+          their job security. C-level executives (85%) and Directors (78.83%)
+          emerge as the most apprehensive groups.
+        </p>
+        <p>
+          Breaking down concerns by company size, the report underscores that
+          employees in mid-sized companies (500-1000 employees) feel
+          particularly vulnerable, with 74.33% sensing a higher risk of job
+          loss. Sectors heavily reliant on computers, such as Software (67.44%),
+          finance (67.75%), and Human Resources (64.29%), express heightened
+          anxiety about job security. In contrast, sectors centered on human
+          interactions, like education (43.04%) and real estate (44.68%),
+          exhibit lower concern regarding AI&apos;s impact on jobs. The survey,
+          conducted on 1,200 full-time employees across the US, reveals a
+          nuanced landscape of job insecurity.
+        </p>
+        <p>
+          While fears about AI-induced job displacement loom large, it is
+          essential to recognize the potential for creating new opportunities. A
+          recent World Economic Forum report predicts that AI could generate up
+          to 97 million new roles by 2025. The imperative lies in acquiring AI
+          skills to adapt to the evolving job market.
+        </p>
+        <p>
+          To weather the AI wave, professionals should integrate AI tools into
+          daily operations, emphasize interpersonal skills like communication
+          and empathy, cultivate professional networks, and nurture specialized
+          expertise and personal branding. Studies suggest that a significant
+          majority of executives anticipate AI to augment rather than replace
+          job roles, highlighting the pivotal role of AI upskilling in
+          mitigating unemployment risks.
+        </p>
+      </div>
+    ),
+  },
   {
     id: "nokia-collaborates-with-company-to-enhance-connectivity-for-government-and-enterprises",
     timestamp: "Mar 05, 2024",
@@ -361,143 +535,6 @@ export const technology = [
           accounts in January builds upon its commitment to user safety,
           following a similar initiative in December of the previous year when
           more than 69 lakh accounts were banned in India.
-        </p>
-      </div>
-    ),
-  },
-  // feb-29-2024
-  {
-    id: "bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad",
-    timestamp: "Feb 29, 2024",
-    image: `/technology/feb-29-2024/bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad.jpg`,
-    title: `Bill Gates Optimistic About AI-Powered Future During Visit to Microsoft IDC Hyderabad`,
-    preArticle: `Billionaire philanthropist and Microsoft co-founder, Bill Gates, recently made a significant visit to the Microsoft India Development Center (IDC), a pioneering innovation hub he conceptualized back in 1988. Celebrating its 25th anniversary this year, IDC, situated in Hyderabad, Telangana, stands as`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Billionaire philanthropist and Microsoft co-founder, Bill Gates,
-          recently made a significant visit to the Microsoft India Development
-          Center (IDC), a pioneering innovation hub he conceptualized back in
-          1988. Celebrating its 25th anniversary this year, IDC, situated in
-          Hyderabad, Telangana, stands as a cornerstone for the development of
-          cutting-edge technologies, including Azure, Windows, Office, Bing,
-          Copilot, and various AI applications.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/feb-29-2024/bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad(2).webp"
-            alt="bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          During his visit, Gates engaged with some of India&apos;s brightest
-          engineering talents at IDC, acknowledging them as a vital asset.
-          Expressing optimism about India&apos;s potential as an AI-powered
-          nation, Gates&apos; visit resonated with the center&apos;s enthusiasm
-          for spearheading innovation within Microsoft, spanning AI, cloud
-          computing, security, and gaming realms, as articulated by Rajiv Kumar,
-          Managing Director of Microsoft IDC and CVP of Experiences + Devices
-          India.
-        </p>
-        <p>
-          Gates&apos; visit follows Microsoft&apos;s chairman and CEO, Satya
-          Nadella&apos;s recent trip to India, where Nadella underscored the
-          country&apos;s increasing importance in the realm of AI development
-          and deployment. Nadella emphasized India&apos;s exceptional standing
-          in terms of developer community size, predicting its eventual
-          overtaking of the United States by 2027. This acknowledgment of
-          India&apos;s vibrant developer ecosystem aligns with the overarching
-          theme of democratizing AI to foster societal transformation.
-        </p>
-        <p>
-          The essence of democratizing AI, championed by Gates and echoed by
-          Nadella, resonates strongly with IDC&apos;s ongoing endeavors in
-          pioneering AI research and development across various domains. While
-          Gates has been a vocal proponent of the benefits of AI, he has also
-          voiced concerns regarding its potential risks, often elaborating on
-          these views through his widely read blog.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "hmd-global-introduces-modular-phones-again-rebranded-as-fusion",
-    timestamp: "Feb 29, 2024",
-    image: `/technology/feb-29-2024/hmd-global-introduces-modular-phones-again-rebranded-as-fusion.webp`,
-    title: `HMD Global Introduces Modular Phones Again, Rebranded as Fusion`,
-    preArticle: `In the contemporary smartphone market, uniformity in design and user interface prevails, offering little room for individuality or utility. However, HMD Global from Finland aims to disrupt this norm by introducing a novel concept termed Fusion, which promises both customization and practicality. Ad`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In the contemporary smartphone market, uniformity in design and user
-          interface prevails, offering little room for individuality or utility.
-          However, HMD Global from Finland aims to disrupt this norm by
-          introducing a novel concept termed Fusion, which promises both
-          customization and practicality.
-        </p>
-        <p>
-          Adam Ferguson, HMD&apos;s global head of insight, proposition, and
-          product marketing, elucidates the company&apos;s strategy of
-          empowering users to personalize their smartphones through the
-          selection of diverse &quot;outfits.&quot; These outfits, akin to
-          modular components, can be developed by anyone, from developers to
-          ordinary consumers, thereby expanding the phone&apos;s functionality
-          beyond conventional boundaries.
-        </p>
-        <p>
-          Presented at the Mobile World Congress in Barcelona, Fusion embodies a
-          departure from the conventional notion of smartphones. It advocates
-          for the integration of hardware and software to address real-world
-          challenges, be it a barcode scanner, a medical device, or an extended
-          battery. Ferguson emphasizes Fusion&apos;s objective of broadening the
-          phone&apos;s utility beyond its existing capabilities, transcending
-          mere aesthetic modifications.
-        </p>
-        <p>
-          The concept of outfits, as opposed to traditional modular
-          designations, is facilitated by six pogo pins located on the
-          phone&apos;s rear, enabling seamless attachment of accessories. This
-          approach democratizes smartphone customization, inviting contributions
-          from a diverse array of users, including hobbyists, educators, and
-          professionals. Ferguson envisions Fusion as akin to the Raspberry Pi,
-          a versatile tool that fosters innovation and creativity.
-        </p>
-        <p>
-          HMD aims to support users in outfit creation, offering guidance and
-          resources to facilitate both hardware and software development.
-          Through an intuitive interface and simplified programming process, the
-          company seeks to empower individuals and businesses to realize their
-          innovative ideas. Additionally, HMD plans to establish a marketplace
-          where users can access a wide range of outfits tailored to various
-          needs and preferences.
-        </p>
-        <p>
-          The first smartphone under the Fusion platform is slated for release
-          in July, accompanied by a comprehensive developer toolkit to aid in
-          outfit creation. While specifics regarding pricing and specifications
-          remain undisclosed, Ferguson assures that outfits will be sold
-          separately, ensuring affordability and accessibility for consumers.
-        </p>
-        <p>
-          While modular smartphones have been attempted by various companies in
-          the past, HMD remains optimistic about Fusion&apos;s prospects. Unlike
-          previous endeavors fraught with complexity and technical barriers,
-          Fusion boasts a user-friendly approach that simplifies the
-          customization process. Ferguson believes that Fusion has the potential
-          to redefine the smartphone landscape, offering users unprecedented
-          versatility and functionality.
-        </p>
-        <p>
-          In an industry grappling with stagnation, HMD&apos;s Fusion represents
-          a refreshing approach to smartphone innovation. By prioritizing user
-          empowerment and practical utility, the company aims to rejuvenate
-          consumer interest and revitalize the smartphone market. With half of
-          its global devices expected to be repairable, HMD emphasizes
-          sustainability and longevity in its product offerings, catering to
-          evolving consumer preferences.
         </p>
       </div>
     ),

@@ -1,6 +1,202 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // mar-09-2024
+  {
+    id: "movie-review-all-of-us-strangers-an-emotionally-moving-film",
+    timestamp: "Mar 09, 2024",
+    image: `/entertainment/mar-09-2024/movie-review-all-of-us-strangers-an-emotionally-moving-film.jpg`,
+    title: `Movie Review: "All of Us Strangers" - An Emotionally Moving Film`,
+    preArticle: `In this poignant cinematic exploration, the central theme revolves around the interplay of love and pain. The narrative delves into the life of Adam (portrayed by Scott), a middle-aged man grappling with childhood loss, coinciding with the arrival of an unexpected connection that transcends conventi`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In this poignant cinematic exploration, the central theme revolves
+          around the interplay of love and pain. The narrative delves into the
+          life of Adam (portrayed by Scott), a middle-aged man grappling with
+          childhood loss, coinciding with the arrival of an unexpected
+          connection that transcends conventional relationships.
+        </p>
+        <p>
+          Adam&apos;s identity as a gay man adds a nuanced layer to his yearning
+          for a family that eluded him in his formative years. Drawing
+          inspiration from a loosely based novel centered on a divorced man and
+          his neighbor forging a friendship, the film captures the essence of
+          human connection amid the solitude of a modern metropolis,
+          specifically set in London.
+        </p>
+        <p>
+          The narrative unfolds within the confines of a desolate high-rise,
+          symbolizing the emotional isolation of its inhabitants. Adam&apos;s
+          sole companion in this urban solitude is Harry (played by Mescal), an
+          individual perpetually in a state of mild intoxication. Their paths
+          intertwine one night when a false fire alarm leads Harry to
+          Adam&apos;s doorstep, initiating an unexpected camaraderie sealed with
+          a handshake that subtly acknowledges their shared identity as queer
+          individuals.
+        </p>
+        <p>
+          Amidst Adam&apos;s struggle to pen an autobiographical script, a box
+          of childhood photographs prompts a journey back to his London suburban
+          home. To his astonishment, he encounters his parents, portrayed by
+          Bell and Foy, alive and well at the age when they passed away, leaving
+          Adam at the tender age of 12.
+        </p>
+        <p>
+          The ensuing dialogues, tender and sincere, explore the dynamics
+          between parent and child, unveiling concealed aspects of their
+          relationships. Foy skillfully portrays Adam&apos;s mother, expressing
+          both surprise and innocence as she grapples with the contemporary
+          understanding of her son&apos;s sexuality. The father, played with
+          depth, admits his suspicions about Adam&apos;s orientation but
+          confesses to avoiding the topic for the sake of comfort.
+        </p>
+        <p>
+          A poignant moment arises when Adam revisits the night etched in his
+          memory as the last night spent with his parents. His adult self,
+          symbolically placed between them in bed, shares dreams of a life that
+          could have been—a family trip to Disneyland, constant rain, and the
+          inevitable familial disagreements. The scene encapsulates the essence
+          of missed opportunities and unspoken sentiments.
+        </p>
+        <p>
+          As the trio decorates a Christmas tree, the song &apos;You Were Always
+          on My Mind&apos; serves as a backdrop, emphasizing the subtle, often
+          overlooked aspects of familial bonds. Despite their shortcomings in
+          expressing love, the characters bid farewell with the realization that
+          love has the potential to return unexpectedly, even if it arrives in
+          the form of a questionable bottle in the wee hours of the morning.
+        </p>
+        <p>
+          &quot;All of Us Strangers&quot; masterfully weaves a narrative that
+          transcends stereotypes, exploring the complexity of love, loss, and
+          the enduring resilience of human connections. The film invites viewers
+          to reflect on the profound nature of relationships and the
+          transformative power of understanding and acceptance.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "park-hyung-sik-expresses-interest-in-bollywood-films",
+    timestamp: "Mar 09, 2024",
+    image: `/entertainment/mar-09-2024/park-hyung-sik-expresses-interest-in-bollywood-films.jpg`,
+    title: `Park Hyung-sik Expresses Interest in Bollywood Films: "Being part of a Bollywood movie would be incredible."`,
+    preArticle: `In Doctor Slump, Park Hyung-sik's character Yeo Jeong Woo reflects on the distinction between failure and defeat, experiencing a dramatic fall from grace as a once-prominent plastic surgeon. The medical romantic comedy explores the intertwined lives of two doctors, Jeong Woo and Kang Han Eul (played`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In Doctor Slump, Park Hyung-sik&apos;s character Yeo Jeong Woo
+          reflects on the distinction between failure and defeat, experiencing a
+          dramatic fall from grace as a once-prominent plastic surgeon. The
+          medical romantic comedy explores the intertwined lives of two doctors,
+          Jeong Woo and Kang Han Eul (played by Park Shin-hye), who reunite
+          during a phase of professional stagnation and mental health struggles.
+          The series resonates by shedding light on the competitive pressures of
+          the education and professional systems and their impact on emotional
+          well-being.
+        </p>
+        <p>
+          In an exclusive interview from Seoul with The Indian Express, Park
+          Hyung-sik discusses his attraction to the show&apos;s premise,
+          praising its humor and uplifting approach to addressing issues like
+          slumps, burnout, and depression. Drawing from personal experiences, he
+          emphasizes the value of family, the importance of friendships, and the
+          cultivation of a positive mindset as key takeaways from his role as
+          Jeong Woo.
+        </p>
+        <p>
+          The actor&apos;s chemistry with co-star Park Shin-hye, a reunion from
+          their earlier collaboration in Heirs, is palpable on-screen. Hyung-sik
+          acknowledges the enjoyable experience of working with her, describing
+          Park Shin-hye as a great and amazing actor.
+        </p>
+        <p>
+          With a decade-long career marked by critically acclaimed performances,
+          Hyung-sik reveals his penchant for embracing diverse roles in genres
+          ranging from romantic comedies like Strong Woman Do Bong Soon to
+          apocalyptic dramas like Happiness. He considers himself a positive
+          actor, driven by curiosity and a willingness to take on challenges.
+          Notably, he expresses a preference for roles in shows with powerful
+          women characters, emphasizing the importance of relating to and
+          understanding his characters.
+        </p>
+        <p>
+          Reflecting on the thriving South Korean entertainment industry,
+          Hyung-sik expresses pride in the global popularity of Korean dramas.
+          He shares his admiration for the film Oppenheimer and envisions
+          playing a role with similar depth and intensity. Additionally, he
+          reveals his fondness for Indian cinema, particularly praising Rajkumar
+          Hirani&apos;s 3 Idiots, expressing a desire to try his luck in
+          Bollywood.
+        </p>
+        <p>
+          As a member of the Wooga Squad, a close-knit group of friends
+          including BTS&apos; V, Park Seo Joon, Choi Wook Sik, and Peakboy,
+          Hyung-sik delves into his leisure activities, highlighting his
+          newfound interest in golf and occasional indulgence in skin diving.
+          Having debuted as part of the K-pop group ZE:A in 2010, he also shares
+          his involvement in the soundtrack of Doctor Slump, hinting at more
+          music to come.
+        </p>
+        <p>
+          In conclusion, Park Hyung-sik&apos;s journey in Doctor Slump and his
+          broader career showcase his versatility, commitment to meaningful
+          roles, and a willingness to explore diverse genres. As he continues to
+          captivate audiences, both in South Korea and internationally, the
+          actor remains open to new challenges and looks forward to potential
+          ventures in the vibrant world of Bollywood.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster",
+    timestamp: "Mar 09, 2024",
+    image: `/entertainment/mar-09-2024/dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster.jpg`,
+    title: `"Dhanush Impresses in Unprecedented Role: First Glimpse of DNS Unveiled in Sekhar Kammula's Film Poster"`,
+    preArticle: `The highly anticipated unveiling of the #DNS movie poster, featuring Dhanush, took place on Friday. This cinematic spectacle brings together Dhanush and Nagarjuna Akkineni in significant roles, and the film's official title, Kubera, was also revealed on the same day. Named after the wealthiest Hind`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The highly anticipated unveiling of the #DNS movie poster, featuring
+          Dhanush, took place on Friday. This cinematic spectacle brings
+          together Dhanush and Nagarjuna Akkineni in significant roles, and the
+          film&apos;s official title, Kubera, was also revealed on the same day.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-09-2024/dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster(2).webp"
+            alt="dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Named after the wealthiest Hindu god and the king of Yakshas, Kubera,
+          the film appears to cast Dhanush in the titular role. Contrary to his
+          character&apos;s namesake, the first look presents the actor in the
+          guise of a beggar, suggesting irony as a central theme in the
+          movie&apos;s nomenclature.
+        </p>
+        <p>
+          Initially referred to as #DNS, representing Dhanush, Nagarjuna, and
+          Sekhar Kammula, the project is produced by Suniel Narang and Puskur
+          Ram Mohan Rao in collaboration with Amigos Creations Pvt Ltd. The film
+          commenced with an elaborate pooja ceremony on January 18.
+        </p>
+        <p>
+          Sekhar Kammula, renowned for delivering consecutive hits like Fidaa
+          and Love Story, is poised to captivate audiences with his upcoming
+          directorial venture, a Tamil-Telugu bilingual. With Dhanush aiming to
+          establish a stronger presence in the Telugu market, following the
+          lackluster performance of Vaathi as Sir, Kubera is anticipated to be a
+          game-changer in that regard.
+        </p>
+      </div>
+    ),
+  },
   // mar-06-2024
   {
     id: "krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew",
@@ -233,181 +429,6 @@ export const entertainment = [
           depictions that, while effective in the past, may now face scrutiny in
           light of evolving preferences for more nuanced storytelling within the
           genres of women&apos;s suffering, succession drama, and epic fantasy.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo",
-    timestamp: "Mar 06, 2024",
-    image: `/entertainment/mar-06-2024/maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo.jpg`,
-    title: `Maria Goretti Criticizes Ambani Wedding's Use of Elephants as Decor Props and Expresses Disapproval of Ivanka Trump's Photo`,
-    preArticle: `The pre-wedding celebration of Anant Ambani and Radhika Merchant in Jamnagar gained attention, especially with Ivanka Trump sharing glimpses on Instagram. However, former VJ and Arshad Warsi's wife, Maria Goretti, brought a critical perspective, expressing concern about the use of an elephant as a p`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The pre-wedding celebration of Anant Ambani and Radhika Merchant in
-          Jamnagar gained attention, especially with Ivanka Trump sharing
-          glimpses on Instagram. However, former VJ and Arshad Warsi&apos;s
-          wife, Maria Goretti, brought a critical perspective, expressing
-          concern about the use of an elephant as a prop at the event.
-        </p>
-        <p>
-          Ivanka Trump&apos;s Instagram post featured a picture of herself
-          standing in front of a lavishly decorated elephant at the
-          Ambanis&apos; pre-wedding gala. Maria Goretti, disturbed by the sight,
-          took to her Instagram Stories to condemn the treatment of animals in
-          such festivities. She shared the image, stating, &quot;I&apos;m
-          appalled at this picture of the Ambani celebration. I don&apos;t think
-          this should happen to any animal, especially not to animals that are
-          being rescued and rehabilitated. Heartbreaking, just heartbreaking
-          that this elephant was made to stand like a prop, in the middle of
-          noise and people.&quot;
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-06-2024/maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo(2).jpg"
-            alt="maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The star-studded guest list of around 2,000 included not only Ivanka
-          Trump but also King Jigme Khesar Namgyel Wangchuk and his wife Jetsun
-          Pema of Bhutan, along with performances by Rihanna, Arijit Singh,
-          Ajay-Atul, Diljit Dosanjh, and illusionist David Blaine. Prominent
-          Bollywood figures such as Amitabh Bachchan, Abhishek Bachchan,
-          Rajinikanth, Aamir Khan, Salman Khan, Akshay Kumar, Ajay Devgn, Kajol,
-          Katrina Kaif, Madhuri Dixit, and Anil Kapoor were also in attendance.
-        </p>
-        <p>
-          The festivities spanned three days, commencing with &apos;An Evening
-          in Everland,&apos; where guests donned elegant cocktail attire. The
-          following day featured &apos;A Walk on the Wildside,&apos; set in the
-          Ambanis&apos; animal rescue center Vantara, with a &apos;jungle
-          fever&apos; dress code. The final day&apos;s celebration included a
-          Maha Aarti, adorned with India-inspired decor, characterized by white
-          floral strings and lighting. Maria Goretti&apos;s critique sheds light
-          on the ethical considerations surrounding the use of animals in such
-          opulent events.
-        </p>
-      </div>
-    ),
-  },
-  // mar-03-2024
-  {
-    id: "jhalak-dikhhla-jaa-11-victor-manisha-rani-reflects",
-    timestamp: "Mar 03, 2024",
-    image: `/entertainment/mar-03-2024/jhalak-dikhhla-jaa-11-victor-manisha-rani-reflects.jpg`,
-    title: `Jhalak Dikhhla Jaa 11 victor Manisha Rani reflects: 'I contemplated quitting numerous times throughout this journey.'`,
-    preArticle: `Actor Manisha Rani clinched the title of Jhalak Dikhhla Jaa 11 winner on Saturday night, securing the prize of Rs 30 lakh and a trip to Yas Islands, Abu Dhabi. She made her entry into the show as a wild card contestant, marking the first instance in the show's history where a wild card contender eme`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Actor Manisha Rani clinched the title of Jhalak Dikhhla Jaa 11 winner
-          on Saturday night, securing the prize of Rs 30 lakh and a trip to Yas
-          Islands, Abu Dhabi. She made her entry into the show as a wild card
-          contestant, marking the first instance in the show&apos;s history
-          where a wild card contender emerged victorious. Post her triumph,
-          Manisha shared her aspirations of venturing into Bollywood, expressing
-          her desire to work in a film alongside Kartik Aaryan.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-03-2024/jhalak-dikhhla-jaa-11-victor-manisha-rani-reflects(2).webp"
-            alt="jhalak-dikhhla-jaa-11-victor-manisha-rani-reflects(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Reflecting on her victory, Manisha expressed sheer delight, stating,
-          &quot;I feel very happy. I still cannot believe that the trophy is in
-          my hand. It is like a dream come true.&quot; Addressing the uncommon
-          achievement of a wild card contestant winning the show, she remarked,
-          &quot;Earlier I used to think that since I came in as a wild card, I
-          might not win. People are skeptical about coming as wild cards because
-          90 per cent of the time they don’t win as they don’t get the time to
-          prove themselves. By the time we join the show, half the season has
-          passed, and people have made their mark already. But if in little time
-          you can do what others were not able to do from the start, then you
-          can win. Hard work is the key. I experimented with various dance forms
-          in my journey, and I got very little time to prove myself, but I am
-          glad I did.&quot;
-        </p>
-        <p>
-          Manisha revealed grappling with moments of self-doubt during her
-          journey on Jhalak Dikhhla Jaa, admitting, &quot;I have thought of
-          giving up many times on this Jhalak journey, I felt I couldn’t do it,
-          but then that hunger to win the trophy kept me going.&quot;
-        </p>
-        <p>
-          Eyeing a career in Bollywood, Manisha aims to enhance her skills and
-          delve into acting. She disclosed her top three actors she wishes to
-          collaborate with, stating, &quot;I have always wanted to work with
-          Salman Khan and Kartik Aaryan. Shahid Kapoor is my favorite actor. So
-          I would love to share the screen with them.&quot;
-        </p>
-        <p>
-          In a touching gesture, Manisha shared her intentions to utilize the
-          prize money from Jhalak Dikhhla Jaa 11 to support people, following
-          her previous initiative of sponsoring education for 11 girls in
-          November.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "rejection-on-shark-tank-india-propelled-recode-towards-viral-triumph",
-    timestamp: "Mar 03, 2024",
-    image: `/entertainment/mar-03-2024/rejection-on-shark-tank-india-propelled-recode-towards-viral-triumph.jpg`,
-    title: `Rejection on Shark Tank India propelled Recode towards viral triumph, now valued at Rs 240 crore`,
-    preArticle: `While some entrepreneurs have found success through Shark Tank India, others have left empty-handed. Among them is Recode, a cosmetics brand that gained significant attention on the show, leading to a substantial increase in its valuation. Co-founders Rahul and Dheeraj appeared on the show's second `,
-    article: (
-      <div className="space-y-6">
-        <p>
-          While some entrepreneurs have found success through Shark Tank India,
-          others have left empty-handed. Among them is Recode, a cosmetics brand
-          that gained significant attention on the show, leading to a
-          substantial increase in its valuation. Co-founders Rahul and Dheeraj
-          appeared on the show&apos;s second season seeking Rs 1 crore in
-          funding for 1% equity, valuing the company at Rs 100 crore.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-03-2024/rejection-on-shark-tank-india-propelled-recode-towards-viral-triumph(2).jpg"
-            alt="rejection-on-shark-tank-india-propelled-recode-towards-viral-triumph(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The sharks were surprised by the valuation and the company&apos;s
-          revenue, which reached Rs 15 crore in the previous financial year.
-          Additionally, the founders disclosed their unconventional marketing
-          strategy of offering free grooming lessons and lunch to college girls.
-        </p>
-        <p>
-          Aman Gupta and Namita Thapar withdrew from the deal due to personal
-          connections with competitors, while Peyush Bansal expressed concerns
-          about branding. Anupam Mittal acknowledged the founders&apos;
-          impressive organic reach but declined to invest, leaving Recode with
-          publicity but no deal.
-        </p>
-        <p>
-          The company&apos;s Brand Development Head, Ishani Trehan, highlighted
-          Shark Tank&apos;s impact, noting the limited focus on financials
-          during discussions. Despite the rejection, the publicity from the show
-          significantly boosted Recode&apos;s brand awareness.
-        </p>
-        <p>
-          According to India Today, Recode&apos;s valuation has soared to Rs 240
-          crore, Rs 140 crore higher than the Shark Tank estimate. The show
-          continues to air its third season.
         </p>
       </div>
     ),

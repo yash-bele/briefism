@@ -1,6 +1,143 @@
 import Image from "next/image";
 
 export const technologyHistory = [
+  // feb-29-2024
+  {
+    id: "bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad",
+    timestamp: "Feb 29, 2024",
+    image: `/technology/feb-29-2024/bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad.jpg`,
+    title: `Bill Gates Optimistic About AI-Powered Future During Visit to Microsoft IDC Hyderabad`,
+    preArticle: `Billionaire philanthropist and Microsoft co-founder, Bill Gates, recently made a significant visit to the Microsoft India Development Center (IDC), a pioneering innovation hub he conceptualized back in 1988. Celebrating its 25th anniversary this year, IDC, situated in Hyderabad, Telangana, stands as`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Billionaire philanthropist and Microsoft co-founder, Bill Gates,
+          recently made a significant visit to the Microsoft India Development
+          Center (IDC), a pioneering innovation hub he conceptualized back in
+          1988. Celebrating its 25th anniversary this year, IDC, situated in
+          Hyderabad, Telangana, stands as a cornerstone for the development of
+          cutting-edge technologies, including Azure, Windows, Office, Bing,
+          Copilot, and various AI applications.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/feb-29-2024/bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad(2).webp"
+            alt="bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          During his visit, Gates engaged with some of India&apos;s brightest
+          engineering talents at IDC, acknowledging them as a vital asset.
+          Expressing optimism about India&apos;s potential as an AI-powered
+          nation, Gates&apos; visit resonated with the center&apos;s enthusiasm
+          for spearheading innovation within Microsoft, spanning AI, cloud
+          computing, security, and gaming realms, as articulated by Rajiv Kumar,
+          Managing Director of Microsoft IDC and CVP of Experiences + Devices
+          India.
+        </p>
+        <p>
+          Gates&apos; visit follows Microsoft&apos;s chairman and CEO, Satya
+          Nadella&apos;s recent trip to India, where Nadella underscored the
+          country&apos;s increasing importance in the realm of AI development
+          and deployment. Nadella emphasized India&apos;s exceptional standing
+          in terms of developer community size, predicting its eventual
+          overtaking of the United States by 2027. This acknowledgment of
+          India&apos;s vibrant developer ecosystem aligns with the overarching
+          theme of democratizing AI to foster societal transformation.
+        </p>
+        <p>
+          The essence of democratizing AI, championed by Gates and echoed by
+          Nadella, resonates strongly with IDC&apos;s ongoing endeavors in
+          pioneering AI research and development across various domains. While
+          Gates has been a vocal proponent of the benefits of AI, he has also
+          voiced concerns regarding its potential risks, often elaborating on
+          these views through his widely read blog.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "hmd-global-introduces-modular-phones-again-rebranded-as-fusion",
+    timestamp: "Feb 29, 2024",
+    image: `/technology/feb-29-2024/hmd-global-introduces-modular-phones-again-rebranded-as-fusion.webp`,
+    title: `HMD Global Introduces Modular Phones Again, Rebranded as Fusion`,
+    preArticle: `In the contemporary smartphone market, uniformity in design and user interface prevails, offering little room for individuality or utility. However, HMD Global from Finland aims to disrupt this norm by introducing a novel concept termed Fusion, which promises both customization and practicality. Ad`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In the contemporary smartphone market, uniformity in design and user
+          interface prevails, offering little room for individuality or utility.
+          However, HMD Global from Finland aims to disrupt this norm by
+          introducing a novel concept termed Fusion, which promises both
+          customization and practicality.
+        </p>
+        <p>
+          Adam Ferguson, HMD&apos;s global head of insight, proposition, and
+          product marketing, elucidates the company&apos;s strategy of
+          empowering users to personalize their smartphones through the
+          selection of diverse &quot;outfits.&quot; These outfits, akin to
+          modular components, can be developed by anyone, from developers to
+          ordinary consumers, thereby expanding the phone&apos;s functionality
+          beyond conventional boundaries.
+        </p>
+        <p>
+          Presented at the Mobile World Congress in Barcelona, Fusion embodies a
+          departure from the conventional notion of smartphones. It advocates
+          for the integration of hardware and software to address real-world
+          challenges, be it a barcode scanner, a medical device, or an extended
+          battery. Ferguson emphasizes Fusion&apos;s objective of broadening the
+          phone&apos;s utility beyond its existing capabilities, transcending
+          mere aesthetic modifications.
+        </p>
+        <p>
+          The concept of outfits, as opposed to traditional modular
+          designations, is facilitated by six pogo pins located on the
+          phone&apos;s rear, enabling seamless attachment of accessories. This
+          approach democratizes smartphone customization, inviting contributions
+          from a diverse array of users, including hobbyists, educators, and
+          professionals. Ferguson envisions Fusion as akin to the Raspberry Pi,
+          a versatile tool that fosters innovation and creativity.
+        </p>
+        <p>
+          HMD aims to support users in outfit creation, offering guidance and
+          resources to facilitate both hardware and software development.
+          Through an intuitive interface and simplified programming process, the
+          company seeks to empower individuals and businesses to realize their
+          innovative ideas. Additionally, HMD plans to establish a marketplace
+          where users can access a wide range of outfits tailored to various
+          needs and preferences.
+        </p>
+        <p>
+          The first smartphone under the Fusion platform is slated for release
+          in July, accompanied by a comprehensive developer toolkit to aid in
+          outfit creation. While specifics regarding pricing and specifications
+          remain undisclosed, Ferguson assures that outfits will be sold
+          separately, ensuring affordability and accessibility for consumers.
+        </p>
+        <p>
+          While modular smartphones have been attempted by various companies in
+          the past, HMD remains optimistic about Fusion&apos;s prospects. Unlike
+          previous endeavors fraught with complexity and technical barriers,
+          Fusion boasts a user-friendly approach that simplifies the
+          customization process. Ferguson believes that Fusion has the potential
+          to redefine the smartphone landscape, offering users unprecedented
+          versatility and functionality.
+        </p>
+        <p>
+          In an industry grappling with stagnation, HMD&apos;s Fusion represents
+          a refreshing approach to smartphone innovation. By prioritizing user
+          empowerment and practical utility, the company aims to rejuvenate
+          consumer interest and revitalize the smartphone market. With half of
+          its global devices expected to be repairable, HMD emphasizes
+          sustainability and longevity in its product offerings, catering to
+          evolving consumer preferences.
+        </p>
+      </div>
+    ),
+  },
   {
     id: "review-of-redmi-buds-5-top-earbuds-aesthetically-priced-below-rs-3000",
     timestamp: "Feb 29, 2024",
