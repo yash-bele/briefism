@@ -2,6 +2,189 @@ import Image from "next/image";
 
 export const entertainmentHistory = [
   {
+    id: "possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks.jpg`,
+    title: `Possible Collaboration Between Jujutsu Kaisen and Fortnite Revealed in Recent Leaks: Second Exciting Crossover Teased`,
+    preArticle: `Fortnite and Jujutsu Kaisen, representing the pinnacle of their respective realms, have captured widespread attention in the gaming and anime/manga landscapes. Fortnite, with its extensive history of dynamic crossovers, stands as a giant in the gaming world. Simultaneously, Jujutsu Kaisen has carved`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Fortnite and Jujutsu Kaisen, representing the pinnacle of their
+          respective realms, have captured widespread attention in the gaming
+          and anime/manga landscapes. Fortnite, with its extensive history of
+          dynamic crossovers, stands as a giant in the gaming world.
+          Simultaneously, Jujutsu Kaisen has carved its own niche in the anime
+          and manga universe, achieving remarkable success. Recent leaks
+          pertaining to Fortnite Chapter 5 Season 2 hint at an impending
+          collaboration between these two influential entities.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks(2).webp"
+            alt="possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The prior collaboration between Jujutsu Kaisen and Fortnite witnessed
+          the introduction of beloved characters such as Megumi, Nobara
+          Kugisaki, Satoru Gojo, and Yuji Itadori in the form of in-game skins.
+          This ambitious crossover resonated strongly with gamers who share a
+          passion for anime, as it skillfully translated the characters&apos;
+          Cursed Techniques into engaging in-game features.
+        </p>
+        <p>
+          Now, with Fortnite Chapter 5 Season 2 on the horizon, leaks from March
+          4, courtesy of reputable Fortnite insider @ShiinaBR, suggest a second
+          wave of the Fortnite X Jujutsu Kaisen collaboration. This leak
+          indicates Epic Games&apos; recognition of the previous
+          collaboration&apos;s success and its intention to replicate that
+          triumph.
+        </p>
+        <p>
+          While official confirmation of Jujutsu Kaisen&apos;s return to
+          Fortnite is yet to be announced, the leaked information unveils Epic
+          Games&apos; strategic move to sustain the momentum of their
+          collaborative endeavors. Currently, Fortnite enthusiasts are eagerly
+          anticipating the Fortnite x Avatar: The Last Airbender crossover
+          scheduled for April 2024, as revealed by another credible leak.
+          Consequently, the return of Jujutsu Kaisen to the Fortnite landscape
+          is likely slated for a subsequent period.
+        </p>
+        <p>
+          The release of Fortnite Chapter 5 Season 2 on March 8, 2024, is
+          anticipated to usher in a thematic shift towards Greek mythology.
+          Speculation also surrounds the potential return of the fan-favorite
+          character Midas. As the gaming community braces for these
+          developments, the prospect of a renewed collaboration with Jujutsu
+          Kaisen adds an extra layer of excitement to Fortnite&apos;s evolving
+          narrative.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india.webp`,
+    title: `Oscars 2024: Details on When and Where to Tune in for the 96th Academy Awards in India`,
+    preArticle: `As the highly anticipated Academy Awards approaches on March 10, 2024 (EST), hosted by comedian Jimmy Kimmel, viewers in India eagerly await the spectacle. While the red-carpet glamour and award ceremony unfold on Sunday night in the US, the time difference translates to an early Monday morning broa`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          As the highly anticipated Academy Awards approaches on March 10, 2024
+          (EST), hosted by comedian Jimmy Kimmel, viewers in India eagerly await
+          the spectacle. While the red-carpet glamour and award ceremony unfold
+          on Sunday night in the US, the time difference translates to an early
+          Monday morning broadcast in India. For those seeking to catch the live
+          broadcast and streaming details for the Oscars, here&apos;s everything
+          you need to know.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india(2).avif"
+            alt="oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The prestigious Oscars ceremony is set to grace the Dolby Theatre in
+          Los Angeles, California. Indian audiences can tune in to witness the
+          Oscars 2022 live on Disney+ Hotstar from 4:00 AM on Monday, March 11.
+          In a recent Instagram post, Disney+ Hotstar&apos;s official account
+          shared a reel featuring snippets from various nominated films, such as
+          Killers of the Flower Moon, Oppenheimer, Barbie, Maestro, Poor Things,
+          and American Fiction, setting the stage for a star-studded day. The
+          caption read: &quot;Grab your snacks and settle in for a star-studded
+          day! Oscars 2024, streaming live on #DisneyPlusHotstar, March 11. Let
+          the show begin!&quot;
+        </p>
+        <p>
+          An impressive lineup of presenters includes Al Pacino, Bad Bunny,
+          Brendan Fraser, Chris Hemsworth, Dwayne Johnson, Michael Keaton,
+          Michelle Pfeiffer, Michelle Yeoh, Regina King, Jamie Lee Curtis,
+          Jennifer Lawrence, Kate McKinnon, Rita Moreno, John Mulaney, Catherine
+          O’Hara, Octavia Spencer, Ramy Youssef, Ke Huy Quan, Mahershala Ali,
+          Nicolas Cage, Jessica Lange, Matthew McConaughey, Lupita Nyong’o, Sam
+          Rockwell, and Zendaya.
+        </p>
+        <p>
+          For real-time updates on the winners in each category, viewers can
+          follow the official Twitter handle of the Academy of Motion Picture
+          Arts and Sciences (@TheAcademy).
+        </p>
+        <p>
+          This year, Christopher Nolan&apos;s blockbuster biopic,
+          &quot;Oppenheimer,&quot; emerges as a strong contender, leading with
+          13 nominations, including Best Picture and Best Director. The Cillian
+          Murphy-led drama is expected to be a frontrunner, competing alongside
+          other acclaimed films such as &quot;Barbie,&quot; &quot;Poor
+          Things,&quot; and &quot;Killers of the Flower Moon&quot; for the
+          coveted Oscars.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june.webp`,
+    title: `House of the Dragon Season 2 Set to Debut on HBO in June`,
+    preArticle: `The upcoming second season of House of the Dragon, the spinoff from Game of Thrones, is scheduled to premiere on HBO in June, as announced by J.B. Perrette, the streaming and gaming chief at Warner Bros. Discovery. Adapted from George R.R. Martin's book Fire & Blood, the series explores the Targarye`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The upcoming second season of House of the Dragon, the spinoff from
+          Game of Thrones, is scheduled to premiere on HBO in June, as announced
+          by J.B. Perrette, the streaming and gaming chief at Warner Bros.
+          Discovery. Adapted from George R.R. Martin&apos;s book Fire & Blood,
+          the series explores the Targaryen dynasty on the fictional continent
+          of Westeros, set nearly two centuries prior to the events in Game of
+          Thrones.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june(2).jpg"
+            alt="house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Returning cast members for Season 2 include Matt Smith, Olivia Cooke,
+          Emma D’Arcy, Eve Best, Steve Toussaint, Fabien Frankel, Ewan Mitchell,
+          Tom Glynn-Carney, Sonoya Mizuno, Rhys Ifans, Harry Collett, Bethany
+          Antonia, Phoebe Campbell, Phia Saban, Jefferson Hall, and Matthew
+          Needham. Joining the ensemble are new additions Abubakar Salim, Gayle
+          Rankin, Freddie Fox, and Simon Russell Beale.
+        </p>
+        <p>
+          The first season, consisting of 10 episodes, aired from August 21 to
+          Oct. 23, 2022. Its success was evident as HBO swiftly renewed House of
+          the Dragon for a second season just one week after the series
+          premiere, which garnered record-breaking ratings.
+        </p>
+        <p>
+          In anticipation of the upcoming season, critics have provided
+          insights. The Hindustan Times review of the first episode commented on
+          the series&apos; explicit content, highlighting scenes of violence,
+          pain, suffering, and torture reminiscent of Game of Thrones. The
+          review suggested that the prequel may have drawn the wrong lessons
+          from its predecessor, showcasing voyeuristic scenes and graphic
+          depictions that, while effective in the past, may now face scrutiny in
+          light of evolving preferences for more nuanced storytelling within the
+          genres of women&apos;s suffering, succession drama, and epic fantasy.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo",
     timestamp: "Mar 06, 2024",
     image: `/entertainment/mar-06-2024/maria-goretti-criticizes-ambani-weddings-use-of-elephants-as-decor-props-and-expresses-disapproval-of-ivanka-trumps-photo.jpg`,

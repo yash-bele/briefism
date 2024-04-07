@@ -1,6 +1,148 @@
 import Image from "next/image";
 
 export const technology = [
+  // apr-07-2024
+  {
+    id: "stay-tuned-pursuing-the-eclipse-via-jet-aircraft",
+    timestamp: "Apr 07, 2024",
+    image: `/technology/apr-07-2024/stay-tuned-pursuing-the-eclipse-via-jet-aircraft.webp`,
+    title: `Stay Tuned: Pursuing the Eclipse via Jet Aircraft`,
+    preArticle: `The upcoming total solar eclipse on Monday is often dubbed a "once-in-a-lifetime" occurrence, and understandably so. Such events are exceptionally rare, with certain regions only experiencing them once in centuries. Even for those fortunate enough to be within the eclipse's path, totality lasts a me`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The upcoming total solar eclipse on Monday is often dubbed a
+          &quot;once-in-a-lifetime&quot; occurrence, and understandably so. Such
+          events are exceptionally rare, with certain regions only experiencing
+          them once in centuries. Even for those fortunate enough to be within
+          the eclipse&apos;s path, totality lasts a mere four minutes at most,
+          contingent upon weather conditions. Consequently, some individuals opt
+          to pursue the eclipse via jet planes.
+        </p>
+        <p>
+          Exploring the rarity of total eclipses, it&apos;s evident that while
+          two to five solar eclipses transpire annually in various parts of the
+          world, total solar eclipses occur approximately every 18 months.
+          However, their visibility is limited to a fraction of the Earth&apos;s
+          surface, confined to the umbra, the Moon&apos;s darkest shadow. Given
+          the vastness of the globe, coupled with substantial expanses of
+          uninhabited land and vast oceans, the likelihood of witnessing a total
+          solar eclipse firsthand is minimal.
+        </p>
+        <p>
+          This scarcity poses a considerable challenge for scientists eager to
+          gather invaluable data during such events. Total eclipses offer a
+          unique opportunity to study the Sun&apos;s corona, its outer
+          atmosphere, which becomes more observable as the Moon obstructs the
+          Sun&apos;s face. Additionally, these occurrences provide insight into
+          how solar radiation influences Earth&apos;s atmosphere.
+        </p>
+        <p>
+          However, conducting ground-based scientific observations during an
+          eclipse is fraught with uncertainty, particularly regarding cloud
+          cover. To circumvent this obstacle, NASA has devised an innovative
+          solution: deploying scientific instruments aboard its WB-57 jet planes
+          to chase the eclipse.
+        </p>
+        <p>
+          Three NASA-funded teams will utilize these aircraft to conduct
+          research during the eclipse, with two teams focusing on capturing
+          corona data and the third measuring the ionosphere, Earth&apos;s
+          electrically charged upper atmosphere. Flying at altitudes exceeding
+          15,000 meters, these jets will soar above cloud cover and atmospheric
+          interference, enabling enhanced imaging capabilities and the capture
+          of additional wavelengths of light.
+        </p>
+        <p>
+          Moreover, the WB-57s&apos; rapid speed of 750 kilometers per hour
+          ensures prolonged observation periods. While ground-based viewers are
+          limited to observing totality for approximately four and a half
+          minutes, instruments aboard the planes will have an extended
+          observation window of 6 minutes and 22 seconds. This isn&apos;t the
+          first time NASA has employed jet aircraft for eclipse research; a
+          similar endeavor was undertaken in 2017.
+        </p>
+        <p>
+          In summary, the utilization of jet planes to pursue solar eclipses
+          offers scientists a unique vantage point unhindered by terrestrial
+          obstacles, facilitating comprehensive research and data collection
+          during these extraordinary celestial events.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "microsoft-asia-president-ahmed-mazhari-india-to-take-lead-and-pioneer-in-ai-field",
+    timestamp: "Apr 07, 2024",
+    image: `/technology/apr-07-2024/microsoft-asia-president-ahmed-mazhari-india-to-take-lead-and-pioneer-in-ai-field.webp`,
+    title: `"Microsoft Asia President Ahmed Mazhari: India to Take Lead and Pioneer in AI Field"`,
+    preArticle: `Microsoft is fully committed to democratizing and expanding access to artificial intelligence (AI) technologies. During his visit to India in February, CEO Satya Nadella emphasized India's pivotal role in the global developer ecosystem and AI advancements. Ahmed Mazhari, President of Microsoft Asia,`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Microsoft is fully committed to democratizing and expanding access to
+          artificial intelligence (AI) technologies. During his visit to India
+          in February, CEO Satya Nadella emphasized India&apos;s pivotal role in
+          the global developer ecosystem and AI advancements. Ahmed Mazhari,
+          President of Microsoft Asia, shares this enthusiasm for India&apos;s
+          potential. In a recent blog post, Mazhari expressed his excitement
+          about the significant transformation occurring in India&apos;s AI
+          landscape.
+        </p>
+        <p>
+          Mazhari views AI as a catalyst for transformative change, ushering in
+          a new era of innovation and opportunity. He stressed that AI, with its
+          unprecedented rate of adoption, represents not just a technological
+          advancement but a worldwide opportunity that transcends boundaries,
+          industries, and cultures.
+        </p>
+        <p>
+          In his blog, Mazhari highlighted India&apos;s remarkable economic and
+          technological progress, projecting a substantial increase in GDP from
+          USD 3.5 trillion to USD 5 trillion within three years, accompanied by
+          over 20% growth in digital technology.
+        </p>
+        <p>
+          Pointing to India&apos;s substantial contributions to global AI
+          development, including its vast pool of AI talent, innovation hubs,
+          and the significant number of developers contributing to GitHub,
+          Mazhari believes that India is poised to become a major player in the
+          AI landscape. He emphasized that India&apos;s growth and innovation
+          showcase its potential to revolutionize business operations, tackle
+          complex challenges, and deliver value through AI.
+        </p>
+        <p>
+          Mazhari outlined how Microsoft strategically collaborates with
+          India&apos;s innovation ecosystem to redefine businesses and promote
+          social inclusion through AI. The tech giant has integrated its
+          Microsoft Azure OpenAI Service with various initiatives aimed at
+          transforming businesses and impacting millions of lives across
+          sectors. For example, Genpact&apos;s AI Guru provides employees with a
+          dynamic learning platform for professional development, while Shiksha,
+          in collaboration with the Siskhana Foundation, leverages AI to
+          democratize education.
+        </p>
+        <p>
+          In the retail sector, Myntra&apos;s AI shopping assistant enhances
+          customer experience by offering personalized fashion recommendations,
+          while Jugalbandi, an AI-driven chatbot, bridges language barriers to
+          provide access to government services across India. Similarly, Air
+          India&apos;s AI.g application in aviation customer service sets new
+          efficiency standards. These initiatives demonstrate Microsoft&apos;s
+          commitment to leveraging AI to drive innovation, promote inclusivity,
+          and enhance customer experiences across various sectors in India.
+        </p>
+        <p>
+          Mazhari concluded by asserting that India&apos;s innovative spirit,
+          coupled with its collaborative efforts with Microsoft, exemplifies
+          AI&apos;s potential to create a more efficient, inclusive, and
+          innovative global future. He expressed confidence that India will
+          continue to lead and innovate in the AI domain, exerting significant
+          influence on the global stage.
+        </p>
+      </div>
+    ),
+  },
   // mar-09-2024
   {
     id: "decoding-wear-os-hybrid-unveiling-the-technology-behind-oneplus-watch-2s-100-day-battery-life",
@@ -401,140 +543,6 @@ export const technology = [
           India is well-positioned to strengthen its foothold in the global
           semiconductor value chains. This advancement holds the promise of
           technological progress and economic growth for the country.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "google-drive-simplifies-file-search-on-ios-app",
-    timestamp: "Mar 05, 2024",
-    image: `/technology/mar-05-2024/google-drive-simplifies-file-search-on-ios-app.jpg`,
-    title: `Google Drive Simplifies File Search on iOS App: Here's the Method.`,
-    preArticle: `If you're currently using Google Drive, chances are you've encountered some challenges when searching for and organizing files, particularly on iOS and Android devices. Google Drive offers a convenient platform for file storage and access, but its search functionality has been less than perfect, esp`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          If you&apos;re currently using Google Drive, chances are you&apos;ve
-          encountered some challenges when searching for and organizing files,
-          particularly on iOS and Android devices. Google Drive offers a
-          convenient platform for file storage and access, but its search
-          functionality has been less than perfect, especially when you&apos;re
-          trying to locate a file without remembering its exact name.
-        </p>
-        <p>
-          Addressing this issue, Google has introduced a significant update for
-          iOS users (with Android availability expected soon). This update aims
-          to enhance the search experience by introducing filter categories,
-          suggesting relevant filters while typing, and providing additional
-          refinement options after the search results are displayed.
-        </p>
-        <p>
-          <span className="block text-xl">Eligibility for the Update:</span>
-          This update is currently accessible to Google Workspace users,
-          individual subscribers to Google Workspace, and individuals with
-          personal Google accounts. It&apos;s essential to note that the update
-          is applicable when using the Google Drive app on an iOS device, and
-          Google has committed to informing users when it becomes available on
-          Android devices.
-        </p>
-        <p>
-          <span className="block text-xl">How the Update Works:</span>
-          In the Google Drive app for iOS, filter categories are conveniently
-          located beneath the search bar. These categories include filters for
-          File Type, Owners, and Last Modified, streamlining the search process.
-        </p>
-        <p>
-          One notable improvement is the introduction of relevant query filters
-          suggested as you type your search query. This feature significantly
-          speeds up the search process by allowing you to select filters easily,
-          eliminating the need to type out the entire search string.
-        </p>
-        <p>
-          These new features prove invaluable when you&apos;re dealing with
-          files that have slipped from your immediate memory on Google Drive.
-          For instance, suppose you&apos;re looking for an image but can&apos;t
-          recall its file name. With this update, you can simply select the file
-          type as an image and specify the range in the Last Modified section,
-          making it a breeze to locate the desired file.
-        </p>
-        <p>
-          In conclusion, Google&apos;s latest update for the iOS version of the
-          Google Drive app represents a significant improvement in the search
-          functionality. By introducing filter categories, suggesting relevant
-          filters, and offering refinement options, Google aims to streamline
-          the user experience, making it more efficient and user-friendly. As
-          these improvements become available on Android devices, users across
-          both platforms can look forward to an enhanced and more intuitive
-          Google Drive search experience.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "whatsapp-takes-action-against-inappropriate-indian-accounts-in-january",
-    timestamp: "Mar 05, 2024",
-    image: `/technology/mar-05-2024/whatsapp-takes-action-against-inappropriate-indian-accounts-in-january.jpg`,
-    title: `WhatsApp Takes Action Against Over 6.7 Million 'Inappropriate' Indian Accounts in January`,
-    preArticle: `In January, Meta-owned WhatsApp took decisive action against over 6.7 million accounts in India, adhering to the guidelines outlined in the new IT Rules 2021. During the period from January 1 to 31, the company enforced bans on a total of 6,728,000 accounts. Impressively, 1,358,000 of these accounts`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In January, Meta-owned WhatsApp took decisive action against over 6.7
-          million accounts in India, adhering to the guidelines outlined in the
-          new IT Rules 2021. During the period from January 1 to 31, the company
-          enforced bans on a total of 6,728,000 accounts. Impressively,
-          1,358,000 of these accounts were proactively banned without any user
-          reports, showcasing the platform&apos;s commitment to pre-emptive
-          measures.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/technology/mar-05-2024/whatsapp-takes-action-against-inappropriate-indian-accounts-in-january(2).jpg"
-            alt="whatsapp-takes-action-against-inappropriate-indian-accounts-in-january(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          WhatsApp, the leading messaging platform with a user base exceeding
-          500 million in India, recorded a substantial 14,828 complaint reports
-          in January. Out of these reports, 10 were acted upon, indicating
-          instances where WhatsApp took remedial action based on user
-          complaints. The term &quot;Accounts Actioned&quot; refers to the
-          implementation of remedial measures, either in the form of banning an
-          account or restoring a previously banned account.
-        </p>
-        <p>
-          The user-safety report released by WhatsApp provides comprehensive
-          details about the complaints received, the corresponding actions taken
-          by the platform, and the preventive measures implemented to combat
-          abuse on the platform. This transparency is part of WhatsApp&apos;s
-          ongoing efforts to ensure user safety and maintain a secure digital
-          environment.
-        </p>
-        <p>
-          In an effort to empower social media users in India, the Central
-          government introduced the Grievance Appellate Committee (GAC). This
-          committee is specifically designed to address user concerns related to
-          content and other issues on social media platforms. The GAC serves as
-          a mechanism for users to appeal decisions made by social media
-          platforms.
-        </p>
-        <p>
-          As a company committed to preventing and combating abuse, WhatsApp
-          emphasized its position as an industry leader in end-to-end encrypted
-          messaging services. Beyond safety features and controls, the platform
-          employs a dedicated team comprising engineers, data scientists,
-          analysts, researchers, and experts in law enforcement, online safety,
-          and technology. This team plays a crucial role in overseeing and
-          enhancing efforts to maintain a secure digital space.
-        </p>
-        <p>
-          The proactive approach taken by WhatsApp in banning over 6.7 million
-          accounts in January builds upon its commitment to user safety,
-          following a similar initiative in December of the previous year when
-          more than 69 lakh accounts were banned in India.
         </p>
       </div>
     ),

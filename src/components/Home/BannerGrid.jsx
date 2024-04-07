@@ -5,8 +5,8 @@ const formatData = [
   data.entertainment[1],
   data.entertainment[2],
   data.entertainment[3],
-  data.technology[0],
   data.technology[1],
+  data.technology[2],
 ];
 
 const BannerGrid = () => {

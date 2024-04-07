@@ -1,6 +1,214 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // apr-07-2024
+  {
+    id: "kriti-sanon-remarks-on-gender-bias-in-film-failures-criticism",
+    timestamp: "Apr 07, 2024",
+    image: `/entertainment/apr-07-2024/kriti-sanon-remarks-on-gender-bias-in-film-failures-criticism.webp`,
+    title: `Kriti Sanon Remarks on Gender Bias in Film Failures: 'Criticism Often Targets the Female Lead, I Encounter Hurtful Remarks.'`,
+    preArticle: `Actress Kriti Sanon, known for her recent roles in "Crew" and "Teri Baaton Mein Aisa Uljha Jiya," emphasized the importance of genuine support within the film industry. Rather than superficial compliments, she advocated for sincere encouragement and solidarity among colleagues. In a conversation wit`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Actress Kriti Sanon, known for her recent roles in &quot;Crew&quot;
+          and &quot;Teri Baaton Mein Aisa Uljha Jiya,&quot; emphasized the
+          importance of genuine support within the film industry. Rather than
+          superficial compliments, she advocated for sincere encouragement and
+          solidarity among colleagues. In a conversation with Zoom TV, Kriti
+          expressed her belief that true unity and support would foster a more
+          positive and successful environment. She noted a gradual shift in
+          attitudes but highlighted the need for authentic camaraderie.
+        </p>
+        <p>
+          Kriti underscored the significance of acknowledging and praising
+          impactful work, stating that such validation is crucial for actors.
+          Addressing the prevalent sexist narrative attributing a film&apos;s
+          failure to its female lead, she rejected the notion that success or
+          failure rests solely on one individual. Dismissing hurtful comments,
+          Kriti emphasized the collaborative nature of filmmaking, asserting
+          that her focus remains on her craft.
+        </p>
+        <p>
+          Beyond the film industry, Kriti acknowledged similar sexist narratives
+          in sports, where women are often unfairly blamed for failures. Despite
+          facing online criticism, she advocated for resilience and urged
+          against giving undue attention to trolls.
+        </p>
+        <p>
+          Looking ahead, Kriti disclosed her involvement in the upcoming project
+          &quot;Do Patti,&quot; alongside Kajol, showcasing her ongoing
+          commitment to her craft.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "indian-2-unveils-release-date-alongside-fresh-poster-prepare-for-the-return-of-senapathy",
+    timestamp: "Apr 07, 2024",
+    image: `/entertainment/apr-07-2024/indian-2-unveils-release-date-alongside-fresh-poster-prepare-for-the-return-of-senapathy.webp`,
+    title: `Indian 2 Unveils Release Date Alongside Fresh Poster: 'Prepare for the Return of Senapathy'`,
+    preArticle: `The producers of Kamal Haasan's "Indian 2" shared an exciting update with fans on social media over the weekend. Lyca Productions announced that the highly anticipated film is set to hit theaters in June, accompanied by the release of a new poster featuring Kamal in his character's attire. "Indian `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The producers of Kamal Haasan&apos;s &quot;Indian 2&quot; shared an
+          exciting update with fans on social media over the weekend. Lyca
+          Productions announced that the highly anticipated film is set to hit
+          theaters in June, accompanied by the release of a new poster featuring
+          Kamal in his character&apos;s attire.
+        </p>
+        <div>
+          <blockquote class="twitter-tweet">
+            <p lang="en" dir="ltr">
+              Gear up for the comeback of Senapathy!🤞INDIAN-2 🇮🇳 is all set to
+              storm in cinemas this JUNE. Mark your calendar for the epic saga!
+              🫡🔥
+              <a href="https://twitter.com/hashtag/Indian2?src=hash&amp;ref_src=twsrc%5Etfw">
+                #Indian2
+              </a>{" "}
+              🇮🇳
+              <br />
+              🌟{" "}
+              <a href="https://twitter.com/hashtag/Ulaganayagan?src=hash&amp;ref_src=twsrc%5Etfw">
+                #Ulaganayagan
+              </a>{" "}
+              <a href="https://twitter.com/ikamalhaasan?ref_src=twsrc%5Etfw">
+                @ikamalhaasan
+              </a>
+              <br />
+              🎬{" "}
+              <a href="https://twitter.com/shankarshanmugh?ref_src=twsrc%5Etfw">
+                @shankarshanmugh
+              </a>
+              <br />
+              🎶{" "}
+              <a href="https://twitter.com/anirudhofficial?ref_src=twsrc%5Etfw">
+                @anirudhofficial
+              </a>
+              <br />
+              📽️{" "}
+              <a href="https://twitter.com/dop_ravivarman?ref_src=twsrc%5Etfw">
+                @dop_ravivarman
+              </a>
+              <br />
+              ✂️🎞️{" "}
+              <a href="https://twitter.com/sreekar_prasad?ref_src=twsrc%5Etfw">
+                @sreekar_prasad
+              </a>
+              <br />
+              🛠️{" "}
+              <a href="https://twitter.com/muthurajthangvl?ref_src=twsrc%5Etfw">
+                @muthurajthangvl
+              </a>
+              … <a href="https://t.co/kwiKyAcNta">pic.twitter.com/kwiKyAcNta</a>
+            </p>
+            &mdash; Lyca Productions (@LycaProductions){" "}
+            <a href="https://twitter.com/LycaProductions/status/1776588217829212446?ref_src=twsrc%5Etfw">
+              April 6, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+        </div>
+        <p>
+          &quot;Indian 2&quot; serves as the sequel to the 1996 blockbuster
+          &quot;Indian,&quot; in which Kamal portrayed the iconic character
+          Veerasekaran Senapathy. This sequel reunites Kamal and director S
+          Shankar, with Lyca Productions unveiling the release date through a
+          captivating poster.
+        </p>
+        <p>
+          The accompanying caption exclaimed, &quot;Prepare for the return of
+          Senapathy! INDIAN-2 🇮🇳 is poised to make a grand entrance into cinemas
+          this JUNE. Save the date for this epic saga!&quot;
+        </p>
+        <p>
+          Alongside Kamal Haasan, the film also features a stellar cast
+          including Kajal Aggarwal, Siddharth, Rakul Preet Singh, Kalidas
+          Jayaram, and Priya Bhavani Shankar.
+        </p>
+        <p>
+          In an earlier interview with The Hindu, Kamal Haasan disclosed that
+          filming for &quot;Indian 3&quot; has also wrapped up. He emphasized
+          the importance of maintaining quality over speed in production,
+          revealing, &quot;We&apos;ve completed both &apos;Indian 2&apos; and
+          &apos;Indian 3.&apos; Currently, the post-production work for
+          &apos;Indian 2&apos; is underway. Once it&apos;s completed, we&apos;ll
+          shift our focus to &apos;Indian 3.&apos;&quot;
+        </p>
+        <p>
+          Kamal Haasan&apos;s last appearance on the silver screen was in the
+          2022 release &quot;Vikram.&quot; He is also set to feature in Mani
+          Ratnam&apos;s upcoming project &quot;Thug Life&quot; and Nag
+          Ashwin&apos;s futuristic venture &quot;Kalki 2898AD,&quot; alongside
+          Prabhas, Amitabh Bachchan, Deepika Padukone, and Disha Patani.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "ranjeet-reveals-details-of-1970s-bollywood-parties-rajesh-khannas-drinking-habits-and-parveen-babis-mixology-skills",
+    timestamp: "Apr 07, 2024",
+    image: `/entertainment/apr-07-2024/ranjeet-reveals-details-of-1970s-bollywood-parties-rajesh-khannas-drinking-habits-and-parveen-babis-mixology-skills.avif`,
+    title: `'Ranjeet Reveals Details of 1970s Bollywood Parties: Rajesh Khanna's Drinking Habits and Parveen Babi's Mixology Skills'`,
+    preArticle: `Renowned actor Ranjeet, celebrated for his portrayal of antagonists in films, particularly during the 1970s and 1980s, recently disclosed in an interview that despite often portraying characters depicted as drinkers and smokers on screen, he has never consumed alcohol in his life. Despite his abstin`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Renowned actor Ranjeet, celebrated for his portrayal of antagonists in
+          films, particularly during the 1970s and 1980s, recently disclosed in
+          an interview that despite often portraying characters depicted as
+          drinkers and smokers on screen, he has never consumed alcohol in his
+          life. Despite his abstinent lifestyle, Ranjeet revealed that he
+          frequently hosted gatherings for his colleagues in the film industry,
+          showcasing his hospitality and social nature.
+        </p>
+        <p>
+          Speaking with ANI, Ranjeet shared insights into the vibrant social
+          scene at his residence in Juhu, where industry luminaries would
+          convene regularly. He emphasized that his home became a hub for both
+          male and female actors, fostering a relaxed and welcoming ambiance.
+          Various stars, including Reena Roy, Parveen Babi, Moushumi Chatterjee,
+          and Neetu Kapoor, contributed to the festivities by preparing dishes
+          ranging from paranthas to fish and bhindi.
+        </p>
+        <p>
+          According to Ranjeet, the gatherings attracted a plethora of renowned
+          personalities, with the likes of Sunil Dutt, Raaj Kumar, Sanjay Khan,
+          Feroz Khan, Dharmendra, and Shatrughan Sinha frequenting his abode.
+          Ranjeet recalled Rajesh Khanna&apos;s penchant for consuming one to
+          two bottles of alcohol during these gatherings, illustrating the
+          conviviality of the era.
+        </p>
+        <p>
+          Despite his busy schedule, Ranjeet made it a point to accommodate his
+          guests, recognizing the blessings associated with hosting visitors. He
+          credited his spacious residence and ample staff for facilitating these
+          gatherings, which often lasted well into the night.
+        </p>
+        <p>
+          Regarding the practicalities of such indulgent gatherings, Ranjeet
+          explained that many actors, including the leading stars, would
+          commence their workday later due to the late-night revelries. This
+          delayed start allowed them to recuperate from the previous
+          night&apos;s festivities before embarking on their professional
+          commitments, a practice that Ranjeet himself adapted to maintain
+          productivity amidst his hectic filming schedule.
+        </p>
+        <p>
+          Ranjeet&apos;s illustrious career includes memorable performances in
+          iconic films such as &quot;Dharmatama,&quot; &quot;Namak Halaal,&quot;
+          &quot;Sharaabi,&quot; and &quot;Lawaris,&quot; among numerous others.
+          His recent revelations provide a fascinating glimpse into the social
+          dynamics and lifestyle of Bollywood during its golden era.
+        </p>
+      </div>
+    ),
+  },
   // mar-09-2024
   {
     id: "movie-review-all-of-us-strangers-an-emotionally-moving-film",
@@ -246,189 +454,6 @@ export const entertainment = [
           reunion for Kapil Sharma and Sunil Grover. Alongside them, the
           ensemble cast includes Archana Puran Singh, Kiku Sharda, Rajiv Thakur,
           and Krushna Abhishek.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks",
-    timestamp: "Mar 06, 2024",
-    image: `/entertainment/mar-06-2024/possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks.jpg`,
-    title: `Possible Collaboration Between Jujutsu Kaisen and Fortnite Revealed in Recent Leaks: Second Exciting Crossover Teased`,
-    preArticle: `Fortnite and Jujutsu Kaisen, representing the pinnacle of their respective realms, have captured widespread attention in the gaming and anime/manga landscapes. Fortnite, with its extensive history of dynamic crossovers, stands as a giant in the gaming world. Simultaneously, Jujutsu Kaisen has carved`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Fortnite and Jujutsu Kaisen, representing the pinnacle of their
-          respective realms, have captured widespread attention in the gaming
-          and anime/manga landscapes. Fortnite, with its extensive history of
-          dynamic crossovers, stands as a giant in the gaming world.
-          Simultaneously, Jujutsu Kaisen has carved its own niche in the anime
-          and manga universe, achieving remarkable success. Recent leaks
-          pertaining to Fortnite Chapter 5 Season 2 hint at an impending
-          collaboration between these two influential entities.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-06-2024/possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks(2).webp"
-            alt="possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The prior collaboration between Jujutsu Kaisen and Fortnite witnessed
-          the introduction of beloved characters such as Megumi, Nobara
-          Kugisaki, Satoru Gojo, and Yuji Itadori in the form of in-game skins.
-          This ambitious crossover resonated strongly with gamers who share a
-          passion for anime, as it skillfully translated the characters&apos;
-          Cursed Techniques into engaging in-game features.
-        </p>
-        <p>
-          Now, with Fortnite Chapter 5 Season 2 on the horizon, leaks from March
-          4, courtesy of reputable Fortnite insider @ShiinaBR, suggest a second
-          wave of the Fortnite X Jujutsu Kaisen collaboration. This leak
-          indicates Epic Games&apos; recognition of the previous
-          collaboration&apos;s success and its intention to replicate that
-          triumph.
-        </p>
-        <p>
-          While official confirmation of Jujutsu Kaisen&apos;s return to
-          Fortnite is yet to be announced, the leaked information unveils Epic
-          Games&apos; strategic move to sustain the momentum of their
-          collaborative endeavors. Currently, Fortnite enthusiasts are eagerly
-          anticipating the Fortnite x Avatar: The Last Airbender crossover
-          scheduled for April 2024, as revealed by another credible leak.
-          Consequently, the return of Jujutsu Kaisen to the Fortnite landscape
-          is likely slated for a subsequent period.
-        </p>
-        <p>
-          The release of Fortnite Chapter 5 Season 2 on March 8, 2024, is
-          anticipated to usher in a thematic shift towards Greek mythology.
-          Speculation also surrounds the potential return of the fan-favorite
-          character Midas. As the gaming community braces for these
-          developments, the prospect of a renewed collaboration with Jujutsu
-          Kaisen adds an extra layer of excitement to Fortnite&apos;s evolving
-          narrative.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india",
-    timestamp: "Mar 06, 2024",
-    image: `/entertainment/mar-06-2024/oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india.webp`,
-    title: `Oscars 2024: Details on When and Where to Tune in for the 96th Academy Awards in India`,
-    preArticle: `As the highly anticipated Academy Awards approaches on March 10, 2024 (EST), hosted by comedian Jimmy Kimmel, viewers in India eagerly await the spectacle. While the red-carpet glamour and award ceremony unfold on Sunday night in the US, the time difference translates to an early Monday morning broa`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          As the highly anticipated Academy Awards approaches on March 10, 2024
-          (EST), hosted by comedian Jimmy Kimmel, viewers in India eagerly await
-          the spectacle. While the red-carpet glamour and award ceremony unfold
-          on Sunday night in the US, the time difference translates to an early
-          Monday morning broadcast in India. For those seeking to catch the live
-          broadcast and streaming details for the Oscars, here&apos;s everything
-          you need to know.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-06-2024/oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india(2).avif"
-            alt="oscars-2024-details-on-when-and-where-to-tune-in-for-the-96th-academy-awards-in-india(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The prestigious Oscars ceremony is set to grace the Dolby Theatre in
-          Los Angeles, California. Indian audiences can tune in to witness the
-          Oscars 2022 live on Disney+ Hotstar from 4:00 AM on Monday, March 11.
-          In a recent Instagram post, Disney+ Hotstar&apos;s official account
-          shared a reel featuring snippets from various nominated films, such as
-          Killers of the Flower Moon, Oppenheimer, Barbie, Maestro, Poor Things,
-          and American Fiction, setting the stage for a star-studded day. The
-          caption read: &quot;Grab your snacks and settle in for a star-studded
-          day! Oscars 2024, streaming live on #DisneyPlusHotstar, March 11. Let
-          the show begin!&quot;
-        </p>
-        <p>
-          An impressive lineup of presenters includes Al Pacino, Bad Bunny,
-          Brendan Fraser, Chris Hemsworth, Dwayne Johnson, Michael Keaton,
-          Michelle Pfeiffer, Michelle Yeoh, Regina King, Jamie Lee Curtis,
-          Jennifer Lawrence, Kate McKinnon, Rita Moreno, John Mulaney, Catherine
-          O’Hara, Octavia Spencer, Ramy Youssef, Ke Huy Quan, Mahershala Ali,
-          Nicolas Cage, Jessica Lange, Matthew McConaughey, Lupita Nyong’o, Sam
-          Rockwell, and Zendaya.
-        </p>
-        <p>
-          For real-time updates on the winners in each category, viewers can
-          follow the official Twitter handle of the Academy of Motion Picture
-          Arts and Sciences (@TheAcademy).
-        </p>
-        <p>
-          This year, Christopher Nolan&apos;s blockbuster biopic,
-          &quot;Oppenheimer,&quot; emerges as a strong contender, leading with
-          13 nominations, including Best Picture and Best Director. The Cillian
-          Murphy-led drama is expected to be a frontrunner, competing alongside
-          other acclaimed films such as &quot;Barbie,&quot; &quot;Poor
-          Things,&quot; and &quot;Killers of the Flower Moon&quot; for the
-          coveted Oscars.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june",
-    timestamp: "Mar 06, 2024",
-    image: `/entertainment/mar-06-2024/house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june.webp`,
-    title: `House of the Dragon Season 2 Set to Debut on HBO in June`,
-    preArticle: `The upcoming second season of House of the Dragon, the spinoff from Game of Thrones, is scheduled to premiere on HBO in June, as announced by J.B. Perrette, the streaming and gaming chief at Warner Bros. Discovery. Adapted from George R.R. Martin's book Fire & Blood, the series explores the Targarye`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The upcoming second season of House of the Dragon, the spinoff from
-          Game of Thrones, is scheduled to premiere on HBO in June, as announced
-          by J.B. Perrette, the streaming and gaming chief at Warner Bros.
-          Discovery. Adapted from George R.R. Martin&apos;s book Fire & Blood,
-          the series explores the Targaryen dynasty on the fictional continent
-          of Westeros, set nearly two centuries prior to the events in Game of
-          Thrones.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-06-2024/house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june(2).jpg"
-            alt="house-of-the-dragon-season-2-set-to-debut-on-hbo-in-june(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Returning cast members for Season 2 include Matt Smith, Olivia Cooke,
-          Emma D’Arcy, Eve Best, Steve Toussaint, Fabien Frankel, Ewan Mitchell,
-          Tom Glynn-Carney, Sonoya Mizuno, Rhys Ifans, Harry Collett, Bethany
-          Antonia, Phoebe Campbell, Phia Saban, Jefferson Hall, and Matthew
-          Needham. Joining the ensemble are new additions Abubakar Salim, Gayle
-          Rankin, Freddie Fox, and Simon Russell Beale.
-        </p>
-        <p>
-          The first season, consisting of 10 episodes, aired from August 21 to
-          Oct. 23, 2022. Its success was evident as HBO swiftly renewed House of
-          the Dragon for a second season just one week after the series
-          premiere, which garnered record-breaking ratings.
-        </p>
-        <p>
-          In anticipation of the upcoming season, critics have provided
-          insights. The Hindustan Times review of the first episode commented on
-          the series&apos; explicit content, highlighting scenes of violence,
-          pain, suffering, and torture reminiscent of Game of Thrones. The
-          review suggested that the prequel may have drawn the wrong lessons
-          from its predecessor, showcasing voyeuristic scenes and graphic
-          depictions that, while effective in the past, may now face scrutiny in
-          light of evolving preferences for more nuanced storytelling within the
-          genres of women&apos;s suffering, succession drama, and epic fantasy.
         </p>
       </div>
     ),

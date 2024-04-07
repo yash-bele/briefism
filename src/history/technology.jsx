@@ -1,6 +1,140 @@
 import Image from "next/image";
 
 export const technologyHistory = [
+  {
+    id: "google-drive-simplifies-file-search-on-ios-app",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/google-drive-simplifies-file-search-on-ios-app.jpg`,
+    title: `Google Drive Simplifies File Search on iOS App: Here's the Method.`,
+    preArticle: `If you're currently using Google Drive, chances are you've encountered some challenges when searching for and organizing files, particularly on iOS and Android devices. Google Drive offers a convenient platform for file storage and access, but its search functionality has been less than perfect, esp`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          If you&apos;re currently using Google Drive, chances are you&apos;ve
+          encountered some challenges when searching for and organizing files,
+          particularly on iOS and Android devices. Google Drive offers a
+          convenient platform for file storage and access, but its search
+          functionality has been less than perfect, especially when you&apos;re
+          trying to locate a file without remembering its exact name.
+        </p>
+        <p>
+          Addressing this issue, Google has introduced a significant update for
+          iOS users (with Android availability expected soon). This update aims
+          to enhance the search experience by introducing filter categories,
+          suggesting relevant filters while typing, and providing additional
+          refinement options after the search results are displayed.
+        </p>
+        <p>
+          <span className="block text-xl">Eligibility for the Update:</span>
+          This update is currently accessible to Google Workspace users,
+          individual subscribers to Google Workspace, and individuals with
+          personal Google accounts. It&apos;s essential to note that the update
+          is applicable when using the Google Drive app on an iOS device, and
+          Google has committed to informing users when it becomes available on
+          Android devices.
+        </p>
+        <p>
+          <span className="block text-xl">How the Update Works:</span>
+          In the Google Drive app for iOS, filter categories are conveniently
+          located beneath the search bar. These categories include filters for
+          File Type, Owners, and Last Modified, streamlining the search process.
+        </p>
+        <p>
+          One notable improvement is the introduction of relevant query filters
+          suggested as you type your search query. This feature significantly
+          speeds up the search process by allowing you to select filters easily,
+          eliminating the need to type out the entire search string.
+        </p>
+        <p>
+          These new features prove invaluable when you&apos;re dealing with
+          files that have slipped from your immediate memory on Google Drive.
+          For instance, suppose you&apos;re looking for an image but can&apos;t
+          recall its file name. With this update, you can simply select the file
+          type as an image and specify the range in the Last Modified section,
+          making it a breeze to locate the desired file.
+        </p>
+        <p>
+          In conclusion, Google&apos;s latest update for the iOS version of the
+          Google Drive app represents a significant improvement in the search
+          functionality. By introducing filter categories, suggesting relevant
+          filters, and offering refinement options, Google aims to streamline
+          the user experience, making it more efficient and user-friendly. As
+          these improvements become available on Android devices, users across
+          both platforms can look forward to an enhanced and more intuitive
+          Google Drive search experience.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "whatsapp-takes-action-against-inappropriate-indian-accounts-in-january",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/whatsapp-takes-action-against-inappropriate-indian-accounts-in-january.jpg`,
+    title: `WhatsApp Takes Action Against Over 6.7 Million 'Inappropriate' Indian Accounts in January`,
+    preArticle: `In January, Meta-owned WhatsApp took decisive action against over 6.7 million accounts in India, adhering to the guidelines outlined in the new IT Rules 2021. During the period from January 1 to 31, the company enforced bans on a total of 6,728,000 accounts. Impressively, 1,358,000 of these accounts`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In January, Meta-owned WhatsApp took decisive action against over 6.7
+          million accounts in India, adhering to the guidelines outlined in the
+          new IT Rules 2021. During the period from January 1 to 31, the company
+          enforced bans on a total of 6,728,000 accounts. Impressively,
+          1,358,000 of these accounts were proactively banned without any user
+          reports, showcasing the platform&apos;s commitment to pre-emptive
+          measures.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/technology/mar-05-2024/whatsapp-takes-action-against-inappropriate-indian-accounts-in-january(2).jpg"
+            alt="whatsapp-takes-action-against-inappropriate-indian-accounts-in-january(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          WhatsApp, the leading messaging platform with a user base exceeding
+          500 million in India, recorded a substantial 14,828 complaint reports
+          in January. Out of these reports, 10 were acted upon, indicating
+          instances where WhatsApp took remedial action based on user
+          complaints. The term &quot;Accounts Actioned&quot; refers to the
+          implementation of remedial measures, either in the form of banning an
+          account or restoring a previously banned account.
+        </p>
+        <p>
+          The user-safety report released by WhatsApp provides comprehensive
+          details about the complaints received, the corresponding actions taken
+          by the platform, and the preventive measures implemented to combat
+          abuse on the platform. This transparency is part of WhatsApp&apos;s
+          ongoing efforts to ensure user safety and maintain a secure digital
+          environment.
+        </p>
+        <p>
+          In an effort to empower social media users in India, the Central
+          government introduced the Grievance Appellate Committee (GAC). This
+          committee is specifically designed to address user concerns related to
+          content and other issues on social media platforms. The GAC serves as
+          a mechanism for users to appeal decisions made by social media
+          platforms.
+        </p>
+        <p>
+          As a company committed to preventing and combating abuse, WhatsApp
+          emphasized its position as an industry leader in end-to-end encrypted
+          messaging services. Beyond safety features and controls, the platform
+          employs a dedicated team comprising engineers, data scientists,
+          analysts, researchers, and experts in law enforcement, online safety,
+          and technology. This team plays a crucial role in overseeing and
+          enhancing efforts to maintain a secure digital space.
+        </p>
+        <p>
+          The proactive approach taken by WhatsApp in banning over 6.7 million
+          accounts in January builds upon its commitment to user safety,
+          following a similar initiative in December of the previous year when
+          more than 69 lakh accounts were banned in India.
+        </p>
+      </div>
+    ),
+  },
   // feb-29-2024
   {
     id: "bill-gates-optimistic-about-ai-powered-future-during-visit-to-microsoft-idc-hyderabad",
