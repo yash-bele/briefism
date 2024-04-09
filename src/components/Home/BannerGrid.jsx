@@ -17,15 +17,15 @@ const BannerGrid = () => {
           key={i.id}
           href={`/${
             j === 0
-              ? "entertainment"
+              ? "lifestyle"
               : j === 1
-              ? "entertainment"
+              ? "lifestyle"
               : j === 2
-              ? "entertainment"
+              ? "lifestyle"
               : j === 3
-              ? "technology"
+              ? "health"
               : j === 4
-              ? "technology"
+              ? "health"
               : null
           }/${i.id}`}
           className={`relative group rounded-lg overflow-hidden bg-slate-200 ${
