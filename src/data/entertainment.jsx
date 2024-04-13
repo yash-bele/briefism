@@ -1,6 +1,100 @@
 import Image from "next/image";
 
 export const entertainment = [
+  // apr-13-2024
+  {
+    id: "day-2-box-office-revenue-of-maidaan-ajay-devgns-sports-drama-struggles-to-surpass-rs-10-crore-despite-holiday-weekend",
+    timestamp: "Apr 13, 2024",
+    image: `/entertainment/apr-13-2024/day-2-box-office-revenue-of-maidaan-ajay-devgns-sports-drama-struggles-to-surpass-rs-10-crore-despite-holiday-weekend.webp`,
+    title: `Day 2 Box Office Revenue of "Maidaan": Ajay Devgn's Sports Drama Struggles to Surpass Rs 10 Crore Despite Holiday Weekend`,
+    preArticle: `Despite receiving positive reviews upon its release, Ajay Devgn's "Maidaan" struggled to make an impact at the box office. The film, based on the life of Syed Abdul Rahim, the visionary behind modern Indian football, only garnered Rs 2.75 crore on Friday, totaling Rs 9.85 crore in domestic collectio`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Despite receiving positive reviews upon its release, Ajay Devgn&apos;s
+          &quot;Maidaan&quot; struggled to make an impact at the box office. The
+          film, based on the life of Syed Abdul Rahim, the visionary behind
+          modern Indian football, only garnered Rs 2.75 crore on Friday,
+          totaling Rs 9.85 crore in domestic collections according to industry
+          tracker Sacnilk. With an overall 8.8 percent occupancy in Hindi, the
+          film saw higher attendance during evening screenings, particularly in
+          Mumbai with an 11.33 percent occupancy across 605 shows. However, in
+          Delhi and NCR, where the film had 753 screenings, the occupancy was
+          merely 7.3 percent. In an attempt to boost ticket sales, the makers
+          introduced a buy one get one offer for the audience.
+        </p>
+        <p>
+          &quot;Maidaan&quot; faces stiff competition from Akshay Kumar and
+          Tiger Shroff&apos;s &quot;Bade Miyan Chote Miyan,&quot; which is
+          currently outperforming Devgn&apos;s film. The performance of both
+          movies over the extended weekend remains to be seen.
+        </p>
+        <p>
+          Devgn enjoyed success earlier in 2024 with &quot;Shaitaan,&quot;
+          co-starring R Madhavan and Jyothika, which grossed Rs 147.74 crore
+          domestically, making it the second highest earner of the year after
+          &quot;Fighter&quot; starring Hrithik Roshan and Deepika Padukone.
+          Despite being made on a smaller budget compared to
+          &quot;Maidaan,&quot; &quot;Shaitaan&quot; remains a significant
+          success.
+        </p>
+        <p>
+          Looking ahead, Devgn anticipates the release of the next installment
+          in the &quot;Singham&quot; franchise, titled &quot;Singham
+          Again,&quot; directed by Rohit Shetty. Described as the &apos;Avengers
+          of the Rohit Shetty Copverse,&apos; the film boasts a star-studded
+          cast including Deepika Padukone, Ranveer Singh, Akshay Kumar, Tiger
+          Shroff, Arjun Kapoor, and others.
+        </p>
+        <p>
+          In addition to Devgn, &quot;Maidaan&quot; features Priyamani and
+          Gajraj Rao in key roles.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "vidya-balan-remarks-on-male-stars-discomfort-with-women-in-lead-roles-their-loss-we-are-making-better-films",
+    timestamp: "Apr 13, 2024",
+    image: `/entertainment/apr-13-2024/vidya-balan-remarks-on-male-stars-discomfort-with-women-in-lead-roles-their-loss-we-are-making-better-films.jpg`,
+    title: `Vidya Balan Remarks on Male Stars' Discomfort with Women in Lead Roles: "Their Loss, We're Making Better Films"`,
+    preArticle: `Vidya Balan recently participated in the inaugural session of The Indian Express’ Expresso in Mumbai. In a candid discussion, she delved into her past relationships, marriage, and early career experiences. Notably, she shared insights into the challenges she faced from male actors regarding sharing `,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Vidya Balan recently participated in the inaugural session of The
+          Indian Express’ Expresso in Mumbai. In a candid discussion, she delved
+          into her past relationships, marriage, and early career experiences.
+          Notably, she shared insights into the challenges she faced from male
+          actors regarding sharing the screen space, attributing it to her
+          successful films like &quot;Ishqiya&quot; and &quot;The Dirty
+          Picture.&quot;
+        </p>
+        <p>
+          Reflecting on male actors&apos; reluctance to star in female-led
+          films, Vidya remarked, &quot;Even today, I doubt they&apos;d be
+          willing to co-star in a Vidya Balan or any female-centric film.
+          It&apos;s their loss because we&apos;re producing superior quality
+          films. They tend to stick to formulaic content, whereas women-led
+          films offer more excitement.&quot;
+        </p>
+        <p>
+          She further commented on the discomfort male stars harbor towards
+          women taking the spotlight, stating, &quot;It&apos;s evident
+          they&apos;re uneasy with anyone stealing the limelight. However, I
+          never took offense. If they feel threatened, there&apos;s little I can
+          do about it.&quot;
+        </p>
+        <p>
+          Joining Vidya Balan was her &quot;Do Aur Do&quot; co-star Pratik
+          Gandhi. The Indian Express, in collaboration with HSBC and Taj Hotels,
+          initiated The Indian Express Expresso to curate diverse, intimate,
+          intelligent, and entertaining content featuring personalities from the
+          realms of art, culture, and entertainment.
+        </p>
+      </div>
+    ),
+  },
   // apr-07-2024
   {
     id: "kriti-sanon-remarks-on-gender-bias-in-film-failures-criticism",
@@ -354,106 +448,6 @@ export const entertainment = [
           captivate audiences, both in South Korea and internationally, the
           actor remains open to new challenges and looks forward to potential
           ventures in the vibrant world of Bollywood.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster",
-    timestamp: "Mar 09, 2024",
-    image: `/entertainment/mar-09-2024/dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster.jpg`,
-    title: `"Dhanush Impresses in Unprecedented Role: First Glimpse of DNS Unveiled in Sekhar Kammula's Film Poster"`,
-    preArticle: `The highly anticipated unveiling of the #DNS movie poster, featuring Dhanush, took place on Friday. This cinematic spectacle brings together Dhanush and Nagarjuna Akkineni in significant roles, and the film's official title, Kubera, was also revealed on the same day. Named after the wealthiest Hind`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The highly anticipated unveiling of the #DNS movie poster, featuring
-          Dhanush, took place on Friday. This cinematic spectacle brings
-          together Dhanush and Nagarjuna Akkineni in significant roles, and the
-          film&apos;s official title, Kubera, was also revealed on the same day.
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-09-2024/dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster(2).webp"
-            alt="dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          Named after the wealthiest Hindu god and the king of Yakshas, Kubera,
-          the film appears to cast Dhanush in the titular role. Contrary to his
-          character&apos;s namesake, the first look presents the actor in the
-          guise of a beggar, suggesting irony as a central theme in the
-          movie&apos;s nomenclature.
-        </p>
-        <p>
-          Initially referred to as #DNS, representing Dhanush, Nagarjuna, and
-          Sekhar Kammula, the project is produced by Suniel Narang and Puskur
-          Ram Mohan Rao in collaboration with Amigos Creations Pvt Ltd. The film
-          commenced with an elaborate pooja ceremony on January 18.
-        </p>
-        <p>
-          Sekhar Kammula, renowned for delivering consecutive hits like Fidaa
-          and Love Story, is poised to captivate audiences with his upcoming
-          directorial venture, a Tamil-Telugu bilingual. With Dhanush aiming to
-          establish a stronger presence in the Telugu market, following the
-          lackluster performance of Vaathi as Sir, Kubera is anticipated to be a
-          game-changer in that regard.
-        </p>
-      </div>
-    ),
-  },
-  // mar-06-2024
-  {
-    id: "krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew",
-    timestamp: "Mar 06, 2024",
-    image: `/entertainment/mar-06-2024/krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew.jpeg`,
-    title: `Krushna Abhishek reveals earning ₹3 lakh daily on Comedy Circus, credits recognition to being Govinda's nephew.`,
-    preArticle: `Krushna Abhishek recently shared insights into his television journey, shedding light on his comedic exploits and the financial compensation he received. During an interview on Bharti Singh's podcast, Bharti TV, the actor disclosed that his association with Bollywood star Govinda, his uncle, often a`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          Krushna Abhishek recently shared insights into his television journey,
-          shedding light on his comedic exploits and the financial compensation
-          he received. During an interview on Bharti Singh&apos;s podcast,
-          Bharti TV, the actor disclosed that his association with Bollywood
-          star Govinda, his uncle, often attracted casting interest.
-        </p>
-        <p>
-          Recounting his Comedy Circus stint, Krushna admitted, &quot;I signed
-          up for Comedy Circus primarily for the monetary aspect, and I was
-          content with it. They offered me ₹1.5 lakh per episode, showcasing
-          considerable respect due to my connection with Govinda. The prospect
-          of earning ₹3 lakh per day left me in awe.&quot;
-        </p>
-        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
-          <Image
-            src="/entertainment/mar-06-2024/krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew(2).jpg"
-            alt="krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew(2)"
-            fill
-            sizes="auto"
-            className="object-cover object-center"
-          />
-        </div>
-        <p>
-          The conversation delved into Krushna&apos;s foray into Bhojpuri films,
-          where he reminisced about earning ₹3 lakh per film during that period.
-          He emphasized the intense shooting schedule, spanning 30 days of
-          day-and-night shoots, reflecting on his pride in contributing to the
-          Bhojpuri film industry. He shared an amusing anecdote about a film
-          where he struggled to comprehend scenes, only to see it emerge as a
-          box office hit.
-        </p>
-        <p>
-          Looking ahead, Krushna Abhishek is set to feature in &quot;The Great
-          Indian Kapil Show.&quot; Described as a variety chat show unfolding
-          within the vibrant confines of an airport, the series promises weekly
-          appearances by renowned celebrity guests. Notably, the show marks a
-          reunion for Kapil Sharma and Sunil Grover. Alongside them, the
-          ensemble cast includes Archana Puran Singh, Kiku Sharda, Rajiv Thakur,
-          and Krushna Abhishek.
         </p>
       </div>
     ),

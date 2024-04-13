@@ -2,6 +2,106 @@ import Image from "next/image";
 
 export const entertainmentHistory = [
   {
+    id: "dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster",
+    timestamp: "Mar 09, 2024",
+    image: `/entertainment/mar-09-2024/dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster.jpg`,
+    title: `"Dhanush Impresses in Unprecedented Role: First Glimpse of DNS Unveiled in Sekhar Kammula's Film Poster"`,
+    preArticle: `The highly anticipated unveiling of the #DNS movie poster, featuring Dhanush, took place on Friday. This cinematic spectacle brings together Dhanush and Nagarjuna Akkineni in significant roles, and the film's official title, Kubera, was also revealed on the same day. Named after the wealthiest Hind`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The highly anticipated unveiling of the #DNS movie poster, featuring
+          Dhanush, took place on Friday. This cinematic spectacle brings
+          together Dhanush and Nagarjuna Akkineni in significant roles, and the
+          film&apos;s official title, Kubera, was also revealed on the same day.
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-09-2024/dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster(2).webp"
+            alt="dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          Named after the wealthiest Hindu god and the king of Yakshas, Kubera,
+          the film appears to cast Dhanush in the titular role. Contrary to his
+          character&apos;s namesake, the first look presents the actor in the
+          guise of a beggar, suggesting irony as a central theme in the
+          movie&apos;s nomenclature.
+        </p>
+        <p>
+          Initially referred to as #DNS, representing Dhanush, Nagarjuna, and
+          Sekhar Kammula, the project is produced by Suniel Narang and Puskur
+          Ram Mohan Rao in collaboration with Amigos Creations Pvt Ltd. The film
+          commenced with an elaborate pooja ceremony on January 18.
+        </p>
+        <p>
+          Sekhar Kammula, renowned for delivering consecutive hits like Fidaa
+          and Love Story, is poised to captivate audiences with his upcoming
+          directorial venture, a Tamil-Telugu bilingual. With Dhanush aiming to
+          establish a stronger presence in the Telugu market, following the
+          lackluster performance of Vaathi as Sir, Kubera is anticipated to be a
+          game-changer in that regard.
+        </p>
+      </div>
+    ),
+  },
+  // mar-06-2024
+  {
+    id: "krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew",
+    timestamp: "Mar 06, 2024",
+    image: `/entertainment/mar-06-2024/krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew.jpeg`,
+    title: `Krushna Abhishek reveals earning ₹3 lakh daily on Comedy Circus, credits recognition to being Govinda's nephew.`,
+    preArticle: `Krushna Abhishek recently shared insights into his television journey, shedding light on his comedic exploits and the financial compensation he received. During an interview on Bharti Singh's podcast, Bharti TV, the actor disclosed that his association with Bollywood star Govinda, his uncle, often a`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Krushna Abhishek recently shared insights into his television journey,
+          shedding light on his comedic exploits and the financial compensation
+          he received. During an interview on Bharti Singh&apos;s podcast,
+          Bharti TV, the actor disclosed that his association with Bollywood
+          star Govinda, his uncle, often attracted casting interest.
+        </p>
+        <p>
+          Recounting his Comedy Circus stint, Krushna admitted, &quot;I signed
+          up for Comedy Circus primarily for the monetary aspect, and I was
+          content with it. They offered me ₹1.5 lakh per episode, showcasing
+          considerable respect due to my connection with Govinda. The prospect
+          of earning ₹3 lakh per day left me in awe.&quot;
+        </p>
+        <div className="relative w-full h-72 sm:h-96 bg-slate-200 rounded-xl overflow-hidden">
+          <Image
+            src="/entertainment/mar-06-2024/krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew(2).jpg"
+            alt="krushna-abhishek-reveals-earning-3-lakh-daily-on-comedy-circus-being-govindas-nephew(2)"
+            fill
+            sizes="auto"
+            className="object-cover object-center"
+          />
+        </div>
+        <p>
+          The conversation delved into Krushna&apos;s foray into Bhojpuri films,
+          where he reminisced about earning ₹3 lakh per film during that period.
+          He emphasized the intense shooting schedule, spanning 30 days of
+          day-and-night shoots, reflecting on his pride in contributing to the
+          Bhojpuri film industry. He shared an amusing anecdote about a film
+          where he struggled to comprehend scenes, only to see it emerge as a
+          box office hit.
+        </p>
+        <p>
+          Looking ahead, Krushna Abhishek is set to feature in &quot;The Great
+          Indian Kapil Show.&quot; Described as a variety chat show unfolding
+          within the vibrant confines of an airport, the series promises weekly
+          appearances by renowned celebrity guests. Notably, the show marks a
+          reunion for Kapil Sharma and Sunil Grover. Alongside them, the
+          ensemble cast includes Archana Puran Singh, Kiku Sharda, Rajiv Thakur,
+          and Krushna Abhishek.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks",
     timestamp: "Mar 06, 2024",
     image: `/entertainment/mar-06-2024/possible-collaboration-between-jujutsu-kaisen-and-fortnite-revealed-in-recent-leaks.jpg`,
