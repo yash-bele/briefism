@@ -5,8 +5,8 @@ const formatData = [
   data.lifestyle[0],
   data.lifestyle[1],
   data.lifestyle[2],
-  data.health[0],
-  data.health[1],
+  data.entertainment[0],
+  data.entertainment[1],
 ];
 
 const BannerGrid = () => {
@@ -23,9 +23,9 @@ const BannerGrid = () => {
               : j === 2
               ? "lifestyle"
               : j === 3
-              ? "health"
+              ? "entertainment"
               : j === 4
-              ? "health"
+              ? "entertainment"
               : null
           }/${i.id}`}
           className={`relative group rounded-lg overflow-hidden bg-slate-200 ${
