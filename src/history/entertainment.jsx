@@ -2,6 +2,214 @@ import Image from "next/image";
 
 export const entertainmentHistory = [
   {
+    id: "ranjeet-reveals-details-of-1970s-bollywood-parties-rajesh-khannas-drinking-habits-and-parveen-babis-mixology-skills",
+    timestamp: "Apr 07, 2024",
+    image: `/entertainment/apr-07-2024/ranjeet-reveals-details-of-1970s-bollywood-parties-rajesh-khannas-drinking-habits-and-parveen-babis-mixology-skills.avif`,
+    title: `'Ranjeet Reveals Details of 1970s Bollywood Parties: Rajesh Khanna's Drinking Habits and Parveen Babi's Mixology Skills'`,
+    preArticle: `Renowned actor Ranjeet, celebrated for his portrayal of antagonists in films, particularly during the 1970s and 1980s, recently disclosed in an interview that despite often portraying characters depicted as drinkers and smokers on screen, he has never consumed alcohol in his life. Despite his abstin`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Renowned actor Ranjeet, celebrated for his portrayal of antagonists in
+          films, particularly during the 1970s and 1980s, recently disclosed in
+          an interview that despite often portraying characters depicted as
+          drinkers and smokers on screen, he has never consumed alcohol in his
+          life. Despite his abstinent lifestyle, Ranjeet revealed that he
+          frequently hosted gatherings for his colleagues in the film industry,
+          showcasing his hospitality and social nature.
+        </p>
+        <p>
+          Speaking with ANI, Ranjeet shared insights into the vibrant social
+          scene at his residence in Juhu, where industry luminaries would
+          convene regularly. He emphasized that his home became a hub for both
+          male and female actors, fostering a relaxed and welcoming ambiance.
+          Various stars, including Reena Roy, Parveen Babi, Moushumi Chatterjee,
+          and Neetu Kapoor, contributed to the festivities by preparing dishes
+          ranging from paranthas to fish and bhindi.
+        </p>
+        <p>
+          According to Ranjeet, the gatherings attracted a plethora of renowned
+          personalities, with the likes of Sunil Dutt, Raaj Kumar, Sanjay Khan,
+          Feroz Khan, Dharmendra, and Shatrughan Sinha frequenting his abode.
+          Ranjeet recalled Rajesh Khanna&apos;s penchant for consuming one to
+          two bottles of alcohol during these gatherings, illustrating the
+          conviviality of the era.
+        </p>
+        <p>
+          Despite his busy schedule, Ranjeet made it a point to accommodate his
+          guests, recognizing the blessings associated with hosting visitors. He
+          credited his spacious residence and ample staff for facilitating these
+          gatherings, which often lasted well into the night.
+        </p>
+        <p>
+          Regarding the practicalities of such indulgent gatherings, Ranjeet
+          explained that many actors, including the leading stars, would
+          commence their workday later due to the late-night revelries. This
+          delayed start allowed them to recuperate from the previous
+          night&apos;s festivities before embarking on their professional
+          commitments, a practice that Ranjeet himself adapted to maintain
+          productivity amidst his hectic filming schedule.
+        </p>
+        <p>
+          Ranjeet&apos;s illustrious career includes memorable performances in
+          iconic films such as &quot;Dharmatama,&quot; &quot;Namak Halaal,&quot;
+          &quot;Sharaabi,&quot; and &quot;Lawaris,&quot; among numerous others.
+          His recent revelations provide a fascinating glimpse into the social
+          dynamics and lifestyle of Bollywood during its golden era.
+        </p>
+      </div>
+    ),
+  },
+  // mar-09-2024
+  {
+    id: "movie-review-all-of-us-strangers-an-emotionally-moving-film",
+    timestamp: "Mar 09, 2024",
+    image: `/entertainment/mar-09-2024/movie-review-all-of-us-strangers-an-emotionally-moving-film.jpg`,
+    title: `Movie Review: "All of Us Strangers" - An Emotionally Moving Film`,
+    preArticle: `In this poignant cinematic exploration, the central theme revolves around the interplay of love and pain. The narrative delves into the life of Adam (portrayed by Scott), a middle-aged man grappling with childhood loss, coinciding with the arrival of an unexpected connection that transcends conventi`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In this poignant cinematic exploration, the central theme revolves
+          around the interplay of love and pain. The narrative delves into the
+          life of Adam (portrayed by Scott), a middle-aged man grappling with
+          childhood loss, coinciding with the arrival of an unexpected
+          connection that transcends conventional relationships.
+        </p>
+        <p>
+          Adam&apos;s identity as a gay man adds a nuanced layer to his yearning
+          for a family that eluded him in his formative years. Drawing
+          inspiration from a loosely based novel centered on a divorced man and
+          his neighbor forging a friendship, the film captures the essence of
+          human connection amid the solitude of a modern metropolis,
+          specifically set in London.
+        </p>
+        <p>
+          The narrative unfolds within the confines of a desolate high-rise,
+          symbolizing the emotional isolation of its inhabitants. Adam&apos;s
+          sole companion in this urban solitude is Harry (played by Mescal), an
+          individual perpetually in a state of mild intoxication. Their paths
+          intertwine one night when a false fire alarm leads Harry to
+          Adam&apos;s doorstep, initiating an unexpected camaraderie sealed with
+          a handshake that subtly acknowledges their shared identity as queer
+          individuals.
+        </p>
+        <p>
+          Amidst Adam&apos;s struggle to pen an autobiographical script, a box
+          of childhood photographs prompts a journey back to his London suburban
+          home. To his astonishment, he encounters his parents, portrayed by
+          Bell and Foy, alive and well at the age when they passed away, leaving
+          Adam at the tender age of 12.
+        </p>
+        <p>
+          The ensuing dialogues, tender and sincere, explore the dynamics
+          between parent and child, unveiling concealed aspects of their
+          relationships. Foy skillfully portrays Adam&apos;s mother, expressing
+          both surprise and innocence as she grapples with the contemporary
+          understanding of her son&apos;s sexuality. The father, played with
+          depth, admits his suspicions about Adam&apos;s orientation but
+          confesses to avoiding the topic for the sake of comfort.
+        </p>
+        <p>
+          A poignant moment arises when Adam revisits the night etched in his
+          memory as the last night spent with his parents. His adult self,
+          symbolically placed between them in bed, shares dreams of a life that
+          could have been—a family trip to Disneyland, constant rain, and the
+          inevitable familial disagreements. The scene encapsulates the essence
+          of missed opportunities and unspoken sentiments.
+        </p>
+        <p>
+          As the trio decorates a Christmas tree, the song &apos;You Were Always
+          on My Mind&apos; serves as a backdrop, emphasizing the subtle, often
+          overlooked aspects of familial bonds. Despite their shortcomings in
+          expressing love, the characters bid farewell with the realization that
+          love has the potential to return unexpectedly, even if it arrives in
+          the form of a questionable bottle in the wee hours of the morning.
+        </p>
+        <p>
+          &quot;All of Us Strangers&quot; masterfully weaves a narrative that
+          transcends stereotypes, exploring the complexity of love, loss, and
+          the enduring resilience of human connections. The film invites viewers
+          to reflect on the profound nature of relationships and the
+          transformative power of understanding and acceptance.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "park-hyung-sik-expresses-interest-in-bollywood-films",
+    timestamp: "Mar 09, 2024",
+    image: `/entertainment/mar-09-2024/park-hyung-sik-expresses-interest-in-bollywood-films.jpg`,
+    title: `Park Hyung-sik Expresses Interest in Bollywood Films: "Being part of a Bollywood movie would be incredible."`,
+    preArticle: `In Doctor Slump, Park Hyung-sik's character Yeo Jeong Woo reflects on the distinction between failure and defeat, experiencing a dramatic fall from grace as a once-prominent plastic surgeon. The medical romantic comedy explores the intertwined lives of two doctors, Jeong Woo and Kang Han Eul (played`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In Doctor Slump, Park Hyung-sik&apos;s character Yeo Jeong Woo
+          reflects on the distinction between failure and defeat, experiencing a
+          dramatic fall from grace as a once-prominent plastic surgeon. The
+          medical romantic comedy explores the intertwined lives of two doctors,
+          Jeong Woo and Kang Han Eul (played by Park Shin-hye), who reunite
+          during a phase of professional stagnation and mental health struggles.
+          The series resonates by shedding light on the competitive pressures of
+          the education and professional systems and their impact on emotional
+          well-being.
+        </p>
+        <p>
+          In an exclusive interview from Seoul with The Indian Express, Park
+          Hyung-sik discusses his attraction to the show&apos;s premise,
+          praising its humor and uplifting approach to addressing issues like
+          slumps, burnout, and depression. Drawing from personal experiences, he
+          emphasizes the value of family, the importance of friendships, and the
+          cultivation of a positive mindset as key takeaways from his role as
+          Jeong Woo.
+        </p>
+        <p>
+          The actor&apos;s chemistry with co-star Park Shin-hye, a reunion from
+          their earlier collaboration in Heirs, is palpable on-screen. Hyung-sik
+          acknowledges the enjoyable experience of working with her, describing
+          Park Shin-hye as a great and amazing actor.
+        </p>
+        <p>
+          With a decade-long career marked by critically acclaimed performances,
+          Hyung-sik reveals his penchant for embracing diverse roles in genres
+          ranging from romantic comedies like Strong Woman Do Bong Soon to
+          apocalyptic dramas like Happiness. He considers himself a positive
+          actor, driven by curiosity and a willingness to take on challenges.
+          Notably, he expresses a preference for roles in shows with powerful
+          women characters, emphasizing the importance of relating to and
+          understanding his characters.
+        </p>
+        <p>
+          Reflecting on the thriving South Korean entertainment industry,
+          Hyung-sik expresses pride in the global popularity of Korean dramas.
+          He shares his admiration for the film Oppenheimer and envisions
+          playing a role with similar depth and intensity. Additionally, he
+          reveals his fondness for Indian cinema, particularly praising Rajkumar
+          Hirani&apos;s 3 Idiots, expressing a desire to try his luck in
+          Bollywood.
+        </p>
+        <p>
+          As a member of the Wooga Squad, a close-knit group of friends
+          including BTS&apos; V, Park Seo Joon, Choi Wook Sik, and Peakboy,
+          Hyung-sik delves into his leisure activities, highlighting his
+          newfound interest in golf and occasional indulgence in skin diving.
+          Having debuted as part of the K-pop group ZE:A in 2010, he also shares
+          his involvement in the soundtrack of Doctor Slump, hinting at more
+          music to come.
+        </p>
+        <p>
+          In conclusion, Park Hyung-sik&apos;s journey in Doctor Slump and his
+          broader career showcase his versatility, commitment to meaningful
+          roles, and a willingness to explore diverse genres. As he continues to
+          captivate audiences, both in South Korea and internationally, the
+          actor remains open to new challenges and looks forward to potential
+          ventures in the vibrant world of Bollywood.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster",
     timestamp: "Mar 09, 2024",
     image: `/entertainment/mar-09-2024/dhanush-impresses-in-unprecedented-role-first-glimpse-of-dns-unveiled-in-sekhar-kammula-film-poster.jpg`,

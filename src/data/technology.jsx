@@ -1,6 +1,150 @@
 import Image from "next/image";
 
 export const technology = [
+  // apr-15-2024
+  {
+    id: "iphone-se-4-from-larger-display-to-enhanced-camera-all-details-about-apples-upcoming-budget-friendly-phone",
+    timestamp: "Apr 15, 2024",
+    image: `/technology/apr-15-2024/iphone-se-4-from-larger-display-to-enhanced-camera-all-details-about-apples-upcoming-budget-friendly-phone.jpg`,
+    title: `iPhone SE 4: From Larger Display to Enhanced Camera, All Details About Apple's Upcoming Budget-Friendly Phone`,
+    preArticle: `The iPhone 16 Pro Max currently stands as Apple's top-tier device, yet for those seeking a more compact option, the upcoming iPhone SE appears to be the sole alternative, especially after Apple discontinued its 'mini' series last year. Interest in Apple's 'mini' series had waned notably with the iP`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The iPhone 16 Pro Max currently stands as Apple&apos;s top-tier
+          device, yet for those seeking a more compact option, the upcoming
+          iPhone SE appears to be the sole alternative, especially after Apple
+          discontinued its &apos;mini&apos; series last year.
+        </p>
+        <p>
+          Interest in Apple&apos;s &apos;mini&apos; series had waned notably
+          with the iPhone 12 mini and iPhone 13 mini registering the lowest
+          sales figures for the company. Nonetheless, Apple seems poised to
+          introduce the iPhone SE 4, poised to usher in several enhancements.
+          From a contemporary buttonless design to a larger screen, here&apos;s
+          what we know about the upcoming iPhone SE so far.
+        </p>
+        <p>
+          Rumors suggest that the iPhone SE 4 will boast a larger 6.1-inch
+          display, a departure from the iPhone SE 2022&apos;s compact 4.7-inch
+          screen. This shift potentially signals Apple&apos;s move away from
+          phones smaller than 5 inches. Leaked renders by 91mobiles indicate
+          that Apple may also swap the Touch ID button for Face ID
+          authentication, alongside adopting a notch akin to the iPhone 13 and
+          iPhone 14 series.
+        </p>
+        <p>
+          Earlier this month, dummy images of the iPhone SE 4 surfaced courtesy
+          of known tipster Majin Bu on X (formerly Twitter), hinting at wireless
+          charging support via MagSafe and a 6.1-inch OLED screen with FullHD
+          resolution. A report by MacRumors suggests that the iPhone SE 4,
+          codenamed Ghost, could resemble the base model iPhone 14, adopting a
+          modified version of its chassis instead of the curvier edges seen on
+          the iPhone 15 series.
+        </p>
+        <p>
+          While the current-gen iPhone SE runs on Apple&apos;s Bionic A15
+          chipset, debuted with the iPhone 13 series, the iPhone SE 4 is rumored
+          to feature the swifter A16 Bionic, also found in the iPhone 14 Pro and
+          non-pro models of the iPhone 15.
+        </p>
+        <p>
+          As for photography enthusiasts, reports suggest mixed news. While the
+          iPhone SE 4 may retain a single camera setup akin to its predecessor,
+          speculation hints at a potential upgrade to a 48MP sensor, a
+          significant boost from the current iPhone SE 2022&apos;s 12MP shooter.
+          Although earlier suggestions by Majin Bu pointed towards a 12MP
+          ultrawide lens, recent case designs reportedly for the iPhone SE 4
+          suggest a single 48MP camera.
+        </p>
+        <p>
+          Reports indicate that the iPhone SE 4 remains in the early stages of
+          development, with anticipated launch slated for next year. Regarding
+          pricing, expectations suggest a notable increase due to Apple&apos;s
+          inclusion of its latest chipset and implementation of a more modern
+          design alongside Face ID support.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "50-discount-the-best-affordable-alternative-to-original-air-pods",
+    timestamp: "Apr 15, 2024",
+    image: `/technology/apr-15-2024/50-discount-the-best-affordable-alternative-to-original-air-pods.webp`,
+    title: `50% Discount: The Best Affordable Alternative to Original AirPods`,
+    preArticle: `Wireless earbuds today prioritize snug fits, compactness, and features like active noise cancellation (ANC) and transparency mode. However, the concept of totally wireless earbuds (TWS) initially revolved around convenience. The original AirPods and even today's basic models aim to deliver quality a`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          Wireless earbuds today prioritize snug fits, compactness, and features
+          like active noise cancellation (ANC) and transparency mode. However,
+          the concept of totally wireless earbuds (TWS) initially revolved
+          around convenience. The original AirPods and even today&apos;s basic
+          models aim to deliver quality audio in a convenient, user-friendly
+          form factor. With advancing technology, basic TWS are becoming
+          increasingly scarce, especially in budget segments where accommodating
+          additional features can be a luxury. While the latest AirPods (3rd
+          Generation) offer a rich audio experience, their price of nearly Rs
+          18,000 might deter some, pushing consumers to explore alternatives.
+        </p>
+        <p>
+          Enter the Nothing Ear (Stick), released by Carl Pei&apos;s Nothing
+          venture in late 2022. These TWS bear striking resemblance to the OG
+          AirPods in design and functionality, emphasizing convenience and ease
+          of use. Initially criticized for their price of Rs 8,499, the Ear
+          (Stick) TWS have now become available for less than half that amount,
+          selling at around Rs 3,999. At this price, they offer a compelling
+          option for those seeking good, basic TWS with decent audio quality,
+          without unnecessary bells and whistles.
+        </p>
+        <p>
+          The Ear (Stick) TWS boasts an eye-catching design that won the RedDot
+          design award in 2023. Encased in a transparent cylindrical case
+          resembling a lipstick, the buds feature transparent stems with visible
+          circuitry and white bulbous tops. Designed to hang from the ears
+          rather than fit inside them, they prioritize comfort. Weighing just
+          over four grams each, the buds and their 46-gram case are highly
+          portable.
+        </p>
+        <p>
+          With IP54 dust and water resistance, the Ear (Stick) TWS offer
+          protection from splashes of water. Their on-ear design, which allows
+          some sound to pass through, ensures comfortable wear, making them
+          suitable for various activities, including exercise. Performance-wise,
+          these TWS connect via Bluetooth and work seamlessly with both iPhones
+          and Android devices. Powered by 12.6 mm drivers, they deliver good
+          sound quality, with a slightly bass-heavy output. The Nothing X app
+          offers an excellent equalizer, allowing users to customize the audio
+          according to their preferences.
+        </p>
+        <p>
+          Simple controls, centered around pinching and holding the stems of the
+          buds, make operation intuitive. Each bud&apos;s stem features pinch
+          controls, with the left bud controlling volume and the right bud
+          handling playback and call functions. The absence of controls on the
+          buds themselves minimizes displacement during use.
+        </p>
+        <p>
+          While the Ear (Stick) TWS allow some external sound to pass through,
+          they excel in call quality and Bluetooth connectivity. With reliable
+          ear detection, the buds pause and resume audio playback when removed
+          and reinserted. They also boast impressive battery life, offering
+          around seven hours of playback on a single charge and up to 28 hours
+          with the case.
+        </p>
+        <p>
+          Despite lacking ANC and additional features found in higher-priced
+          TWS, the Ear (Stick) TWS offer a blend of smart features and solid
+          performance at an attractive price point. Their recent price reduction
+          enhances their value proposition, making them a compelling choice for
+          consumers seeking hassle-free calls and reliable performance. As
+          rumors circulate about their impending discontinuation, interested
+          buyers may want to act swiftly to secure a pair before they&apos;re
+          gone.
+        </p>
+      </div>
+    ),
+  },
   // apr-07-2024
   {
     id: "stay-tuned-pursuing-the-eclipse-via-jet-aircraft",
@@ -371,178 +515,6 @@ export const technology = [
           addressing the unique needs of various industries. This partnership is
           expected to redefine enterprise connectivity, accelerate digital
           transformation, and contribute to the evolution of Industry 4.0.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "rajeev-chandrasekhar-clarifies-governments-position-on-ai",
-    timestamp: "Mar 05, 2024",
-    image: `/technology/mar-05-2024/rajeev-chandrasekhar-clarifies-governments-position-on-ai.avif`,
-    title: `Rajeev Chandrasekhar Clarifies Government's Position on AI, Describes Advisory as a 'Safety Net' for Companies`,
-    preArticle: `In response to the recent advisory issued by MeitY on March 1, Rajeev Chandrasekhar, the Minister of State for IT, has provided clarifications addressing widespread concerns within the industry. Chandrasekhar highlighted that the advisory specifically pertains to "Significant platforms," clarifying`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          In response to the recent advisory issued by MeitY on March 1, Rajeev
-          Chandrasekhar, the Minister of State for IT, has provided
-          clarifications addressing widespread concerns within the industry.
-        </p>
-        <p>
-          Chandrasekhar highlighted that the advisory specifically pertains to
-          &quot;Significant platforms,&quot; clarifying that startups are exempt
-          from MeitY permission requirements. He stressed that the advisory is
-          focused on &quot;untested AI platforms&quot; intended for deployment
-          on the &quot;Indian Internet.&quot;
-        </p>
-        <div>
-          <blockquote class="twitter-tweet">
-            <p lang="en" dir="ltr">
-              Recent advisory of{" "}
-              <a href="https://twitter.com/GoI_MeitY?ref_src=twsrc%5Etfw">
-                @GoI_MeitY
-              </a>{" "}
-              needs to be understood
-              <br />
-              <br />
-              ➡️Advisory is aimed at the Significant platforms and permission
-              seeking from Meity is only for large plarforms and will not apply
-              to startups.
-              <br />
-              <br />
-              ➡️Advisory is aimed at untested AI platforms from deploying on
-              Indian Internet…
-            </p>
-            &mdash; Rajeev Chandrasekhar 🇮🇳(Modiyude Kutumbam) (@Rajeev_GoI){" "}
-            <a href="https://twitter.com/Rajeev_GoI/status/1764534565715300592?ref_src=twsrc%5Etfw">
-              March 4, 2024
-            </a>
-          </blockquote>{" "}
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-        </div>
-        <p>
-          Moreover, he emphasized the advisory&apos;s role as an &quot;insurance
-          policy&quot; for platforms, offering protection against potential
-          consumer lawsuits. Compliance entails obtaining permission, clearly
-          labeling, and securing user consent for disclosing untested platforms.
-        </p>
-        <p>
-          Chandrasekhar asserted that ensuring the safety and trust of
-          India&apos;s Internet is a collaborative goal among the government,
-          users, and platforms.
-        </p>
-        <p>
-          For context, the Ministry of Electronics and IT, Government of India,
-          issued an advisory on March 1, targeting platforms utilizing
-          generative AI models and algorithms. The advisory mandates explicit
-          government permission for launch in India and compliance with content
-          guidelines to avoid penal consequences.
-        </p>
-        <p>
-          This advisory follows controversy surrounding Google&apos;s Gemini
-          generative AI platform, accused of bias in response to a query about
-          Indian Prime Minister Narendra Modi.
-        </p>
-      </div>
-    ),
-  },
-  {
-    id: "indian-semiconductor-sector-gains-recognition-for-advantages-in-global-value-chain",
-    timestamp: "Mar 05, 2024",
-    image: `/technology/mar-05-2024/indian-semiconductor-sector-gains-recognition-for-advantages-in-global-value-chain.avif`,
-    title: `Indian Semiconductor Sector Gains Recognition for Advantages in Global Value Chain`,
-    preArticle: `The Cabinet recently greenlit three significant semiconductor projects, expected to draw a total investment of Rs 1.26 lakh crore for establishments in Gujarat and Assam. As India aims to broaden its role in the global semiconductor value chains, a report from the Information Technology and Innovati`,
-    article: (
-      <div className="space-y-6">
-        <p>
-          The Cabinet recently greenlit three significant semiconductor
-          projects, expected to draw a total investment of Rs 1.26 lakh crore
-          for establishments in Gujarat and Assam. As India aims to broaden its
-          role in the global semiconductor value chains, a report from the
-          Information Technology and Innovation Foundation (ITIF) titled
-          &quot;Assessing India’s Readiness to Assume a Greater Role in Global
-          Semiconductor Value Chains&quot; underscores the nation&apos;s
-          potential to elevate its presence in the semiconductor industry.
-        </p>
-        <p>
-          The ITIF report suggests that India could establish up to five
-          semiconductor assembly, test, and packaging (ATP) facilities in the
-          next five years, attracting fabs producing legacy semiconductors at 28
-          nm or above. This expansion would leverage India’s significant
-          experience in semiconductor design, currently employing over 125,000
-          workers and constituting 20% of the world’s integrated circuit (IC)
-          design workforce.
-        </p>
-        <p>
-          Despite India producing over 800,000 engineers annually, only a
-          fraction are industry-ready upon graduation, highlighting a global
-          shortage of semiconductor talent. The report stresses the need for
-          improved courses, training, and readiness to bridge this gap and
-          capitalize on India’s engineering talent pool. The semiconductor
-          industry is optimistic about India&apos;s potential, given the
-          interest from major chip companies and supportive policies,
-          anticipating an enhancement of technical capabilities and talent pool
-          expansion.
-        </p>
-        <p>
-          Sanjay Gupta, chairperson of the India Electronics and Semiconductor
-          Association (IESA), highlights the thriving ecosystem in India, where
-          various stakeholders actively engage in electronics, semiconductor,
-          and software sectors. Gupta sees India as a viable alternative in the
-          global semiconductor value chain, citing unique advantages such as
-          demographic profile and scalability compared to logistics and
-          infrastructure strengths in countries like Singapore, Korea, Hong
-          Kong, Japan, and Malaysia.
-        </p>
-        <p>
-          With India projected to remain the world&apos;s youngest country for
-          the next four decades and its scalability potential, Gupta asserts
-          India is poised to become a major player in the semiconductor
-          industry. To address semiconductor manufacturing requirements, he
-          outlines ten critical factors, including uninterrupted utilities,
-          robust logistics, talent access, and government support for clearances
-          and visas. Stable policies and leadership within the government
-          contribute to investor trust and major investments.
-        </p>
-        <p>
-          Gupta emphasizes India&apos;s stable policies and leadership as key
-          factors contributing to investor trust, highlighting the
-          government&apos;s role in policy stability. Discussing the report, he
-          underscores the significance of India’s domestic market in driving
-          semiconductor consumption, projecting substantial growth and potential
-          for a self-sustaining semiconductor industry that reduces dependency
-          on imports, contributing to economic stability.
-        </p>
-        <p>
-          Ashok Chandak, president of IESA, concurs, stating that India&apos;s
-          expanding domestic market, well-developed design ecosystem, supportive
-          government policies, and industry collaboration position it uniquely
-          for semiconductor manufacturing. The report recognizes India&apos;s
-          progress toward becoming a prime destination for electronics and
-          semiconductor manufacturing, capitalizing on a robust semiconductor
-          design ecosystem.
-        </p>
-        <p>
-          While the report informs government efforts in deepening commercial
-          ties between the US and India in the semiconductor sector, it
-          acknowledges companies adopting a “China-plus-one” or “China-plus-two”
-          strategy to enhance supply chain resilience. John Neuffer, president
-          and CEO of Semiconductor Industry Association (SIA), sees this as a
-          crucial moment for the semiconductor industry and strategic
-          cooperation between the US and India. Despite fierce global
-          competition for semiconductor investment, Neuffer acknowledges
-          India&apos;s strong value proposition and the potential to expand its
-          role in the sector.
-        </p>
-        <p>
-          In conclusion, with government support and industry collaboration,
-          India is well-positioned to strengthen its foothold in the global
-          semiconductor value chains. This advancement holds the promise of
-          technological progress and economic growth for the country.
         </p>
       </div>
     ),

@@ -2,6 +2,178 @@ import Image from "next/image";
 
 export const technologyHistory = [
   {
+    id: "rajeev-chandrasekhar-clarifies-governments-position-on-ai",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/rajeev-chandrasekhar-clarifies-governments-position-on-ai.avif`,
+    title: `Rajeev Chandrasekhar Clarifies Government's Position on AI, Describes Advisory as a 'Safety Net' for Companies`,
+    preArticle: `In response to the recent advisory issued by MeitY on March 1, Rajeev Chandrasekhar, the Minister of State for IT, has provided clarifications addressing widespread concerns within the industry. Chandrasekhar highlighted that the advisory specifically pertains to "Significant platforms," clarifying`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          In response to the recent advisory issued by MeitY on March 1, Rajeev
+          Chandrasekhar, the Minister of State for IT, has provided
+          clarifications addressing widespread concerns within the industry.
+        </p>
+        <p>
+          Chandrasekhar highlighted that the advisory specifically pertains to
+          &quot;Significant platforms,&quot; clarifying that startups are exempt
+          from MeitY permission requirements. He stressed that the advisory is
+          focused on &quot;untested AI platforms&quot; intended for deployment
+          on the &quot;Indian Internet.&quot;
+        </p>
+        <div>
+          <blockquote class="twitter-tweet">
+            <p lang="en" dir="ltr">
+              Recent advisory of{" "}
+              <a href="https://twitter.com/GoI_MeitY?ref_src=twsrc%5Etfw">
+                @GoI_MeitY
+              </a>{" "}
+              needs to be understood
+              <br />
+              <br />
+              ➡️Advisory is aimed at the Significant platforms and permission
+              seeking from Meity is only for large plarforms and will not apply
+              to startups.
+              <br />
+              <br />
+              ➡️Advisory is aimed at untested AI platforms from deploying on
+              Indian Internet…
+            </p>
+            &mdash; Rajeev Chandrasekhar 🇮🇳(Modiyude Kutumbam) (@Rajeev_GoI){" "}
+            <a href="https://twitter.com/Rajeev_GoI/status/1764534565715300592?ref_src=twsrc%5Etfw">
+              March 4, 2024
+            </a>
+          </blockquote>{" "}
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+        </div>
+        <p>
+          Moreover, he emphasized the advisory&apos;s role as an &quot;insurance
+          policy&quot; for platforms, offering protection against potential
+          consumer lawsuits. Compliance entails obtaining permission, clearly
+          labeling, and securing user consent for disclosing untested platforms.
+        </p>
+        <p>
+          Chandrasekhar asserted that ensuring the safety and trust of
+          India&apos;s Internet is a collaborative goal among the government,
+          users, and platforms.
+        </p>
+        <p>
+          For context, the Ministry of Electronics and IT, Government of India,
+          issued an advisory on March 1, targeting platforms utilizing
+          generative AI models and algorithms. The advisory mandates explicit
+          government permission for launch in India and compliance with content
+          guidelines to avoid penal consequences.
+        </p>
+        <p>
+          This advisory follows controversy surrounding Google&apos;s Gemini
+          generative AI platform, accused of bias in response to a query about
+          Indian Prime Minister Narendra Modi.
+        </p>
+      </div>
+    ),
+  },
+  {
+    id: "indian-semiconductor-sector-gains-recognition-for-advantages-in-global-value-chain",
+    timestamp: "Mar 05, 2024",
+    image: `/technology/mar-05-2024/indian-semiconductor-sector-gains-recognition-for-advantages-in-global-value-chain.avif`,
+    title: `Indian Semiconductor Sector Gains Recognition for Advantages in Global Value Chain`,
+    preArticle: `The Cabinet recently greenlit three significant semiconductor projects, expected to draw a total investment of Rs 1.26 lakh crore for establishments in Gujarat and Assam. As India aims to broaden its role in the global semiconductor value chains, a report from the Information Technology and Innovati`,
+    article: (
+      <div className="space-y-6">
+        <p>
+          The Cabinet recently greenlit three significant semiconductor
+          projects, expected to draw a total investment of Rs 1.26 lakh crore
+          for establishments in Gujarat and Assam. As India aims to broaden its
+          role in the global semiconductor value chains, a report from the
+          Information Technology and Innovation Foundation (ITIF) titled
+          &quot;Assessing India’s Readiness to Assume a Greater Role in Global
+          Semiconductor Value Chains&quot; underscores the nation&apos;s
+          potential to elevate its presence in the semiconductor industry.
+        </p>
+        <p>
+          The ITIF report suggests that India could establish up to five
+          semiconductor assembly, test, and packaging (ATP) facilities in the
+          next five years, attracting fabs producing legacy semiconductors at 28
+          nm or above. This expansion would leverage India’s significant
+          experience in semiconductor design, currently employing over 125,000
+          workers and constituting 20% of the world’s integrated circuit (IC)
+          design workforce.
+        </p>
+        <p>
+          Despite India producing over 800,000 engineers annually, only a
+          fraction are industry-ready upon graduation, highlighting a global
+          shortage of semiconductor talent. The report stresses the need for
+          improved courses, training, and readiness to bridge this gap and
+          capitalize on India’s engineering talent pool. The semiconductor
+          industry is optimistic about India&apos;s potential, given the
+          interest from major chip companies and supportive policies,
+          anticipating an enhancement of technical capabilities and talent pool
+          expansion.
+        </p>
+        <p>
+          Sanjay Gupta, chairperson of the India Electronics and Semiconductor
+          Association (IESA), highlights the thriving ecosystem in India, where
+          various stakeholders actively engage in electronics, semiconductor,
+          and software sectors. Gupta sees India as a viable alternative in the
+          global semiconductor value chain, citing unique advantages such as
+          demographic profile and scalability compared to logistics and
+          infrastructure strengths in countries like Singapore, Korea, Hong
+          Kong, Japan, and Malaysia.
+        </p>
+        <p>
+          With India projected to remain the world&apos;s youngest country for
+          the next four decades and its scalability potential, Gupta asserts
+          India is poised to become a major player in the semiconductor
+          industry. To address semiconductor manufacturing requirements, he
+          outlines ten critical factors, including uninterrupted utilities,
+          robust logistics, talent access, and government support for clearances
+          and visas. Stable policies and leadership within the government
+          contribute to investor trust and major investments.
+        </p>
+        <p>
+          Gupta emphasizes India&apos;s stable policies and leadership as key
+          factors contributing to investor trust, highlighting the
+          government&apos;s role in policy stability. Discussing the report, he
+          underscores the significance of India’s domestic market in driving
+          semiconductor consumption, projecting substantial growth and potential
+          for a self-sustaining semiconductor industry that reduces dependency
+          on imports, contributing to economic stability.
+        </p>
+        <p>
+          Ashok Chandak, president of IESA, concurs, stating that India&apos;s
+          expanding domestic market, well-developed design ecosystem, supportive
+          government policies, and industry collaboration position it uniquely
+          for semiconductor manufacturing. The report recognizes India&apos;s
+          progress toward becoming a prime destination for electronics and
+          semiconductor manufacturing, capitalizing on a robust semiconductor
+          design ecosystem.
+        </p>
+        <p>
+          While the report informs government efforts in deepening commercial
+          ties between the US and India in the semiconductor sector, it
+          acknowledges companies adopting a “China-plus-one” or “China-plus-two”
+          strategy to enhance supply chain resilience. John Neuffer, president
+          and CEO of Semiconductor Industry Association (SIA), sees this as a
+          crucial moment for the semiconductor industry and strategic
+          cooperation between the US and India. Despite fierce global
+          competition for semiconductor investment, Neuffer acknowledges
+          India&apos;s strong value proposition and the potential to expand its
+          role in the sector.
+        </p>
+        <p>
+          In conclusion, with government support and industry collaboration,
+          India is well-positioned to strengthen its foothold in the global
+          semiconductor value chains. This advancement holds the promise of
+          technological progress and economic growth for the country.
+        </p>
+      </div>
+    ),
+  },
+  {
     id: "google-drive-simplifies-file-search-on-ios-app",
     timestamp: "Mar 05, 2024",
     image: `/technology/mar-05-2024/google-drive-simplifies-file-search-on-ios-app.jpg`,
